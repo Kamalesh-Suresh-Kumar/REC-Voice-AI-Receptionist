@@ -123,3 +123,36 @@ class VectorStore:
         """
 
         return self.collection.count()
+        
+    def reset(self) -> None:
+        """
+        Delete and recreate the knowledge-base collection.
+        Used when rebuilding the entire vector index.
+        """
+
+        collection_name = self.collection.name
+
+        print(
+            f"[VECTORSTORE] Resetting collection: "
+            f"{collection_name}"
+        )
+
+        self.client.delete_collection(
+            name=collection_name
+        )
+
+        self.collection = (
+            self.client.get_or_create_collection(
+                name=collection_name,
+                metadata={
+                    "description": (
+                        "REC institutional "
+                        "knowledge base"
+                    )
+                },
+            )
+        )
+
+        print(
+            "[VECTORSTORE] Collection reset complete."
+        )

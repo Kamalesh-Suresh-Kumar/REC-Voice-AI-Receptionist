@@ -39,40 +39,57 @@ class Retriever:
 
         k = top_k or self.top_k
 
-        # Convert query into the same embedding space
-        # used when documents were indexed.
+        # --------------------------------------------------
+        # 1. Semantic vector search
+        # --------------------------------------------------
+
         query_embedding = self.embedding_model.encode(
             [query]
         )[0]
 
+        # Retrieve more candidates than we finally return.
+        candidate_k = max(k * 4, 20)
+
         results = self.vector_store.search(
             query_embedding=query_embedding,
-            top_k=k,
+            top_k=candidate_k,
         )
 
         documents_raw = results.get("documents")
         metadatas_raw = results.get("metadatas")
         distances_raw = results.get("distances")
-        
+
         documents = (
-        documents_raw[0]
-        if documents_raw
-        else []
-    )
+            documents_raw[0]
+            if documents_raw
+            else []
+        )
 
         metadatas = (
-        metadatas_raw[0]
-        if metadatas_raw
-        else []
-    )
+            metadatas_raw[0]
+            if metadatas_raw
+            else []
+        )
 
         distances = (
-        distances_raw[0]
-        if distances_raw
-        else []
-    )
+            distances_raw[0]
+            if distances_raw
+            else []
+        )
 
         retrieved: list[dict[str, Any]] = []
+
+        # Normalize query for exact phrase matching.
+        query_normalized = " ".join(
+            query.lower().split()
+        )
+
+        # Useful terms for exact matching.
+        query_terms = [
+            term.strip(".,?!:;()[]{}\"'")
+            for term in query_normalized.split()
+            if len(term.strip(".,?!:;()[]{}\"'")) >= 3
+        ]
 
         for index, document in enumerate(documents):
 
@@ -88,16 +105,100 @@ class Retriever:
                 else None
             )
 
+            text = document or ""
+            text_normalized = " ".join(
+                text.lower().split()
+            )
+
+            # --------------------------------------------------
+            # 2. Exact-match scoring
+            # --------------------------------------------------
+
+            exact_score = 0.0
+
+            # Exact full-query phrase.
+            if query_normalized in text_normalized:
+                exact_score += 10.0
+
+            # Count matching query terms.
+            if query_terms:
+                matching_terms = sum(
+                    1
+                    for term in query_terms
+                    if term in text_normalized
+                )
+
+                exact_score += (
+                    matching_terms / len(query_terms)
+                ) * 3.0
+
+            # --------------------------------------------------
+            # 3. Course-name detection
+            # --------------------------------------------------
+
+            course_keywords = [
+                "theory of computation",
+                "discrete mathematical structures",
+                "problem solving and python programming",
+                "digital logic and microprocessor",
+                "data structures",
+                "operating systems",
+                "computer networks",
+                "database management systems",
+            ]
+
+            for course_name in course_keywords:
+
+                if course_name in query_normalized:
+
+                    if course_name in text_normalized:
+                        exact_score += 15.0
+
             retrieved.append(
                 {
-                    "text": document,
+                    "text": text,
                     "metadata": metadata or {},
                     "distance": distance,
+                    "exact_score": exact_score,
                 }
             )
 
-        return retrieved
-    
+        # --------------------------------------------------
+        # 4. Combined ranking
+        # --------------------------------------------------
+
+        def ranking_score(
+            item: dict[str, Any],
+        ) -> float:
+
+            distance = item.get("distance")
+
+            if distance is None:
+                distance_score = 0.0
+            else:
+                # Smaller Chroma distance = better.
+                distance_score = -float(distance)
+
+            exact_score = float(
+                item.get("exact_score", 0.0)
+            )
+
+            return (
+                exact_score
+                + distance_score
+            )
+
+        retrieved.sort(
+            key=ranking_score,
+            reverse=True,
+        )
+
+        # --------------------------------------------------
+        # 5. Return final results
+        # --------------------------------------------------
+
+        return retrieved[:k]
+
     def search_multiple(
     self,
     queries: list[str],
