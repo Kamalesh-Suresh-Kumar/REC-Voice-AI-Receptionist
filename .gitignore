@@ -26,3 +26,6 @@ data/processed/
 # Testing
 .pytest_cache/
 .mypy_cache/
+
+# Source Code
+REC-Voice-AI-Receptionist/
