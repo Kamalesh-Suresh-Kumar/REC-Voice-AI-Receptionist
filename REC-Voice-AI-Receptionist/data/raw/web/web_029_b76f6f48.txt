@@ -1,0 +1,47 @@
+TITLE: Helpdesk | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/helpdesk
+SOURCE_TYPE: website
+
+Helpdesk
+Section & Level
+Admission
+Hostel & Mess
+Transport
+Department
+Controller of Examination
+Scholarship
+Level 1
+Administrative Officer
+Deputy Warden
+Transport Supervisor
+Faculty Counsellor
+HOD
+Admin Assistant
+Level 2
+Senior Administrative Officer
+Hostel Manager
+Transport Manager
+Class Teacher
+Additional - COE
+Administrative Officer
+Level 3
+Director - Admissions
+Dean - Student Affairs
+Dean - Student Affairs
+HOD
+COE
+Senior Administrative Officer
+Level 4
+Vice Principal
+Vice Principal
+Vice Principal
+Vice Principal
+Vice Principal
+Vice Principal
+Level 5
+Principal
+Principal
+Principal
+Principal
+Principal
+Principal

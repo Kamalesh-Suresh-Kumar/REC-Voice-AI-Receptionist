@@ -1,0 +1,8 @@
+TITLE: Computer Science & Design | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/csd
+SOURCE_TYPE: website
+
+Introduction
+With web extending in all circles of life, and most ventures expanding their web or mobile presence and intelligence with their partners and clients, demand for incorporating good design using rich media is increasing in all businesses. With increasing focus on user experience, the significance of Interaction Design and Design Methods is additionally expanding quickly in IT products and services.
+Computer Science and Design (CSD) aims to develop graduates that are well versed with computing approaches, tools, and technologies, but are also experienced with Design approaches. The program will prepare students to work in the IT industry as well as digital design & media industry like gaming, animation, virtual/augmented reality, user interfaces etc., as well as allow students to take up higher studies in CS or in Design.
+Updated on 19.08.2026

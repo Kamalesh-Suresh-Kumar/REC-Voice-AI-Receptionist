@@ -1,0 +1,22 @@
+REC AI RECEPTIONIST
+RAG EVALUATION SUMMARY
+==================================================
+
+Total test questions : 20
+Normal questions     : 18
+Negative questions   : 2
+
+Retrieval Hit@5      : 100.00%
+Answer Accuracy      : 94.44%
+Refusal Accuracy     : 100.00%
+
+Evaluation source:
+C:\Users\kamal\OneDrive\Desktop\Final year project\REC-Voice-AI-Receptionist\backend\evaluation_results\rag_evaluation_results.csv
+
+Generated visualizations:
+1. overall_accuracy.png
+2. question_wise_accuracy.png
+3. category_accuracy.png
+
+Generated numerical result:
+4. evaluation_metrics.csv

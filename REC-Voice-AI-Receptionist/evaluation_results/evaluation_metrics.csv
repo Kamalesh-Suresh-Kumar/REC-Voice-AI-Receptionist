@@ -1,0 +1,5 @@
+metric,accuracy_percent,sample_count
+Retrieval Hit@5,100.0,18
+Answer Accuracy,94.44444444444444,18
+Refusal Accuracy,100.0,2
+Overall Test Questions,,20

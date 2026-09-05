@@ -1,0 +1,13 @@
+beautifulsoup4==4.15.0
+chromadb==1.5.9
+faster_whisper==1.2.1
+fitz==0.0.0
+matplotlib==3.11.1
+ollama==0.6.2
+pandas==3.0.5
+Pillow==12.3.0
+piper_tts==1.7.0
+pytesseract==0.3.13
+Requests==2.34.2
+sentence_transformers==6.0.0
+webrtcvad_wheels==2.0.14

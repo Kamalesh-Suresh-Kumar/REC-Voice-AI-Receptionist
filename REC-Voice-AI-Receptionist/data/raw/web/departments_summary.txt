@@ -1,0 +1,25 @@
+TITLE: Departments at Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/
+
+Rajalakshmi Engineering College has the following departments:
+
+1. Aeronautical Engineering
+2. Automobile Engineering
+3. Biomedical Engineering
+4. Biotechnology
+5. Chemical Engineering
+6. Civil Engineering
+7. Computer Science and Engineering
+8. Computer Science and Engineering (Cyber Security)
+9. Computer Science and Business Systems
+10. Computer Science and Design
+11. Electrical and Electronics Engineering
+12. Electronics and Communication Engineering
+13. Food Technology
+14. Artificial Intelligence and Data Science
+15. Artificial Intelligence and Machine Learning
+16. Mechanical Engineering
+17. Mechatronics Engineering
+18. Robotics and Automation
+19. Information Technology
+20. Humanities and Sciences

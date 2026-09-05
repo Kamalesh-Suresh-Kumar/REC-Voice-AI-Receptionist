@@ -1,0 +1,18 @@
+TITLE: Robotics & Automation | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/ra
+SOURCE_TYPE: website
+
+Introduction
+Programmes Offered
+UG - B.E. Robotics and Automation
+Department of Robotics and Automation is introduced from the Academic Year 2020-21.
+B.E. Robotics and Automation addresses the needs of industries to equip their facilities effectively to face global competition as the current trend is towards digital manufacturing and industry 4.0. Outperforming competitors requires every manufacturing company to reduce the manufacturing cost and lead time of their products by implementing new technologies and hence automation is needed in every stage of manufacturing.
+Robot is a reprogrammable, multifunctional machine which is widely used in all fields such as Material handling, Welding, Machine Tool Tending, Palletization and De-Palletizing, Assembly, Rescuing humans and performing surgery etc. The demand for industrial robots has accelerated considerably due to the ongoing trend toward automation and continued innovative technical improvements in industrial robots. This program teaches subjects such has automated system design, robot kinematics and dynamics, motion planning, Artificial Intelligence, machine vision, Industrial Automation and Control.
+The students will be able to improve the performance of manufacturing and production system by implementing the latest technological advancements.
+Vision
+To be a department of excellence in academics, research and technological advancement in Robotics and Automation with a concern for society.
+Mission
+To produce successful professional in Robotics and Automation by imparting high technical knowledge, strong fundamentals, practical skills and creative knowledge.
+To foster the students by inculcating leadership qualities to become successful Engineer.
+To inculcate the entrepreneurial qualities for creating, developing and managing global engineering ventures
+Updated on 31.05.2026

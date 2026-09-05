@@ -1,0 +1,14 @@
+TITLE: Computer Science & Engineering (Cyber Security) | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/csecs
+SOURCE_TYPE: website
+
+Introduction
+UG- B.E. Computer Science and Engineering (Cyber Security)
+Cyber Security program is introduced from the Academic year 2023-2024.
+Vision
+To promote highly ethical and innovative cybersecurity professionals through excellence in teaching, training, and research.
+Mission
+To produce globally competent cybersecurity experts, motivated to learn emerging technologies and innovate in solving real-world security challenges.
+To foster research activities among students and faculty that enhance societal security and resilience.
+To impart moral and ethical values in their profession, ensuring a strong commitment to cybersecurity ethics and responsible practices.
+Updated on 13.08.2026

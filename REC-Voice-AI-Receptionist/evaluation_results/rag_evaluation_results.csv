@@ -1,0 +1,46 @@
+id,category,question,retrieval_correct,answer,answer_correct,time_seconds
+1,Curriculum,What is the subject code for Database Management Systems?,YES,The subject code for Database Management Systems is CS23332.,YES,8.59
+2,Curriculum,What is the subject code for Computer Networks?,YES,The subject code for Computer Networks is CS23532.,YES,8.92
+3,Curriculum,What concepts are covered in Database Management Systems?,YES,"Based on the curriculum information, the Database Management Systems course (CS23332) covers several key concepts including:
+
+- Purpose of database systems and database architecture
+- Database schema and keys
+- Codd's rules
+- Relational database management systems (RDBMS)
+- SQL queries and data definition
+- Logical database design principles (E-R diagrams, Relational Algebra, Tuple Relational calculus)
+- Functional dependencies and normalization
+- Database transactions (concurrency control, backup and recovery, data object locking, and deadlock handling)
+- Foundation for NoSQL technologies
+
+The course also includes practical implementation of database queries and systems through hands-on projects.",YES,21.09
+4,Curriculum,What is the duration of the B.E. or B.Tech programme?,YES,"According to the regulations, a student is ordinarily expected to complete the B.E./B.Tech. Programme in 8 semesters (four academic years) but in any case not more than 14 semesters for HSC (or equivalent) students.",YES,11.30
+5,Curriculum,How many working days does each semester normally have?,YES,"According to the regulations, each semester shall normally consist of 90 working days.",YES,6.70
+6,Regulations,What is the minimum attendance required for a course?,YES,"The minimum attendance required for a course is 75% (after rounding off to the nearest integer). This is the standard requirement for students to be permitted to write end semester examinations for that course. However, students with medical reasons (prolonged hospitalization, accident, specific illness) or participation in sports events may be permitted to appear with attendance between 65% and 74% if they submit the appropriate medical or sports participation certificate approved by the Dean-Academics.",YES,13.94
+7,Regulations,What happens when attendance is between 65% and 74%?,YES,"If a student has medical reasons (like prolonged hospitalization, accident, or specific illness) or participates in sports events and their attendance is between 65% and 74%, they may be permitted to appear for the current semester examinations by submitting the medical certificate or sports participation certificate approved by the Dean-Academics. This concession can be used for a maximum of two semesters during their entire course of study.",YES,27.74
+8,Regulations,How many semesters can attendance concession be availed?,YES,"According to the regulations, attendance concession can be availed for any two semesters during the entire course of study. This is specified in clause 7.2 of the REC 2023-UG Regulations, which states: ""This concession can be availed only for any two semesters during the entire course of study.""",YES,17.16
+9,Regulations,What happens if a student does not satisfy the attendance requirements?,YES,"If a student does not satisfy the attendance requirements, they will not be permitted to write the End Semester Examination of that course. They are required to redo the course in a subsequent semester when the course is offered next. This student will receive a grade of ""SA"" (Shortage of Attendance) which appears in their result sheet, and they must appear for the End Semester Examinations for that course.",YES,15.05
+10,Regulations,What is the maximum number of courses that can be added or dropped in a semester?,YES,"According to the REC 2023-UG Regulations, the maximum number of courses that can be added or dropped in a semester is limited to 2 courses.",YES,6.85
+11,Regulations,What is the medium of instruction at Rajalakshmi Engineering College?,YES,"The medium of instruction at Rajalakshmi Engineering College is English only for all B.E., B.Tech., M.E., M.Tech., and MBA programs since inception (1997).",YES,10.13
+12,Regulations,What is the prescribed range of total credits for each B.E./B.Tech. degree programme?,YES,"According to the regulations, the prescribed range of total credits for each B.E./B.Tech. degree programme is 160-165.",YES,9.62
+13,Regulations,What is the maximum duration for completing the B.E. or B.Tech programme for HSC students?,YES,"According to the REC 2023-UG Regulations, the maximum duration for completing the B.E. or B.Tech programme for HSC (or equivalent) students is not more than 14 semesters. This is stated in section 5.1 of the regulations.",YES,10.89
+14,Regulations,How many semesters is a B.E. or B.Tech programme normally completed in?,YES,A B.E. or B.Tech programme is normally completed in 8 semesters (four academic years) as per the regulations.,YES,10.10
+15,Regulations,What courses can a student register for from the second semester onwards?,YES,"From the second semester onwards, a student can register for:
+
+1. Courses of the current semester (including Professional/Open elective courses and Mandatory non-credit courses, Minor/Honours Degree courses)
+2. Courses in which they were not permitted to appear for end semester examinations in earlier semesters (due to lack of attendance), if offered in that semester (subject to a maximum of 36 credits including current semester subjects)
+3. Reappearance courses for courses failed in earlier semesters
+4. Professional or Open elective courses newly opted by students in lieu of courses they failed
+
+Additionally, students from II to VII semesters can drop courses listed in a semester, and students who have cleared all courses up to IV semester in the first attempt can study courses from VI, VII and VIII semesters (except project work).",YES,24.65
+16,Regulations,When does course enrollment for semesters II to VIII commence?,YES,"According to the regulations, course enrollment for semesters II to VIII commences 10 working days prior to the last working day of the preceding semester.",YES,7.23
+17,Curriculum,What subject is associated with CS23332?,YES,Database Management Systems,YES,8.10
+18,Curriculum,What does Database Management Systems cover regarding database design?,YES,"Based on the curriculum information, Database Management Systems (CS23332) covers database design through several key areas:
+
+The course includes logical database design principles such as Entity Relationship Diagrams (ERD), Relational Algebra, and Tuple Relational Calculus. It also covers functional dependencies, normalization processes (including 1NF, 2NF, 3NF, and BCNF), and the mapping of ER models to relational models.
+
+Additionally, the course addresses design issues in ER modeling, extended ER features, and how to implement optimized schemas and data models while understanding the role of indexing and normalization in database design processes.
+
+The course objectives specifically mention applying these design principles and understanding the importance of functional dependencies and normalization in the database design process.",YES,19.21
+19,Negative,What is the weather today in Chennai?,NO,"I'm sorry, I don't have enough information to answer that. Please contact reception.",YES,10.84
+20,Negative,What is the salary of the CSE faculty?,NO,"I'm sorry, I don't have enough information to answer that. Please contact reception.",YES,11.27

@@ -1,0 +1,11 @@
+test_id,question,stt_seconds,rag_seconds,llm_seconds,tts_seconds,total_seconds
+1,What should a student do if they fail a course from an earlier semester?,0.355,0.14,21.597,6.096,28.191
+2,Can I register for a subject that I could not attend the examination for previously?,0.182,0.021,23.305,9.241,32.763
+3,"If I successfully complete my earlier semesters, can I take subjects that normally belong to a higher semester?",0.867,0.431,14.641,0.699,16.67
+4,What happens to my academic record if I have an attendance shortage?,0.156,0.022,19.707,0.871,20.76
+5,"If I have a medical emergency, what documentation might the college require?",0.161,0.023,12.904,0.774,13.867
+6,How early should I complete my registration before the previous semester ends?,0.146,0.019,18.765,0.558,19.491
+7,Can I replace a failed elective with another elective?,0.158,0.022,15.86,0.921,16.965
+8,What are some of the main areas covered in the database course?,0.155,0.026,16.06,2.12,18.366
+9,What is the normal academic duration of an undergraduate engineering degree here?,0.151,0.022,28.68,0.244,29.099
+10,Are academic reports and examinations conducted in English?,0.156,0.023,13.989,3.107,17.287

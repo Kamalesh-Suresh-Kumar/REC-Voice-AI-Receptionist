@@ -1,0 +1,45 @@
+TITLE: Admissions | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/admissions
+SOURCE_TYPE: website
+
+Programmes Offered
+Programmes Offered and Approved Intake
+Under Graduate
+B.E. Aeronautical Engineering
+B.E. Automobile Engineering
+B.E. BioMedical Engineering
+B.E. Civil Engineering
+B.E. Computer Science & Design
+B.E. Computer Science & Engineering
+B.E. Computer Science & Engineering (Cyber Security)
+B.E. Electrical & Electronics Engineering
+B.E. Electronics & Communication Engineering
+B.E. Mechanical Engineering
+B.E. Mechatronics Engineering
+B.E. Robotics and Automation
+B.Tech. Artificial Intelligence & Data Science
+B.Tech. Artificial Intelligence & Machine Learning
+B.Tech. Bio Technology
+B.Tech. Chemical Engineering
+B.Tech. Computer Science and Business Systems
+B.Tech. Food Technology
+B.Tech. Information Technology
+Post Graduate
+M.E. Avionics
+M.E. Communication Systems
+M.E. Engineering Design
+M.E. Embedded System Technologies
+M.E. Medical Electronics
+M.E. Computer Science & Engineering
+M.Tech. Bio-Technology
+M.Tech. Data Science
+M.B.A. Master of Business Administration (2 years)
+Ph.D.
+Biotechnology
+Biomedical Engineering
+Chemistry
+Computer Science and Engineering
+Electronics and Communication Engineering
+Electrical and Electronics Engineering
+Mathematics
+Mechanical Engineering
