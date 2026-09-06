@@ -729,16 +729,16 @@ visualize_results.py
 
 ## Installation
 
-1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Kamalesh-Suresh-Kumar/REC-Voice-AI-Receptionist.git
-cd REC-Voice-AI-Receptionist
+cd REC-Voice-AI-Receptionist/REC-Voice-AI-Receptionist
 ```
 
 ---
 
-2. Create a Python Virtual Environment
+### 2. Create a Python Virtual Environment
 
 Windows PowerShell:
 
@@ -749,7 +749,7 @@ python -m venv .venv
 
 ---
 
-3. Install Python Dependencies
+### 3. Install Python Dependencies
 
 ```powershell
 python -m pip install -r requirements.txt
