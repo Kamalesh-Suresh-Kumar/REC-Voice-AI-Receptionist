@@ -17,21 +17,19 @@ import pandas as pd
 # app
 #     ↓
 # backend
+#     ↓
+# PROJECT ROOT
 #
-# parents[2] = backend
+# parents[3] = project root
 
-BACKEND_ROOT = Path(__file__).resolve().parents[2]
+PROJECT_ROOT = Path(__file__).resolve().parents[3]
 
-# Evaluation results are stored inside backend/evaluation_results
-EVALUATION_DIR = (
-    BACKEND_ROOT
-    / "evaluation_results"
-)
+# Evaluation results are stored at:
+# REC-Voice-AI-Receptionist/evaluation_results
 
-CSV_FILE = (
-    EVALUATION_DIR
-    / "rag_evaluation_results.csv"
-)
+EVALUATION_DIR = PROJECT_ROOT / "evaluation_results"
+
+CSV_FILE = EVALUATION_DIR / "rag_evaluation_results.csv"
 
 OUTPUT_DIR = EVALUATION_DIR
 
@@ -454,7 +452,7 @@ def create_question_chart(
     )
 
     ax.set_title(
-        "Question-wise Evaluation Performance",
+        "Normal Query Evaluation Performance",
         fontsize=16,
         fontweight="bold",
     )
