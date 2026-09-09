@@ -830,7 +830,6 @@ From the `backend` directory:
 
 ```powershell
 cd backend
-$env:PYTHONPATH="$PWD"
 python -m app.ingestion.pipeline
 ```
 
@@ -849,7 +848,7 @@ backend/
 run:
 
 ```powershell
-$env:PYTHONPATH="$PWD"; python .\app\telephony\audio_gateway.py
+python .\app\telephony\audio_gateway.py
 ```
 
 The Python gateway will load the required AI services and listen for the Asterisk AudioSocket connection.
@@ -861,7 +860,7 @@ The Python gateway will load the required AI services and listen for the Asteris
 From the `backend` directory:
 
 ```powershell
-$env:PYTHONPATH="$PWD"; python .\app\evaluation\evaluate_rag.py
+python .\app\evaluation\evaluate_rag.py
 ```
 
 ---
@@ -871,7 +870,7 @@ $env:PYTHONPATH="$PWD"; python .\app\evaluation\evaluate_rag.py
 From the `backend` directory:
 
 ```powershell
-$env:PYTHONPATH="$PWD"; python .\app\evaluation\evaluate_voice_latency.py
+python .\app\evaluation\evaluate_voice_latency.py
 ```
 
 The results are written to the evaluation results directory and can be used to analyze STT, RAG, LLM, TTS, and total processing latency.
