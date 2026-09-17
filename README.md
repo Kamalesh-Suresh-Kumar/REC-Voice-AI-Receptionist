@@ -1,10 +1,10 @@
 # REC-Voice-AI-Receptionist
 
-A **Voice-Based AI Receptionist for Smart College Communication** developed as a final-year project at **Rajalakshmi Engineering College**.
+**An AI-Powered Voice Receptionist Framework for Smart Campus Communication and Information Access** developed as a final-year project at **Rajalakshmi Engineering College**.
 
 The system combines **Speech Recognition, Retrieval-Augmented Generation (RAG), Large Language Models, Text-to-Speech, and SIP-based Telephony** to automatically answer institutional queries through voice calls.
 
-The project is designed in two phases:
+The project is developed in two phases:
 
 - **Phase 1:** AI receptionist for publicly available college information.
 - **Phase 2:** Agentic AI extension for authenticated student-specific queries, DigiCampus/API integration, and human receptionist escalation.
@@ -13,8 +13,8 @@ The project is designed in two phases:
 
 ## Authors
 
-1. **Akash N** - 230701019
-2. **Kamalesh S P** - 230701138
+1. **Kamalesh S P** - 230701138
+2. **Akash N** - 230701019
 3. **Subramani A** - 230701347
 4. **Guru Raja T** - 230701502
 
@@ -70,7 +70,7 @@ ChromaDB
 Ollama
         │
         ▼
-Qwen3:4B
+Gemma 3:4B
         │
         ▼
 Piper TTS
@@ -105,7 +105,7 @@ Phase 1 implements a complete voice-based AI receptionist for answering publicly
 - Sentence Transformer embeddings
 - ChromaDB vector database
 - Locally hosted LLM using Ollama
-- Qwen3:4B response generation
+- Gemma 3:4B response generation
 - Piper Text-to-Speech
 - Context-grounded institutional responses
 - Out-of-scope query refusal
@@ -126,7 +126,7 @@ When a caller interacts with the system:
 6. Faster-Whisper converts the speech into text.
 7. The transcribed query is passed to the RAG pipeline.
 8. Relevant institutional information is retrieved from ChromaDB.
-9. Retrieved information is supplied as context to Qwen3:4B through Ollama.
+9. Retrieved information is supplied as context to Gemma 3:4B through Ollama.
 10. The LLM generates a knowledge-grounded response.
 11. Piper TTS converts the response into speech.
 12. The generated audio is converted to telephony-compatible 8 kHz PCM.
@@ -151,7 +151,7 @@ When a caller interacts with the system:
 | Embeddings               | Sentence Transformers      |
 | Vector Database          | ChromaDB                   |
 | LLM Runtime              | Ollama                     |
-| Large Language Model     | Qwen3:4B                   |
+| Large Language Model     | Gemma 3:4B                 |
 | Text-to-Speech           | Piper TTS                  |
 | TTS Voice                | en_US-lessac-medium        |
 | Web Scraping             | Requests + BeautifulSoup   |
@@ -250,7 +250,7 @@ Relevance Reranking
 Retrieved Context
       │
       ▼
-Qwen3:4B
+Gemma 3:4B
       │
       ▼
 Grounded Response
@@ -292,7 +292,7 @@ The project uses:
 ```test
 Ollama
    +
-Qwen3:4B
+Gemma 3:4B
 ```
 
 The LLM runs locally during Phase 1.
@@ -366,18 +366,36 @@ The test set consisted of:
 
 ### Evaluation Results
 
-| Metric            | Result |
-| ----------------- | ------ |
-| Normal Queries    |     18 |
-| Retrieval Correct |  18/18 |
-| Hit@5             |   100% |
-| Answer Correct    |  18/18 |
-| Answer Accuracy   |   100% |
-| Negative Queries  |      2 |
-| Correct Refusals  |    2/2 |
-| Refusal Accuracy  |   100% |
+The direct RAG evaluation was conducted using **18 answerable institutional queries and 2 unsupported queries**.
 
-The system achieved **100% retrieval Hit@5, answer accuracy, and refusal accuracy on the defined Phase 1 evaluation dataset**.
+| Metric                    | Result  |
+| ------------------------- | ------- |
+| Answerable Queries        | 18      |
+| Retrieval Hit@5           | 100.00% |
+| Answer Accuracy           | 100.00% |
+| Unsupported Queries       | 2       |
+| Negative Refusal Accuracy | 100.00% |
+
+The system achieved **100.00% Retrieval Hit@5, 100.00% Answer Accuracy, and 100.00% Negative Refusal Accuracy** on the defined evaluation dataset.
+
+In addition to the direct RAG evaluation, the system was evaluated using **RAGAS** and an **ARES-inspired evaluation** to assess retrieval and response quality from complementary perspectives.
+
+### RAGAS Evaluation
+
+| Metric                    | Score   |
+| ------------------------- | ------- |
+| Faithfulness              | 95.37%  |
+| Answer Relevancy          | 54.33%  |
+| Context Precision         | 92.31%  |
+| Context Recall            | 100.00% |
+
+### ARES-Inspired Evaluation
+
+| Metric                    | Score  |
+| ------------------------- | ------ |
+| Context Relevance         | 89.44% |
+| Answer Faithfulness       | 95.83% |
+| Answer Relevance          | 82.22% |
 
 These results represent performance on the evaluated test set and should not be interpreted as universal accuracy across all possible queries.
 
@@ -391,13 +409,13 @@ A separate evaluation measures the processing latency of the major AI components
 
 | Component               | Average Time |
 | ----------------------- | ------------ |
-| STT                     |       0.25 s |
-| RAG                     |       0.07 s |
-| LLM                     |      18.55 s |
-| TTS                     |       2.46 s |
-| **Total AI Processing** |  **21.35 s** |
+| STT                     |      0.258 s |
+| RAG                     |      0.023 s |
+| LLM                     |      3.188 s |
+| TTS                     |      1.280 s |
+| **Total AI Processing** |  **4.752 s** |
 
-The evaluation identifies **LLM generation as the primary computational bottleneck**.
+The evaluation identifies **LLM generation as the primary computational bottleneck, followed by TTS processing**.
 
 Approximately **86.9**% of the measured AI processing latency is contributed by LLM generation.
 
@@ -409,35 +427,36 @@ The reported total represents AI processing from STT processing through TTS audi
 
 ## Evaluation Outputs
 
-The evaluation scripts generate CSV files and visualizations for analyzing system performance.
+The evaluation scripts generate CSV files and visualizations for analyzing retrieval, response quality, and system performance.
 
-Typical results include:
+The generated evaluation outputs include:
 
 ```text
 evaluation_results/
+├── latency_test_audio/
 ├── rag_evaluation_results.csv
+├── ragas_evaluation_results.csv
+├── ares_evaluation_results.csv
+├── supplementary_evaluation_metrics.csv
 ├── evaluation_metrics.csv
-├── evaluation_summary.txt
-├── category_accuracy.png
-├── overall_accuracy.png
-├── question_wise_accuracy.png
 ├── voice_latency_results.csv
-├── voice_latency_graph.png
-└── voice_latency_average_graph.png
-```
+├── visualization_summary.txt
+├── overall_accuracy.png
+├── ragas_overall_metrics.png
+└── ares_overall_metrics.png
 
 ---
 
 ## Phase 1 Milestones
 
-| Milestone | Description                                        | Status      |
-|-----------|--------------------------------------------------- |-------------|
-| M1        | Website and PDF ingestion pipeline with ChromaDB   | ✅ Completed|
-| M2        | RAG backend + locally hosted LLM                   | ✅ Completed|
-| M3        | STT → RAG → LLM → TTS pipeline                     | ✅ Completed|
-| M4        | Asterisk/SIP/AudioSocket telephony integration     | ✅ Completed|
-| M5        | Accuracy, retrieval, refusal and latency eval.     | ✅ Completed|
-| M6        | Mentor review and approval of Phase 2 scope        | ⏳ Pending  |
+| Milestone | Description                                             | Status    |
+| --------- | ------------------------------------------------------- | --------- |
+| M1        | Website and PDF ingestion pipeline with ChromaDB        | Completed |
+| M2        | RAG backend + locally hosted LLM                        | Completed |
+| M3        | STT → RAG → LLM → TTS pipeline                          | Completed |
+| M4        | Asterisk/SIP/AudioSocket telephony integration          | Completed |
+| M5        | Direct RAG, RAGAS, ARES-inspired and latency evaluation | Completed |
+| M6        | Mentor review and approval of Phase 2 scope             | Pending   |
 
 ---
 
@@ -766,7 +785,7 @@ Some components are not installed directly through `requirements.txt`.
 Install Ollama separately and make sure the required LLM is available:
 
 ```powershell
-ollama pull qwen3:4b
+ollama pull Gemma 3:4B
 ```
 
 ### Verify
@@ -916,7 +935,7 @@ The current system can:
 - synthesize spoken responses;
 - return audio to the caller through Asterisk.
 
-Phase 1 evaluation has also identified the LLM inference stage as the major performance bottleneck, providing a clear direction for future optimization.
+Phase 1 evaluation identified LLM inference as the major contributor to measured AI processing latency. The final Gemma 3:4B configuration achieved 4.752 seconds of measured AI processing time from STT through TTS preparation.
 
 ---
 
