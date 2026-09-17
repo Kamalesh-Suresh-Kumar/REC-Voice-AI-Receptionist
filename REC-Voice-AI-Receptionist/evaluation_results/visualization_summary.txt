@@ -1,0 +1,32 @@
+REC VOICE AI RECEPTIONIST
+FINAL EVALUATION VISUALIZATION SUMMARY
+============================================================
+
+FINAL MODEL
+------------------------------------------------------------
+Gemma 3:4B
+
+DIRECT RAG EVALUATION
+------------------------------------------------------------
+Retrieval Hit@5       : 100.00%
+Answer Accuracy       : 100.00%
+Negative Refusal      : 100.00%
+
+RAGAS EVALUATION
+------------------------------------------------------------
+Faithfulness          : 95.37%
+Answer Relevancy      : 54.33%
+Context Precision     : 92.31%
+Context Recall        : 100.00%
+
+ARES-INSPIRED EVALUATION
+------------------------------------------------------------
+Context Relevance     : 89.44%
+Answer Faithfulness   : 95.83%
+Answer Relevance      : 82.22%
+
+GENERATED GRAPHS
+------------------------------------------------------------
+1. overall_accuracy.png
+2. ragas_overall_metrics.png
+3. ares_overall_metrics.png

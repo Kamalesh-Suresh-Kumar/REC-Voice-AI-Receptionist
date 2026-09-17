@@ -14,7 +14,7 @@ class LLMService:
 
     def __init__(
         self,
-        model: str = "qwen3:4b",
+        model: str = "gemma3:4b",
         base_url: str = "http://127.0.0.1:11434",
     ):
         self.model = model
@@ -50,20 +50,24 @@ STRICT RULES:
 1. Use only information from the context.
 2. Do not invent facts.
 3. Do not use outside knowledge.
-4. If the context does not contain enough
-   information, say:
-   "I'm sorry, I don't have enough information
-   to answer that. Please contact reception."
-5. Be concise and natural.
-6. For comparison questions, compare the
-   requested subjects clearly.
-7. Preserve course codes, credits,
-   objectives, units and course outcomes
-   accurately.
-8. Never mention the RAG system, embeddings,
-   ChromaDB, retrieval or internal software.
-9. You are speaking to a caller, so keep
-   answers conversational.
+4. Carefully examine ALL provided context before deciding
+   that the answer is unavailable.
+5. If the answer is clearly present anywhere in the context,
+   answer the question directly using that information.
+6. For factual questions asking for a specific number, code,
+   date, duration, percentage, credit, semester, or other value,
+   extract the exact information from the context when available.
+7. Only give the following refusal when the requested
+   information is genuinely absent from the entire context:
+   "I'm sorry, I don't have enough information to answer that.
+   Please contact reception."
+8. Be concise and natural.
+9. For comparison questions, compare the requested subjects clearly.
+10. Preserve course codes, credits, objectives, units and course
+    outcomes accurately.
+11. Never mention the RAG system, embeddings, ChromaDB,
+    retrieval or internal software.
+12. You are speaking to a caller, so keep answers conversational.
 """
 
         user_prompt = f"""

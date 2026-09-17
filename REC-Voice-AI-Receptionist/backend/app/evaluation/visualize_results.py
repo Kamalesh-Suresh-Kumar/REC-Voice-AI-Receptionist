@@ -11,25 +11,43 @@ import pandas as pd
 # ============================================================
 
 # visualize_results.py
-#     ↓
+#       ↓
 # evaluation
-#     ↓
+#       ↓
 # app
-#     ↓
+#       ↓
 # backend
-#     ↓
-# PROJECT ROOT
-#
-# parents[3] = project root
+#       ↓
+# project root
 
 PROJECT_ROOT = Path(__file__).resolve().parents[3]
 
-# Evaluation results are stored at:
-# REC-Voice-AI-Receptionist/evaluation_results
+EVALUATION_DIR = (
+    PROJECT_ROOT / "evaluation_results"
+)
 
-EVALUATION_DIR = PROJECT_ROOT / "evaluation_results"
+# ------------------------------------------------------------
+# CSV FILES
+# ------------------------------------------------------------
 
-CSV_FILE = EVALUATION_DIR / "rag_evaluation_results.csv"
+RAG_CSV = (
+    EVALUATION_DIR
+    / "evaluation_metrics.csv"
+)
+
+RAGAS_CSV = (
+    EVALUATION_DIR
+    / "ragas_evaluation_results.csv"
+)
+
+ARES_CSV = (
+    EVALUATION_DIR
+    / "ares_evaluation_results.csv"
+)
+
+# ------------------------------------------------------------
+# Output directory
+# ------------------------------------------------------------
 
 OUTPUT_DIR = EVALUATION_DIR
 
@@ -40,228 +58,226 @@ OUTPUT_DIR.mkdir(
 
 
 # ============================================================
-# LOAD CSV
+# LOAD DIRECT RAG RESULTS
 # ============================================================
 
-def load_results() -> pd.DataFrame:
-    """Load the RAG evaluation results CSV."""
+def load_rag_results() -> pd.DataFrame:
+    """Load direct RAG evaluation metrics."""
 
     print()
     print("=" * 70)
-    print("REC AI RECEPTIONIST - VISUAL EVALUATION")
+    print("LOADING DIRECT RAG RESULTS")
     print("=" * 70)
 
     print()
-    print("[CSV] Reading:")
-    print(CSV_FILE)
+    print("[CSV]")
+    print(RAG_CSV)
 
-    if not CSV_FILE.exists():
-        print()
-        print("[ERROR] Evaluation CSV was not found.")
-        print()
-        print("Expected:")
-        print(CSV_FILE)
-        print()
+    if not RAG_CSV.exists():
 
         raise FileNotFoundError(
-            f"Evaluation CSV not found: {CSV_FILE}"
+            f"Direct RAG CSV not found:\n{RAG_CSV}"
         )
 
-    df = pd.read_csv(CSV_FILE)
+    df = pd.read_csv(
+        RAG_CSV
+    )
 
     if df.empty:
+
         raise ValueError(
-            "The evaluation CSV is empty."
+            "Direct RAG CSV is empty."
         )
 
     print()
     print(
-        f"[CSV] Records loaded: {len(df)}"
+        f"[OK] Records loaded: {len(df)}"
     )
-
-    print()
-    print("[CSV] Columns:")
-
-    for column in df.columns:
-        print(f"  - {column}")
 
     return df
 
 
 # ============================================================
-# CONVERT YES / NO TO 1 / 0
+# LOAD RAGAS RESULTS
 # ============================================================
 
-def yes_to_int(
-    series: pd.Series,
-) -> pd.Series:
-    """
-    Convert YES / NO values into 1 / 0.
+def load_ragas_results() -> pd.DataFrame:
+    """Load RAGAS evaluation results."""
 
-    YES -> 1
-    NO  -> 0
-    """
+    print()
+    print("=" * 70)
+    print("LOADING RAGAS RESULTS")
+    print("=" * 70)
 
-    return (
-        series
-        .astype(str)
-        .str.strip()
-        .str.upper()
-        .eq("YES")
-        .astype(int)
-    )
+    print()
+    print("[CSV]")
+    print(RAGAS_CSV)
 
+    if not RAGAS_CSV.exists():
 
-# ============================================================
-# CALCULATE OVERALL METRICS
-# ============================================================
-
-def calculate_metrics(
-    df: pd.DataFrame,
-) -> tuple[
-    float,
-    float,
-    float,
-    pd.DataFrame,
-    pd.DataFrame,
-]:
-    """Calculate retrieval, answer and refusal accuracy."""
-
-    # --------------------------------------------------------
-    # Required columns
-    # --------------------------------------------------------
-
-    required_columns = [
-        "category",
-        "retrieval_correct",
-        "answer_correct",
-    ]
-
-    missing = [
-        column
-        for column in required_columns
-        if column not in df.columns
-    ]
-
-    if missing:
-        raise ValueError(
-            "Missing required CSV columns: "
-            + ", ".join(missing)
+        raise FileNotFoundError(
+            f"RAGAS CSV not found:\n{RAGAS_CSV}"
         )
 
-    # --------------------------------------------------------
-    # Normalize category
-    # --------------------------------------------------------
+    df = pd.read_csv(
+        RAGAS_CSV
+    )
 
-    category_series = (
-        df["category"]
+    if df.empty:
+
+        raise ValueError(
+            "RAGAS CSV is empty."
+        )
+
+    print()
+    print(
+        f"[OK] Records loaded: {len(df)}"
+    )
+
+    return df
+
+
+# ============================================================
+# LOAD ARES RESULTS
+# ============================================================
+
+def load_ares_results() -> pd.DataFrame:
+    """Load ARES-inspired evaluation results."""
+
+    print()
+    print("=" * 70)
+    print("LOADING ARES-INSPIRED RESULTS")
+    print("=" * 70)
+
+    print()
+    print("[CSV]")
+    print(ARES_CSV)
+
+    if not ARES_CSV.exists():
+
+        raise FileNotFoundError(
+            f"ARES CSV not found:\n{ARES_CSV}"
+        )
+
+    df = pd.read_csv(
+        ARES_CSV
+    )
+
+    if df.empty:
+
+        raise ValueError(
+            "ARES CSV is empty."
+        )
+
+    print()
+    print(
+        f"[OK] Records loaded: {len(df)}"
+    )
+
+    return df
+
+
+# ============================================================
+# GET VALUE FROM DIRECT RAG CSV
+# ============================================================
+
+def get_rag_value(
+    df: pd.DataFrame,
+    metric_name: str,
+) -> float:
+    """Get one metric from evaluation_metrics.csv."""
+
+    row = df[
+        df["metric"]
         .astype(str)
         .str.strip()
         .str.lower()
-    )
+        == metric_name.lower()
+    ]
 
-    # --------------------------------------------------------
-    # Normal questions
-    # --------------------------------------------------------
+    if row.empty:
 
-    normal_df = df[
-        category_series != "negative"
-    ].copy()
-
-    # --------------------------------------------------------
-    # Negative / out-of-domain questions
-    # --------------------------------------------------------
-
-    negative_df = df[
-        category_series == "negative"
-    ].copy()
-
-    # --------------------------------------------------------
-    # Retrieval accuracy
-    # --------------------------------------------------------
-
-    if not normal_df.empty:
-
-        retrieval_values = yes_to_int(
-            normal_df["retrieval_correct"]
+        raise ValueError(
+            f"Metric not found in RAG CSV: "
+            f"{metric_name}"
         )
 
-        retrieval_accuracy = float(
-            retrieval_values.mean() * 100.0
-        )
-
-    else:
-
-        retrieval_accuracy = 0.0
-
-    # --------------------------------------------------------
-    # Answer accuracy
-    # --------------------------------------------------------
-
-    if not normal_df.empty:
-
-        answer_values = yes_to_int(
-            normal_df["answer_correct"]
-        )
-
-        answer_accuracy = float(
-            answer_values.mean() * 100.0
-        )
-
-    else:
-
-        answer_accuracy = 0.0
-
-    # --------------------------------------------------------
-    # Refusal accuracy
-    # --------------------------------------------------------
-
-    if not negative_df.empty:
-
-        refusal_values = yes_to_int(
-            negative_df["answer_correct"]
-        )
-
-        refusal_accuracy = float(
-            refusal_values.mean() * 100.0
-        )
-
-    else:
-
-        refusal_accuracy = 0.0
-
-    return (
-        retrieval_accuracy,
-        answer_accuracy,
-        refusal_accuracy,
-        normal_df,
-        negative_df,
+    return float(
+        row.iloc[0]["accuracy_percent"]
     )
 
 
 # ============================================================
-# CHART 1
-# OVERALL ACCURACY
+# CREATE DIRECT RAG GRAPH
 # ============================================================
 
-def create_overall_chart(
-    retrieval_accuracy: float,
-    answer_accuracy: float,
-    refusal_accuracy: float,
+def create_direct_rag_graph(
+    rag_df: pd.DataFrame,
 ) -> Path:
-    """Create and save overall RAG performance chart."""
+    """Create the final direct RAG evaluation graph."""
 
-    labels: list[str] = [
+    # --------------------------------------------------------
+    # Read values directly from CSV
+    # --------------------------------------------------------
+
+    retrieval = get_rag_value(
+        rag_df,
+        "Retrieval Hit@5",
+    )
+
+    answer = get_rag_value(
+        rag_df,
+        "Answer Accuracy",
+    )
+
+    refusal = get_rag_value(
+        rag_df,
+        "Refusal Accuracy",
+    )
+
+    # --------------------------------------------------------
+    # Display values
+    # --------------------------------------------------------
+
+    print()
+    print(
+        "[DIRECT RAG RESULTS]"
+    )
+
+    print(
+        f"Retrieval Hit@5       : "
+        f"{retrieval:.2f}%"
+    )
+
+    print(
+        f"Answer Accuracy       : "
+        f"{answer:.2f}%"
+    )
+
+    print(
+        f"Negative Refusal     : "
+        f"{refusal:.2f}%"
+    )
+
+    # --------------------------------------------------------
+    # Chart data
+    # --------------------------------------------------------
+
+    labels = [
         "Retrieval\nHit@5",
         "Answer\nAccuracy",
-        "Refusal\nAccuracy",
+        "Negative Refusal\nAccuracy",
     ]
 
-    values: list[float] = [
-        float(retrieval_accuracy),
-        float(answer_accuracy),
-        float(refusal_accuracy),
+    values = [
+        retrieval,
+        answer,
+        refusal,
     ]
+
+    # --------------------------------------------------------
+    # Create figure
+    # --------------------------------------------------------
 
     fig, ax = plt.subplots(
         figsize=(10, 6)
@@ -270,13 +286,28 @@ def create_overall_chart(
     bars = ax.bar(
         labels,
         values,
+        color=[
+            "#4361EE",
+            "#06D6A0",
+            "#F72585",
+        ],
+        width=0.60,
     )
 
+    # --------------------------------------------------------
+    # Title
+    # --------------------------------------------------------
+
     ax.set_title(
-        "REC AI Receptionist - Overall RAG Performance",
-        fontsize=16,
+        "Direct RAG Evaluation Performance",
+        fontsize=17,
         fontweight="bold",
+        pad=15,
     )
+
+    # --------------------------------------------------------
+    # Axis
+    # --------------------------------------------------------
 
     ax.set_ylabel(
         "Accuracy (%)",
@@ -284,289 +315,164 @@ def create_overall_chart(
     )
 
     ax.set_ylim(
-        0.0,
-        100.0,
+        0,
+        110,
     )
+
+    # --------------------------------------------------------
+    # Grid
+    # --------------------------------------------------------
 
     ax.grid(
         axis="y",
         alpha=0.25,
+        linestyle="--",
     )
 
     # --------------------------------------------------------
-    # Percentage labels
+    # Value labels
     # --------------------------------------------------------
 
     for bar, value in zip(
         bars,
         values,
     ):
-        bar_x = float(bar.get_x())
-        bar_width = float(bar.get_width())
-        numeric_value = float(value)
-
-        label_y = min(
-            numeric_value + 2.0,
-            98.0,
-        )
 
         ax.text(
-            bar_x + (bar_width / 2.0),
-            label_y,
-            f"{numeric_value:.1f}%",
+            bar.get_x()
+            + bar.get_width() / 2,
+            value + 2,
+            f"{value:.1f}%",
             ha="center",
             va="bottom",
             fontsize=12,
             fontweight="bold",
         )
 
-    fig.tight_layout()
+    # --------------------------------------------------------
+    # Remove unnecessary borders
+    # --------------------------------------------------------
 
-    output_file = (
+    ax.spines[
+        "top"
+    ].set_visible(False)
+
+    ax.spines[
+        "right"
+    ].set_visible(False)
+
+    # --------------------------------------------------------
+    # Save
+    # --------------------------------------------------------
+
+    output = (
         OUTPUT_DIR
         / "overall_accuracy.png"
     )
 
-    fig.savefig(
-        output_file,
-        dpi=200,
-        bbox_inches="tight",
-    )
-
-    plt.close(fig)
-
-    print(
-        f"[SAVED] {output_file}"
-    )
-
-    return output_file
-
-
-# ============================================================
-# CHART 2
-# QUESTION-WISE PERFORMANCE
-# ============================================================
-
-def create_question_chart(
-    normal_df: pd.DataFrame,
-) -> Path | None:
-    """Create and save question-wise performance chart."""
-
-    if normal_df.empty:
-
-        print(
-            "[INFO] No normal questions available "
-            "for question-wise chart."
-        )
-
-        return None
-
-    # --------------------------------------------------------
-    # Question IDs
-    # --------------------------------------------------------
-
-    if "id" in normal_df.columns:
-
-        question_ids: list[str] = [
-            str(value)
-            for value in normal_df["id"].tolist()
-        ]
-
-    else:
-
-        question_ids = [
-            str(index + 1)
-            for index in range(
-                len(normal_df)
-            )
-        ]
-
-    # --------------------------------------------------------
-    # Retrieval values
-    # --------------------------------------------------------
-
-    retrieval_series = yes_to_int(
-        normal_df["retrieval_correct"]
-    )
-
-    retrieval_values: list[float] = [
-        float(value) * 100.0
-        for value in retrieval_series.tolist()
-    ]
-
-    # --------------------------------------------------------
-    # Answer values
-    # --------------------------------------------------------
-
-    answer_series = yes_to_int(
-        normal_df["answer_correct"]
-    )
-
-    answer_values: list[float] = [
-        float(value) * 100.0
-        for value in answer_series.tolist()
-    ]
-
-    # --------------------------------------------------------
-    # X positions
-    # --------------------------------------------------------
-
-    positions: list[int] = list(
-        range(
-            len(question_ids)
-        )
-    )
-
-    width = 0.35
-
-    retrieval_positions: list[float] = [
-        float(position) - (width / 2.0)
-        for position in positions
-    ]
-
-    answer_positions: list[float] = [
-        float(position) + (width / 2.0)
-        for position in positions
-    ]
-
-    # --------------------------------------------------------
-    # Create figure
-    # --------------------------------------------------------
-
-    fig, ax = plt.subplots(
-        figsize=(13, 6)
-    )
-
-    ax.bar(
-        retrieval_positions,
-        retrieval_values,
-        width=width,
-        label="Retrieval",
-    )
-
-    ax.bar(
-        answer_positions,
-        answer_values,
-        width=width,
-        label="Answer",
-    )
-
-    ax.set_title(
-        "Normal Query Evaluation Performance",
-        fontsize=16,
-        fontweight="bold",
-    )
-
-    ax.set_xlabel(
-        "Test Question ID",
-        fontsize=12,
-    )
-
-    ax.set_ylabel(
-        "Correctness (%)",
-        fontsize=12,
-    )
-
-    ax.set_xticks(
-        positions
-    )
-
-    ax.set_xticklabels(
-        question_ids
-    )
-
-    ax.set_ylim(
-        0.0,
-        110.0,
-    )
-
-    ax.legend()
-
-    ax.grid(
-        axis="y",
-        alpha=0.25,
-    )
-
     fig.tight_layout()
 
-    output_file = (
-        OUTPUT_DIR
-        / "question_wise_accuracy.png"
-    )
-
     fig.savefig(
-        output_file,
-        dpi=200,
+        output,
+        dpi=300,
         bbox_inches="tight",
     )
 
     plt.close(fig)
 
     print(
-        f"[SAVED] {output_file}"
+        f"[SAVED] {output}"
     )
 
-    return output_file
+    return output
 
 
 # ============================================================
-# CHART 3
-# CATEGORY-WISE ACCURACY
+# CREATE RAGAS GRAPH
 # ============================================================
 
-def create_category_chart(
-    normal_df: pd.DataFrame,
-) -> Path | None:
-    """Create and save knowledge-category accuracy chart."""
-
-    if normal_df.empty:
-
-        print(
-            "[INFO] No normal questions available "
-            "for category chart."
-        )
-
-        return None
+def create_ragas_graph(
+    ragas_df: pd.DataFrame,
+) -> Path:
+    """Create final RAGAS evaluation graph."""
 
     # --------------------------------------------------------
-    # Copy dataframe
+    # Calculate directly from CSV
     # --------------------------------------------------------
 
-    category_df = normal_df.copy()
+    faithfulness = (
+        ragas_df[
+            "faithfulness"
+        ].mean()
+        * 100
+    )
 
-    # --------------------------------------------------------
-    # Convert answer correctness to numeric
-    # --------------------------------------------------------
+    relevancy = (
+        ragas_df[
+            "answer_relevancy"
+        ].mean()
+        * 100
+    )
 
-    category_df["correct_numeric"] = yes_to_int(
-        category_df["answer_correct"]
+    precision = (
+        ragas_df[
+            "context_precision"
+        ].mean()
+        * 100
+    )
+
+    recall = (
+        ragas_df[
+            "context_recall"
+        ].mean()
+        * 100
     )
 
     # --------------------------------------------------------
-    # Calculate category accuracy
+    # Display values
     # --------------------------------------------------------
 
-    category_accuracy = (
-        category_df
-        .groupby("category")["correct_numeric"]
-        .mean()
-        .mul(100.0)
+    print()
+    print(
+        "[RAGAS RESULTS]"
+    )
+
+    print(
+        f"Faithfulness          : "
+        f"{faithfulness:.2f}%"
+    )
+
+    print(
+        f"Answer Relevancy      : "
+        f"{relevancy:.2f}%"
+    )
+
+    print(
+        f"Context Precision     : "
+        f"{precision:.2f}%"
+    )
+
+    print(
+        f"Context Recall        : "
+        f"{recall:.2f}%"
     )
 
     # --------------------------------------------------------
-    # Explicitly convert pandas values to Python types
-    #
-    # This avoids the Pylance object/float warnings.
+    # Chart data
     # --------------------------------------------------------
 
-    categories: list[str] = [
-        str(value)
-        for value in category_accuracy.index.tolist()
+    labels = [
+        "Faithfulness",
+        "Answer Relevancy",
+        "Context Precision",
+        "Context Recall",
     ]
 
-    values: list[float] = [
-        float(value)
-        for value in category_accuracy.tolist()
+    values = [
+        faithfulness,
+        relevancy,
+        precision,
+        recall,
     ]
 
     # --------------------------------------------------------
@@ -574,61 +480,70 @@ def create_category_chart(
     # --------------------------------------------------------
 
     fig, ax = plt.subplots(
-        figsize=(9, 6)
+        figsize=(11, 6)
     )
 
     bars = ax.bar(
-        categories,
+        labels,
         values,
+        color=[
+            "#7B2CBF",
+            "#F72585",
+            "#4361EE",
+            "#06D6A0",
+        ],
+        width=0.60,
     )
+
+    # --------------------------------------------------------
+    # Title
+    # --------------------------------------------------------
 
     ax.set_title(
-        "Answer Accuracy by Knowledge Category",
-        fontsize=16,
+        "RAGAS Evaluation Performance",
+        fontsize=17,
         fontweight="bold",
+        pad=15,
     )
 
-    ax.set_xlabel(
-        "Knowledge Category",
-        fontsize=12,
-    )
+    # --------------------------------------------------------
+    # Axis
+    # --------------------------------------------------------
 
     ax.set_ylabel(
-        "Answer Accuracy (%)",
+        "Score (%)",
         fontsize=12,
     )
 
     ax.set_ylim(
-        0.0,
-        100.0,
+        0,
+        110,
     )
+
+    # --------------------------------------------------------
+    # Grid
+    # --------------------------------------------------------
 
     ax.grid(
         axis="y",
         alpha=0.25,
+        linestyle="--",
     )
 
     # --------------------------------------------------------
-    # Percentage labels
+    # Value labels
     # --------------------------------------------------------
 
     for bar, value in zip(
         bars,
         values,
     ):
-        bar_x = float(bar.get_x())
-        bar_width = float(bar.get_width())
-        numeric_value = float(value)
-
-        label_y = min(
-            numeric_value + 2.0,
-            98.0,
-        )
 
         ax.text(
-            bar_x + (bar_width / 2.0),
-            label_y,
-            f"{numeric_value:.1f}%",
+            bar.get_x()
+            + bar.get_width() / 2,
+            value + 2,
+            f"{value:.2f}%",
             ha="center",
             va="bottom",
             fontsize=12,
@@ -636,325 +551,459 @@ def create_category_chart(
         )
 
     # --------------------------------------------------------
-    # Rotate category names if necessary
+    # Clean borders
     # --------------------------------------------------------
 
-    plt.xticks(
-        rotation=20,
-        ha="right",
+    ax.spines[
+        "top"
+    ].set_visible(False)
+
+    ax.spines[
+        "right"
+    ].set_visible(False)
+
+    # --------------------------------------------------------
+    # Save
+    # --------------------------------------------------------
+
+    output = (
+        OUTPUT_DIR
+        / "ragas_overall_metrics.png"
     )
 
     fig.tight_layout()
 
-    output_file = (
-        OUTPUT_DIR
-        / "category_accuracy.png"
-    )
-
     fig.savefig(
-        output_file,
-        dpi=200,
+        output,
+        dpi=300,
         bbox_inches="tight",
     )
 
     plt.close(fig)
 
     print(
-        f"[SAVED] {output_file}"
+        f"[SAVED] {output}"
     )
 
-    return output_file
+    return output
 
 
 # ============================================================
-# SAVE METRICS CSV
+# CREATE ARES GRAPH
 # ============================================================
 
-def save_metrics_csv(
-    df: pd.DataFrame,
-    normal_df: pd.DataFrame,
-    negative_df: pd.DataFrame,
-    retrieval_accuracy: float,
-    answer_accuracy: float,
-    refusal_accuracy: float,
+def create_ares_graph(
+    ares_df: pd.DataFrame,
 ) -> Path:
-    """
-    Save the final evaluation metrics as a small CSV.
+    """Create final ARES-inspired evaluation graph."""
 
-    This gives you a clean numerical record in addition
-    to the graphical output.
-    """
+    # --------------------------------------------------------
+    # Calculate directly from CSV
+    # --------------------------------------------------------
 
-    output_file = (
-        OUTPUT_DIR
-        / "evaluation_metrics.csv"
+    context_relevance = (
+        ares_df[
+            "context_relevance"
+        ].mean()
+        * 100
     )
 
-    metrics = pd.DataFrame(
-        [
-            {
-                "metric": "Retrieval Hit@5",
-                "accuracy_percent": float(
-                    retrieval_accuracy
-                ),
-                "sample_count": len(normal_df),
-            },
-            {
-                "metric": "Answer Accuracy",
-                "accuracy_percent": float(
-                    answer_accuracy
-                ),
-                "sample_count": len(normal_df),
-            },
-            {
-                "metric": "Refusal Accuracy",
-                "accuracy_percent": float(
-                    refusal_accuracy
-                ),
-                "sample_count": len(negative_df),
-            },
-            {
-                "metric": "Overall Test Questions",
-                "accuracy_percent": None,
-                "sample_count": len(df),
-            },
-        ]
+    answer_faithfulness = (
+        ares_df[
+            "answer_faithfulness"
+        ].mean()
+        * 100
     )
 
-    metrics.to_csv(
-        output_file,
-        index=False,
+    answer_relevance = (
+        ares_df[
+            "answer_relevance"
+        ].mean()
+        * 100
+    )
+
+    # --------------------------------------------------------
+    # Display values
+    # --------------------------------------------------------
+
+    print()
+    print(
+        "[ARES-INSPIRED RESULTS]"
     )
 
     print(
-        f"[SAVED] {output_file}"
+        f"Context Relevance     : "
+        f"{context_relevance:.2f}%"
     )
 
-    return output_file
+    print(
+        f"Answer Faithfulness   : "
+        f"{answer_faithfulness:.2f}%"
+    )
+
+    print(
+        f"Answer Relevance      : "
+        f"{answer_relevance:.2f}%"
+    )
+
+    # --------------------------------------------------------
+    # Chart data
+    # --------------------------------------------------------
+
+    labels = [
+        "Context\nRelevance",
+        "Answer\nFaithfulness",
+        "Answer\nRelevance",
+    ]
+
+    values = [
+        context_relevance,
+        answer_faithfulness,
+        answer_relevance,
+    ]
+
+    # --------------------------------------------------------
+    # Create figure
+    # --------------------------------------------------------
+
+    fig, ax = plt.subplots(
+        figsize=(10, 6)
+    )
+
+    bars = ax.bar(
+        labels,
+        values,
+        color=[
+            "#118AB2",
+            "#8338EC",
+            "#FB5607",
+        ],
+        width=0.60,
+    )
+
+    # --------------------------------------------------------
+    # Title
+    # --------------------------------------------------------
+
+    ax.set_title(
+        "ARES-Inspired Evaluation Performance",
+        fontsize=17,
+        fontweight="bold",
+        pad=15,
+    )
+
+    # --------------------------------------------------------
+    # Axis
+    # --------------------------------------------------------
+
+    ax.set_ylabel(
+        "Score (%)",
+        fontsize=12,
+    )
+
+    ax.set_ylim(
+        0,
+        110,
+    )
+
+    # --------------------------------------------------------
+    # Grid
+    # --------------------------------------------------------
+
+    ax.grid(
+        axis="y",
+        alpha=0.25,
+        linestyle="--",
+    )
+
+    # --------------------------------------------------------
+    # Value labels
+    # --------------------------------------------------------
+
+    for bar, value in zip(
+        bars,
+        values,
+    ):
+
+        ax.text(
+            bar.get_x()
+            + bar.get_width() / 2,
+            value + 2,
+            f"{value:.2f}%",
+            ha="center",
+            va="bottom",
+            fontsize=12,
+            fontweight="bold",
+        )
+
+    # --------------------------------------------------------
+    # Clean borders
+    # --------------------------------------------------------
+
+    ax.spines[
+        "top"
+    ].set_visible(False)
+
+    ax.spines[
+        "right"
+    ].set_visible(False)
+
+    # --------------------------------------------------------
+    # Save
+    # --------------------------------------------------------
+
+    output = (
+        OUTPUT_DIR
+        / "ares_overall_metrics.png"
+    )
+
+    fig.tight_layout()
+
+    fig.savefig(
+        output,
+        dpi=300,
+        bbox_inches="tight",
+    )
+
+    plt.close(fig)
+
+    print(
+        f"[SAVED] {output}"
+    )
+
+    return output
 
 
 # ============================================================
-# SAVE TEXT SUMMARY
+# SAVE FINAL SUMMARY
 # ============================================================
 
 def save_summary(
-    df: pd.DataFrame,
-    retrieval_accuracy: float,
-    answer_accuracy: float,
-    refusal_accuracy: float,
-) -> Path:
-    """Save a human-readable evaluation summary."""
+    retrieval: float,
+    answer: float,
+    refusal: float,
+    faithfulness: float,
+    relevancy: float,
+    precision: float,
+    recall: float,
+    context_relevance: float,
+    answer_faithfulness: float,
+    answer_relevance: float,
+):
+    """Save final visualization summary."""
 
-    output_file = (
+    output = (
         OUTPUT_DIR
-        / "evaluation_summary.txt"
+        / "visualization_summary.txt"
     )
 
-    category_series = (
-        df["category"]
-        .astype(str)
-        .str.strip()
-        .str.lower()
-    )
-
-    normal_count = int(
-        (
-            category_series != "negative"
-        ).sum()
-    )
-
-    negative_count = int(
-        (
-            category_series == "negative"
-        ).sum()
-    )
-
-    lines: list[str] = [
-        "REC AI RECEPTIONIST",
-        "RAG EVALUATION SUMMARY",
-        "=" * 50,
+    lines = [
+        "REC VOICE AI RECEPTIONIST",
+        "FINAL EVALUATION VISUALIZATION SUMMARY",
+        "=" * 60,
         "",
-        f"Total test questions : {len(df)}",
-        f"Normal questions     : {normal_count}",
-        f"Negative questions   : {negative_count}",
+        "FINAL MODEL",
+        "-" * 60,
+        "Gemma 3:4B",
         "",
-        f"Retrieval Hit@5      : {retrieval_accuracy:.2f}%",
-        f"Answer Accuracy      : {answer_accuracy:.2f}%",
-        f"Refusal Accuracy     : {refusal_accuracy:.2f}%",
+        "DIRECT RAG EVALUATION",
+        "-" * 60,
+        f"Retrieval Hit@5       : {retrieval:.2f}%",
+        f"Answer Accuracy       : {answer:.2f}%",
+        f"Negative Refusal      : {refusal:.2f}%",
         "",
-        "Evaluation source:",
-        str(CSV_FILE),
+        "RAGAS EVALUATION",
+        "-" * 60,
+        f"Faithfulness          : {faithfulness:.2f}%",
+        f"Answer Relevancy      : {relevancy:.2f}%",
+        f"Context Precision     : {precision:.2f}%",
+        f"Context Recall        : {recall:.2f}%",
         "",
-        "Generated visualizations:",
+        "ARES-INSPIRED EVALUATION",
+        "-" * 60,
+        f"Context Relevance     : {context_relevance:.2f}%",
+        f"Answer Faithfulness   : {answer_faithfulness:.2f}%",
+        f"Answer Relevance      : {answer_relevance:.2f}%",
+        "",
+        "GENERATED GRAPHS",
+        "-" * 60,
         "1. overall_accuracy.png",
-        "2. question_wise_accuracy.png",
-        "3. category_accuracy.png",
-        "",
-        "Generated numerical result:",
-        "4. evaluation_metrics.csv",
+        "2. ragas_overall_metrics.png",
+        "3. ares_overall_metrics.png",
     ]
 
-    output_file.write_text(
+    output.write_text(
         "\n".join(lines),
         encoding="utf-8",
     )
 
     print(
-        f"[SAVED] {output_file}"
+        f"[SAVED] {output}"
     )
-
-    return output_file
 
 
 # ============================================================
 # MAIN
 # ============================================================
 
-def main() -> None:
-    """Run the complete visual evaluation."""
-
-    # --------------------------------------------------------
-    # Load evaluation data
-    # --------------------------------------------------------
-
-    df = load_results()
-
-    # --------------------------------------------------------
-    # Calculate metrics
-    # --------------------------------------------------------
-
-    (
-        retrieval_accuracy,
-        answer_accuracy,
-        refusal_accuracy,
-        normal_df,
-        negative_df,
-    ) = calculate_metrics(df)
-
-    # ========================================================
-    # DISPLAY RESULTS
-    # ========================================================
+def main():
+    """Generate final evaluation graphs."""
 
     print()
     print("=" * 70)
-    print("EVALUATION SUMMARY")
+    print("REC VOICE AI RECEPTIONIST")
+    print("FINAL EVALUATION VISUALIZATION")
     print("=" * 70)
 
+    # --------------------------------------------------------
+    # Load CSV files
+    # --------------------------------------------------------
+
+    rag_df = load_rag_results()
+
+    ragas_df = load_ragas_results()
+
+    ares_df = load_ares_results()
+
+    # --------------------------------------------------------
+    # Calculate values
+    # --------------------------------------------------------
+
+    retrieval = get_rag_value(
+        rag_df,
+        "Retrieval Hit@5",
+    )
+
+    answer = get_rag_value(
+        rag_df,
+        "Answer Accuracy",
+    )
+
+    refusal = get_rag_value(
+        rag_df,
+        "Refusal Accuracy",
+    )
+
+    faithfulness = (
+        ragas_df[
+            "faithfulness"
+        ].mean()
+        * 100
+    )
+
+    relevancy = (
+        ragas_df[
+            "answer_relevancy"
+        ].mean()
+        * 100
+    )
+
+    precision = (
+        ragas_df[
+            "context_precision"
+        ].mean()
+        * 100
+    )
+
+    recall = (
+        ragas_df[
+            "context_recall"
+        ].mean()
+        * 100
+    )
+
+    context_relevance = (
+        ares_df[
+            "context_relevance"
+        ].mean()
+        * 100
+    )
+
+    answer_faithfulness = (
+        ares_df[
+            "answer_faithfulness"
+        ].mean()
+        * 100
+    )
+
+    answer_relevance = (
+        ares_df[
+            "answer_relevance"
+        ].mean()
+        * 100
+    )
+
+    # --------------------------------------------------------
+    # Create graphs
+    # --------------------------------------------------------
+
     print()
+    print("=" * 70)
+    print("GENERATING FINAL GRAPHS")
+    print("=" * 70)
 
-    print(
-        f"Total Questions    : {len(df)}"
+    create_direct_rag_graph(
+        rag_df
     )
 
-    print(
-        f"Normal Questions   : {len(normal_df)}"
+    create_ragas_graph(
+        ragas_df
     )
 
-    print(
-        f"Negative Questions : {len(negative_df)}"
+    create_ares_graph(
+        ares_df
     )
 
-    print()
-
-    print(
-        f"Retrieval Hit@5    : "
-        f"{retrieval_accuracy:.2f}%"
-    )
-
-    print(
-        f"Answer Accuracy    : "
-        f"{answer_accuracy:.2f}%"
-    )
-
-    print(
-        f"Refusal Accuracy   : "
-        f"{refusal_accuracy:.2f}%"
-    )
-
-    # ========================================================
-    # GENERATE CHARTS
-    # ========================================================
-
-    print()
-    print(
-        "[VISUALIZATION] Creating charts..."
-    )
-
-    create_overall_chart(
-        retrieval_accuracy,
-        answer_accuracy,
-        refusal_accuracy,
-    )
-
-    create_question_chart(
-        normal_df
-    )
-
-    create_category_chart(
-        normal_df
-    )
-
-    # ========================================================
-    # SAVE METRICS CSV
-    # ========================================================
-
-    save_metrics_csv(
-        df,
-        normal_df,
-        negative_df,
-        retrieval_accuracy,
-        answer_accuracy,
-        refusal_accuracy,
-    )
-
-    # ========================================================
-    # SAVE TEXT SUMMARY
-    # ========================================================
+    # --------------------------------------------------------
+    # Save summary
+    # --------------------------------------------------------
 
     save_summary(
-        df,
-        retrieval_accuracy,
-        answer_accuracy,
-        refusal_accuracy,
+        retrieval,
+        answer,
+        refusal,
+        faithfulness,
+        relevancy,
+        precision,
+        recall,
+        context_relevance,
+        answer_faithfulness,
+        answer_relevance,
     )
 
-    # ========================================================
-    # FINISHED
-    # ========================================================
+    # --------------------------------------------------------
+    # Final output
+    # --------------------------------------------------------
 
     print()
     print("=" * 70)
-    print("VISUAL EVALUATION COMPLETE")
+    print("VISUALIZATION COMPLETE")
     print("=" * 70)
 
     print()
-    print("Saved inside:")
-
     print(
-        OUTPUT_DIR
+        "Final graphs:"
     )
-
-    print()
-    print("Files:")
 
     print(
         "  ✓ overall_accuracy.png"
     )
 
     print(
-        "  ✓ question_wise_accuracy.png"
+        "  ✓ ragas_overall_metrics.png"
     )
 
     print(
-        "  ✓ category_accuracy.png"
+        "  ✓ ares_overall_metrics.png"
+    )
+
+    print()
+    print(
+        "Saved to:"
     )
 
     print(
-        "  ✓ evaluation_metrics.csv"
-    )
-
-    print(
-        "  ✓ evaluation_summary.txt"
+        OUTPUT_DIR
     )
 
     print()

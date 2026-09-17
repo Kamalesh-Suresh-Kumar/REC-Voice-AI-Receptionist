@@ -11,7 +11,7 @@ from pathlib import Path
 # PROJECT PATH
 # ============================================================
 
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROJECT_ROOT = Path(__file__).resolve().parents[3]
 
 REPORT_DIR = PROJECT_ROOT / "evaluation_results"
 REPORT_DIR.mkdir(parents=True, exist_ok=True)

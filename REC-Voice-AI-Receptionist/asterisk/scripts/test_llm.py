@@ -1,7 +1,7 @@
 import ollama
 def main():
     response = ollama.chat(
-        model="qwen3:4b",
+        model="gemma3:4b",
         messages=[
             {
                 "role": "system",
