@@ -1,11 +1,101 @@
-test_id,question,stt_seconds,rag_seconds,llm_seconds,tts_seconds,total_seconds
-1,What should a student do if they fail a course from an earlier semester?,0.355,0.14,21.597,6.096,28.191
-2,Can I register for a subject that I could not attend the examination for previously?,0.182,0.021,23.305,9.241,32.763
-3,"If I successfully complete my earlier semesters, can I take subjects that normally belong to a higher semester?",0.867,0.431,14.641,0.699,16.67
-4,What happens to my academic record if I have an attendance shortage?,0.156,0.022,19.707,0.871,20.76
-5,"If I have a medical emergency, what documentation might the college require?",0.161,0.023,12.904,0.774,13.867
-6,How early should I complete my registration before the previous semester ends?,0.146,0.019,18.765,0.558,19.491
-7,Can I replace a failed elective with another elective?,0.158,0.022,15.86,0.921,16.965
-8,What are some of the main areas covered in the database course?,0.155,0.026,16.06,2.12,18.366
-9,What is the normal academic duration of an undergraduate engineering degree here?,0.151,0.022,28.68,0.244,29.099
-10,Are academic reports and examinations conducted in English?,0.156,0.023,13.989,3.107,17.287
+test_id,reference,transcript,status,error,stt_seconds,rag_retrieval_seconds,llm_seconds,tts_seconds,total_seconds
+1,Which undergraduate programme is offered in Computer Science and Engineering?,which undergraduate program is offered in computer science and engineering.,ok,,0.9751,0.2682,6.275,0.4788,7.9974
+2,What postgraduate programme is offered in Computer Science and Engineering?,What postgraduate program is offered in computer science and engineering?,ok,,0.4392,0.0184,2.0301,0.362,2.8502
+3,How long is the MBA programme listed by Rajalakshmi Engineering College?,How long is the MBA program listed by Rajalakshmi Engineering College?,ok,,0.4632,0.0172,1.716,0.1822,2.379
+4,Does Rajalakshmi Engineering College offer a Ph.D. programme in Computer Science and Engineering?,Does Rajalakshmiya Engineering College offer a ph.d. program in computer science and engineering?,ok,,0.4272,0.018,0.0,0.291,0.7367
+5,What is the opening cutoff for B.E. Computer Science and Engineering in the published cutoff table?,"What is the opening cutoff for BE, Computer Science and Engineering in the published cutoff table?",ok,,0.4279,0.0194,1.7794,0.2418,2.4689
+6,What is the closing cutoff for B.E. Computer Science and Engineering in the published cutoff table?,"What is the closing cutoff for BE, computer science and engineering in the published cutoff table?",ok,,0.4377,0.0165,0.7189,0.2639,1.4375
+7,What is the opening cutoff for B.Tech. Artificial Intelligence and Data Science?,"What is the opening cutoff for B.Tech, artificial intelligence and data science?",ok,,0.4383,0.0169,0.7852,0.2626,1.5035
+8,What is the closing cutoff for B.Tech. Information Technology?,"What is the closing cutoff for B.Tech, information technology?",ok,,0.4025,0.0165,1.7031,0.204,2.3266
+9,What is the closing cutoff for B.E. Robotics and Automation?,"What is the closing cutoff for BE, robotics and automation?",ok,,0.4043,0.0189,1.7389,0.1997,2.3625
+10,What is the closing cutoff for B.Tech. Food Technology?,"What is the closing cutoff for B.Tech, food technology?",ok,,0.3874,0.02,1.8317,0.1953,2.4348
+11,What is the subject code for Database Management Systems?,What is the subject code for database management systems?,ok,,0.4166,0.0249,1.9337,0.2346,2.6105
+12,What is the subject code for Computer Networks?,What is the subject code for computer networks?,ok,,0.3901,0.0209,1.9726,0.2238,2.6078
+13,What concepts are covered in Database Management Systems?,What concepts are covered in database management systems?,ok,,0.4046,0.0233,3.5438,1.3917,5.364
+14,What is the duration of the B.E. or B.Tech. programme?,What is the duration of the BE or BE.Tech.Program?,ok,,0.3926,0.0195,2.2614,0.375,3.0489
+15,How many working days does each semester normally have?,How many working days does each semester normally have?,ok,,0.4098,0.0242,1.459,0.1352,2.0288
+16,What is the prescribed range of total credits for a B.E./B.Tech. degree programme?,What is the prescribed range of total credits for b.e.slush b.tech.degree program?,ok,,0.4527,0.0173,2.0089,0.3543,2.8339
+17,How many semesters is a B.E. or B.Tech. programme normally completed in?,How many semesters is a B or B dot tech dot program normally completed in?,ok,,0.4274,0.0159,2.0704,0.2709,2.7851
+18,What is the maximum duration for completing the B.E. or B.Tech. programme for HSC students?,What is the maximum duration for completing the BE or BE.Tech.Program for HSE students?,ok,,0.443,0.0192,2.4962,0.5548,3.5137
+19,What courses can a student register for from the second semester onwards?,What courses can a student register for from the second semester onwards?,ok,,0.4765,0.017,5.3567,2.1695,8.0202
+20,When does course enrollment for semesters II to VIII commence?,When does course enrollment for semesters Roman 2 to Roman 8 commence?,ok,,0.5428,0.0134,2.0172,0.3235,2.8972
+21,What undergraduate programme is offered by the Information Technology department?,What undergraduate program is offered by the Information Technology Department?,ok,,0.3995,0.0214,1.6622,0.1416,2.2251
+22,What postgraduate programme is offered by the Information Technology department?,What postgraduate program is offered by the Information Technology Department?,ok,,0.4579,0.0181,0.0,0.1948,0.6713
+23,What programmes are offered by the Electronics and Communication Engineering department?,What programs are offered by the Electronics and Communication Engineering Department?,ok,,0.4476,0.0238,0.0,0.5352,1.007
+24,What undergraduate programme is offered by the Artificial Intelligence and Machine Learning department?,What undergraduate program is offered by the Artificial Intelligence and Machine Learning Department?,ok,,0.4474,0.0217,0.0,0.1921,0.6617
+25,What minor programme in Data Science is listed by Rajalakshmi Engineering College?,What minor program in data science is listed by Rajalakshmi Engineering College?,ok,,0.4221,0.0181,1.7123,0.1845,2.3374
+26,Who is listed as Professor and Head of the Computer Science and Engineering department?,who was listed as Professor and Head of the Computer Science and Engineering Department.,ok,,0.4158,0.0198,0.0,0.2476,0.6837
+27,Who is listed as Professor and Head of the Electronics and Communication Engineering department?,who is listed as Professor and Head of the Electronics and Communication Engineering Department.,ok,,0.4097,0.0192,0.0,0.2863,0.7155
+28,Who is listed as Professor and Head of the Information Technology department?,who is listed as Professor and Head of the Information Technology Department.,ok,,0.3895,0.0215,0.0,0.2608,0.6722
+29,Who is listed as Professor and Head of the Artificial Intelligence and Machine Learning department?,who is listed as Professor and Head of the Artificial Intelligence and Machine Learning Department.,ok,,0.4652,0.0188,0.0,0.3025,0.7869
+30,Who is listed as Professor and Head of the Computer Science and Design department?,who was listed as Professor and Head of the Computer Science and Design Department.,ok,,0.4046,0.0202,0.0,0.231,0.6563
+31,Who is listed as Professor and Head of the Mechanical Engineering department?,who was listed as Professor and Head of the Mechanical Engineering Department.,ok,,0.4286,0.021,0.0,0.2492,0.6993
+32,Who is listed as Professor and Head of the Robotics and Automation department?,who is listed as Professor and Head of the Robotics and Automation Department.,ok,,0.4027,0.0217,0.0,0.2197,0.6444
+33,Who is listed as Professor and Head of Management Studies?,who was listed as Professor and Head of Management Studies.,ok,,0.3735,0.0216,0.0,0.2282,0.6238
+34,Who is listed as Professor and Head of Humanities and Sciences?,who is listed as Professor and Head of Humanities and Sciences.,ok,,0.3936,0.0175,0.0,0.2718,0.6832
+35,Who is the Controller of Examinations listed in the Academic Council?,Who is the controller of examinations listed in the academic council?,ok,,0.3942,0.016,0.0,0.1351,0.5457
+36,What is the minimum attendance required for a course?,What is the minimum attendance required for a course?,ok,,0.3754,0.015,1.9945,0.2679,2.6532
+37,What happens when attendance is between 65% and 74%?,What happens when attendance is between 65% and 74%?,ok,,0.4071,0.0223,0.0,0.6187,1.0485
+38,How many semesters can attendance concession be availed?,How many semesters can attendance concession beat availed?,ok,,0.386,0.0195,1.8751,0.2892,2.5702
+39,What happens if a student does not satisfy the attendance requirements?,What happens if a student does not satisfy the attendance requirements?,ok,,0.4481,0.0178,0.0,0.3591,0.8255
+40,What is the maximum number of courses that can be added or dropped in a semester?,What is the maximum number of courses that can be added or dropped in a semester?,ok,,0.4329,0.0163,2.5959,0.5585,3.604
+41,What is the medium of instruction at Rajalakshmi Engineering College?,What is the medium of instruction at Rajalakshmi Engineering College?,ok,,0.4494,0.017,0.0,0.0951,0.5619
+42,What is the normal duration of the B.E./B.Tech. programme in semesters?,What is the normal duration of the b.he.b.tech.program in semesters?,ok,,0.4599,0.017,2.5287,0.4737,3.4797
+43,What is the maximum programme duration allowed for HSC or equivalent students?,What is the maximum program duration allowed for HSC or equivalent students?,ok,,0.4222,0.0166,1.6964,0.2466,2.3822
+44,How many working days are normally provided in a semester?,How many working days are normally provided in a semester?,ok,,0.3777,0.0167,1.7349,0.1568,2.2865
+45,How many courses can be added or dropped at maximum in one semester?,how May courses can be added or dropped at maximum in one semester.,ok,,0.3991,0.0174,1.8008,0.186,2.4038
+46,How is performance in each course evaluated?,How is performance in each course evaluated?,ok,,0.3664,0.0216,2.0109,0.3682,2.7675
+47,What is the maximum mark for each course?,What is the maximum mark for each course?,ok,,0.3694,0.0169,1.7353,0.1881,2.3101
+48,How long is the normal End Semester Examination for theory courses?,How long is the normal end semester examination for theory courses?,ok,,0.4183,0.0165,1.8459,0.2638,2.5453
+49,When are odd-semester End Semester Examinations normally conducted?,when are a semester in semester examinations normally conducted?,ok,,0.3779,0.0173,2.3744,0.6933,3.4634
+50,When are even-semester End Semester Examinations normally conducted?,when are even semester in semester examinations normally conducted.,ok,,0.4077,0.0196,1.6125,0.2748,2.315
+51,Who appoints internal and external examiners for End Semester Examinations?,who appoints internal and external examiners for end-semester examinations.,ok,,0.4217,0.0158,1.6893,0.231,2.3582
+52,What minimum total percentage is required to pass a course?,What minimum total percentage is required to pass a course?,ok,,0.379,0.0179,2.3277,0.5596,3.2846
+53,What minimum percentage in the End Semester Examination is required for passing a course?,What minimum percentage in the end semester examination is required for passing a course?,ok,,0.426,0.0172,1.9581,0.2771,2.6788
+54,Where can a student submit an application for revaluation?,Where can a student submit an application for evaluation?,ok,,0.3835,0.0195,2.0513,0.3891,2.8438
+55,How many working days before an End Semester Examination is the normal withdrawal application deadline?,How many working days before an end semester examination is the normal withdrawal application deadline?,ok,,0.4679,0.0148,2.0789,0.4147,2.9767
+56,Who heads the Administrative Department of the college?,who heads the administrative department of the college.,ok,,0.3651,0.0185,1.478,0.1775,2.0394
+57,"Which office handles student service, HR, purchase and dispatch?","which Office handles Student Service, HR, Purchase and Dispatch.",ok,,0.4305,0.0197,1.4662,0.2088,2.1255
+58,Can students contact the Administrative Office for fee-related queries?,Can students contact the Administrative Office for fee-related queries?,ok,,0.388,0.0211,0.0,0.1892,0.6101
+59,Can students contact the Administrative Office for identity cards?,Can students contact the administrative office for identity cards?,ok,,0.3699,0.0212,0.0,0.1876,0.5791
+60,Can students contact the Administrative Office for bonafide certificates?,Can students contact the Administrative Office for bona fide certificates?,ok,,0.3991,0.0188,1.4474,0.1996,2.0653
+61,Can students contact the Administrative Office for bus passes?,Can students contact the administrative office for bus passes?,ok,,0.4171,0.0218,0.0,0.1738,0.613
+62,Can students contact the Administrative Office for hall tickets?,Can students contact the Administrative Office for Hall Tickets?,ok,,0.3686,0.0183,0.0,0.1796,0.5669
+63,What is the name of the ERP software used for college administration?,What is the name of the ERP software used for college administration?,ok,,0.4728,0.0173,0.0,0.2021,0.6927
+64,"Which ERP modules include attendance, library, transport, examinations and hostel?","which ARP modules include attendance, library, transport, examinations and hostel.",ok,,0.4047,0.0237,1.8143,0.3899,2.6331
+65,Can the REC Unified Portal generate fee certificates?,Can the REC Unified Portal Generate fee certificates?,ok,,0.3675,0.0406,1.8273,0.3157,2.5515
+66,How many boys can the college hostels accommodate?,How many boys can the college hostels accommodate?,ok,,0.378,0.0206,1.7035,0.1443,2.2469
+67,How many girls can the college hostels accommodate?,How many girls can the college hostels accommodate?,ok,,0.3906,0.0206,1.6104,0.1777,2.1996
+68,Are separate hostels available for boys and girls?,Are separate hostels available for boys and girls?,ok,,0.3923,0.0177,1.7224,0.1525,2.2854
+69,Who is responsible for allocating hostel rooms?,who is responsible for allocating hostile rooms.,ok,,0.3625,0.022,1.564,0.1647,2.1137
+70,What type of food is served in the hostel mess?,What type of food is served in the hostel mess?,ok,,0.3795,0.0201,1.7157,0.1072,2.2229
+71,When are hostel visitors allowed on holidays?,when are hostile visitors allowed on holidays?,ok,,0.3648,0.0242,2.1263,0.2517,2.7675
+72,How many books are held by the central library according to the library policy?,how many books are held by the central library according to the library policy.,ok,,0.4291,0.0201,1.9708,0.2475,2.6679
+73,Does the central library provide remote access to e-resources?,Does the central library provide remote access to e-resources?,ok,,0.3888,0.0231,0.0,0.1759,0.5883
+74,What facility is available in the library for digital resources?,What facility is available in the library for digital resources?,ok,,0.4256,0.0178,1.7995,0.2346,2.478
+75,What sports facilities are maintained by the college sports complex?,What sports facilities are maintained by the college sports complex?,ok,,0.3955,0.0257,2.1764,0.4698,3.0679
+76,Does Rajalakshmi Engineering College have a dedicated Training and Placement Cell?,Does Rajalakshmi Engineering College have a dedicated training and placement cell?,ok,,0.4526,0.0157,0.0,0.5679,1.0366
+77,What is the purpose of the Training and Placement Cell?,What is the purpose of the training and placement cell?,ok,,0.3708,0.0211,0.0,0.5537,0.946
+78,Can an eligible student apply for a company visiting the campus?,Can an eligible student apply for a company visiting the campus?,ok,,0.4094,0.0201,0.0,0.1783,0.6083
+79,How many offers were reported for the 2021-2025 placement batch as of 12.09.2025?,how many offers were reported for the 2021-2020 five-placement batches of 12.09.2025.,ok,,0.511,0.0207,2.5011,0.4166,3.4498
+80,Name one company listed among the placement recruiters.,Name one company listed among the placement recruiters.,ok,,0.3495,0.0246,1.7843,0.1578,2.3166
+81,What is the salary threshold for a Super Dream offer under the placement policy?,What is the salary threshold for a super dream offer under the placement policy?,ok,,0.4157,0.0207,0.0,0.1531,0.59
+82,What salary is specified for a Dream offer under the placement policy?,What salaryed is specified for a dream offer under the placement policy?,ok,,0.4072,0.017,0.0,0.1146,0.5392
+83,What salary range is described as a General offer?,What salary range is described as a general offer?,ok,,0.3722,0.0169,0.0,0.1361,0.5257
+84,"Can a student with a General offer apply for another Dream, Super Dream or Core offer?","Hanna student with a general offer applied for another dream, super dream or core offer.",ok,,0.4558,0.0191,0.0,0.2174,0.6928
+85,What training does the placement centre provide to improve employability?,What training does the placement center provide to improve employability?,ok,,0.3904,0.0184,0.0,0.5657,0.975
+86,Where does Rajalakshmi Engineering College publish its latest events and updates?,Where does Rajalakshmi Engineering College publish its latest events and updates?,ok,,0.4208,0.023,1.7267,0.206,2.377
+87,Which student-life section covers athletics?,which student life section covers athletics.,ok,,0.3412,0.0175,1.8996,0.2148,2.4735
+88,Which student-life section covers health care?,which student life section covers health care.,ok,,0.3724,0.0216,1.6846,0.1787,2.258
+89,Which student-life section covers technical societies?,which student life section covers technical societies.,ok,,0.3637,0.0212,0.0,0.1934,0.5787
+90,Which student-life section covers dining facilities?,which Student Life section covers dining facilities.,ok,,0.3551,0.0195,0.0,0.1723,0.5473
+91,In which year was Rajalakshmi Engineering College established?,In which year was Rajalakshmi Engineering College established?,ok,,0.4165,0.0169,1.7776,0.2092,2.4208
+92,Is Rajalakshmi Engineering College an autonomous institution affiliated to Anna University?,Is Rajalakshmi Engineering College an autonomous institution affiliated to Anna University?,ok,,0.4514,0.0172,1.6931,0.2364,2.3984
+93,Where is the college campus located?,Where is the college campus located?,ok,,0.3431,0.015,1.8861,0.2543,2.4989
+94,How many undergraduate programmes does the college currently list on its admissions information?,How many undergraduate programs does the college currently list on its admissions information?,ok,,0.4542,0.0216,1.8707,0.2172,2.5642
+95,What accreditation grade is reported for Rajalakshmi Engineering College by NAAC?,What accreditation grade is reported for Rajalakshmi Engineering College by NOC?,ok,,0.4963,0.0151,2.0497,0.2535,2.815
+96,What is the weather today in Chennai?,What is the weather today in Chennai?,ok,,0.3758,0.0269,1.8835,0.2013,2.4879
+97,What is the current salary of a CSE faculty member at the college?,What is the current salary of a CSE faculty member at the college?,ok,,0.4327,0.0174,0.0,0.2099,0.6605
+98,What is my personal attendance percentage for this semester?,What is my personal attendance percentage for the semester?,ok,,0.372,0.0175,0.0,0.1943,0.5842
+99,What is my current outstanding fee amount?,What is my current outstanding fee amount?,ok,,0.3863,0.0205,1.9379,0.2154,2.5605
+100,What are my individual semester examination results?,What are my individual semester examination results?,ok,,0.3897,0.0206,0.0,0.2177,0.6284

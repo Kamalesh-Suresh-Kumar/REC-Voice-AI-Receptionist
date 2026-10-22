@@ -1,3 +1,4 @@
+
 from __future__ import annotations
 
 import csv
@@ -11,77 +12,115 @@ from app.voice.stt_service import STTService
 from app.voice.tts_service import TTSService
 
 
-# ============================================================
-# PATHS
-# ============================================================
+# ---------------------------------------------------------------------
+# Project paths
+# ---------------------------------------------------------------------
 
 PROJECT_ROOT = Path(__file__).resolve().parents[3]
-
 EVALUATION_DIR = PROJECT_ROOT / "evaluation_results"
-AUDIO_DIR = EVALUATION_DIR / "latency_test_audio"
+AUDIO_DIR = EVALUATION_DIR / "stt_audio" / "clean"
+MANIFEST_FILE = EVALUATION_DIR / "stt_test_manifest.csv"
 
 CSV_FILE = EVALUATION_DIR / "voice_latency_results.csv"
-GRAPH_FILE = EVALUATION_DIR / "voice_latency_graph.png"
-AVERAGE_GRAPH_FILE = EVALUATION_DIR / "voice_latency_average_graph.png"
+SUMMARY_FILE = EVALUATION_DIR / "voice_latency_summary.txt"
+GRAPH_FILE = EVALUATION_DIR / "voice_latency_average_graph.png"
 
+LATENCY_AUDIO_DIR = EVALUATION_DIR / "latency_test_audio"
 TTS_MODEL = PROJECT_ROOT / "models" / "tts" / "en_US-lessac-medium.onnx"
 
+# Evaluate up to 100 real clean synthetic-speech WAV samples.
+MAX_SAMPLES = 100
+
+# Keep more precision for short stages and near-zero rule-based responses.
+DECIMAL_PLACES = 4
+
 EVALUATION_DIR.mkdir(parents=True, exist_ok=True)
-AUDIO_DIR.mkdir(parents=True, exist_ok=True)
+LATENCY_AUDIO_DIR.mkdir(parents=True, exist_ok=True)
 
 
-# ============================================================
-# TEST QUESTIONS
-# ============================================================
+# ---------------------------------------------------------------------
+# Load test samples
+# ---------------------------------------------------------------------
 
-TEST_QUESTIONS = [
-    "What should a student do if they fail a course from an earlier semester?",
-    "Can I register for a subject that I could not attend the examination for previously?",
-    "If I successfully complete my earlier semesters, can I take subjects that normally belong to a higher semester?",
-    "What happens to my academic record if I have an attendance shortage?",
-    "If I have a medical emergency, what documentation might the college require?",
-    "How early should I complete my registration before the previous semester ends?",
-    "Can I replace a failed elective with another elective?",
-    "What are some of the main areas covered in the database course?",
-    "What is the normal academic duration of an undergraduate engineering degree here?",
-    "Are academic reports and examinations conducted in English?",
-]
+def load_samples() -> list[dict]:
+    if not MANIFEST_FILE.exists():
+        raise FileNotFoundError(
+            f"STT manifest not found: {MANIFEST_FILE}"
+        )
+
+    if not AUDIO_DIR.exists():
+        raise FileNotFoundError(
+            f"Clean STT audio directory not found: {AUDIO_DIR}"
+        )
+
+    with MANIFEST_FILE.open(
+        "r", newline="", encoding="utf-8-sig"
+    ) as file:
+        rows = list(csv.DictReader(file))
+
+    clean_rows = [
+        row
+        for row in rows
+        if row.get("condition", "").strip().lower() == "clean"
+    ]
+
+    samples = []
+
+    for row in clean_rows:
+        try:
+            sample_id = int(row["id"])
+        except (KeyError, TypeError, ValueError):
+            continue
+
+        audio_path = AUDIO_DIR / f"q{sample_id:03d}.wav"
+
+        if not audio_path.exists():
+            print(f"[SKIP] Missing audio file: {audio_path}")
+            continue
+
+        samples.append(
+            {
+                "test_id": sample_id,
+                "reference": row.get("reference", "").strip(),
+                "audio_path": audio_path,
+            }
+        )
+
+    samples.sort(key=lambda item: item["test_id"])
+
+    if not samples:
+        raise RuntimeError(
+            "No clean audio samples were found. "
+            "Check the manifest and audio directory."
+        )
+
+    selected_samples = samples[:MAX_SAMPLES]
+
+    if len(selected_samples) < MAX_SAMPLES:
+        print(
+            f"[WARNING] Requested {MAX_SAMPLES} samples, "
+            f"but only {len(selected_samples)} valid clean audio "
+            "samples are available."
+        )
+
+    return selected_samples
 
 
-# ============================================================
-# HELPERS
-# ============================================================
+# ---------------------------------------------------------------------
+# Convert TTS output to 8 kHz mono 16-bit PCM
+# ---------------------------------------------------------------------
 
-def create_test_wav(path: Path, duration_seconds: float = 1.0) -> None:
-    """
-    Creates a short silent WAV file.
+def convert_wav_to_8khz_pcm(input_wav: Path) -> bytes:
+    """Prepare synthesized WAV audio as 8 kHz mono 16-bit PCM."""
 
-    NOTE:
-    This file is only used so the STT/TTS pipeline can be tested
-    without changing audio_gateway.py.
-
-    For real STT latency, replace these files with actual recorded
-    question WAV files.
-    """
-
-    sample_rate = 16000
-    sample_width = 2
-    channels = 1
-
-    num_samples = int(sample_rate * duration_seconds)
-    silence = b"\x00\x00" * num_samples
-
-    with wave.open(str(path), "wb") as wf:
-        wf.setnchannels(channels)
-        wf.setsampwidth(sample_width)
-        wf.setframerate(sample_rate)
-        wf.writeframes(silence)
-
-
-def wav_to_8khz_pcm(input_wav: Path) -> bytes:
-    """
-    Convert generated TTS WAV to 8 kHz mono 16-bit PCM.
-    """
+    try:
+        import audioop
+    except ImportError as exc:
+        raise RuntimeError(
+            "The audioop module is unavailable in this Python version. "
+            "Use a compatible Python version or replace this conversion "
+            "with an installed audio-processing library."
+        ) from exc
 
     with wave.open(str(input_wav), "rb") as wf:
         channels = wf.getnchannels()
@@ -89,11 +128,18 @@ def wav_to_8khz_pcm(input_wav: Path) -> bytes:
         sample_rate = wf.getframerate()
         pcm = wf.readframes(wf.getnframes())
 
-    # Standard library conversion.
-    import audioop
+    if sample_width != 2:
+        raise ValueError(
+            f"Expected 16-bit PCM audio, got sample width "
+            f"{sample_width} bytes."
+        )
 
     if channels == 2:
         pcm = audioop.tomono(pcm, sample_width, 0.5, 0.5)
+    elif channels != 1:
+        raise ValueError(
+            f"Unsupported TTS channel count: {channels}"
+        )
 
     if sample_rate != 8000:
         pcm, _ = audioop.ratecv(
@@ -108,140 +154,182 @@ def wav_to_8khz_pcm(input_wav: Path) -> bytes:
     return pcm
 
 
-def save_results(results: list[dict]) -> None:
+# ---------------------------------------------------------------------
+# CSV output
+# ---------------------------------------------------------------------
 
+def save_csv(results: list[dict]) -> None:
     fieldnames = [
         "test_id",
-        "question",
+        "reference",
+        "transcript",
+        "status",
+        "error",
         "stt_seconds",
-        "rag_seconds",
+        "rag_retrieval_seconds",
         "llm_seconds",
         "tts_seconds",
         "total_seconds",
     ]
 
-    with open(CSV_FILE, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+    with CSV_FILE.open(
+        "w", newline="", encoding="utf-8"
+    ) as file:
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(results)
 
 
-def print_summary(results: list[dict]) -> None:
+# ---------------------------------------------------------------------
+# Summary statistics
+# ---------------------------------------------------------------------
 
-    metrics = [
-        "stt_seconds",
-        "rag_seconds",
-        "llm_seconds",
-        "tts_seconds",
-        "total_seconds",
+def write_summary(results: list[dict]) -> None:
+    successful = [
+        row for row in results if row["status"] == "ok"
     ]
 
-    print("\n" + "=" * 70)
-    print("VOICE AI LATENCY SUMMARY")
-    print("=" * 70)
+    failed = [
+        row for row in results if row["status"] != "ok"
+    ]
 
-    for metric in metrics:
-        values = [float(row[metric]) for row in results]
+    metrics = [
+        ("stt_seconds", "STT transcription"),
+        ("rag_retrieval_seconds", "RAG retrieval/context"),
+        ("llm_seconds", "LLM/service response stage"),
+        ("tts_seconds", "TTS synthesis + audio conversion"),
+        ("total_seconds", "Total offline pipeline"),
+    ]
 
+    lines = [
+        "REC Voice AI Receptionist - Offline Latency Evaluation",
+        "=" * 60,
+        f"Samples attempted: {len(results)}",
+        f"Successful end-to-end samples: {len(successful)}",
+        f"Failed samples: {len(failed)}",
+        "",
+        "Evaluation notes:",
+        "- Uses actual clean synthetic-speech WAV files.",
+        "- STT uses the recognized transcript, not the reference text.",
+        "- Failed samples are excluded from successful-sample averages.",
+        "- LLM/service timing may include deterministic rule-based answers.",
+        "- Total time measures the offline pipeline stages, not a complete "
+        "live telephone call.",
+        "",
+        "Averages below use successful samples only.",
+        "",
+    ]
+
+    for field, label in metrics:
+        values = [
+            float(row[field])
+            for row in successful
+            if row[field] != ""
+        ]
+
+        if values:
+            lines.append(
+                f"{label}: "
+                f"average={statistics.mean(values):.3f}s, "
+                f"min={min(values):.3f}s, "
+                f"max={max(values):.3f}s"
+            )
+        else:
+            lines.append(
+                f"{label}: no successful measurements"
+            )
+
+    text = "\n".join(lines)
+
+    SUMMARY_FILE.write_text(text, encoding="utf-8")
+
+    print("\n" + text)
+
+
+# ---------------------------------------------------------------------
+# Average latency graph
+# ---------------------------------------------------------------------
+
+def make_average_graph(results: list[dict]) -> None:
+    successful = [
+        row for row in results if row["status"] == "ok"
+    ]
+
+    if not successful:
         print(
-            f"{metric:20s} "
-            f"AVG: {statistics.mean(values):7.3f}s   "
-            f"MIN: {min(values):7.3f}s   "
-            f"MAX: {max(values):7.3f}s"
+            "[WARNING] No successful samples; graph not generated."
         )
-
-    print("=" * 70)
-
-
-def generate_graphs(results: list[dict]) -> None:
+        return
 
     import matplotlib.pyplot as plt
 
-    test_ids = [int(row["test_id"]) for row in results]
-
-    stt = [float(row["stt_seconds"]) for row in results]
-    rag = [float(row["rag_seconds"]) for row in results]
-    llm = [float(row["llm_seconds"]) for row in results]
-    tts = [float(row["tts_seconds"]) for row in results]
-    total = [float(row["total_seconds"]) for row in results]
-
-    # ========================================================
-    # GRAPH 1: COMPONENT LATENCY PER TEST
-    # ========================================================
-
-    plt.figure(figsize=(12, 7))
-
-    plt.plot(test_ids, stt, marker="o", label="STT")
-    plt.plot(test_ids, rag, marker="o", label="RAG")
-    plt.plot(test_ids, llm, marker="o", label="LLM")
-    plt.plot(test_ids, tts, marker="o", label="TTS")
-    plt.plot(test_ids, total, marker="o", label="Total")
-
-    plt.xlabel("Test Case")
-    plt.ylabel("Time (seconds)")
-    plt.title("Voice AI Pipeline Latency per Test Case")
-
-    plt.xticks(test_ids)
-    plt.grid(True, alpha=0.3)
-    plt.legend()
-
-    plt.tight_layout()
-    plt.savefig(GRAPH_FILE, dpi=300)
-    plt.close()
-
-    # ========================================================
-    # GRAPH 2: AVERAGE COMPONENT LATENCY
-    # ========================================================
-
-    labels = [
-        "STT",
-        "RAG",
-        "LLM",
-        "TTS",
-        "Total",
+    fields = [
+        ("stt_seconds", "STT"),
+        ("rag_retrieval_seconds", "RAG retrieval"),
+        ("llm_seconds", "LLM/service"),
+        ("tts_seconds", "TTS"),
+        ("total_seconds", "Total pipeline"),
     ]
 
-    averages = [
-        statistics.mean(stt),
-        statistics.mean(rag),
-        statistics.mean(llm),
-        statistics.mean(tts),
-        statistics.mean(total),
-    ]
+    labels = []
+    averages = []
+
+    for field, label in fields:
+        values = [
+            float(row[field])
+            for row in successful
+            if row[field] != ""
+        ]
+
+        if values:
+            labels.append(label)
+            averages.append(statistics.mean(values))
 
     plt.figure(figsize=(10, 6))
 
     bars = plt.bar(labels, averages)
 
-    plt.xlabel("Pipeline Component")
-    plt.ylabel("Average Time (seconds)")
-    plt.title("Average Voice AI Pipeline Latency")
+    plt.xlabel("Pipeline stage")
+    plt.ylabel("Average time (seconds)")
+    plt.title(
+        "Average Offline Voice AI Receptionist Pipeline Latency"
+    )
 
     for bar, value in zip(bars, averages):
         plt.text(
             bar.get_x() + bar.get_width() / 2,
             bar.get_height(),
-            f"{value:.2f}s",
+            f"{value:.3f}s",
             ha="center",
             va="bottom",
         )
 
-    plt.grid(axis="y", alpha=0.3)
-
     plt.tight_layout()
-    plt.savefig(AVERAGE_GRAPH_FILE, dpi=300)
+    plt.savefig(GRAPH_FILE, dpi=300)
     plt.close()
 
+    print(f"Average latency graph: {GRAPH_FILE}")
 
-# ============================================================
-# MAIN EVALUATION
-# ============================================================
 
-def main():
+# ---------------------------------------------------------------------
+# Main evaluation
+# ---------------------------------------------------------------------
 
+def main() -> None:
     print("=" * 70)
-    print("REC VOICE AI RECEPTIONIST - LATENCY EVALUATION")
+    print("REC VOICE AI RECEPTIONIST - OFFLINE LATENCY EVALUATION")
     print("=" * 70)
+
+    print(
+        "Using actual clean synthetic-speech WAV files; "
+        "no silent audio or transcript fallback."
+    )
+
+    samples = load_samples()
+
+    print(f"Samples selected: {len(samples)}")
+    print(f"Audio directory: {AUDIO_DIR}")
+    print(f"Output directory: {EVALUATION_DIR}")
 
     print("\nLoading STT model...")
     stt = STTService()
@@ -252,157 +340,181 @@ def main():
     print("Loading TTS service...")
     tts = TTSService(model_path=str(TTS_MODEL))
 
-    print("\nAll services loaded successfully.")
+    print("All services loaded.")
 
     results = []
 
-    for index, question in enumerate(TEST_QUESTIONS, start=1):
+    for index, sample in enumerate(samples, start=1):
+        test_id = sample["test_id"]
+        audio_path = sample["audio_path"]
+        reference = sample["reference"]
 
         print("\n" + "-" * 70)
-        print(f"TEST {index}/{len(TEST_QUESTIONS)}")
-        print(f"Question: {question}")
-        print("-" * 70)
+        print(
+            f"Sample {index}/{len(samples)} | "
+            f"ID {test_id} | {audio_path.name}"
+        )
 
         pipeline_start = time.perf_counter()
 
-        # ====================================================
-        # STT
-        # ====================================================
-
-        audio_file = AUDIO_DIR / f"test_{index:02d}.wav"
-
-        create_test_wav(audio_file)
-
-        stt_start = time.perf_counter()
+        row = {
+            "test_id": test_id,
+            "reference": reference,
+            "transcript": "",
+            "status": "failed",
+            "error": "",
+            "stt_seconds": "",
+            "rag_retrieval_seconds": "",
+            "llm_seconds": "",
+            "tts_seconds": "",
+            "total_seconds": "",
+        }
 
         try:
-            transcript = stt.transcribe(str(audio_file))
-        except Exception as e:
-            print(f"[STT ERROR] {e}")
-            transcript = question
+            # ---------------------------------------------------------
+            # 1. Speech-to-text transcription
+            # ---------------------------------------------------------
+            stage_start = time.perf_counter()
 
-        stt_end = time.perf_counter()
+            transcript = stt.transcribe(str(audio_path))
 
-        stt_seconds = stt_end - stt_start
+            stt_elapsed = time.perf_counter() - stage_start
+            row["stt_seconds"] = round(
+                stt_elapsed, DECIMAL_PLACES
+            )
 
-        print(f"STT       : {stt_seconds:.3f}s")
-        print(f"Transcript: {transcript}")
+            transcript = (
+                str(transcript).strip()
+                if transcript is not None
+                else ""
+            )
 
-        # ====================================================
-        # RAG RETRIEVAL
-        # ====================================================
+            row["transcript"] = transcript
 
-        rag_start = time.perf_counter()
+            print(
+                f"STT ({stt_elapsed:.4f}s): {transcript}"
+            )
 
-        retrieved_results = rag.retriever.search(
-            query=question,
-            top_k=rag.top_k,
-        )
+            if not transcript:
+                raise RuntimeError(
+                    "STT returned an empty transcript. "
+                    "Sample excluded from successful metrics."
+                )
 
-        context = rag._build_context(retrieved_results)
+            # ---------------------------------------------------------
+            # 2. RAG retrieval and context preparation
+            # ---------------------------------------------------------
+            stage_start = time.perf_counter()
 
-        rag_end = time.perf_counter()
+            retrieved_results = rag.retriever.search(
+                query=transcript,
+                top_k=rag.top_k,
+            )
 
-        rag_seconds = rag_end - rag_start
+            context = rag._build_context(retrieved_results)
 
-        print(f"RAG       : {rag_seconds:.3f}s")
+            rag_elapsed = time.perf_counter() - stage_start
+            row["rag_retrieval_seconds"] = round(
+                rag_elapsed, DECIMAL_PLACES
+            )
 
-        # ====================================================
-        # LLM
-        # ====================================================
+            print(
+                f"RAG retrieval/context: {rag_elapsed:.4f}s"
+            )
 
-        llm_start = time.perf_counter()
+            # ---------------------------------------------------------
+            # 3. LLM/service response stage
+            # ---------------------------------------------------------
+            stage_start = time.perf_counter()
 
-        answer = rag.llm.generate(
-            question=question,
-            context=context,
-        )
+            answer = rag.llm.generate(
+                question=transcript,
+                context=context,
+            )
 
-        llm_end = time.perf_counter()
+            llm_elapsed = time.perf_counter() - stage_start
+            row["llm_seconds"] = round(
+                llm_elapsed, DECIMAL_PLACES
+            )
 
-        llm_seconds = llm_end - llm_start
+            answer_length = (
+                len(answer)
+                if isinstance(answer, str)
+                else "non-string"
+            )
 
-        print(f"LLM       : {llm_seconds:.3f}s")
+            print(
+                f"LLM/service response: {llm_elapsed:.4f}s | "
+                f"answer length: {answer_length}"
+            )
 
-        # ====================================================
-        # TTS
-        # ====================================================
+            if not isinstance(answer, str) or not answer.strip():
+                raise RuntimeError(
+                    "LLM/service returned an empty answer."
+                )
 
-        output_wav = AUDIO_DIR / f"response_{index:02d}.wav"
+            # ---------------------------------------------------------
+            # 4. Text-to-speech synthesis and audio preparation
+            # ---------------------------------------------------------
+            output_wav = (
+                LATENCY_AUDIO_DIR
+                / f"response_{test_id:03d}.wav"
+            )
 
-        tts_start = time.perf_counter()
+            stage_start = time.perf_counter()
 
-        tts.synthesize(
-            answer,
-            output_wav,
-        )
+            tts.synthesize(answer, output_wav)
 
-        # Read output so TTS preparation is included.
-        _ = wav_to_8khz_pcm(output_wav)
+            if not output_wav.exists():
+                raise FileNotFoundError(
+                    f"TTS output WAV was not created: {output_wav}"
+                )
 
-        tts_end = time.perf_counter()
+            _ = convert_wav_to_8khz_pcm(output_wav)
 
-        tts_seconds = tts_end - tts_start
+            tts_elapsed = time.perf_counter() - stage_start
+            row["tts_seconds"] = round(
+                tts_elapsed, DECIMAL_PLACES
+            )
 
-        print(f"TTS       : {tts_seconds:.3f}s")
+            print(
+                f"TTS synthesis + conversion: {tts_elapsed:.4f}s"
+            )
 
-        # ====================================================
-        # TOTAL
-        # ====================================================
+            row["status"] = "ok"
 
-        pipeline_end = time.perf_counter()
+        except Exception as exc:
+            row["error"] = (
+                f"{type(exc).__name__}: {exc}"
+            )
+            print(f"[FAILED] {row['error']}")
 
-        total_seconds = pipeline_end - pipeline_start
+        finally:
+            total_elapsed = time.perf_counter() - pipeline_start
 
-        print(f"TOTAL     : {total_seconds:.3f}s")
+            row["total_seconds"] = round(
+                total_elapsed, DECIMAL_PLACES
+            )
 
-        results.append(
-            {
-                "test_id": index,
-                "question": question,
-                "stt_seconds": round(stt_seconds, 3),
-                "rag_seconds": round(rag_seconds, 3),
-                "llm_seconds": round(llm_seconds, 3),
-                "tts_seconds": round(tts_seconds, 3),
-                "total_seconds": round(total_seconds, 3),
-            }
-        )
+            print(
+                f"Total elapsed for sample: {total_elapsed:.4f}s"
+            )
 
-    # ========================================================
-    # SAVE CSV
-    # ========================================================
+            results.append(row)
 
-    save_results(results)
+            # Save progress after every sample.
+            save_csv(results)
 
-    # ========================================================
-    # PRINT SUMMARY
-    # ========================================================
+    # -----------------------------------------------------------------
+    # Save final evaluation outputs
+    # -----------------------------------------------------------------
+    write_summary(results)
+    make_average_graph(results)
 
-    print_summary(results)
-
-    # ========================================================
-    # GENERATE GRAPHS
-    # ========================================================
-
-    print("\nGenerating graphs...")
-
-    generate_graphs(results)
-
-    print("\n" + "=" * 70)
-    print("EVALUATION COMPLETED")
-    print("=" * 70)
-
-    print(f"\nCSV:")
-    print(CSV_FILE)
-
-    print(f"\nGraph 1:")
-    print(GRAPH_FILE)
-
-    print(f"\nGraph 2:")
-    print(AVERAGE_GRAPH_FILE)
-
-    print("\nEvaluation folder:")
-    print(EVALUATION_DIR)
+    print("\nEvaluation completed.")
+    print(f"Detailed CSV: {CSV_FILE}")
+    print(f"Summary text: {SUMMARY_FILE}")
+    print(f"Average graph: {GRAPH_FILE}")
 
 
 if __name__ == "__main__":

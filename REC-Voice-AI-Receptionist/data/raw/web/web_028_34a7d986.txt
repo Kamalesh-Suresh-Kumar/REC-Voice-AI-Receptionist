@@ -1,0 +1,123 @@
+TITLE: Electrical & Electronics Engineering | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/eee
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+Programmes Offered UG - B.E. Electrical and Electronics Engineering PG - M.E. Embedded System Technologies Ph.D. - Electrical and Electronics Engineering The Department of Electrical and Electronics Engineering was established in the year 1999-2000. Currently, the department offers Undergraduate degree in Electrical and Electronics Engineering and a Postgraduate degree in Embedded Systems. It has also been recognized as a Research Centre by Anna University, Chennai, for offering Ph.D. and M.S (by Research) programme. A number of candidates have enrolled for Ph.D. and are carrying out their research in core areas of Power Electronics and Drives, Power Systems, Special Machines, Renewable Energy and Embedded Systems. The department was reaccredited by the National Board of Accreditation (NBA) , New Delhi, in the year 2016 and was further reaccredited till the year 2022. The department has an elite group of faculty members who are dedicated and well experienced in different fields of specialization. The department is fully equipped with latest systems and apparatus in the Electrical machines, Power Electronics, Internet of Things Applications in Electrical Engineering, Control Systems, Power System Simulation, Embedded Systems, Measurements and Instrumentation laboratories. The mission of the department is to produce highly competent Electrical and Electronics Engineers with a sound knowledge in all the areas concerning the discipline. Vision To be an international centre for education, research and the application of knowledge, to benefit the society globally in the field of Electrical and Electronics Engineering. Mission To impart high quality technical education and develop Electrical and Electronics Engineers with a sound theoretical knowledge combined with practical skills in all the areas concerning the discipline. To inculcate innovative research capabilities and exemplary professional conduct to lead and to use technology for the progress of our country.
+Updated on 01.06.2026
+
+FACULTY
+=======
+Dr.M Sridevi, HoD & Professor
+Dr.Rama Reddy, Dean & Professor
+Dr. Subbiah M, Professor
+Dr.Nazar Ali A, Professor
+Dr.Sivakumar Ponnurangam, Professor
+Dr.Selvaraj A, Professor
+Dr.R. Essaki Raj, Professor
+Dr.R Kalaivani, Professor
+Dr.Alice Hepzibah, Professor
+Mr.Philip Praveen I, Professor
+Dr.Kavitha Jayapalan, Professor
+Dr.Thamizhselvan T, Professor
+Dr.Premkumar K, Associate Professor
+Dr.Sangari A, Associate Professor
+Dr.Devi Maheswaran, Associate Professor
+Dr.Padmavathi R, Associate Professor
+Ms.Arulmozhi Muruganantham, Assistant Professor
+Ms.Anitha D, Assistant Professor
+Dr.Shyam Daniel, Assistant Professor
+Dr.Umamaheswari M G, Professor
+Dr.Rajalakshmi A, Professor
+Dr.Geetha Priya V, Professor
+Dr.Kandaswamy K V ., Associate Professor
+Dr.P R Sivaraman, Associate Professor
+Dr.Thirusenthil Kumaran P, Associate Professor
+Ms.C Amutha, Assistant Professor
+Ms.Jayashree K, Assistant Professor
+Dr.Brindhu Kumari, Assistant Professor
+Dr.Dhandayuthapani Sundaramoorthi, Assistant Professor
+Mr.Srinivasan C, Assistant Professor
+Ms.Aswini A, Assistant Professor
+Ms.Vijayalakshmi K M, Assistant Professor
+Ms.Manimegalai D, Assistant Professor
+Dr.Vinitha J C, Assistant Professor
+Dr.Sowmiya A, Assistant Professor
+Ms.Jeny Sophia Sengole, Assistant Professor
+Ms.Sivamani D, Assistant Professor
+Ms.Sivagami V, Assistant Professor
+Mr.Ron Carter, Assistant Professor
+Mr.Ragupathy P, Assistant Professor
+Ms.Anto Sheeba, Assistant Professor
+Dr.Saravanan Ts, Assistant Professor
+Dr.Santhana Krishnan T, Assistant Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+PROGRAMME EDUCATIONAL OBJECTIVES
+To provide students with a strong foundation in mathematics, science and engineering, necessary to understand and solve engineering problems in the core and allied areas and prepare the students for a successful career in industries and also for higher studies.
+To enable the students to apply the knowledge for analyzing and evaluating the existing electrical and electronic systems needed in power electronic drives, variety of controllers, and power systems and to use the expertise gained to create new systems.
+To provide the students, software skills for taking up research in upcoming areas in the interdisciplinary fields, and for embarking on entrepreneurial ventures with an aptitude for lifelong learning.
+Engineering Graduates will be able to:
+Engineering knowledge :
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Problem analysis:
+Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+Design/development of solutions:
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+Conduct investigations of complex problems:
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions.
+Modern tool usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The engineer and society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability:
+Understand the impact of the professional engineering Solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Ethics:
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Individual and team work:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication:
+Communicate effectively on complex engineering activities with the Engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Project management and finance:
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Life-long learning:
+Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PO1 :
+An ability to independently carry out research / investigation and development work to solve practical problems
+PO2 :
+An ability to write and present a substantial technical report/ document
+PO3 :
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. The mastery should be at a level higher than the requirements in the appropriate bachelor program
+PO4 :
+To acquire expertise in Embedded System Technology, for imparting domain knowledge in Electrical circuits, electronic devices, information technology and communication engineering to develop inter-process communication techniques based on hardware– software approaches for real time process automations
+PO5 :
+An ability to analyze and interpret data with the knowledge of embedded systems, to design and test relevant components required for applications in multidisciplinary domains, to become globally employable professionals or entrepreneurs.
+PO6 :
+To enhance teaching & research contributions in embedded system technology with an ability to fabricate hardware and software systems and processes, in tune with the latest developments and Industry requirements, particularly in electrical and allied fields.
+PROGRAM SPECIFIC OUTCOMES (PSOs)
+Analyze, evaluate and design Electrical and Electronic circuits and machines.
+Comprehend the structure of power apparatus and systems and analyze their operation, control, protection and utilization.
+Use of programmable devices, embedded systems and software tools for the simulation, design and building newer electrical and electronic systems leading to research and inventions.
+Regulations 2023
+Regulations 2019 (From 2021-25 batch)
+Regulations 2019
+Regulations 2017 (From 2018-22 batch)
+Regulations 2017 (2017-21 batch)
+Regulations 2013
+$2a
+The Electrical & Electronics Engineering degree program prepares the graduates to enter a dynamic and rapidly changing field with career opportunities in Electric Power, Power Electronics, Microprocessors and Controllers, Integrated Circuits, Robotics and Control, Computer Hardware and Software. The demand for electrical power, electronic systems and electric vehicles is increasing rapidly, which has increased the job opportunities for Electrical & Electronics engineers in growing industries such as, Renewable Power Generation, Manufacturing Electrical Equipment, Electronic Systems, Accessories, Research and Development departments which work on energy saving devices and hardware development.
+Electrical and Electronics Engineering is arguably the technology which has most shaped the world we live in. All aspects of our lives are affected by the electrical power we take for granted. Electrical and Electronics Engineers are responsible for the continued safe and responsible development of this technology in all its applications, through research, design and development, manufacture, service, marketing and consulting. Electrical and Electronics Engineering is a dynamic and exciting discipline which will continue to serve the needs of society through the economic and responsible exploitation of existing technology and the development of innovative ideas. To meet the needs and challenges, the department in REC has a firm commitment to develop and produce stalwart electrical engineers of high technical knowledge combined with leadership skills, decision making, design capabilities and problem solving.
+Supporting Staff Members
+Ms.Durga Devi, Department coordinator
+Mr.S.Balagurunathan, Lab Assistant
+Ms.P.Jeevitha, Lab Assistant
+Mr.M.Prabakaran, Lab Assistant
+Mrs.A.Selvi, Lab Assistant
+Mr.S.S.Arumugam, Lab Assistant
+Mr. P.Muthu Kumar, Lab Assistant
+Mr.G.Goutham, Lab Assistant
+Mr.L. Balasubramani, Lab Assistant
+

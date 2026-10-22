@@ -1,0 +1,1623 @@
+TITLE: Biotechnology | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/biotech
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+Programmes Offered UG - B.Tech. Biotechnology PG - M.Tech. Biotechnology Ph.D. - Biotechnology
+Engineering is imagination emerged through the aid of science to a plan on paper! Then it moves to realization in stone or metal or energy or even DNA and protein. Then it brings jobs and home to men. It elevates the standards of living. That’s the Engineer’s highest privilege. Biotechnology is a subject for those who are passionate about science and to all those who thirst for knowledge. Biotechnology has been running in our veins for centuries now. No other industry is better placed to enhance the quality of life and respond to society’s challenges of tackling an ageing and ever increasing population, healthcare choice and affordability, resource efficiency, food security, climate change and energy shortages. Biotech can and will pay economic, social and environmental dividends. Established in 2002 , the Department of Biotechnology offers B.Tech and M.Tech in Biotechnology, both of which are NBA accredited and the department has been granted permanent affiliation by Anna University. The department is also an Anna University recognised research centre offering Ph.D programme. Dedicated and experienced faculty members, with doctorate and post-doctoral qualifications sit on the editorial boards of prestigious peer reviewed national and international journals, are members of Boards of Studies, members of Syllabus Committees, Research Supervisors, Doctoral Committee members among other responsibilities. Our faculty members have been recognized all over the world for their quality and ability. The Department has been bestowed with Teaching Awards in Engineering by Staffordshire University and Education Matters . Scientific research in the department encompasses Cancer Biology, Bioinformatics, Environmental Engineering, Immunotechnology, Ethnopharmacology and Nanobiotechnology. Faculty has been granted research funding to the tune of INR 1 crore by various funding agencies. The department has established state of the art laboratories to develop natural polymers, biopesticides and food preservatives. The department also has Memorandums of Understanding with leading biotech companies like GE Health Care India and Eppendorf India Limited, to provide internationally recognised certificate training programmes to our students. The department has also established close relationship with central government funded bioincubators in the city that help provide the students with a taste for entrepreneurship. The department also supports its very own BT Society, Journal Club and Biosnippets magazine to explore different modes of inculcating knowledge. Some of the noteworthy products developed by our students include nanospun biomaterials for wound healing, portable diagnostic kits, Nano-herbal formulations for treatment of diabetes, atherosclerosis, myocardial infarction and supplements against drug induced toxicities. We are also focussed on environmental protection, by detection of environmental toxins, effluent treatment using biomaterials, phytoremediation, computational drug design and network biology. The department has produced 159 University ranks including 7 gold medals in UG and PG since inception. On the international stage our students have been the proud recipients of Indo-US Khorana Fellowship, NTU-India Connect Research Internship and MITACS Global Research Internship while teams from the department have successively bagged bronze and silver medals at iGEM Giant Jamboree held at MIT, Boston. On homeground, our students have received IAS/INSA/NASI Joint Research Fellowships, INSPIRE Fellowship, AcSIR Fellowship, JNCASR Fellowship and IITM-RuTAG Fellowship. Student teams from the department mentored by our proficient faculty have blazed their trails by winning DBT-ABLE Biotechnology Entrepreneurship Student Teams Award and IITM-PALS InnoWAH Innovation Challenge. Graduates from our department have gone on to pursue direct Ph.D in IITs, IISc and top notch Universities abroad. Our alumni are currently serving in NIH (USA), FDA (USA), GENTEK (USA), Princeton University (USA), BIOCON, NOVOZYMES, EPPENDORF to name a few.
+Vision To be a department of academic excellence focused on education, research and development and to conquer the frontiers of biotechnology, benefiting the society.
+MISSION
+To impart quality technical education in the different areas of Biotechnology.
+To continuously enhance and enrich the teaching/ learning process.
+To provide an ambience for overall development of the students, to be more creative, innovative and globally competent ethical professionals.
+To promote research and develop technologies and products for the sustenance and wellbeing of the society.
+Updated on 08.08.2026
+
+FACULTY
+=======
+Dr.M Sankar, HoD & Professor
+Dr. Johanna Rajkumar, Dean & Professor
+Dr.Swarnalatha Y, Professor
+Dr.Rajasekar Panchamoorthy, Professor
+Dr.Anitha Thulasi Singh, Professor
+Dr.Thiruvengadam Subramaniyan ., Professor
+Dr.Saravanan Periasamy, Associate Professor
+Dr.Vijaya Geetha Gajendrababu ., Associate Professor
+Dr.Anila R, Associate Professor
+Dr.Selvakumar Ta, Associate Professor
+Dr.Dorai Sridhar, Associate Professor
+Dr.Esha Esha, Associate Professor
+Dr.Vimala Devi M, Assistant Professor
+Dr.Rekha Ravindran ., Assistant Professor
+Dr.Saranya S R, Assistant Professor
+Ms.Sangeetha Gandhi S, Assistant Professor
+Dr.Sujata Roy, Assistant Professor
+Dr.Aloysius Dhivya M, Assistant Professor
+Dr.Veerabhuvaneshwari Veerichetty, Assistant Professor
+Mr.S C Ebine Joel, Assistant Professor
+Mr.Sasitharan R, Assistant Professor
+Ms.Dhivya Bharathi V, Assistant Professor
+Ms.Shyni S, Assistant Professor
+Dr.Shanthi M, Assistant Professor
+Dr.Preethy K R, Assistant Professor
+Ms.Sinduja M E, Assistant Professor
+Ms.Muneeswari Alias Surya S, Assistant Professor
+Ms.Divya Lakshmi S, Assistant Professor
+Dr.Premalatha N, Assistant Professor
+Dr.Arun Arumugaperumal, Assistant Professor
+Ms.Preethi B, Assistant Professor
+Dr.Carlin Geor Malar G, Assistant Professor
+Mr.Arunkumar Sampath Kumar, Assistant Professor
+Ms.Jeevitha R, Assistant Professor
+Dr.P B Sujiritha, Assistant Professor
+Ms.Jeya Reni, Assistant Professor
+Dr.Sathya K, Professor
+Dr.Haripriya Dayalan, Associate Professor
+Dr.Millicent Mabel Melvin, Associate Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+PROGRAMME EDUCATIONAL OBJECTIVES
+This program will enable Biotechnology graduates
+To apply knowledge across the disciplines and in emerging areas of biotechnology for higher studies, research, employability and product development.
+To develop communication skills, sense of responsibility to protect the environment and ethical conduct towards their profession and commitment to serve the society.
+To possess academic excellence, managerial skills, leadership qualities and understand the need for lifelong learning for a successful professional career.
+PROGRAMME OUTCOMES
+Engineering knowledge:
+Apply the knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems.
+Problem analysis:
+Identify, formulate, review research literature, and analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences.
+Design / development of solutions:
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal and environmental considerations.
+Conduct investigations of complex problems:
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions.
+Modern tool usage:
+Create, select and apply appropriate techniques, resources and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The engineer and society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability:
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and the need for sustainable development.
+Ethics:
+Apply the ethical principles and commit to professional ethics and responsibilities and norms of engineering practices.
+Individual and team work:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication:
+Communicate effectively in complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations and give and receive clear instructions.
+Project management and finance:
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one‘s own work, as a member and a leader in a team, to manage projects and in multidisciplinary environments.
+Life-long learning:
+Recognise the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAM SPECIFIC OUTCOMES (PSOs)
+To apply the knowledge and solve problems through clinical research and improve health related issues of the society
+To design, develop processes and bioproducts for health care
+Apply basic skills in Engineering to promote interdisciplinary research in Biotechnology
+Regulations 2023 ( From 2024-2028 batch)
+Regulations 2019 (From 2021-25 batch)
+Regulations 2019
+Regulations 2017 (From 2018-22 batch)
+Regulations 2017 (2017-21 batch)
+Regulations 2013
+Regulations 2023
+MOU's
+MoU FOR STRENGTHENING INDUSTRY INSTITUTE INTERACTION
+Eppendorf India Pvt Ltd, Chennai for providing training in spectrophotometric, molecular biology and cell culture techniques.
+Nippon Paint (India) Ltd. for student training in manufacturing principles and sustainability principles in manufacturing processes, consultancy projects, Faculty Development Programme.
+M/s Aravindh Herbal Labs Pvt Ltd, Rajapalayam and M/s Intrinsic Herbal Research Labs Pvt Ltd, Rajapalayam to train students, who are eager to create and put into action the ideas, methods, techniques and information in natural products and pharmaceutical research.
+LIST OF PUBLICATION IN JOURNALS
+(2024-2025)
+Yaashikaa PR, Palanivelu J, Hemavathy RV. \
+Sundararaman TR, Mabel M, Malar G. \
+Ravichandran A, Sivapackiam J, Periasamy S. \
+Preethi B, B. Vijayageetha. \
+Thiruvengadam S, Karthikeyan K, Ivo Romauld S, Shruthi ER, Ezhilarasu A. “Design and Development of Herbal Based Hydrophilic Ointment and Gel to Control Zoonotic Bacterial Diseases Transmitted by Dog Bites”, Journal of Chemical Health Risks, Vol. 13(3), pp 1575– 1586, June, 2024. ISSN:2251-6727. [Impact Factor: 0.255, Cite Score: 1.3, SNIP: 0.328, SCOPUS. Publisher: Journal of Chemical Health Risks, DOI: https://jchr.org/index.php/JCHR/article/view/4783]
+Sridhar D, Sankar M. “Evaluation of antibacterial activity of selected medicinal plant leaves on clinical pathogens”, Oxidation Communications”. Vol. 47(2), pp. 229–244, June 2024, ISSN: 0209-4541. [Cite Score: 0.7, SNIP: 0.333, SCOPUS, Publisher: SciBulCom Ltd. DOI: https://scibulcom.net/en/article/UDCt3238EKTPd4pFdkur]
+Kumar KK, Hemavathy RV, Shruthi S, Karanjith MR. “From Disposal to Asset: Comprehensive Insights into the Utilization and Management of Marine Shell Industrial Waster”, African Journal of Biological Sciences. Vol. 6(13), pp. 2192-2214. July 2024. ISSN: 2663-2187 [Impact Factor: 1.08, Publisher: Institute of Advanced Studies, DOI:
+. 2192-2214]
+Selvakumar TA, Jayaraman S, Sundaresan S, Kumar N, Senthilkumar K. “Novel class of antimicrobials from the marine isolates of actinomycetes and their potential screening against multidrug-resistant bacterial strains”, Journal of Applied and Natural Science. Vol. 16(3), pp. 938-48, September 2024. E-ISSN:2774-3047. [Impact Factor: 0.51, Cite Score: 0.8, SNIP: 0.982, SCOPUS, Publisher: Pandawa Institute, DOI: https://doi.org/10.31018/jans.v16i3.5633].
+Vijaya Geetha B, Muzhumathi Susithra K, Banupriya M. “Larvicidal activity assessment of Artemisia pallens leaves and Crossandra infundibuliformis flowers based synergistic formulation against Dengue fever causing Aedes aegypti”, African Journal of Biological Sciences. Vol. 6(15), pp. 4438-4452. September 2024. ISSN:2663-2187 [Impact Factor: 1.08, Publisher: Institute of Advanced Studies, DOI: https://doi.org/10.48047/AFJBS.6.15.2024.4438-4452].
+Sundar B, Madhavan S. “Evaluation of antioxidant and antimicrobial action of copper nanoparticles synthesized from Moringa oleifera pods”, Journal of Medicinal Plants. Vol. 23(89), pp. 17-31, September 2024. ISSN: 2717-204X [Cite score: 1.6, SNIP: 0.351, SCOPUS, Publisher: Institute of Medicinal Plants, ACECR, DOI: https://doi.org/10.61186/jmp.23.89.17].
+Gokul Neshan B, Arul B, Akaash J, Hemavathy RV, Mahesh M. “Phytochemical Composition and Multifaceted Bioactivities of Rhamnus alaternus Extracts”, African Journal of Biological Sciences. Vol. 6(14), pp. 13304-10310. September 2024. ISSN:2663-2187 [Impact Factor: 1.08, Publisher: Institute of Advanced Studies, DOI: https://doi.org/10.48047/AFJBS.6.14.2024.13304-13310].
+N Premalatha, Prathiba Rex, “A Comprehensive Review on Photocatalytic Degradation of Organophosphorus Pesticide Using ZnO Coupled Photocatalysts’, Desalination and Water Treatment. Vol. 320, pp. 100753, October 2024. ISSN 1944-3986. [Impact factor: 1, Cite Score: 2.2, SNIP: 0.282, SCOPUS, SCIE, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.dwt.2024.100753]
+Hemavathy RV, Kattupalli R, Sridevi V, Hamzah HT, Prasad KS, Yaashikaa PR. “Green synthesis of Pelargonium radens derived silver nanoparticles: Characterization studies and anticancer activity”, Materials Letters. Vol. 372, pp. 137075, October 2024. ISSN:0167-577X. [Impact Factor: 2.7, Cite Score: 5.6, SNIP: 0.703, SCOPUS, SCIE, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.matlet.2024.137075].
+Gayathiri E, Prakash P, Ahamed M, Pandiaraj S, Venkidasamy B, Dayalan H, Thangaraj P, Selvam K, Chaudhari SY, Govindasamy R, Thiruvengadam M. “Multitargeted pharmacokinetics, molecular docking and network pharmacology-based identification of effective phytocompounds from Sauropus androgynus (L.) Merr for inflammation and cancer treatment”, Journal of Biomolecular Structure and Dynamics, Vol. 42(15). pp. 7883–7896. October 2024. ISSN: 0739-1102. [Impact Factor: 2.7, SCOPUS, SCIE, Publisher: Taylor & Francis, DOI: https://doi.org/10.1080/07391102.2023.2243335].
+Aarthi Rashmi D, Shreenidhi KS, Harishchander A, Shanthi Priya, Suvathika G, SA Yadav. \
+Athmana PA, KI AJ, Elangovan SM, Paul R, Subbaiyan N, Shanmugam P, Krishnakumar GS. “Decellularization of caprine forestomach rumen tissue modified with silver nanowires as an antibacterial skin substitute scaffold in wound care therapeutics”. Journal of Materials Chemistry B. Vol.12(47), pp. 12291-12306, October 2024. ISSN: 2050 –7518, [Impact factor: 6.1, Cite score: 12.0, SNIP: 0.918, SCOPUS, SCIE, Publisher: RCS Advances, Royal Society of Chemistry, DOI: https://doi.org/10.1039/D4TB01560F]
+Shreenidhi KS, Vigneshwar R, Sv SR, Maline M, Roy S, Vijaya Geetha B. “A Study on Toxicity Mechanisms of Xenobiotics Using Network Pharmacology Approach”, Current Trends in Biotechnology and Pharmacy. Vol. 18(4s), pp. 138-151, November 2024. ISSN: 0973-8916 [Cite Score: 0.7, SNIP: 0.180, SCOPUS, SCIE, Publisher: Association of Biotechnology and Pharmacy, DOI:
+10.5530/ctbp.2024.4s.11].
+Kaviya V, Thiruvengadam S, Ivo Romauld S, Ezhilarasu A, Sankar M. “The power of nanoencapsulation in revolutionizing food reservation- a scoping review”, African Journal of Biological Sciences. Vol. 6(15), pp. 10564-10581. November 2024. ISSN: 2663-2187 [Impact Factor: 1.08, Publisher: Institute of Advanced Studies, DOI: https://doi.org/10.48047/AFJBS.6.15.2024.10563-10581].
+Vijayarangam V, Balasubramanian P, Palaniyandi T, Ravindran R, Suliman M, Saeed M, Natarajan S, Sivaji A, Baskar G. “Ferroptosis as a hero against oral cancer”, Pathology- Research and Practice. Vol. 263, pp. 155637, November 2024. ISSN:0344-0338 [Impact Factor: 2.9, SNIP: 0.625, SCOPUS, SCIE, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.prp.2024.155637].
+Ragini YP, Palanivelu J, Hemavathy RV. “Critical analysis of enhanced microbial bioremediation strategies of PAHs contaminated sites: Toxicity and techno-economic analysis”, Groundwater for Sustainable Development. Vol. 27, pp. 101369, November 2024. ISSN: 2352-801X [Impact Factor: 4.9, SNIP: 1.673, SCOPUS, ESCI, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.gsd.2024.101369]
+Elangovan SM, Paul R, Shanmugam P, Krishnakumar GS. “Synergistic integration of plant derived galactomannan and MXene to produce multifunctional nanocomposites with antibacterial and osteogenic properties”. Polymer. Vol. 315, pp. 127799, November 2024. ISSN 0032-3861, [Impact factor: 4.1, Cite score: 7.9, SNIP: 1.06, SCOPUS, SCIE, Publisher: Elsevier, DOI:
+.]
+Elango T, Jeyaraj A, Dayalan H, Arul S, Govindadamy R, Prathap K, Li X. \
+Shruthi S, RV Hemavathy. “Myco-remediation of Chromium heavy metal from industrial wastewater: a review”, Toxicology Reports. Vol. 13, pp. 2101740, December 2024. ISSN:2214-7500 [Cite Score: 7.6, SNIP: 1.095, SCOPUS, SCIE, Publisher: Pandawa Institute, DOI: https://doi.org/10.1016/j.toxrep.2024.101740].
+Sathya K, Jayalakshmi H, Reddy SN, Ratnam MV, Bandhu D. “Effective removal of Congo red dye using adsorbent prepared from bio-waste: isotherm, kinetic, and thermodynamic studies”, Biomass Conversion and Biorefinery, Vol. 15, pp. 3557-3569, February 2025. ISSN: 2190-6815. [Impact Factor: 3.5, SNIP: 0.881, SCOPUS, SCIE, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s13399-023-05213-6].
+M. Millicent Mabel, M. Monica, V. Praveena, R. Kamalesh, T.B. Kamali. \
+Thanigaivel S, Kamalesh R, Ragini YP, Saravanan A, Vickram AS, Abirami M, Thiruvengadam S. “Microplastic Pollution in Marine Environments: An In-Depth Analysis of Advanced Monitoring Techniques, Removal Technologies, and Future Challenges”, Marine Environmental Research. Vol. 205, pp. 106993. February 2025. ISSN: 0141-1136. [Impact Factor: 2.6. SNIP: 0.761, SCOPUS, SCIE, Publisher:, DOI: https://doi.org/10.1016/j.marenvres.2025.106993].
+Apoorvha JP, Brindha S, Ganesan M, Roy S. Weighted gene co-expression network analysis reveals the hub genes and molecular mechanism of quiescence. 3 Biotech. Vol. 15(2), pp. 42. February 2025. ISSN: 2190-5738. [Impact Factor: 3. SNIP: 0.932, SCOPUS, SCIE, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s13205-024-04203-3].
+Manju M, Sujata Roy, Anuratha T, Dhanasri S, Thirumalaivasan V. “Integrative Personalized Oncology: Leveraging Multi-Source Data and Drug Solubility for Optimal Cancer Treatment”, In 2025 3rd International Conference on Intelligent Systems, Advanced Computing and Communication (ISACC): Conference proceeding, pp. 37-42. February 2025. ISBN: 979-8- 3315-2389-3 [Publisher: IEEE, DOI: https://doi.org/10.1109/ISACC65211.2025.10969289]
+Dhandapani G, Shreenidhi KS, Anandaram H, Ezhilarasi P. “Design and Optimization of Rectangle shaped Biosensor for Hemoglobin Detection with Behavior Prediction in THz Regime”, ECS Journal of Solid State Science and Technology. Vol. 14(3), pp. 037005. March 2025. ISSN: 2162-8777 [Impact Factor: 1.8 SNIP: 0.605, SCOPUS, SCIE, Publisher: Electrochemical Society Inc, DOI: https://doi.org/10.1149/2162-8777/adc201].
+(2023-2024)
+Nithya R, Thirunavukkarasu A, Hemavathy RV, Sivashankar R, Kishore KA, Sabarish R. “Functionalized nanofibers in gas sorption process: a critical review on the challenges and prospective research”. Environmental Monitoring and Assessment, Vol. 195(8), pp. 969 July 2023. ISSN: 0167-6369 [Impact Factor: 3, SCOPUS, SCIE, Publisher: Springer Nature, DOI:https://doi.org/10.1007/s10661-023-11491-4]
+Dayalan Haripriya, Arul Santhosh, Giridharan Bupesh, Pattem Roshini, Suresh Nivedha, Sounderrajan Padmashree, Parthasarathy Srivatsan, Matcha Bhaskar, Konda Mani Saravanan, \
+Mishra AS, Varadarajan B, Sathish S, Roy S. \
+Thulasisingh A, Govindarajulu S, Kumar K, Kannaiyan S. “Chromium (VI) sorption employing sphyraena jello derived collagen/poly (vinyl alcohol) hydrogel”, Environmental Engineering & Management Journal. Vol. 22(5), pp.947-956. August 2023. ISSN:1582-9596. [Cite Score: 1.6, SNIP: 0.289, SCOPUS, SCIE, Publisher: Institutul Politehnic din Iasi, DOI: http://doi.org/10.30638/eemj.2023.076]
+Thulasisingh A, Ananthakrishnan K, Nandakumar J, Kannaiyan S. “Fermentative Biohydrogen Fuel Production Utilizing Wastewater: A Review’, Clean–Soil, Air, Water, Vol. 21(9), pp. 2300112. September 2023. ISSN:1863-0650. [Impact Factor: 2.404, SNIP: 0.477, SCOPUS, SCIE, Publisher: Wiley-Blackwell, DOI: https://doi.org/10.1002/clen.202300112]
+M. Monica, R. Jayasree, J. Irine Briny Hepzibha. \
+Rajendran PT, Chinniah R, Manohar R. \
+Kamalesh T, Kumar PS, Hemavathy RV, Rangasamy G. “A critical review on sustainable cellulose materials and its multifaceted applications”, Industrial Crops and Products, Vol. 203, pp. 117221. November 2023. ISSN: 0926-6690. [Impact Factor: 5.9, SCOPUS, SCIE, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.indcrop.2023.117221]
+Priyanka J, Poorani T. R, Ramya M. \
+Anand R, Shobana D, Visudha S, Yazhini PM, Niveditha S, Saravanan P. \
+S. Ivo Romauld, S. Thiruvengadam, D. Jenila Rani, J. Senthil Kumar, K. Rajakumari, P. Vivek, S. S. Meenambiga, S. Riyaz Sharif, S. Arun Pandiyan. “Development of antibacterial strip from essential oils of Illicium verum and Cinnamomum zeylanicum”, Oxidation Communications, Vol. 46(4), pp 861–874, December 2023. ISSN: 0209-4541. [Impact Factor: 0.216, Cite Score: 0.7, SCOPUS. Publisher: SciBulCom Ltd.]
+S. Ivo Romauld, T. Babu, S. Thiruvengadam, Anu Baisel, J. Senthil Kumar, P. Brindha Devi, P. Vivek, V. Suganya, N. Srinath “Antibaterial in vitro antidiabetic and lavicidal activity of plant extracts”, Oxidation Communications, Vol. 46(4), pp 851–860, December 2023. ISSN: 0209-4541. [Impact Factor: 0.216, Cite Score: 0.7, SCOPUS. Publisher: SciBulCom Ltd.]
+Gowtham R, Chandrasekaran R, Atchaya J, Ravindran R. \
+Varghese AT, Malar CG, Seenuvasan M, Jayapradha V. “Neodymium recovery from permanent magnets: A breakthrough approach using Deep Eutectic Solvents and Mica”, Journal of Molecular Liquids, Vol. 394, pp. 123690, January 2024. ISSN: 0167-7322 [Impact Factor: 6, SNIP: 1.272, SCOPUS, SCIE, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.molliq.2023.123690]
+Thulasisingh A, Ananthakrishnan K, Raja A, Kannaiyan S. “Bioprospecting of novel and industrially appropriate enzymes: A review”. Water, Air, & Soil Pollution. Vol. 235(1), pp. 12. January 2024. ISSN: 0049-6979. [Impact Factor: 3.8, SNIP: 0.666, SCOPUS, SCIE, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s11270-023-06831-6]
+Thulasisingh A, Venkatesan SA, Kumar S. “Green biopolysaccharides and its utilisation as biodegradable material in diverse fields: a review’, Polymer Bulletin, Vol. 81, pp. 165-187, January, 2024. ISSN:0170-0839. [Impact Factor: 3.1, SNIP: 0.878, SCOPUS, SCIE, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s00289-023-04738-0]
+Sundararaman TR, Sivalingam S, Mabel MM, Gobinath T. \
+Vijayakumar G, Kim HJ, Jo JW, Rangarajulu SK. “Macrofungal mediated biosynthesis of silver nanoparticles and evaluation of its antibacterial and wound-healing efficacy”, International Journal of Molecular Sciences. Vol. 25(2), pp. 861 January 2024. ISSN: 1661- 6596 [Impact Factor: 4.9, Cite Score: 8.1, SNIP: 1.120, SCOPUS, Publisher: Multidisciplinary Digital Publishing Institute (MDPI), DOI: https://doi.org/10.3390/ijms25020861].
+Giridharan B, Chinnaiah A, Saravanan KM, Parthasarathy S, Meenakshi Sundaram KK, Tharumasivam SV, Pankaj PP, Govindaraju A, Haripriya D, Sahoo UK. “Characterization of Novel Antimicrobial Peptides from the Epidermis of Clarias batrachus Catfish”, International Journal of Peptide Research and Therapeutics. Vol. 30. pp. 11. February 2024. ISSN: 1573-3149. [Impact Factor: 2.191, SCOPUS, SCIE, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s10989-024-10589-8].
+Anu Xavier, Reshma Ayswaria, Ben Raj, Shreenidhi KS, Harishchander Anandaram. \
+Anantharaman Seethalakshmy, B. Aarthirashmi, Riya C Ashraf, Angeetha Krishnan, Harishchander Anandaram, K.S. Shreenidhi, V. Muthu Laxmi. \
+Reshma Ayswaraia, AchuthJayakrishnan, Ben Raj, Harishchander Anandaram, Shreenidhi KS. \
+. 8223-8241]
+(2022-2023)
+P. Rajasekar and Prathinisha P, “Mucormycosis, a post-COVID infection: Possible adjunctive herbal therapeutics for the realigning of impaired immune-metabolism in diabetic subjects”, Herba Polonica, Vol. 68(2), pp. 1-13, June 2022, ISSN 0018-0599. [Impact Factor: 0.735, Cite Score: 1.5, SCOPUS Indexed, Publisher: Instytut Roslin i Przetworow Zielarskich, DOI: https://doi.org/10.2478/hepo-2022-0006].
+Kamalesh R, Vijayasri K, Thiruvengadam S, “Seaweeds, an aquatic plant-based protein for sustainable nutrition - A review”, Future Foods, Vol. 5, pp. 100142, June 2022. ISSN 2666-8335, [Impact Factor: 7.2, SCOPUS Indexed, ESCI, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.fufo.2022.100142]
+V.Karthik, B.Karuna,P. SenthilKumar,A.Saravanan,R.V.Hemavathy, \
+Anitha T, Krishnapriya K, B. Yamunadevi, N. Poojitha, S. Suhail MadharHanif & Sathishkumar K, “Biodegradable packaging materials”, Polymer Bulletin Vol. 79, pp. 4467- 4496, July 2022. ISSN:0170-0839. [Impact Factor: 3.2, SCOPUS, SCIE Indexed, Publisher: Springer Nature, DOI:
+.].
+K. Shankari, S. Ivo Romauld, P. Brindha Devi, K. Rajakumar, S. Thiruvengadam. “Antiplatelet and antiglycation activity of giant tiger prawn shell waste”, Oxidation Communications, Vol. 45(2), pp 274–288, August 2022. ISSN: 0209-4541. [Cite Score: 0.7 0.541, SCOPUS. Publisher: SciBulCom Ltd.]
+J. Srimathi Devi, A. Santosh, D. Hari Priya. “Zerumbone Sensitizes the Anti-Cancer efficacy of Cisplatin in Hepatocellular Carcinoma Cells’’, Anti-Cancer Agents in Medicinal Chemistry, Vol. 22, pp. 2885-2895, August 2022. ISSN: 1871-5206. [Impact Factor: 2.6, SCOPUS Indexed, SCIE Indexed, Publisher: Bentham Science, DOI: https://doi.org/10.2174/1871520622666220324090801]. (UGC Approved Journal Annexure Ⅱ: 872).
+Shreenidhi KS, Vijaya Geetha B, “A preliminary investigation on the antihepatotoxic activity of Artemisia pallens leaves in the diclofenac-treated – Pangasius Sps’, Polish Journal of Environmental Studies, Vol 31(5) pp. 4837-4849. August 2022. ISSN:1230-1485. [Impact Factor: 1.4, SCOPUS Indexed, SCIE Indexed, Publisher: HARD Pub. Co., DOI: https://doi.org/10.15244/pjoes/148108].
+Malar CG, Seenuvasan M, Murugesan M, Ron Carter SB, Kumar KS, “Modelling of urea hydrolysis kinetics using genetic algorithm coupled artificial neural networks in urease immobilized magnetite nanoparticles”. Chemosphere. Vol. 303(Pt 1), pp. 134929. September 2022. ISSN: 0045-6535. [Impact Factor: 8.943, SCOPUS, SCIE Indexed, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.chemosphere.2022.134929].
+B. S. Mohan Kumar, G. Priyanka, S. Rajalakshmi, Rakesh Sankar, Taj Sabreen & Jayasree R, “Hydrogels: potential aid in tissue engineering—a review”, Polymer Bulletin, Vol. 79, pp. 7009–7039, September 2022. ISSN:0170-0839. [Impact Factor: 3.2, SCOPUS, SCIE Indexed, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s00289-021-03864- x].
+Shreenidhi KS, Johanna Rajkumar, Saranya Sri S, Kamalesh R, Gopinath L, “Preliminary studies on the production of paper from millet husk and rice straw”, Environmental Engineering and Management Journal, Vol. 21, pp. 1545-1555, September 2022. ISSN: 1582- 9596 [Cite Score: 1.6, SCOPUS Indexed, SCIE Indexed, Publisher: Institutul Politehnic din Iasi, DOI: http://doi.org/10.30638/eemj.2022.137].
+Srimathi Devi J, Haripriya D, Arul S, Saravanan KM, Bupesh G. “Evaluation of anti-cancer effect of zerumbone and cisplatin on N-nitrosodiethylamine induced hepatic cancer in freshwater fish (Danio rerio)”, Natural Product Research, Vol. 36, pp. 4794-4798, September 2022. ISSN:1478-6419. [Impact Factor: 2.488, SCOPUS, SCIE Indexed, Publisher: Taylor & Francis, DOI: http://doi.org/10.1080/14786419.2021.2012672].
+P. Rajasekar, T. Rajarajeshwari, C. Shivashri, \
+J. Arun, R. Raghu, S. Suhail Madhar Hanif, P.G. Thilak, D. Sridhar, N. Nirmala, S.S. Dawn, R. Sivaramakrishnan, Nguyen Thuy Lan Chi, Arivalagan Pugazhendhi, \
+A. Saravanan, P Senthil Kumar, R.V. Hemavathy, S. Jeevanantham, Marie Jyotsna Jawahar, J.P. Neshaanthini, R. Saravanan, “A review on synthesis methods and recent applications of nanomaterial in wastewater treatment: Challenges and future perspectives” Chemosphere, Vol. 307, pp. 135713, November, 2022. ISSN: 0045-6535 [Impact Factor: 8.943, SCOPUS, SCIE, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.chemosphere.2022.135713]. (UGC Approved Journal 4194).
+A. Saravanan,S. Karishma, P. Senthil Kumar, R. Jayasree, “Process optimization and kinetic studies for the production of biodiesel from Artocarpus heterophyllus oil using modified Mixed Quail Waste catalyst”, Fuel, Vol. 330, pp. 125644, December 2022, ISSN: 0016-2361. [Impact Factor: 6.7, SCOPUS, SCIE Indexed, Publisher: Elsevier, DOI:
+A. Saravanan; V.C. Deivayanai, P Senthil Kumar, Gayathri Rangasamy, R.V. Hemavathy, T. Harshana; N. Gayathri Krishnapandi Alagumalai “A detailed review on advanced oxidation process in treatment of wastewater: Mechanism, challenges and future outlook”. Chemosphere, Vol. 308, pp. 136524, December, 2022. ISSN: 0045-6535 [Impact Factor: 8.943, SCOPUS Indexed, SCIE Indexed, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.chemosphere.2022.136524] (UGC Approved Journal 4194).
+P.R. Yaashikaa, P Senthil Kumar, Tran Cam Nhung, R.V. Hemavathy, Marie Jyotsna Jawahar, J.P. Neshaanthini, Gayathri Rangasamy \
+B. Vijaya Geetha, K. S. Shreenidhi, Varshini Anand, H. Savithakshini, S. Subashini. \
+Saravanan A, Senthil Kumar P, Rangasamy G, Hariharan R, Hemavathy RV, Deepika PD, Anand K, Karthika S. “Strategies for enhancing the efficacy of anaerobic digestion of food industry wastewater: An insight into bioreactor types, challenges, and future scope”, Chemosphere, Vol. 310, pp. 136856. January 2023. ISSN: 0045-6535 [Impact Factor: 8.943, SCOPUS, SCIE, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.chemosphere.2022.136856]
+A. Thulasisingh, S. Kannaiyan, K. Pichandi, “Cellulose nanocrystals from orange and lychee biorefinery wastes and its implementation as tetracycline drug transporter”, Biomass Conv. Bioref. Vol. 13, pp. 1175-1188, January 2023. ISSN:2190-6815. [Impact Factor: 4.987, SCOPUS, SCIE, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s13399-020- 01168-0] (UGC Approved Journal 1257).
+Gayathri V, Kim HJ, Rangarajulu SK. In Vitro Antibacterial and Wound Healing Activities Evoked by Silver Nanoparticles Synthesized through Probiotic Bacteria. Antibiotics (Basel). Vol. 12(1), pp. 141, January 2023. ISSN: 2079-6382. [Impact Factor: 5.222, SCOPUS, SCIE, Publisher: Multidisciplinary Digital Publishing Institute (MDPI), DOI: doi:
+Malar CG, Muthulingam S, Murugesan M, Gayathri S, Rakesh Sankar. “A comprehensive review of the importance of thermal activation in the production of carbon dots and the potential for their use in the bioenergy industry”, Journal of Thermal Analysis and Calorimetry. Vol. 148, pp. 505-516. January 2023. ISSN: 1388-6150 [Impact Factor: 4.626, SCOPUS, SCIE Indexed, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s10973- 022-11687-9]
+Kaliaperumal C, Thulasisingh A. “Electrospun polycaprolactone/chitosan/pectin composite nanofibre: a novel wound dressing scaffold”, Bulletin of Materials Science. Vol. 46(1), pp. 23. February 2023. ISSN: 0250-4707. [Impact Factor: 1.9, SCOPUS, SCIE Indexed, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s12034-022-02859-2]
+Shreenidhi KS, Priyavadhana P, Purnima N, Rashminiza A, Sneha S, Geetha BV. “Study on the toxic effects of pharmaceutical drugs–Norfloxacin using Pangasius Sp. fish model and its mitigation using Artemisia pallens”, Acta Ecologica Sinica. Vol. 43(1), pp. 47-53. February 2023. ISSN:1872-2032. [Impact Factor: 0.252, SNIP: 0.908, SCOPUS, SCIE, Publisher: Ecological Society of China, DOI: https://doi.org/10.1016/j.chnaes.2021.08.014]
+Malar CG, Sathya K, Rajalakshmi S, Lakshmi PR. “A Critical analysis of the nanotechnology-based approach in textile wastewater treatment”, Nanotechnology for Environmental Engineering. Vol. 8, pp. 535–548. March 2023. ISSN:2365-6379. [SNIP: 1.003, SCOPUS, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s41204-023- 00314-z.]
+Thiruvengadam S, Vishvaganesh S, Ivo Romauld, Kamalesh R, Babu T, Chandran M. “A comparative analysis of neutraceutical and therapeutical possessions of Coscinium fenestratum and Mukia maderaspatana”, International Journal of Pharmaceutical Research and Allied Sciences, Vol. 12(3), pp1135-1146, March, 2023. ISSN 2277-3657. [ESCI, Publisher: The International Journal of Pharmaceutical Research and Allied Sciences, DOI: https://doi.org/10.31032/IJBPAS/2023/12.3.6940]
+Sathiyamani B, Daniel EA, Ansar S, Esakialraj BH, Hassan S, Revanasiddappa PD, Keshavamurthy A, Roy S, Vetrivel U, Hanna LE. “Structural analysis and molecular dynamics simulation studies of HIV-1 antisense protein predict its potential role in HIV replication and pathogenesis”, Frontiers in Microbiology. Vol. 14, pp. 1152206. March 2023. ISSN: 1664-302X [Impact Factor: 4, SNIP: 1.331, SCOPUS, SCIE, Publisher: Frontiers Media S.A, DOI: https://doi.org/10.3389/fmicb.2023.1152206]
+Thulasisingh A, Venkatesan SA, Kumar S. “Green biopolysaccharides and its utilisation as biodegradable material in diverse fields: a review’, Polymer Bulletin, March 2023. ISSN:0170-0839. [Impact Factor: 3.2, SNIP: 0.878, SCOPUS, SCIE, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s00289-023-04738-0]
+Ravindran J, Kumar PS, Saravanan A, Lenin N, Baskaran A. “Fabrication and characterization of polyvinyl-alcohol-combined bromelain nanofiber and assessment of its antimicrobial potencies”, Applied Nanoscience, Vol. 13, pp. 4157–4165. April 2023. ISSN:2190-5509. [Impact Factor: 3.869, SNIP: 0.832, SCOPUS, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s13204-023-02837-y]
+Thulasisingh A, Muthulingam S, Kumar M, Rajasekar N, Mohanraj S, Malar CG. “Biosorption of methylene blue dye using a novel chitosan pectinase blend”. Environmental Science and Pollution Research, Vol. 30(17), pp. 48948-48961. April 2023. ISSN:0944-1344. [Impact Factor: 1.8, SNIP: 1.214, SCOPUS, SCIE, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s11356-022-24996-1]
+Kaliaperumal C, Thulasisingh A. “In-vitro and in-vivo assessment of Polycaprolactone- Chitosan-Pectin imbibed nanofiber potentials as a wound healing biomaterial”, Journal of Polymer Research, Vol. 30, pp 160. April 2023. ISSN:1022-9760. [Impact Factor: 2.6, SNIP: 0.673, SCOPUS, SCIE, Publisher: Springer Nature, DOI: https://doi.org/10.1007/s10965-023-03545-5]
+Roy S, Jeyabalan J, Gochhait S, Sugumaran P, Gromiha MM. “Metadata Analysis to Get Insight into Drug Resistant Ovarian Cancer”, Ingénierie des Systèmes d'Information. Vol. 28(2), pp. 309-314. April 2023. ISSN:1633-1311. [Impact Factor: 1.60, SNIP: 0.615, SCOPUS, Publisher: Lavoisier, DOI: https://doi.org/10.18280/isi.280206]
+Yadav SS, Roham PH, Roy S, Sharma S. “Connecting islet-specific hub genes and pathways in type 2 diabetes mellitus through the bioinformatics lens”, Human Gene. Vol. 36, pp. 201177. May 2023. ISSN:2773-0441. [Impact Factor: 0.7, SNIP: 0.252, SCOPUS, SCIE, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.humgen.2023.201177].
+(2021-2022) INTERNATIONAL JOURNALS
+M Sankar, D Sridhar, Johanna Rajkumar, Thiruvengadam S, “Evaluation of polyherbal formulation against the Isoniazid and Rifampicin induced oxidative stress in rats’ brain and heart”. International Journal of Pharmaceutical Research, Vol. 13(2). pp. April - June 2021. ISSN: 0975-2366 [https://doi.org/10.31838/ijpr/2021.13.02.415].
+A. Saravanan, P. Senthil kumar, Dai-Viet N. Vo, S. Jeevanantham, V. Bhuvaneswari, V. Anantha Narayanan, P.R. Yaashikaa, S. Swetha, B. Reshma. \
+A. Saravanan, P. Senthil Kumar, PR. Yaashikaa, S. Karishma, S. Jeevanantham, “Modelling analysis on the effective elimination of toxic pollutant from aquatic environment using pyrolysis assisted Palmyra palm male inflorescence”, Environmental Research, Vol. 197, pp. 111146, June 2021, ISSN: 0013-9351 [Impact Factor: 7.7, SCOPUS, SCIE Indexed, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.envres.2021.111146].
+M. Seenuvasan, Carlin Geor Malar, S.B. Ron Carter, S. Praveen. “Magnetite embedded biochar as nano-sorbent for effective adsorption of textile dye”, Latin American Applied Research. Vol. 51, pp. 185-192, June 2021. ISSN:0327-0793. [Cite score: 0.3, SCOPUS, SCIE Indexed, Publisher: PLAPIQUI(UNS-CONICET, DOI: https://doi.org/10.52292/j.laar.2021.645]
+B. Vijaya Geetha, K S., Shreenidhi, P. Priya Vadhana, N. Purnima, A. Rashminiza, S. Sneha. Hepatoprotective effect of Artemisia pallens leaves on Pangasius Sp. treated with chlofibrate and phenol. Biotechnologia Acta, Vol. 14, pp. 67-78, June 2021. ISSN 2410-776X. [Publisher: National Academy of Sciences of Ukraine and Palladin Institute of Biochemistry of the National Academy of Sciences of Ukraine. DOI: https://doi.org/10.15407/biotech14.02.067].
+T. R. Sundararaman, A. Saravanan, P. Senthil Kumar, M. Millicent Mabel, R. V. Hemavathy, S. Karishma,S. Jeevanantham, R. Hemavathi, A. Ishwariya, S. Kowsalya, “Adsorptive Removal of Malachite Green Dye onto Coal-Associated Soil and Conditions Optimization”, Adsorption Science and Technology. Vol. 2021, pp. 5545683, June 2021. ISSN:0263-6174. 6535 [Impact Factor: 2.8, SCOPUS, SCIE Indexed, Publisher: SAGE publishing, DOI: https://doi.org/10.1155/2021/5545683].
+Sankar M, Johanna R & Sridhar D, “Evaluation of polyherbal formulation against isoniazid and rifampicin induced oxidative stress in rat kidney”, Indian Journal of Traditional Knowledge, vol. 20, pp 671-678, July 2021, ISSN: 0972-5938. [SCOPUS, SCIE Indexed, Impact Factor: 1.091, Publisher: NATL INST SCIENCE COMMUNICATION-NISCAIR, http://op.niscair.res.in/index.php/IJTK/article/view/28376].
+V. Gayathri, Kesavan H, Kannan A, Arulanandam D, Kim JH, Kim KJ, Song HJ, Kim HJ, Rangarajulu SK, “Phytosynthesis of Copper Nanoparticles Using Extracts of Spices and Their Antibacterial Properties”, Processes. Vol. 9(8), pp. 1341, July 2021. ISSN: 2227-9717 [Impact Factor: 2.847, SCOPUS, SCIE Indexed, Publisher: Multidisciplinary Digital Publishing Institute (MDPI), DOI: https://doi.org/10.3390/pr9081341].
+K. S. Shreenidhi, Saranya Sri Santhanam, Shreaya Bhaskar, Sowmia Narayan Sridhar and B. Vijaya Geetha, \
+Thiruvengadam S, Babu T, Kamalesh R, Gokula narayanan S, Sankar M. “Cymbopogon citratus developed improved larvicidal and repellent coil and vaporiser displays”, Journal of Chengdu University of Technology. Vol. 26(7), pp. 116. July 2021, ISSN:1671-9727. [http://cdujournal.com/index.php/vol26num7/]
+A. Saravanan, P. Senthil Kumar, P.R. Yaashikaa, S. Karishma, S. Jeevanantham, S. Swetha, “Mixed biosorbent of agro waste and bacterial biomass for the separation of Pb(II) ions from water system”, Chemosphere, Vol. 277, pp. 130236, August 2021 ISSN: 0045-6535 [Impact Factor: 7.086, SCOPUS, SCIE Indexed, Publisher: Elsevier, DOI: 10.1016/j.chemosphere.2021.130236].
+A. Saravanan, P. Senthil Kumar, S. Jeevanantham, S. Karishma, B. Tajsabreen, P.R. Yaashikaa, B. Reshma, “Effective water/wastewater treatment methodologies for toxic pollutants removal: Processes and applications towards sustainable development”, Chemosphere, Vol. 280, pp. 130595, October 2021, ISSN: 0045-6535 [Impact Factor: 7.086, SCOPUS, SCIE Indexed, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.chemosphere.2021.130595]
+A. Saravanan, P. Senthil Kumar, Dai-Viet N Vo, S. Jeevanantham, S. Karishma, P.R. Yaashikaa, “A review on catalytic-enzyme degradation of toxic environmental pollutants: Microbial enzymes”, Journal of Hazardous Materials, Vol. 419, pp. 126451, October 2021, ISSN: 0304-3894 [Impact Factor: 12.2, SCOPUS, SCIE Indexed, Publisher: Elsevier, DOI: https://doi.org/10.1016/j.jhazmat.2021.126451].
+Hemavathy RV, Saravanan A, Kumar PS, Vo DN, Karishma S, Jeevanantham S. “Adsorptive removal of Pb(II) ions onto surface modified adsorbents derived from Cassia fistula seeds: Optimization and modelling study”, Chemosphere. Vol. 283, pp. 131276, November 2021. ISSN: 0045-6535. [Impact Factor: 7.086, SCOPUS, SCIE Indexed, Publisher: Elsevier, DOI:
+J. Shyam Sundar, R. Subramanian, N. Venkateshwaran, R. Jayasree, A. Saravanan, “Preparation and characterization of bromelain based poly-vinyl alcohol fiber”, AIP Conference Proceedings Vol. 2395, pp. 020006, October 2021. ISSN:0094-243X. [Cite Score: 0.5, SCOPUS, DOI: https://doi.org/10.1063/5.0068225].
+A. Saravanan, P. Senthil Kumar, Dai-Viet N Vo, R. Jayasree, R.V. Hemavathy, V. Karthik, S. Karishma, S. Jeevanantham, V. Manivasagan, C.S. George, “Surface improved agro-based material for the effective separation of toxic Ni(II) ions from aquatic environment”, Chemosphere, Vol. 283, pp. 131215, November 2021, ISSN: 0045-6535 [Impact Factor: 7.086, SCOPUS, SCIE Indexed, Publisher: Elsevier, https://doi.org/10.1016/j.chemosphere.2021.131215].
+Jayasree R, Kumar PS, Saravanan A, Hemavathy RV, Yaashikaa PR, Arthi P, Shreshta J, Jeevanantham S, Karishma S, Arasu MV, Al-Dhabi NA, Choi KC, “Sequestration of toxic Pb(II) ions using ultrasonic modified agro waste: Adsorption mechanism and modelling study”, Chemosphere. Vol. 285, pp. 131502, December 2021. ISSN: 0045-6535 [Impact Factor: 7.086, SCOPUS, SCIE Indexed, Publisher: Elsevier, DOI: 10.1016/j.chemosphere.2021.131502].
+P. Rajasekar, Nethra, V, \
+P. Rajasekar, Udayamathi M, Anbarasan M, \
+Archana H, Geetha Bose V. Evaluation of phytoconstituents from selected medicinal plants and its synergistic antimicrobial activity. Chemosphere. Vol.287(Pt 4), pp. 132276. January 2022. ISSN: 0045-6535. [Impact Factor: 7.086, SCOPUS, SCIE Indexed, Publisher: Elsevier, DOI: 10.1016/j.chemosphere.2021.132276]
+Thiruvengadam S, Kamalesh R, Gokula Narayanan S, Sankar M, “A review of the codigestion of different organic wastes in biogas production”, Research Journal of Biotechnology, Vol. 17(2), pp. 158-172, February 2022, ISSN:0973-6263 [SCOPUS, ESCI Indexed, Publisher: Research Journal Biotechnology]. SNIP: 0.284. DOI: https://doi.org/10.25303/1702rjbt158172]
+Sathya. K, K. Nagarajan, H. Jayalakshmi, S. Bharathi, \
+F. J. Christopher, P. Senthil Kumar, D. V. Nguyen Vo, C. Femina Carolin, J. Lakshmipriya. \
+Saravanan A, Kumar PS, Hemavathy RV, Jeevanantham S, Harikumar P, Priyanka G, Devakirubai DRA. “A comprehensive review on sources, analysis and toxicity of environmental pollutants and its removal methods from water environment”, Sci Total Environ. Volume 812, March 2022, 152456; ISSN: 0048-9697. [Impact Factor: 8.2, SCOPUS, SCIE Indexed, Publisher: Elsevier, DOI:
+Sathya K, Nagarajan K, Carlin Geor Malar G, Rajalakshmi S, Raja Lakshmi P. “A comprehensive review on comparison among effluent treatment methods and modern methods of treatment of industrial wastewater effluent from different sources”, Appl Water Sci. Vol. 12(4), pp. 70, March 2022. ISSN 2190-5495. [Impact Factor: 3.874, SCOPUS, SCIE Indexed, Publisher: Springer, DOI:
+M. Sankar, D. Harinee, R. Lakshana, D. Nithilamurthy, Johanna Rajkumar, T. Babu “Antiadipogenic Activity of 3-Hydroxyflavone on 3T3-L1 Pre-adipocyte Differentiation”, Asian Journal of Pharmaceutics, Vol. 16(1), pp. 23, March 2022. ISSN 0973-8398. [ESCI Indexed, Publisher: B R Nahata Smriti Sansthan, DOI: https://doi.org/10.22377/ajp.v10i04]
+Rekha Ravindran, Praveen Kumar PK, Sriram Kumar, Sujata Roy, Sakthi Abbirami Gowthaman, Johanna Rajkumar, “Computational Study Reveals PARP1 and P2Y1 Receptors as Prospective Targets of Withaferin-A for Cardiovascular Diseases”, Letters in Drug Design and Discovery. Vol. 19(4), pp. 323-336. April 2022. ISSN:1570-1808. [Impact Factor: 1.15, SCOPUS, SCIE Indexed, Publisher: Bentham, DOI: 10.2174/1570180819666211228103102]
+A. Sethupathy, P. Sobana Piriya, R. Ranjith Kumar, M. Shanthi, S. Rangabhashiyam, C. Arun, K. Vasanth Ragavan, “Assessment of methane enrichment efficacy of pre-disintegrated water hyacinth biomass using sonic wave assisted biosurfactant”, Fuel, Vol. 316, pp. 123375 May 2022, ISSN 0016-2361. [Impact Factor: 6.609, SCOPUS, SCIE Indexed, Publisher: Elsevier, DOI:
+.]. SNIP: 2.005
+Pandi Prabha S, Johanna Rajkumar, Karthik C. “Hepatotoxic effect of lead and hepatoprotective effect of Hydrilla verticillata on hepatic transcriptional and physiological response in edible fish Labeo rohita”. Drug and Chemical Toxicology, vol. 45(3), pp. 1276- 1283. May 2022. [SCOPUS, SCIE, Impact Factor: 2.1, Publisher: Taylor & Francis, DOI: 10.1080/01480545.2020.1815762]. (UGC Approved Journal 2574).
+(2020-2021)
+Anu C, Seerangaraj V, Nivedha Lakshmi J, Sripriya N, Balashanmugam P,
+Vijaya Geetha B,
+Gnanamani A, Muthiah S, “Studies on phytomolecules mediated synthesis of copper oxide nanoparticles for biomedical and environmental applications”,
+Biocatalysis and Agricultural Biotechnology
+Vol. 33, pp. 101994, May 2021. ISSN:1878-8181.
+[SNIP:
+0.983,
+SCOPUS, ESCI, Publisher:
+Elsevier,
+DOI:
+].
+A. Saravanan
+, S. Karishma, P. Senthil Kumar, Sunita Varjani, P.R. Yaashikaa, S. Jeevanantham, R. Ramamurthy, B. Reshma, “Simultaneous removal of Cu(II) and reactive green 6 dye from wastewater using immobilized mixed fungal biomass and its recovery”,
+Chemosphere,
+Vol. 271, pp. 129519, May 2021. ISSN: 0045-6535.
+[Impact Factor: 5.778, SCOPUS, SCIE, PubMed, Publisher:
+10.1016/j.chemosphere.2020.129519
+(UGC Approved Journal 1832)
+A. Saravanan,
+P. SenthilKumar,S.Varjani, S. Jeevanantham, P.R. Yaashikaa, P. Thamarai, B. Abirami, C.S George, “A review on algal-bacterial symbiotic system for effective treatment of wastewater”,
+Vol. 271, pp. 129540, May 2021. ISSN: 0045-6535
+10.1016/j.chemosphere.2021.129540
+P. SenthilKumar,Dai-Viet N. Vo, S. Swetha, P.T. Ngueagni, S. Karishma, S. Jeevanantham, P.R. Yaashikaa, “Ultrasonic assisted agro waste biomass for rapid removal of Cd(II) ions from aquatic environment: Mechanism and modelling analysis”,
+Vol. 271, pp. 129484, May 2021. ISSN: 0045-6535
+10.1016/j.chemosphere.2020.129484
+A. Thulasisingh
+, S. Kannaiyan, “Biocompatible electrospun papain/chitosan NP/PVA nanofibrous scaffolds”,
+Bull Mater Sci
+Vol. 44, pp. 119, April 2021. ISSN:0250-4707.
+[Impact Factor:
+1.392,
+SCOPUS, SCIE, Publisher:
+Springer Nature,
+(UGC Approved Journal 1529)
+P. Senthil Kumar, Sunita Varjani, S. Karishma, S. Jeevanantham, P.R. Yaashikaa, “Effective removal of Cr(VI) ions from synthetic solution using mixed biomasses: Kinetic, equilibrium and thermodynamic study”,
+Journal of Water Process Engineering
+, Vol. 40, pp. 101905, April 2021. ISSN: 2214-7144
+[Impact Factor: 3.465, SCOPUS, SCIE, Publisher:
+10.1016/j.jwpe.2020.101905
+(UGC Approved Journal 6166)
+Archana H and
+Vijaya Geetha B.
+Gorteria: Tijdschrift voor Onderzoek aan de Wilde Flora
+. Vol. 34(4), pp. 1-10, April 2021. ISSN:0017-2294. [
+Impact Factor:
+0.3;
+: 0.597,
+Publisher:
+National Herbarium Nederland/Leiden Branch].
+R. Kamalesh, SN. Gokula Narayanan,
+S. Thiruvengadam,
+I. Romauld, “The influence of chocolate fortification with Centella asiatica, Abelmoschus esculentus, and Psidium guajava on the content of biologically active substances”,
+Journal of Food Processing and Preservation,
+Vol 45(4), pp. e15271, April 2021. ISSN:1745-4549
+[Impact factor
+:1.405;
+Wiley,
+(UGC Approved Journal 5170)
+P. SenthilKumar,M.Govarthanan, C S George, S. Vaishnavi, B. Moulishwaran, S. Praveen Kumar, S. Jeevanantham, P.R. Yaashikaa, “Adsorption characteristics of magnetic nanoparticles coated mixed fungal biomass for toxic Cr(VI) ions in aquatic environment”,
+Chemosphere
+, Vol. 267, pp. 129226, March 2021. ISSN: 0045-6535
+10.1016/j.chemosphere.2020.129226
+Thanganadar Appapalam S
+, Muniyan A, Vasanthi Mohan K,
+Panchamoorthy R
+. “A Study on isolation, characterization, and exploration of multiantibiotic-resistant bacteria in the wound site of diabetic foot ulcer patients”,
+Int J Low Extrem Wounds.
+Vol. 20(1), pp. 6-14, March 2021. ISSN / eISSN: 1534-7346 / 1552-6941. [
+1.380,
+SCOPUS Indexed, SCIE, PubMed, Publisher:
+SAGE,
+10.1177/1534734619884430]. (UGC Approved Journal 4314)
+J.Ambigadevi
+, P.Senthil Kumar, Dai-Viet N.Vo, S.Hari Haran, T.N.Srinivasa Raghavan. \
+Journal of Environmental Chemical Engineering
+, Vol. 9(1), pp. 104881, February 2021. ISSN: 2213-3437 [
+5.909,
+SCOPUS, SCI,
+Publisher: Elsevier,
+, P. Senthil Kumar,
+R.V. Hemavathy
+, S. Jeevanantham, R. Kamalesh,
+S. Sneha, P.R. Yaashikaa, “Methods of detection of food-borne pathogens: a review”,
+Environmental Chemistry Letters.
+Vol. 19, pp. 189-207, February 2021. ISSN: 1610-3653.
+[Impact Factor: 5.922, SCOPUS, SCIE, Publisher:
+Springer,
+10.1007/s10311-020-01072-z
+(UGC Approved Journal 2808)
+, P. Senthil Kumar, Dai-Viet N Vo, P.R. Yaashikaa, S. Karishma, S. Jeevanantham, B. Gayathri, V. Dhivya Bharathi, “Photocatalysis for removal of environmental pollutants and fuel production: a review”,
+Vol. 19, pp. 441-463, February 2021. ISSN: 1610-3653
+10.1007/s10311-020-01077-8
+A Saravanan
+, P. Senthil Kumar, S. Karishma, Dai-Viet N Vo, S. Jeevanantham, P.R. Yaashikaa, C S George, \
+, Vol. 264, pp. 128580, February, 2021. ISSN: 0045-6535
+10.1016/j.chemosphere.2020.128580
+Gayathri V
+, MohanKumar BS. \
+vol. 45 pp. e15121. February 2021. ISSN:0145-8892.
+[SCOPUS,SCIE,Impact factor:
+1.405,
+Wiley-Blackwell,
+. (UGC Approved Journal 5170)
+M. Seenuvasan,
+, L. Growther. \
+Bioresource Technology Reports
+, vol 13, pp. 100610, February 2021. ISSN 2589-014X
+[SCOPUS,Publisher:
+Ramalakshmi K
+, Subhapriya P, Ananthavalli K, Sarada K, and Shanmugapriya D, “Impact of cooking on nutrients in selected vegetables”.
+International Journal of Engineering Research and Application
+, Vol. 11(2), pp. 31-35, February, 2021. ISSN: 2248-9622.
+[Publisher:
+Self-publishing, Informatics Publishing Limited,
+10.9790/9622-1102023135]
+Snehal Jadhav, V. Kavinya, R. Vijay Nirmal, H. Mohammed Shameem and
+K. Ramalakshmi
+, “Physico-sensory and Textural Properties of Composite Millet Palm Jaggery Muffins”.
+Journal of Natural Remedies
+, Vol. 21(1), pp. 38-43, January, 2021. ISSN: 0972-5547.
+0.364,
+SCOPUS, Publisher:
+Informatics Publishing Limited,
+Sisila V, Puhazhselvan P, Aarthy M, Sakkeeshyaa G,
+, Kamini NR, Ayyadurai N. “Esterification of Polymeric Carbohydrate Through Congener Cutinase-Like Biocatalyst”,
+Applied Biochemistry and Biotechnology
+. vol. 193, pp. 19-32. January 2021. ISSN: 0273-2289.
+[SCOPUS,SCIE,Impact Factor
+: 2.277,
+doi:10.1007/s12010-020-03415-6.
+B. Vijaya Geetha, K. S. Shreenidhi K.S, T. R. Sundararaman.
+Pangasius sp
+. Exposed to Phenol and Clofibrate\
+Zeichen Journal,
+vol. 7(1), pp. 23-32. January 2021. ISSN: 0932-4747.
+[Impact Factor
+: 0.1,
+Signum Verlag,
+15.10089.ZJ.2020.V6I3.285311.2295
+Yaashikaa PR, Kumar PS, Varjani S,
+Saravanan A
+. “A critical review on the biochar production techniques, characterization, stability and applications for circular bioeconomy”.
+Biotechnol Rep (Amst)
+. vol. 28 pp. e00570. December 2020. E-ISSN:2215-017X. [
+SCOPUS, PubMed, Publisher:
+10.1016/j.btre.2020.e00570].
+P R Yaashikaa, P. Senthil Kumar,
+, R. Racchana. “Bioconversion of municipal solid waste into bio-based products: A review on valorisation and sustainable approach for circular bioeconomy”,
+Science of the Total Environment,
+vol. 748,
+pp. 141312, December 2020.ISSN: 0048-9697
+[SCOPUS,SCIE,PubMed,Impact Factor
+: 6.551,
+. (UGC Approved Journal 8320)
+Benedict P, Sumathy A,
+Rajasekar P.
+“Phytofabricated silver nanoparticles: Discovery of antibacterial targets against diabetic foot ulcer derived resistant bacterial isolates”,
+Materials Science & Engineering C,
+vol. 117, pp. 111256, December 2020. ISSN: 0928-4931
+[SCOPUS,SCIE
+PubMed, Impact Factor
+: 5.880,
+. (UGC Approved Journal 6457)
+Aysha Saniya,
+K. Sathya
+, K. Nagarajan, M.Yogesh, H. Jayalakshmi, S.Bharathi and P.Praveena. “Modelling on the removal of crystal violet dye from textile effluent using Murraya koenigii stem biochar”,
+Desalination and water Treatment,
+vol. 203, pp. 356–365 November 2020. ISSN: 1944-3994.
+: 0.854,
+Desalination Publ.,
+DOI: 10.5004/dwt.2020.26191]
+. (UGC Approved Journal 2465)
+P. R. Yaashikaa, P. Senthil Kumar, Sunita Varjani, S. Tamilselvi,
+A. Saravanan, “
+Formulation and combinatorial effect of Pseudomonas fluorescens and Bacillus coagulans as biocontrol agents”,
+Biocatalysis and Agricultural Biotechnology,
+Vol. 30, pp. 101868, November 2020, ISSN: 1878-8181
+[SCOPUS, Publisher: Elsevier, DOI: 10.1016/j.bcab.2020.101868]
+, S. Jeevanantham, P. Senthil Kumar, Sunita Varjani, P.R. Yaashikaa, S. Karishma. “Enhanced Zn(II) ion adsorption on surface modified mixed biomass – Borassus flabellifer and Aspergillus tamarii: Equilibrium, kinetics and thermodynamics study”,
+Industrial Crops & Products,
+vol. 153, pp. 112613, October 2020. ISSN: 0926-6690.
+Impact Factor
+: 4.244,
+]. (
+UGC Approved Journal 4011
+Saravanan A, Sundararaman TR
+Jeevanantham S, Karishma S, Kumar PS, Yaashikaa PR, “Effective adsorption of Cu(II) ions on sustainable adsorbent derived from mixed biomass (
+Aspergillus campestris
+and agro waste): Optimization, isotherm and kinetics study”,
+Groundwater for Sustainable Development
+, Vol. 11, pp. 100460, October 2020, e2352-801X
+[SCOPUS Indexed, Publisher: Elsevier, DOI: 10.1016/j.gsd.2020.100460]
+, S. Karishma, S. Jeevanantham, S. Jeyasri, A.R. Kiruthiga, P. Senthil Kumar, P.R. Yaashikaa, “Optimization and modeling of reactive yellow adsorption by surface modified Delonix regia seed: Study of nonlinear isotherm and kinetic parameters”.
+Surfaces and Interfaces
+, Vol. 20, pp. 100520, September 2020. ISSN: 2468-0230
+[Impact Factor: 3.724, SCOPUS, SCIE Indexed, Publisher:
+Elsevier
+, DOI: 10.1016/j.surfin.2020.100520
+Arul S, Rajagopalan H, Ravi J,
+Dayalan H
+. “Beta-Caryophyllene Suppresses Ovarian Cancer Proliferation by Inducing Cell Cycle Arrest and Apoptosis”.
+Anticancer Agents Med Chem.
+vol. 20, pp. 1530-1537, 2020. ISSN: 1871-5206.
+[SCIE, PubMed, Impact Factor
+: 2.049,
+Bentham Science,
+10.2174/1871520620666200227093216
+(UGC Approved Journal 767)
+Yaashikaa PR, Kumar PS,
+Saravanan A.
+“Modeling and Cr(VI) ion uptake kinetics of Sorghum bicolor plant assisted by plant growth–promoting Pannonibacter phragmetitus: an ecofriendly approach”,
+Environmental Science and Pollution Research,
+vol. 27, pp. 27307–27318, August 2020. ISSN: 0944-1344.
+[SCOPUS,SCIE,PubMed, Impact Factor
+: 3.056,
+. (UGC Approved Journal 2838)
+A. Saravanan,R. Jayasree
+, P. Senthil Kumar, Sunita Varjani,
+, S. Jeevanantham, P.R. Yaashikaa. “Production of pigment using Aspergillus tamarii: New potentials for synthesizing natural metabolites”,
+Environmental Technology & Innovation,
+vol. 19, pp. 100967, August 2020. ISSN: 2352-1864.
+: 3.356,
+. (UGC Approved Journal 2844)
+, Mazher Sultana. “Adversities of monsoon rain in Chennai (TN) and isolation of pathogenic leptospires from the Environment and Screen the effect of Sodium hypochlorite”,
+Disaster Advances
+, vol. 13, pp. 64-71. August 2020, ISSN: 0974-262X. [
+SCOPUS
+, Publisher: Disaster Advances].
+, M. Seenuvasan, K. Sathishkumar, Anil Kumar, R. Parthiban “Review on surface modification of nanocarriers to overcome diffusion limitations: An enzyme immobilization aspect”,
+Biochemical Engineering Journal
+, vol. 158, pp. 107574, June 2020. ISSN: 1369-703X. [
+SCOPUS Indexed, SCIE
+3.475, Publisher: Elsevier, DOI:
+]. (UGC Approved Journal 1166)
+, PS. Kumar, K.H. Varadhan, S. Jeevanantham, S.B. Karishma, P.R. Yaashikaa, P. Vellaichamy, “A review on systematic approach for microbial enhanced oil recovery technologies: Opportunities and challenges”,
+Journal of Cleaner Production
+, vol. 258, pp. 120777, June 2020. ISSN: 0959-6526 [
+SCIE,Impact Factor:
+7.246, Publisher: Elsevier, DOI: 10.1016/j.jclepro.2020.120777]. (UGC Approved Journal 4901)
+P. Rajasekar
+T. A. Selvakumar
+, A. Amirthambal, K. Dhineka, V. Divya. \
+Leucas aspera
+serves as a potential reducing source: A study on the synthesis and characterization of silver nanoparticles\
+Chettinad Health City Medical Journal
+, vol. 9, pp. 74-79. April – June 2020. ISSN: 2277-8845. [
+Chettinad Academy of Research and Education, DOI:
+K Sathya
+, H Jayalakshmi, S Bharathi, K Nagarajan, “Production and Quality Evaluation of Jam from Palmyra Fruit- Optimization by using Response Surface Methodology”,
+Zeichen Journal
+, vol. 6, pp. 105-118. June 2020. ISSN: 0932-4747. [
+: 0.1, Publisher: Signum Verlag, DOI: 5.10089.ZJ.2020.V6I3.285311.2061].
+Santhosh A and
+. “Remdesivir (GS-5734) for COVID-19 Treatment: Past and Recent Updates”,
+Coronaviruses
+, vol. 1, pp. 1-10. 2020. ISSN (Print): 2666-7967. [Publisher: Bentham Science, DOI: 10.2174/2666796701999201216102250].
+Pandi Prabha S,
+, Karthik C. “Hepatotoxic effect of lead and hepatoprotective effect of
+Hydrilla verticillata
+on hepatic transcriptional and physiological response in edible fish
+Labeo rohita
+Drug and Chemical Toxicology
+, vol. pp. 1-8. 2020.
+[SCOPUS,SCI,Impact Factor
+: 2.405,
+Taylor & Francis
+10.1080/01480545.2020.1815762
+(UGC Approved Journal 2574)
+, S. Kannaiyan, K. Pichandi, “Cellulose nanocrystals from orange and lychee biorefinery wastes and its implementation as tetracycline drug transporter”,
+Biomass Conv. Bioref.
+(2021). ISSN:2190-6815.
+2.602,
+] (UGC Approved Journal 1257)
+BOOK CHAPTERS
+A.Saravanan, R.Jayasree, TR Sundaraman, RV Hemavathy,
+S Jeevanantham, P Senthil Kumar, PR Yaashikaa, “
+Enzyme Inhibition in Therapeutic Applications”
+, in the book titled “Enzyme Inhibition Environmental and Biomedical Applications” Published by Bentham science,
+ISBN:
+978-981-14-6082-1
+Pavithra Srinivasan, S.Ivo Romauld and
+DNA Barcoding in Plants
+”, in the book titled “Advances in BioTechnology Bioscience” Published by AkiNik,
+Doi:
+10.22271/ed.book.909
+/ISBN:
+978-93-90420-04-9
+Carlin Geor Malar,
+S Muthulingam, SK Kannaiyan, AK Madhava, “
+Synthesis and applications of Chitosan: A contemporary macromolecule
+”, in the book titled “Microbial and Natural macromolecules” Published by Elsevier,
+10.1016/B978-0-12-820084-1.00003-X
+9780128200858.
+Sriram Kumar
+, Rekha Ravindran,
+Sakthi Abbirami Gowthaman
+, Sujata Roy, Johanna Rajkumar
+, “
+Traditional medicine based cardiovascular therapeutics
+”, in the book titled “Frontiers in Cardiovascular Drug Discovery”, Published by Bentham science,
+978-981-14-1323-0
+P. Rajasekar, T. A. Selvakumar,
+Nanomaterials: Preventing Infections and Accelerating Wound Healing in Burns
+”, in the book titled “Advances in health and disease”, Published by Nova Science,
+ISBN No:
+978-1-53618-684-0.
+Beneficial Impacts of Cinnamon on Metabolic Disorders
+”, in the book titled “Cinnamon: Nutrition, Consumption and Health”, Published by Nova Science,
+978-1-53618-679-6.
+A Saravanan,
+P Senthil Kumar
+, RV Hemavathy,
+S Jeevanantham, “
+Biomaterials for Cell Regeneration
+”, in the book titled “Nanohybrids Future materials for Biomedical Applications” Published by Material Research Forum LLC,
+10.21741/9781644901076-2
+/ ISBN:
+978-1-64490-107-6
+, R Jayasree,
+Nanohybrids for Wound Healing Application
+” in the book titled “Nanohybrids Future materials for Biomedical Applications” Published by Material Research Forum LLC,
+978-1-64490-107-6.
+S Thiruvengadam,
+S Gokula Narayanan,R. Kamalesh, S Ivo Romauld, “
+Insights into Agricultural Technology: An Avenue towards Modernization
+” in the book titled “Advances in Agricultural BioTechnology” Published by AkiNik,
+10.22271/ed.book.1026
+978-93-90541-57-7.
+Carlin Geor Malar, S
+Muthulingam, SK Kannaiyan, AK Madhava, “
+Instrumental methods in surface property analysis of magnetic nanoparticles
+” in the book titled “Nanomaterials Application in Biofuels and Bioenergy Production Systems” Published by Elsevier,
+10.106/B978-0-12-822401-4.00007-6/
+978-0-12-822401-4.
+S Jeevanantham,
+R Jayasree
+RV Hemavathy
+, P Senthil Kumar, PR Yaashikaa, “
+Environmental and health effects of nanomaterials
+” in the book titled “Nanomaterials” Published by Elsevier,
+10.1016/B978-0-12-822401-4.00011-8/
+T Anitha,
+Applications of nanomaterials in biofuel and bioenergy
+10.1016/B978-0-12-822401-4.00013-1/
+978-0-12-822401-4
+T Anitha
+, K Sathiskkumar, K Krishnapriya, “
+Diverse processes for the treatment of textile wastewater
+” in the book titled “The Future of Effluent Treatment Plants: Biological Treatment Systems” Published by Elsevier,
+10.1016/C2019-0-0-4851-0/
+978-0-12-822956-9.
+(2019-2020)
+Sagar S. Bhayye, Goutam Brahmachari, Nayana Nayek,
+& Kunal Roy, “Target prioritization of novel substituted 5-aryl-2-oxo-/thioxo-2,3-dihydro-1H-benzo[6,7] chromeno[2,3-d]pyrimidine-4,6,11(5H)-triones as anticancer agents using in-silicoapproach”,
+Journal of Biomolecular Structure and Dynamics,
+vol 38(5), pp 1415-1424, May 2020. ISSN / eISSN: 0739-1102 / 1538-0254.
+: 3.310,
+SCOPUS Indexed, SCI, Publisher:
+Taylor & Francis,
+10.1080/07391102.2019.1606735
+. (UGC Approved Journal 4813)
+S.Suganthi, L.Sujatha, V.S.Selvakumar,
+P.Rajasekar
+, K.Karthikeyan. “Fabrication and study of on-chip electrode for capacitive type uric acid sensor”,
+Solid State Technology
+, vol 63(5), pp 4019-4027. May 2020. ISSN:0038-111X.
+: 0.3,
+PennWell Publishing Co.
+, S. Jeevanantham V. Anantha Narayanan, P. Senthilkumar, P R Yaashikaa, C M mathan muthu, “Rhizoremediation – A promising tool for the removal of soil contaminants: A review”,
+, vol. 8, pp. 103543, April 2020. ISSN: 2213-3437
+[SCOPUS Indexed, SCI,Impact Factor
+: 4.300,
+Elsevier, DOI: 10.1016/j.jece.2019.103543
+Thiruvengadam. S,
+Naresh. B, Nivedhaa. G K, S. Ivoromauld,
+Preparation of fruit leather and fortification with
+Moringa oleifera
+”,
+Research Journal of Pharmacy and Technology.
+vol. 13(4), pp 1619-1622, April 2020. ISSN Online : 0974-360X, ISSN Print : 0974-3618. [
+SCOPUS Indexed,Publisher:
+A and V Publication,
+10.5958/0974-360X.2020.00153.5].
+, Ramki R, Rohini S, Vanitha R, Ivo Romauld. “Isolation, screening and evaluation of multifunctional strains of high efficient phosphate solubilizing microbes from Rhizosphere soil.
+Research J. Pharm. and Tech
+, vol. 13, pp. 1823-1826, April 2020, ISSN: 0974-3618.
+[SCOPUS,
+: 0.40,
+A and V Publication
+10.5958/0974-360X.2020.00328.5
+RV. Hemavathy
+, P. Senthil Kumar, K. Kanmani, N. Jahnavi, “Adsorptive separation of Cu(II) ions from aqueous medium using thermally/chemically treated Cassia fistula based biochar”
+Journal of Cleaner Production,
+vol. 249, pp 119390, March 2020. ISSN: 0959-6526
+: 6.395,
+10.1016/j.jclepro.2020.120777
+. (UGC Approved Journal 4901)
+P. R. Yaashikaa, P. Senthil Kumar, Sunita J. Varjani,
+, “Rhizoremediation of Cu(II) ions from contaminated soil using plant growth promoting bacteria: An outlook on pyrolysis conditions on plant residues for methylene orange dye biosorption”,
+Bioengineered
+, vol. 11, pp.175-187, February 2020. ISSN: 2165-5987.
+: 1.544,
+Publisher
+: Taylor and Francis,
+10.1080/21655979.2020.1728034
+. (UGC Approved Journal 1200)
+Ayshasaniya,
+K. Sathya,
+K. Nagarajan, H. Jayalakshmi and S. Bharathi, “Optimization of synthesis of biochar for the removal of cationic dye from aqueous solution”,
+International Journal of Advanced Research
+, vol. 8(02), pp. 84-89. February 2020. ISSN: 2320-5407.
+Morse Florse,
+DOI:10.21474/IJAR01/10438]
+Thiruvengadam. S
+, Moganalaxmi.R, Narmadha.V, Sowndariya.T, S and Ivo Romauld, “Incidence, prevalence and management of methicillin-resistant
+Staphylococcus aureu
+s in Chennai”,
+Research Journal of Pharmacy and Technology,
+vol. 13(2),pp 815- 818, February 2020. ISSN Online : 0974-360X, ISSN Print: 0974-3618. [
+10.5958/0974-360X.2020.00153.5]
+V. Gayathri
+, S. Nivedha, V. Pujita, S. Ivo Romauld. “Green synthesis of copper nanoparticles using bracts of
+Musa paradisiaca
+(Monthan) and study of its antimicrobial and antioxidant activity”
+vol. 2, pp. 781-786, February 2020. ISSN Online : 0974-360X, ISSN Print : 0974-3618.
+[SCOPUS Indexed,Publisher:
+10.5958/0974-360X.2020.00147.X
+D. Sivakumar, R. Parthiban, P. Senthil Kumar,
+, “Synthesis and characterization of ultrasonic-assisted Delonix regia seeds: modelling and application in dye adsorption”, Desalination and Water Treatment, vol. 173, pp. 427-441, January 2020. ISSN: 1944-3986
+1.320,
+SCOPUS Indexed, SCI,Publisher:
+Desalination,
+10.5004/dwt.2020.24820
+D. Sridhar, M. Sankar
+, S. Vishvaganesh, S. Suhail Madhar Hanif, S. Sandhya and VP. Srinivasan, “Isolation, screening and selection of efficient Polyhydroxybutyrate synthesizing bacteria and its production using cheap sources”, International Journal of Applied Research 2019; 5(10): 335-343. ISSN: 2394-7500.
+IJAR.
+Jayasree R, Vasantharaja A, Abirami
+. “Wound healing effect of silver nanoparticles from Tridax procumbens leaf extracts on Pangasius hypophthalmus”. Wound Medicine, vol. 27 pp. 100170, December 2019. ISSN: 2213-9095. [
+SCOPUS Indexed, SCI, Publisher: Elsevier DOI
+: https://doi.org/10.1016/j.wndm.2019.100170].
+, “Advances in production and application of biochar from lignocellulosic feedstocks for remediation of environmental pollutants”, Bioresource Technology, vol. 292, pp. 122030, November 2019. ISSN: 0960-8524 [
+Impact Factor: 6.669, SCOPUS Indexed, SCI, Publisher
+: Elsevier,
+DOI
+: 10.1016/j.biortech.2019.122030]
+, Muthulingam Seenuvasan, Kannaiyan Sathish Kumar. “Improvisation of diffusion coefficient in surface modified magnetite nanoparticles: A novel perspective”,
+Materials Science and Engineering: C
+, vol. 103, pp. 109832, October 2019. ISSN: 0928-4931
+[Impact Factor 4.959, SCOPUS Indexed, Publisher:
+10.1016/j.msec.2019.109832
+, “A review on photochemical, biochemical and electrochemical transformation of CO2 into value-added products”
+Journal of CO2 Utilization
+, vol. 33, pp. 131-147, October 2019. ISSN: 2212-9820
+[Impact Factor: 5.189, SCOPUS Indexed, Publisher:
+10.1016/j.jcou.2019.05.017
+P.R. Yaashikaaa, P. Senthil Kumar,
+. “Molecular characterization of chromium resistant gram-negative bacteria isolated from industrial effluent: Bioremedial activity”, Journal of Industrial and Engineering Chemistry, vol. 80, pp. 640–646, August 2019. ISSN: 1226-086X [
+Impact Factor: 4.978, SCI, Publisher
+: https://doi.org/10.1016/j.jiec.2019.08.050].
+G. Thangavel,
+S. Thiruvengadam
+, “Antimicrobial efficacy of Leuconostoc spp. isolated from Indian meat against Escherichia coli and Listeria monocytogenes in spinach leaves”, Food Science of Animal Resources, vol. 39, pp. 677-685, August 2019. eISSN: 2636-0780 [
+Impact Factor: 1.145, SCOPUS Indexed, SCI, Publisher:
+Korean Society for Food Science of Animal Resources,
+: 10.5851/kosfa.2019.e60]
+, R. Baskaran, K. Nagarajan, “Thermo Physical Properties of p-anisaldehyde methyl acetate mixtures”,
+Russian Journal of physical chemistry A
+, vol. 93, pp. 1484–1488, August 2019.ISSN 0036-0244, 2019.
+[Impact Factor: 0.581, SCOPUS Indexed, Publisher:
+Springer
+10.1134/S0036024419080260
+, M. Seenuvasan, K. Sathishkumar, “Adsorption of nickel ions by surface modified magnetite nanoparticles: Kinetics study”,
+J. Environ. Biol
+., vol. 40, pp. 748-752, July 2019, pISSN: 0254-8704 ; eISSN: 2394-0379
+Academy of Environmental Biology
+10.22438/jeb/40/4(SI)/JEB_10
+, M. Seenuvasan, K. Sathishkumar, “Characterization of squid pens extracted beta-chitosan coated magnetite nanoparticles”,
+., vol. 40, pp. 731-735, July 2019, pISSN: 0254-8704 ; eISSN: 2394-0379
+10.22438/jeb/40/4(SI)/JEB_01
+, “Modeling and Cr (VI) ion uptake kinetics of Sorghum bicolor plant assisted by plant growth-promoting Pannonibacter phragmetitus: an ecofriendly approach”, Environmental Science and Pollution Research, July 2019. eISSN: 1614-7499 [
+Impact Factor: 2.914, SCOPUS Indexed, SCI, Publisher
+: 10.1007/s11356-019-05764-0]
+A. Saravanan, R. Jayasree, R. V. Hemavathy,
+S. Jeevanantham, S.Hamsini, P. Senthil Kumar, P. R. Yaashikaa, V. Manivasagan, D. Yuvaraj. “Phytoremediation of Cr (VI) ion contaminated soil using Black gram (
+Vigna mungo
+): Assessment of removal capacity”,
+, vol. 7, pp. 103052, June 2019. ISSN: 2213-3437
+, DOI:
+10.1016/j.jece.2019.103052
+, P Senthil Kumar, S Suganya, V Swetha, Sunita J.Varjani, “Modelling on the removal of toxic metal ions from aquatic system by different surface modified Cassia fistula seeds”, Bioresource Technology, vol. 281, pp. 1-9, June 2019. ISSN: 0960-8524 [Impact Factor: 6.669, SCOPUS Indexed, SCI, Publisher: Elsevier, DOI: 10.1016/j.biortech.2019.02.070]
+A. R. Sirajunnisa, D. Surendhiran, T. Baskar, M. Vijay, V. Vijayagopal and S. Thiruvengadam. (2019) \
+A. Saravanan, P. Senthil Kumar, and P. R. Yaashikaa. (2019) \
+Saravanan A, Senthil Kumar P and Yaashikaa P R, “Biosorption-an elective strategy for wastewater treatment” in the book titled “Biochemical and Environmental Bioprocessing: Challenges and Development” Published by Taylor & Francis, pp. 1-16, 2019, ISBN No: 9780429198045
+A. Saravanan and P. Senthil Kumar. (2019) \
+Carlin Goer Malar, Seenuvasan M and Sathish Kumar K, “Diffusion limitations in biocatalytic reactions challenges and solutions” in the book titled “Biochemical and Environmental Bioprocessing: Challenges and Development” Published by Taylor & Francis, pp. 139-150, 2019, ISBN No: 9780429198045
+P Senthil Kumar, A Saravanan, R Jayasree, S Jeevanantham, “Food Industry Waste Biorefineries” in the book titled “Refining Biomass Residues for Sustainable Energy and Bioproducts” Published by Elsevier, Doi:10.1016/B978-0-12-818996-2.00018-1/ISBN: 978-0-12-818996-2
+A.Saravanan, RV Hemavathy, TR Sundaraman, “Solid waste biorefineries” in the book titled “Refining Biomass Residues for Sustainable Energy and Bioproducts” Published by Elsevier, Doi:10.1016/B978-0-12-818996-2.00018-1/ISBN: 978-0-12-818996-2.
+(2018-2019)
+M. M. Mabel, T. R. Sundararaman
+, N. Parthasarathy,
+J. Rajkumar
+. “
+Canna indica
+-chitin-alginate composite beads for the treatment of textile dye effluent containing Rose Bengal dye”,
+Journal of Environmental Biology
+, vol. 40, pp. 349-355 May 2019. pISSN: 0254-8704; eISSN: 2394-0379
+[SCOPUS Indexed, Publisher:
+10.22438/jeb/40/3/MRN-936]
+, P. Senthil Kumar, P.R. Yaashikaa, S. Kanmani, R. Hamsha Varthine, C.M. Mathan Muthu, D. Yuvaraj, “Modelling on the Removal of Dye from Industrial Wastewater Using Surface Improved
+Enteromorpha intestinalis
+International Journal of Environmental Research
+, vol. 13, pp.349-366, April 2019. Print ISSN:1735-6865, Online ISSN: 2008-2304
+[Impact Factor: 1.10, Publisher:
+10.1007/s41742-019-00181-0
+J. Aravind Kumar, D. Joshua Amarnath, S. Sathisha, S. Anuradha Jabasingh
+. “Enhanced PAHs removal using pyrolysis-assisted potassium hydroxide induced palm shell activated carbon: Batch and column investigation”,
+Journal of Molecular Liquids,
+vol. 279, pp. 77-87, April 2019. ISSN: 0167-7322
+[Impact Factor: 4.561, SCOPUS Indexed, Publisher:
+10.1016/j.molliq.2019.01.121
+N. Sripriya, S. Vasantharaj, U. Mani, M. Shanmugavel,
+R. Jayasree
+, A. Gnanamania, “Encapsulated enhanced silver nanoparticles biosynthesis by modified new route for nano-biocatalytic activity, Biocatalysis and Agricultural Biotechnology, vol. 8, pp. 101045, March 2019. ISSN: 1878-8181
+10.1016/j.bcab.2019.101045
+. “Microorganisms Isolated from Stored Meat in India, with Potential Antimicrobial Activity against Food Pathogens.
+Current Pharmaceutical Biotechnology,
+vol. 20, pp. 401-409, March 2019. ISSN:1389-2010; E-ISSN:1873-4316
+[Impact Factor: 1.516, SCOPUS Indexed, Publisher:
+Bentham Science
+: 10.2174/1389201020666190314125534
+S. Jeevanantham,
+R. V. Hemavathy
+, P. Senthil Kumar, P. R. Yaashikaa, D. Yuvaraj. “Removal of toxic pollutants from water environment by phytoremediation: A survey on application and future prospects”,
+Environmental Technology and Innovation
+, vol. 13, pp. 264-276, February 2019. ISSN:2352-1864
+[Impact Factor: 2.800, SCOPUS Indexed, Publisher:
+10.1016/j.eti.2018.12.007
+P. R. Yaashikaa, P. Senthil Kumar, V. P. Mohan Babu, R. Kanaka Durga, V. Manivasagan, K. Saranya,
+. “Modelling on the removal of Cr (VI) ions from aquatic system using mixed biosorbent (
+Pseudomonas stutzeri
+and acid treated Banyan tree bark)”,
+Journal of Molecular Liquids
+, vol 276, pp. 362–370, February 2019. ISSN: 0167-7322
+[Impact Factor 4.561, SCOPUS Indexed, Publisher:
+10.1016/j.molliq.2018.12.004
+S. Thiruvengadam, B. S. Mohan Kumar, C. Yamini.
+“Applications of nanotechnology in the world of biology -a scientific review”, International Journal of Scientific Research and Reviews, vol. 8 pp. 106-126, January 2019. [Publisher: Dynamic Publisher]
+M. Millicent Mabel
+T.R. Sundararaman
+. “Chitin Beads from
+Peneaus sp
+. Shells as a Biosorbent for Methylene Blue Dye Removal”,
+Polish Journal of Environmental Studies
+, vol. 28(4), pp. 2253-2259, Jan 2019. ISSN:1230-1485
+[Impact Factor: 1.186, SCOPUS Indexed, Publisher:
+HARD
+10.15244/pjoes/90359
+K. S. Shreenidhi
+and B. S. Mohan Kumar. “Genetic Diversity and Dendrogram of
+Cardiospermum Halicacabum
+- an in Vitro Study”,
+Biomedical & Pharmacology Journal,
+vol 11, pp. 2151-2156, December 2018. ISSN: 0974-6242;
+e- ISSN: 2456–2610.
+Oriental Scientific Publishing Company
+: http://dx.doi.org/10.13005/bpj/1595]
+C. Geor Malar
+, M. Seenuvasan, K. Sathish Kumar. “Basic study on lipase‑immobilized magnetic nanoparticles,\
+Nanotechnology for Environmental Engineering,
+vol 4, pp. 1-6. December 2018. ISSN: 2365-6379 [
+10.1007/s41204-018-0048-9]
+S. Pandi Prabha,
+, S. Suresh, S. Karthikeyan. “Antiosteoporotic effect of
+against lead induced damage in bone samples of edible fish Labeo rohita – an FTIR approach”,
+vol 90, pp. 657–663, September 2018. ISSN: 0928-4931
+10.1016/j.msec.2018.04.097
+T. Anitha
+. “Novel chitosan blended polymers for the removal of rose bengal dye: adsorption isotherms, kinetics and mechanism”,
+Int. J. of Environment and Waste Management
+, vol. 22, pp.87–110, August 2018. ISSN online: 1478-9868.
+Inder Science Publishers
+10.1504/IJEWM.2018.094099]
+R. Gnanasekaran, B. Dhandapani,
+. “Biosorption of methylene blue dye by chemically modified
+Aspergillus japonicas
+MG183814: kinetics, thermodynamic and equilibrium studies”.
+Desalination and Water Treatment,
+vol.122, pp. 132–145, August 2018. ISSN Online 1944-3986
+[Impact Factor: 1.234, SCOPUS Indexed, Publisher:
+10.5004/dwt.2018.22711
+, S. Nivedha, V. Pujita, S. Ivo Romauld. “Detection of Antioxidant and Antimicrobial Activity of Leaf Extract of
+Jasminum azoricum
+Research Journal of Pharmacy and Technology
+, vol. 11, pp.3629-3632, August 2018. ISSN Online: 0974-360X.
+10.5958/0974-360X.2018.00668.6.
+, Sriram Kumar,
+, Sekar Sathiya, Chidambaram Saravana Babu, Mohammad Javed Equbal. “Inhibition of PKCβ Mediates Cardioprotective Activity of Ambrex against Isoproterenol-Induced Myocardial Necrosis: An in- vivo and in-silico Study”,
+Biology and Medicine
+, vol.10, pp. 442, July 2018. ISSN: 0974-8369.
+[Impact Factor: 3.07; H Index: 14,
+OMICS International publisher
+10.4172/0974-8369.1000442.]
+Susmita Roy,
+, Vineet Vishal, Sonia Bansal, Sayak Ganguli and Pratiti Ghosh. “Comparative study of plant derived natural compounds and established inhibitors of
+P-glycoprotein of mouse and human using molecular docking”,
+International Journal of Pharmacy and Biological Sciences
+, vol. 8, pp. 228-233, July 2018. ISSN: 2230-7605.
+JP Research publications
+Roy Sujata
+K. Subramaniyan Shreenidhi
+T.R. Sundararaman.
+“Histopathological and HPLC Analysis in the Hepatic Tissue of Pangasius sp. Exposed to Diclofenac”,
+Polish Journal of Environmental Studies,
+vol. 27, pp.2493-2498,
+June 2018. eISSN: 2083-5906 ISSN: 1230-1485
+[Impact Factor: 1.186, SCOPUS Indexed Publisher:
+Hard
+10.15244/pjoes/75829
+P. Senthil Kumar and A. Saravanan, (2018). “
+Energy Footprints of Food Products”
+, in the book titled “
+Energy Footprints of the Food and Textile Sectors
+” Muthu S.
+(eds), Energy Footprints of the Food and Textile Sectors, Environmental
+Footprints and Eco-design of Products and Processes. Singapore: Springer, 2018, pp. 1-18.
+doi.org/10.1007/978-981-13-2956-2_1. Online ISBN No: 978-981-13-2956-2
+Environmental Detoxification Using Carbonaceous Composites
+”, In the book title of “Carbonaceous Composite Materials”, vol. 42, Gaurav S, Amit K. (eds), Materials Research Foundations, USA: Material Research Forum LLC, 2018, pp. 205-230.
+Pharmaceutical and Life Sciences Supply Chain Management
+”. In Global Supply Chains in the Pharmaceutical Industry , H. Nozari, & A. Szmelter (Eds.), pp. 206-227. Hershey, PA: IGI Global.
+10.4018/978-1-5225-5921-4.ch009
+Ponnusamy, S. K., & Saravanan, A. (2019). “
+Characteristics of Pharmaceutical Supply Chains
+”. In H. Nozari, & A. Szmelter (Eds.), Global Supply Chains in the Pharmaceutical Industry (pp. 181-205). Hershey, PA: IGI Global.
+10.4018/978-1-5225-5921-4.ch008
+Senthil Kumar P & Saravanan A. (2019). “
+Organic Cotton Versus Recycled Cotton Versus Sustainable Cotton
+”. In: Gardetti M., Muthu S. (eds) Organic Cotton. Textile Science and Clothing Technology. Springer, Singapore
+10.1007/978-981-10-8782-0_7
+. Print ISBN 978-981-10-8781-3. Online ISBN 978-981-10-8782-0.
+Saravanan A., Kumar P.S. (2019) “
+Social Life Cycle Assessment of Renewable Bio-Energy Products
+”. In: Muthu S. (eds) Social Life Cycle Assessment. Environmental Footprints and Eco-design of Products and Processes. Springer, Singapore.
+. Online ISBN No: 978-981-13-3233-3
+Sustainable Buisness Strategies and Circular Economy
+” in the book title of Circular Economy in Textiles and Apparel, Processing, Manufacturing and Design, Elsevier.
+. Online ISBN: 978-0-08-102630-4
+(2017-2018)
+S Jeevanantham, R Kamalesh, S Hamsini, TB Kamali, S Karishma,
+H Jayalakshmi. “Designing and Development of Rice water based crude media and it’s application in fungal isolation and enzyme production”,
+vol. 11, pp. 3905-3908, May 2018. ISSN Online: 0974-360X.
+10.5958/0974-360X.2018.00716.3.
+, K Nagarajan, S Geethpriya, and K Abirami. “Extraction of Lemon Oil from Lemon Peel using Solvent Extraction Method – Optimization by using RSM”,
+Research Journal of Pharmaceutical, Biological and Chemical Sciences
+, vol. 9, pp. 913-919, March–April 2018. ISSN: 0975-8585
+[Impact Factor 0.35, H-Index score: 18, Publisher:
+RJPBCS
+Kilaru Harsha Vardhana, Rames C. Pandab,
+. “Removal of Zn(II) ions from aqueous solution using chemically modified Annona reticulata seeds: kinetics, isotherm and thermodynamics”,
+Desalination and Water Treatment
+, vol. 122, pp.1–12, February 2018. ISSN Online 1944-3986
+10.5004/dwt.2018.2267 0.
+M Millicent Mabel
+TR Sundararaman,
+N Parthasarathy,
+Harini V, “Karthik Kumar C. “Removal of Eosin Y Dye by Biosorption Using Chitin-Alginate Beads From
+Peneaus Monodon
+Shells”,
+Research Journal of Pharmaceutical, Biological and Chemical Sciences,
+vol. 9(1), pp. 775-784,
+January
+–February 2018. ISSN: 0975-8585
+Arumugam T, Senthil Kumar P,
+Hemavathy RV
+, Swetha V, Karishma Sri R, “Isolation, structure elucidation and anticancer activity from
+Brevibacillus brevis
+EGS 9 that combats Multi Drug Resistant actinobacteria”,
+Microbial Pathogenesis,
+vol. 115, pp. 146-153, December 2017.
+[Impact factor: 2.581, SCOPUS Indexed, H-Index score: 61, Publisher:
+10.1016/j.micpath.2017.12.061.
+R. Anila
+, S. Sekar, C. S. Babu,
+, “Attenuation of Oxidative Stress and Hepatotoxicity Induced By D–Galactosamine by a Polyherbal Formulation Ambrex–
+in vivo
+and in vitro Studies,”
+Indian Journal of Pharmaceutical Education and Research,
+vol 51, pp. 729-739, Oct-Dec, 2017. ISSN-0019-5464.
+Association of Pharmaceutical Teachers of India (APTI)
+10.5530/ijper.51.4.107
+CITATIONS: 2]
+S. Sriraman, N. G. Saha,
+S. Roy,
+“Interaction of curcumin with different target proteins of Alzheimer’s disease: docking and MD simulation studies”,
+Int. J. Computational Biology and Drug Design,
+vol. 10(4). pp. 315–330, 2017. ISSN: 1756-0756 (Print), ISSN: 1756-0764 (Online) [
+SCOPUS Indexed, Publisher:
+InderScience Publishers
+10.1504/IJCBDD.2017.088132
+Aerva lanata
+mediated phytofabrication of silver nanoparticles and evaluation of their antibacterial activity against wound associated bacteria”
+Journal of the Taiwan Institute of Chemical Engineers
+, vol.78. pp. 539-551, September 2017. ISSN: 1876-1070.
+[Impact Factor: 4.217, SCOPUS Indexed, H-Index score: 43, SJR journal, Publisher:
+10.1016/j.jtice.2017.06.035,
+CITATIONS: 5]
+M. Anbarasan, R. Kalai Selvi, M. Udayamathi,
+, “Characterization and in vitro antibacterial activity of saponin-conjugated silver nanoparticles against bacteria that cause burn wound infection,”
+World Journal of Microbiology and Biotechnology
+, vol. 33(7). pp. 147. July 2017. ISSN: 0959-3993 (Print) 1573-0972 (Online).
+[Impact Factor: 1.658, SCOPUS Indexed, H-Index score: 64, Publisher:
+Springer Netherlands,
+10.1007/s11274-017-2309-3,
+CITATIONS: 6]
+S. Suganthi, L. Sujatha, P.
+, “Functionalized Poly Dimethyl Siloxane Layer for Capacitive Type Uric acid Sensor”,
+Sensor Letters,
+vol 15, 242-248.2017. ISSN: 1546-198X (Print): EISSN: 1546-1971 (Online).
+[Impact Factor: 0.76, SCOPUS Indexed, Publisher:
+American Scientific Publishers,
+10.1166/sl.2017.3811
+, “Antimicrobial activity of a polyherbal formulation Ambrex,”
+International Journal of Materials and Product Technology,
+vol. 55. pp. 286–295. July 2017. [
+Impact Factor: 0.365, SCOPUS Indexed, H-Index score: 24, Publisher:
+Inderscience Publishers
+10.1504/IJMPT.2017.084976.
+C. Chandra Mohan, K. Radha Krishnan,
+S. Babuskin
+, K. Sudharsan, V. Aafrin, U. Lalitha Priya, P. Mariyajenita, K. Harini, D. Madhushalini, and M. Sukumar, “Active compound diffusivity of particle size reduced
+S. aromaticum
+C. cassia
+fused starch edible films and the shelf life of mutton (
+Capra aegagrus hircus
+) meat,”
+Meat Sci
+., vol. 128, pp. 47-59, Jun. 2017. ISSN: 0309-1740.
+[Impact factor: 2.8, SCOPUS Indexed, H-Index score: 113
+10.1016/j.meatsci.2017.02.001,
+and Gomathi M, “A novel study on wound healing properties of electrospun chitosan polyvinylalcohol nanofibers,”
+, vol. 8(3S). pp. 310-316, May – June 2017 (Suppl.). ISSN: 0975-8585. [
+Impact Factor: 0.35, H-Index score: 18, Publisher:
+(2016-2017)
+R. Mahendran, D. Sridharan, K. Santhakumar,
+, and
+J. H. Jang, “Graphene oxide reinforced polycarbonate nanocomposite films with antibacterial properties,”
+Indian J. Mater. Sci
+.,vol. 2016, pp. 1-10, Jun. 2016. [
+Hindawi
+10.1155/2016/4169409.
+S. D. Jegannathan, S. Arul, and
+H. Dayalan
+, “Zerumbone, a sesquiterpene, controls proliferation and induces cell cycle arrest in human laryngeal carcinoma cell line Hep-2,”
+Nutr. Cancer
+, vol. 68, pp. 865-872, Jul. 2016. ISSN: 0163-5581 (print); 1532-7914 (web).
+[Impact Factor: 2.322, SCOPUS Indexed, H-Index score: 96, Publisher:
+Taylor and Francis
+10.1080/01635581.2016.1159701,
+CITATIONS: 10]
+T. Elango, A. Thirupathi, S. Subramanian, P. Ethiraj,
+, and P. Gnanaraj, “Methotrexate treatment provokes apoptosis of proliferating keratinocyte in psoriasis patients,”
+Clin. Exp. Med
+., vol. 68, pp. 865-872, Jul. 2016. ISSN: 1591-8890 (Print) 1591-9528 (Online).
+[Impact Factor: 2.854, SCOPUS Indexed, H-Index score: 32, Publisher:
+10.1007/s10238-016-0431-4
+, CITATIONS: 6]
+,“Analysis of gene network and application of Barabasi-Albert Model to find out the core genes involved in Glaucoma,”
+BAOJ Biotechnol
+, vol. 2, pp. 017, Aug. 2016. [
+Bioaccent Group
+, P. Senthil Kumar, and K. Sathish Kumar, “Synthesis of nano-sized chitosan blended polyvinyl alcohol for the removal of eosin yellow dye from aqueous solution,”
+J. Water Process Eng
+., vol. 13, pp. 127-136, Aug. 2016. ISSN: 2214-7144.
+[SCOPUS Indexed, H-Index score: 6, Publisher:
+10.1016/j.jwpe.2016.08.003,
+CITATIONS: 9]
+R. Mahendran, D. Sridharan, C. Arunmozhidevan,
+, “Fabrication and antibacterial effects of polycarbonate/leaf extract based thin films,”
+J. Mater
+., vol. 2016, pp. 1-7, Sep. 2016.
+10.1155/2016/3194154
+M. Sankar
+, “Studies on acute toxicity of heptoplus in experimental rats,”
+Int. J. Pharm. Pharm. Sci
+., vol. 8, pp. 124-130, Sep. 2016.
+ISSN No. 0975 – 1491. [Impact Factor 1.59, SCOPUS Indexed, H-Index score: 20, Publisher:
+IJPPS,
+10.22159/ijpps.2016v8i11.13934.
+, R. Baskaran, and T. R. Kubendran, “Effect of temperature on thermo physical properties of binary liquid mixture and its effect on environment,”
+Int. J. Adv. Res
+., vol. 9, pp. 926-933, Sep. 2016. ISSN 2320-5407.
+[Impact Factor 7.08, Publisher:
+IJAR,
+10.21474/IJAR01/1563
+T. Suriyanarayanan,
+S. Periasamy,
+M. H. Lin, Y. Ishihama, and S. Swarup, “Flagellin FliC phosphorylation affects Type 2 protease secretion and biofilm dispersal in
+Pseudomonas aeruginosa
+PAO1,
+” Plos One
+, vol. 11, pp. 1-19, Oct. 2016.
+[Impact factor: 3.234, SCOPUS Indexed, H-Index score: 181, Publisher:
+Plos
+10.1371/journal.pone.0164155,
+CITATIONS
+: 1
+, R. Baskaran, and T. R. Kubendran TR, “Experimental studies on thermo physical properties and spontaneity of organic compound waste and its effect on environment,”
+Res. J. Pharm. Biol. Chem. Sci
+., vol. 7, pp. 2393-2398, Nov. 2016. ISSN: 0975-8585.
+[Impact factor: 0.35, SCOPUS Indexed, H-Index score: 12, Publisher:
+, R. Prathiba, and S. Sangavi, “Immunostimulant potency of
+Cassia alata
+petals in Garra rufa,”
+ol. 37, pp. 1515-1518, Nov. 2016. pISSN: 0254-8704 ; eISSN: 2394-0379.
+[Impact factor: 0.56, SCOPUS Indexed, H-Index score: 31, Publisher:
+JEB
+, R. Baskaran, and T. R. Kubendran, “Thermo physical properties of organic compound and its impact on environment,”
+., vol. 37, pp. 1457-1461, Nov. 2016. pISSN: 0254-8704 ; eISSN: 2394-0379.
+[Impact factor: 0.56, SCOPUS Indexed,
+H-Index score: 31, Publisher:
+A. Santhosh,
+D. Haripriya
+, J. Muhilan, and D. Prabhavathy, “Induction of differentiation in psoriatic keratinocytes by propylthiouracil and fructose,”
+BBA Clin
+., vol. 6, pp. 82-86,
+Dec. 2016. ISSN: 2214-6474.
+[SCOPUS Indexed
+10.1016/j.bbacli.2016.06.002,
+: 2
+H. A. S. Nair,
+S. Periasamy
+, Y. Liang, S. Kjelleberg, and S. A. Rice, “Real time, spatial and temporal mapping of the distribution of c-di-GMP during biofilm development,”
+J. Biol. Chem
+., vol. 292, pp. 477-487, Jan. 2017.
+[Impact factor: 4.573, SCOPUS Indexed,
+H-Index score: 435, Publisher:
+American Society for Biochemistry and Molecular Biology
+10.1074/jbc.M116.746743,
+9]
+C. S. Jeba Samuel
+, and K. S. Shreenidhi, “Exopolysaccharides of marine cyanobacterium Nostoc Species as a biosurfactant,”
+Int. J. Innovat.
+Res.
+Sci.
+Eng. Tech
+., Vol. 6, pp. 477-483, Jan. 2017. ISSN (Online): 2319-8753, ISSN (Print): 2347-6710.
+[Impact Factor: 5.442, H-Index score: 10, Publisher:
+IJIRSET
+, DOI:10.15680/IJIRSET.2017.0601087
+P. Dhakshanya, B. Vijay, K. S. Shreenidhi, and
+, “A review – Curbing plastic pollution using microbes and electricity generation from wastes,”
+Int. J. Adv. Res. Basic Eng. Sci. Tech
+., vol. 3, pp. 27-33, Feb. 2017. ISSN (Online): 2456-5717.
+[Impact Factor: 5.023, Publisher:
+IJARBEST
+BOOK CHAPTERED
+Sandhyaa S.
+, Ashoke Ranjan Thakur. Comparative Structural Analysis of Spo0F and Spo0B Like Protein Involved In Phosphotransfer Pathway In New Bacterial Species MCC0008. In Shaon Ray Chaudhuri, Editor, Life Science Recent Innovation and Research. International Research Publication House, 2016. pp. 271-286.
+(2015-2016)
+P. B. Sridevi, N. Parthasarathy,
+D. Sridhar
+, “Isolation and optimization of proteolytic and lipolytic bacteria from dairy effluent,”
+J. Pure Appl. Microbiol
+., vol. 9, pp. 2465-2470, Sep. 2015. ISSN No. 0973-7510.
+[Impact factor: 0.073, SCOPUS Indexed, H-Index score: 6, Publisher:
+JPAM
+, and S. Mazher, “Seroepidemiological review of leptospirosis and its co- infection between 2007 to 2009 in Chennai, Tamil Nadu - A doctoral thesis report,”
+., vol.10, pp. 2411-2418, Sep. 2015. ISSN No. 0973-7510.
+, “Hepatoprotective activity of heptoplus on isoniazid and rifampicin induced liver damage in rats,”
+Indian J. Pharm. Sci
+., vol. 77,
+pp. 556-562, Sep. 2015.
+[Impact factor: 0.479, SCOPUS Indexed, H-Index score: 37, Publisher:
+Indian Pharmaceutical Association,
+6]
+, R. Prathiba, and S. Sangavi, “Immunomodulatory effect of
+Cassia alata petals
+Garra rufa
+(Doctor Fish),”
+J. Chem.
+Pharm. Sci
+., vol. 9, pp. 215-218, Jan-Mar. 2016. ISSN: 0974-2115.
+JCHPS
+, P. Gururaj, and M. Thulasi Priyadharshini, “A study on the immobilization of acid xylanase on chitosan from chitin of shrimp shells,”
+., vol. 9, pp. 268-271, Jan-Mar. 2016. ISSN: 0974-2115.
+, R. Baskaran, T. R. Kubendran, “Experimental measurement of transport properties and thermodynamic consistency test of binary liquid mixtures,”
+., vol. 9, pp. 267-270, Jan-Mar. 2016. ISSN: 0974-2115.
+, S. Sathiya, C. S. Babu,
+In vitro
+protective effects of Ambrex, a polyherbal formulation, against methotrexate induced damages in hepatic cells,”
+Int. J. Pharm. Pharma. Sci
+.,vol.7, pp. 164-170, Jun. 2015. ISSN No. 0975-1491.
+[Impact Factor: 1.59, SCOPUS Indexed, H-Index score: 20, Publisher:
+IJPPS
+2]
+, P. S. Kumar, K. S. Kumar, K. Sriram, and J. F. Ahmed, “Biosorption of lead (II) ions onto nano-sized chitosan particle blended polyvinyl alcohol (PVA): Adsorption isotherms, kinetics and equilibrium studies,”
+Desal Water Treat
+., vol. 57, pp. 13711-13721, Jun. 2015.
+[Impact Factor: 1.173, H-Index score: 20, Publisher:
+Taylor and Francis,
+10.1080/19443994.2015.1061951,
+CITATIONS: 4]
+A. Sheela Devi,
+, and J. Joseph, “
+In silico
+approach of antibacterial compounds from mangrove –
+Avicennia marina
+through docking analysis,”
+Biomed. Res
+., vol. 26,
+pp. S52-S54, Jul. 2015. ISSN No. 0970-938X.
+[Impact factor: 0.236, SCOPUS Indexed, H-Index score: 12, Publisher:
+CITATIONS: 1]
+S. Sabarunisha Begum
+, and K. V. Radha, “Comparative kinetic studies and performance evaluation of biofilm and biomass characteristics of pseudomonas fluorescens in degrading synthetic phenolic effluent in inverse fluidized bed biofilm reactor,”
+Water Environ. Res
+., vol. 88, pp. 415-424, Jul. 2015. ISSN: 1554-7531.
+[Impact Factor: 0.87, H-Index
+score: 51, Publisher:
+Ingenta,
+10.2175/106143016X14504669768417,
+CITATIONS: 3]
+C. Shivashri, T. Rajarajeshwari, D. Ramesh Kumar, and
+, “Biogenesis, characterization, and the effect of vicenin-gold nanoparticles on glucose utilization in 3T3-L1 adipocytes: A bioinformatic approach to illuminate its interaction with PTP 1B and AMPK,”
+Biotechnol. Prog
+., vol. 31, pp. 1096-1106, 2015. Online ISSN No. 1520-6033.
+[Impact Factor: 2.149, SCOPUS Indexed, H-Index score: 94, Publisher:
+Wiley
+10.1002/btpr.2112,
+N. Vineetha, R. A. Vignesh, and
+, “Preparation, standardization of antibiotic discs and study of resistance pattern for first-line antibiotics in isolates from clinical samples,”
+Int. J. Appl. Res
+., vol. 1, pp. 624-631, Sep. 2015. [ISSN Print: 2394-7500; ISSN Online: 2394-5869;
+Impact Factor : RJIF 5.2,
+AII Research Journal
+CITATIONS: 7]
+C. Saravana Babu, P. Anbarasi, S. Sathiya, H. Sumathy, V. Ranju, T. Lakshmi Kantham,
+, B. R. Hanumantha Rao, and K. Tunku, “
+Sesame indicum
+, a nutritional supplement, elicits antiamnesic effect via cholinergic pathway in scopolamine intoxicated mice,”
+Environ. Toxicol.
+, Oct. 2015.
+[Impact factor: 3.167, SCOPUS Indexed, H-Index score: 20, Publisher:
+10.1002/tox.22196.
+R. Rekha
+, S. Nitika,
+R. Sujata
+, A. R. Thakur, G. Subhadra, K. Sriram, A. Jamuna Devi, and
+, “Interaction studies of
+Withania somnifera’s
+key metabolite Withaferin A with different receptors associated with cardiovascular disease,”
+Cur. Comp
+Aid. Drug Des
+., vol. 11, pp. 212-221, 2015. ISSN No. 1875-6697 (Online), ISSN No. 1573-4099 (Print).
+[Impact factor 1.268, H-Index score: 18, Publisher:
+10.2174/1573409912666151106115848,
+, P. S. Kumar, K. S. Kumar, and S. Ramalingam, “Adsorptive removal of Pb (II) ions from polluted water by newly synthesized chitosan polyacrylonitrile blend: Equilibrium, kinetic, mechanism and thermodynamic approach,”
+Saf
+Environ Prot
+., vol. 98, pp. 187-197. Nov. 2015. (ISSN: 0957-5820).
+[Impact Factor: 2.55, H-Index score: 38, Citation Index: 17, Publisher:
+10.1016/j.psep.2015.07.012,
+CITATIONS: 36]
+T. Elango, A. Thirupathi, S. Subramanian,
+, and P. Gnanaraj, “Methotrexate normalized keratinocyte activation cycle by overturning abnormal keratins as well as deregulated inflammatory mediators in psoriatic patients,”
+Clin Chim Acta
+., vol. 451(Pt B), pp. 329-337, Dec. 2015. ISSN No. 0009-8981.
+[Impact Factor: 2.824, SCOPUS Indexed, H-Index score: 100,
+10.1016/j.cca.2015.10.020,
+CITATIONS: 8]
+, P. Lavanya, A. J. Devi,
+, “Effect of a polyherbal formulation, Ambrex on serum lipid profile in isoproterenol induced myocardial infarction in rats,”
+Asian J. Microbio. Biotechnol. Environ. Sci
+., vol.17, pp. 81-84, 2015. ISSN No. 0972-3005.
+[SCOPUS Indexed, H-Index score: 11
+EM International
+, and S. Karthiga, “Effect of Herbal Concoction on the growth, meat quality and immune response of Broilers,”
+Int. J. Appl. Eng. Res
+., vol. 10, pp. 11849-11855, 2015. ISSN No. 0973-4562.
+[SCOPUS Indexed, H-Index score: 5, Publisher:
+Research India Publication
+J. Aravind, M. Barath, and
+, “A novel method of optimized bacteriosin production from marine water and testing its efficiency as an anti-microbial agent,”
+Int. J. Innov.
+Res. Sci.
+Eng.
+., vol. 4, pp. 12893-12899, Dec. 2015. ISSN (Online): 2319-8753, ISSN (Print): 2347-6710.
+[Impact Factor: 5.442, H-Index score: 10,
+10.15680/IJIRSET.2015.0412156
+A. Karthickeyan,
+, P. Banumathy, and K. Hemalatha, “Extraction of bio-compound from marine waste and its usage as a possible immune stimulant,”
+.,vol. 5, pp. 645-650, Jan. 2016. ISSN (Online): 2319-8753, ISSN (Print): 2347-6710.
+R. A. Vignesh, P. Meenakshi, A. Padma, N. Sahaja, N. Aarthi,
+, “Effect of dairy industry effluent on living organisms,”
+., vol. 2, pp. 229-232, Feb. 2016. ISSN Print: 2394-7500; ISSN Online: 2394-5869;
+[Impact Factor : RJIF 5.2, Publisher:
+, and K. V. Radha, “Gas-liquid mass transfer studies in inverse fluidized bed biofilm reactor for the biodegradation of industrial effluent rich in phenolic compounds,”
+Environ. Prog. Sustain Energy
+., vol. 35, pp. 433–438, Mar. 2016. Online ISSN No. 1944-7450.
+[Impact Factor: 1.403, H-Index score: 41,Publisher:
+10.1002/ep.12256,
+, J. Aravind, M. Barath, and K. S. Shreenidhi, “A review: bioflocculant and biosurfactant activity of exo-polysaccharides produced by marine cyanobacteria-nostoc,”
+., vol. 4, pp. 12747-12754, Dec. 2015. ISSN (Online): 2319-8753, ISSN (Print): 2347-6710.
+[Impact Factor: 5.442, H-Index
+score: 10, Publisher:
+10.15680/IJIRSET.2015.0412100]
+(2014-2015)
+M. Chandran, A. Arun Samuel Pandian, S. Thiruvengadam, and N. Parthasarathy, “Enrichment and immobilizaiton of
+Enterococcus hirae
+in various matrices to study their protease production efficiency,”
+J. Pure Appl Microbiol
+.,vol. 8, pp. 3747-3754, Jul. 2014. ISSN No. 0973-7510.
+[Impact Factor: 0.073, SCOPUS Indexed, H-Index score: 6
+R. Rekha, P. Lavanya, A. Jamuna Devi, R. Krithika, and R. Johanna, “Phytochemical screening, GC-MS analysis and antimicrobial evaluation of Ambrex (an herbal formulation),”
+J. Chem. Pharm. Sci
+., vol. 2, pp. 31-35, Oct. 2014. ISSN: 0974-2115.
+[SCOPUS Indexed, H-Index score: 15, Publisher:
+R. Jayasree, and M. Vijayalakshmi, “Paraoxonase Q 192 R gene polymorphism and cardiovascuaar risk are associated with polycystic ovarian syndrome women,”
+., vol. 9, pp. 1143-1148, Mar. 2015. ISSN 0973-7510.
+[Impact Factor 0.073, SCOPUS Indexed, H-Index score: 6 Publisher:
+R. Rekha, S. Sathiya, A. Jamuna Devi, C. Saravana Babu, and R. Johanna, “Studies on the effect of ambrex (an amber based herbal formulation) on apoptotic gene expression and energy producing mitochondrial enzymes in isoproterenol induced myocardial infarction in rats,”
+., vol. 9, pp. 1-7, Mar. 2015.
+[Impact Factor: 0.073, SCOPUS Indexed, H-Index score: 6 Publisher:
+S. Pandi Prabha, and R. Johanna, “Hepatotoxicity of lead in Indian major carp
+Labeo rohita (Rohu) -
+A fourier transform infra-red study,”
+., vol. 8, pp. 317-323, Apr-Jun. 2015. ISSN No. 0974-2115.
+S. Duraiarasan, V. Mani, S. Abdul Razack, S. Thiruvengadam, S. Ammavasai Shanthalin, and T. Kuppusamy, “A green synthesis of antimicrobial compounds from marine microalgae
+Nannochloropsis oculata
+,”
+J. Coastal Life Med
+., vol. 2, pp. 859 -863, Jul. 2014. ISSN No. 2309-5288 (Print), ISSN No. 2309-6152 (Online).
+JCLM
+10.12980/JCLM.2.2014APJTB-2014-0138,
+T. Rajarajeshwari, C. Shivashri, and P. Rajasekar, “Synthesis and characterization of biocompatible gymnemic acid-gold nanoparticles: a study on glucose uptake stimulatory effect in 3t3-l1 adipocytes,”
+RSC Adv
+., vol. 4, pp. 63285-63295, Jul. 2014. ISSN No. 2046-2069.
+[Impact Factor: 3.708, SCOPUS Indexed, H-Index score: 45,
+RSC
+10.1039/C4RA07087A,
+R. Johanna, A. Jamuna Devi, and R. Rekha, “Evaluation of safety and toxicity of ambrex (an amber based herbal formulation) in rats,”
+Int. J. Fut. Biotechnol
+., vol. 3, pp. 1-6, 2014. ISSN No. 2319 – 1031.
+[H-Index score: 1, Publisher:
+IJFB
+T. Gokila, and S. Thiruvengadam, “Nanotechnology in food industry – A review,”
+Int. J. ChemTech Res
+., vol. 6, pp. 4096-4101, Sep. 2014. ISSN No. 0974-4290.
+[SCOPUS Indexed, H-Index score: 17, Citation Index: 2, Publisher:
+Sai Scientific Communications
+K. H. Thulasi, S. Thiruvengadam, and V. I. Bishor, “Development of a PCR based nucleic acid lateral flow assay device for detection of
+Mycobacterium tuberculosis
+complex,”
+Int. J. PharmTech Res
+., vol. 6, pp. 1695-1702, Sep. 2014. ISSN No. 0974-4304.
+[SCOPUS Indexed, H-Index score: 19, Publisher:
+S. Thiruvengadam, K. S. Shreenidhi, H. Vidhyalakshmi, M. Ramya, T. Kamala,
+T. R. Sundararaman, and R. Selvi, “A study of bacterial profiling on coins and currencies under circulation and identifying the virulence gene in Chennai(TN),”
+., vol. 6, pp. 4108-4114, Sep. 2014. ISSN No. 0974-4290.
+[SCOPUS Indexed, H-Index score: 17, Citation Index: 3, Publisher:
+T. Aswin, R. Jayasree, and J. Jaidev, “Effect of cellular phone tower radiations in the physiology of soil microbes –
+Lactobacillus sp
+.,”
+., vol. 6, pp. 4089-4095, Sep. 2014. ISSN No. 0974-4290.
+[SCOPUS Indexed, H-Index score: 17, Publisher:
+S. Sabarunisha Begum, and K. V. Radha, “Effect of gas–liquid mass transfer coefficient and liquid–solid mass transfer resistance on phenol biodegradation in three phase inverse fluidized bed biofilm reactor,”
+J. Environ. Chem. Eng
+., vol. 2, pp. 2321–2326, Dec. 2014. ISSN No. 2213-3437.
+[H-Index score: 8, Publisher:
+10.1016/j.jece.2014.10.011,
+M. Sankar, R. Johanna, and D. Sridhar, “Effect of Hepatoplus on isoniazid and Rifampicin induced Hepatotoxicity in liver cell lines,”
+., vol. 7, pp. 215-219, Jan. 2015.
+ISSN No. 0975 – 1491. [Impact Factor 1.59, SCOPUS Indexed, H-Index score: 20, Citation Index: 2, Publisher:
+T. Anitha, P. S. Kumar, and K. S. Kumar, “Binding of Zn(II) ions to chitosan –PVA blend in aqueous environment: Adsorption kinetics and equilibrium studies,”
+Environ. Prog.
+Sustain Energy
+, vol. 34, pp. 15-22, Jan. 2015. ISSN No. 1944-7450.
+[Impact Factor: 1.403, H-Index score: 41, Publisher:
+10.1002/ep.11943,
+CITATIONS: 19]
+S. Pandi Prabha, and R. Johanna, “Phytochemical Screening and Bioactive Potential of
+J. Chem. Pharm. Res
+., vol.7, pp. 1809-1815, Jan-Mar. 2015. ISSN: 0975-7384.
+JOCPR
+S. Pandi Prabha, and R. Johanna, “Histological study on protective effect of aquatic weed
+against lead induced toxicity in fish,”
+., vol. 7, pp. 132-136, Feb. 2015. ISSN No. 0975–1491.
+[SCOPUS Indexed, H-Index score: 20,
+M. Sankar, R. Johanna, and A. Jamuna Devi, “Hepatoprotective activity of hepatoplus on isonaizid and rifampicin induced hepatotoxicity in rats,”
+Pakistan J. Pharm. Sci
+., vol. 28, pp. 983-990, May 2015. ISSN No. 1011-601X.
+[Impact Factor 0.682, SCOPUS Indexed, H-Index score: 23, Publisher:
+PJPS
+In tune with the vision of the college to bring out globally competent professionals with a commitment to serve the society, the budding engineers of REC are faithfully involved in community services through voluntarily asked to undergo Personality and Character Development Programmes for a minimum period of 80 hours. There are two wings to this programme and students may choose one club from each wing. One wing consists of pan national groups like ENACTUS, NSS, YRC, ROTARACT, CII-YI and NSO while the other wing is made of college level clusters like Debating Union, Atrium, Yaazh Mandram, Ethics Club, EDC and STEM. Their contributions are appreciated by the voluntary organizations
+Quality jobs:
+Employability Training camps, Industrial visits, guest lectures, in-plant trainings and effective practical sessions are organized to obtain quality jobs in core areas.
+Entrepreneurship –
+Students’ entrepreneurial skills are honed through Entrepreneurship Development Cell (Kriya), which also helps the economically weaker students to ‘earn while they learn’. The EDC has brought in various innovations and the students work for it with commitment and dedication. The EDC guides them to apply for external funds and patents. EDC of the college functions in collaboration with National Entrepreneurship Network and CII. With the support of the management, an Aavin parlour namely
+Melting Point
+which is a registered refreshment outlet of the TCMPF and also
+Boiling Point
+which is a registered coffee outlet of LAVAZZA are business administered and run by students completely. The Melting point has recently been the winners of NEN – TATA FIRST DOT judges choice of TOP 5 STUDENTS START UPS in India.
+Innovations:
+Innovative Project Cell (IPC) of the college organizes iQuest – a contest for innovative ideas and projects every year for the benefit of the students. The winners of this talent hunt are encouraged to take up their ideas for further improvement at IIM-PALS and DBT-ABLE BEST programmes that encourage student start ups.
+Research Aptitude
+: Research aptitude of students is kindled right from the first year of graduation by encouraging students for course relevant in-house projects and final semester projects and guidance in preparing and presenting technical papers in seminars and conferences.
+Journal Club:
+The Journal Club of the Department of Biotechnology (JC BT-REC) is an initiative to assist and inspire young undergraduates in their scientific journey. It was launched in September 2016. It promotes research among students. It is a forum for the budding scientists in the field of Biotechnology to improve their fundamentals and share their ideas and experience for an enhanced research culture. The objectives of the club include the following:
+To promote research interest among students
+Give guidance on how to write a review paper
+Conducting workshops for conceptual understanding
+Learning how to design an experiment / project
+To help students in publishing their work in reputed journals
+Taking up projects to the next level for commercialization and delving deeper into more basic questions
+To investigate the possibility of preparing student project proposals
+To develop an e- library for cultivating a habit of reading popular science literature
+BT Society:
+The BT Society (BTS) is a student initiative that was started in 2015 to update the students on the current scenario in the field of Biotechnology. The Society brings celebrated industrialists, entrepreneurs to interact with students. The experts discuss about the knowledge gap that needs to be bridged in various sectors of biotechnology. Students accordingly take up various internship / training programmes in topics that are beyond the syllabus but indispensable when applying for higher studies or job applications.
+The elected members of the team organize various events and discuss activities to be carried further. Brainstorming sessions, quiz, model creation are done to keep students always in active mode thinking out of the box in the subjects. The students also celebrate the awareness days and also organized camps benefitting the entire college through this forum. Conferences are also organized which gives hands on experience and organizing responsibilities to students.
+Biosnippets:
+The Department of Biotechnology releases a technical Newsletter under the heading of 'Biosnippets'. Each issue of Biosnippets focuses on different aspects of Biotechnology as its theme. The magazine has its team of exclusively student editors who develop technical content related to recent scientific developments, biomimetics, bioillustrations, technical puzzles, popular sections like myth busters and reviews books and movies (biotech related). The magazine also solicits contributions from its readers which include science articles, poems, sketches etc. The magazine seeks to encourage both faculty and students, by highlighting their achievements like research grants secured, PhD degrees obtained, papers published, trainings attended, university ranks attained and prizes & medals won at various conferences, symposiums, sports, cultural events, etc. It is hoped that shining a light on such achievements would also shine a path to excellence for future students.
+Our institution possess well equipped central library with necessary text and reference books, periodicals, journals and e-resources in all the subjects related to engineering, technology, management, science and humanities. The college has subscribed to the e-resource and e-journal packages. The packages cover journals with multiple accesses and download facility for all faculty, students, researchers and staff members. Considering the importance given for R&D in our campus, all faculty and staff members utilize this facility to come out with constructive outputs in terms of publication, funded projects, consultancy and innovative products and solutions. Faculty members have been provided with login facility.
+Apart from the central library, every department has a library with adequate collection of text and reference books and journals.
+Fellowships and Internships
+Department of Biotechnology, Rajalakshmi Engineering College
+has a strong legacy of students earning
+prestigious National and International Fellowships and Internships
+. Every year, more students from the department secure highly competitive positions among national and global peers — a testament to the department’s focus on research and academic excellence.
+International Fellowships
+Mitacs Globalink Research Internship
+is a competitive 12-week research program open to top-ranked undergraduates from countries including Australia, Brazil, China, France, Germany, Hong Kong, India, Mexico, Taiwan, Tunisia, Ukraine, the United Kingdom, and the United States. Participants work under the supervision of Canadian university faculty members in diverse academic disciplines such as science, engineering, mathematics, and the humanities.
+India Connect @ NTU (IC@N)
+India Connect @ NTU (IC@N) Visiting Research Student Programme
+is a 2–6 month opportunity for undergraduate and postgraduate students from India to pursue research at
+Nanyang Technological University (NTU), Singapore
+. Established in 2016, it allows students to develop research expertise under NTU faculty, gain international exposure, and build global networks.
+The Khorana Program
+Khorana Program
+is a collaboration between the
+Department of Biotechnology (Government of India)
+University of Wisconsin–Madison (USA)
+, and the
+Indo–US Science and Technology Forum (IUSSTF)
+. It connects Indian and American students in biotechnology and biomedical sciences for collaborative research, encouraging them to pursue research-driven careers.
+2024
+Tamizhiniyan Vasudevan
+Scheme:
+Globalink Research Internship
+Mentoring Professor: Prof. Dr. Makan Golizeh
+Institution: Concordia University of Edmonton
+2023
+Poorna Padma M
+Mentoring Professor: Prof. Dr. Ellen Wasan
+Institution: University of Saskatchewan, Saskatoon
+Swetha V
+Mentoring Professor: Dr. Thomas Pulinikunnil
+Institution: Dalhousie University, Halifax
+Pontiana Ritika
+Mentoring Professor: Dr. Kavaljit H. Chhabra
+Institution: University of Rochester Medical Centre
+Charanya R
+TUM Asia Summer School 2023
+Institution: German Institute of Science and Technology – TUM Asia Pte Ltd, Technische Universität München Asia, Singapore
+2022
+Apoorvha JP
+Mentoring Professor: Dr. Marc Gauthier
+Institution: Institut national de la recherche scientifique, Varennes
+Janani N
+Mentoring Professor: Dr. Brandon Gilroyed
+Institution: University of Guelph, Guelph
+Krithika Ananthakrishnan
+Mentoring Professor: Dr. David Bressler
+Institution: University of Alberta, Alberta
+Poornimaa Nataraj
+Mentoring Professor: Dr. John Frampton
+Surya AV
+Mentoring Professor: Dr. Vincent Ziffle
+Institution: University of Regina, Regina
+2021
+Vasanta Vaarshni U
+Mentoring Professor: Dr. Valerio Hoyos-Villegas
+Institution: McGill University, Montreal
+Vigneshwar R
+Mentoring Professor: Dr. Isabelle Benoit Gelber
+Institution: Concordia University, Montreal
+2018
+Sriram K
+NTU–India Connect Research Internship Programme
+Institutions: NTU, Singapore and McGill University, Montreal
+Excellence Fellowship – University of Geneva
+Mr. Santhosh Arul
+, Research Scholar of
+Dr. D. Haripriya
+, received support for a 90-day research programme under the
+Excellence Fellowship
+University of Geneva
+His project focused on
+“Dual targeting of Warburg effect in breast cancer cells.”
+2017
+Akshaya R
+Institutions: Indiana University, USA and McGill University, Montreal
+Gayathri K
+Institution: NTU, Singapore
+2015
+Shravanti Krishna S
+Institution: Virginia Tech University, USA
+National Fellowships
+National Institute of Immunology (NII), Delhi
+, offers
+Short Term Training
+opportunities for outstanding students to work under top scientists.
+Additionally, the
+NPTEL Winter School
+internship is awarded to top performers of NPTEL courses, allowing them to undertake guided research under IIT faculty.
+Priyanka N
+Institution: Prof. Mukesh Doble, IIT Madras
+Swathi S
+Institution: Prof. Falguni Pati, IIT Hyderabad
+Durga Devi B
+, NII Delhi
+Gokul SM
+Swathi A
+, IIT Hyderabad (Prof. Falguni Pati)
+Rukshini VB
+CSIR–CCMB STP
+, CCMB Hyderabad
+Mydavolu Sai Niharika
+Nischal J
+Sruthi R
+V. Sai Swathi
+Aravindan S
+IAS–SRF
+, RMRC Bhubaneswar
+, IIT Bombay
+, ILBS New Delhi
+2020
+Tajsabreen B
+DBT BIRAC–SPARSH–IIT Delhi Fellowship
+, IIT Delhi
+Anantha Narayanan V
+, CSIR–IGIB
+Rithika Suresh
+JNCASR–SRFP
+, RCB Haryana
+Vishvaganesh S
+, NML Jamshedpur
+2019
+Includes selection of
+Mr. K. Sriram (M.Tech Biotechnology)
+among the top 25 students nationwide for the
+B4 Young Scientist Development Programme and Synthetic Biology Workshop 2019
+, conducted under the
+B4: Building Bharat Boston Bioscience Program
+Harvard University’s Lakshmi Mittal South Asia Institute
+IBAB Bengaluru
+DBT, Government of India
+at IBAB, Bengaluru.
+Other Achievements:
+Gokula Narayanan S
+, Institute for Life Sciences, Bhubaneswar
+Hamsini S
+CSIR–CCMB Summer Training Programme
+, Central Drug Research Institute, Lucknow
+Harish K
+NIT Calicut Summer Internship Programme
+Kamalesh R
+, ICRISAT Hyderabad
+Kamali T. B.
+Lokitha R
+, NIRRH Mumbai
+Sagaya Kriti L
+Sneha S
+Subanedhi C. S.
+IIT Madras Summer Fellowship Programme
+Sunithi R
+Vignesh K
+Yasashwini S
+Yogesh M
+, IISER Thiruvananthapuram
+, CSIR–NIIST Trivandrum
+IIT Mandi Summer Internship Programme
+, IIT Mandi
+AcSIR Dr. APJ Abdul Kalam Summer Training Programme
+, CSIR–IIIM Jammu
+Aparna K
+, IACS Kolkata
+Keerthika V
+Kanishka Reshmi A
+IITM PALS RuTAG
+, IIT Madras
+Koushik G
+, NCCS Pune
+Hemalatha K
+SSVIP
+, Kalasalingam University
+Lakshmipriya Narasimhan
+IIT Madras Internship
+Unstructured Internship
+, NIRT Chennai
+, CUSAT Cochin
+CSIR–CCMB Summer Fellowship Programme
+Jenisha Chris
+IIT Madras Summer Internship Programme
+Jivitesh R
+, NIBMG Kolkata
+Monica D
+Saranya V
+, IISc Bengaluru
+2016
+Animamalar M
+, Institute of Life Sciences, Bhubaneswar
+Harshavardhini G
+, Jamia Hamdard, New Delhi
+NIT Rourkela Summer Internship Programme
+2014
+Purnima R
+After becoming an IT bellwether, India is now shifting its focus to the most promising industry of the future, Biotechnology. With its large pool of scientific talent, world-class information technology industry, and vibrant pharmaceutical sector, India is well positioned to emerge as a significant player in the global biotech arena.
+Biotechnology is perceived as a revolution throughout the world. Scientists, through Research and Development (R&D), have developed and are continuing to develop cures for diseases that have affected people for decades and even centuries. Scientists recently, have also, clinically developed crops that can withstand the brutalities of weather changes, helping poor farmers of the developing countries to retain their yield and increase their output manifold. Biotech, considered a boon by some, provides great hope to many around the world, and its benefits are and will be realized by more and more people over the years.
+On the threshold of this new revolution, numerous companies have sprung up to take a piece of the exponentially growing Biotech market worldwide. The ever-decreasing physical boundaries enable biotech companies from the West to tap large markets around the world.
+$2c
+Indian Advantage:
+India, today, holds a small share of the global biotech market, but has all the capabilities to become a dominant player. The consumption of biotech products in India is expected to quadruple in the next decade. The human and animal segment of the industry alone is growing by at least 20%.
+$2d
+It is estimated that vaccines, contract research, agriculture and human health sectors comprise as much as two thirds of the total market. It is further estimated that health care products would dominate the Indian biotech market, roughly 40% of the total market by the year 2010 followed by agriculture of about 30%. It is also estimated that contract research and bioinformatics would pick up and account for as much as 25% of the biotech market. An estimation by CII shows that Agri-Biotech would see growth rates of as much as 60%, Diagnostic and Therapeutics of about 25% and Vaccines of about 15%. These figures clearly indicate the prospects of the Biotech industry in India.
+Government and State Initiatives
+The Government of India realized the potential and benefits of this industry at an early stage and formed the Department of Biotechnology in 1986 that has now become the central agency, responsible for policy, promotion of R&D and for international cooperation and manufacturing activities. Some of the initiatives taken by the Government of India are as follows:
+The Government of India has been increasing its outlays to provide financial support to this industry. Government of India is also setting up a venture capital fund, to support small and medium enterprises.
+Good regulatory framework has been set up for approval of GM crops and rDNA products. Recently, the Government of India decided to make changes to the Drugs & Cosmetics Act to make it more globally compatible.
+Indian Patents Bill recently passed by the Parliament allowing 20-year patent term, inline with provisions made by WTO and TRIPS.
+India has a sound and widely acknowledged framework of bio-safety guidelines to deal with evaluation, monitoring and release of genetically engineered organisms and there are more than 106 institutional bio-safety committees.
+The initiatives taken by both Central government and State governments have given a big boost to the Biotech industry in India. Foreign companies looking for new markets and to expand facilities to much more economical locations can find India ever more open and responsive to their needs.
+Some useful websites for further information are:
+Department of Biotechnology:
+Confederation of Indian Industries:
+www.ciionline.org
+Government of Andhra Pradesh:
+www.andhrapradesh.com
+Federation of Indian Chambers of Commerce:
+www.ficci.com
+US-India Business Council:
+www.usibc.com
+State Level Initiatives
+Many state governments have also realized the benefits/importance of this industry. State governments namely Andhra Pradesh, Tamil Nadu, Karnataka and Maharashtra have begun to formulate their policies, develop R&D centers to encourage and nurture the Biotech industry. Following is a brief outline of some of the initiatives taken by a few state governments:
+Andhra Pradesh
+Government of Andhra Pradesh, in collaboration with the ICICI Limited, has set up a knowledge Park near Hyderabad.
+Development of 'Genome Valley' and Biotech Park with state-of-the art features.
+The Government has initiated many business friendly policies such as 'Single Window Clearance' mechanism geared to relieve the problem of red tape.
+Tamil Nadu
+The Government of Tamil Nadu is facilitating in the setting up of the biotechnology enterprise zones (bio-valleys) along the lines of Silicon Valley to exploit the bio resources of the state.
+Four state-of-the art biotech parks, a bioinformatics and genome center will be established, each of which would be leveraging the bioresources of the agro-ecological zones of Tamil Nadu.
+Maharashtra
+Has an excellent intellectual infrastructure. Through nearly 1000 institutions, it produces around 163,000 trained technical personnel each year. Some of the best Centers of excellence in India are present in Maharashtra.
+The government is also promoting biotech parks, R&D centers, and pilot plant facilities for underway contract research by putting equity stakes in such projects.
+Karnataka
+The Karnataka government has announced a biotech policy to promote this sector and is setting up an institute for bioinformatics in Bangalore
+In addition the state government is also creating a biotechnology fund that will have inflows from the biotech companies. This could be used for incubation of new projects and promotion of the sector in the state.
+Karnataka has planned to launch India's first state sponsored biotechnology venture capital fund to boost their initiatives.
+Himachal Pradesh
+Himachal Pradesh has prepared a blue print for promotion of biotechnology industries in the state which includes setting up of biotechnology parks, conservation and exploitation of bio-resources, intensification of R&D, and promoting biotechnology entrepreneurship through tax concessions and relaxed labor laws.
+It is also proposed to provide research based support to the private companies in form of providing for instance, access to a data base of bio-resources which is being developed along with separate entries of endangered medicinal plants.
+The State government has recently announced 100% tax holidays for all biotechnology products up to the year 2012.
+India's Biotech Industry:
+Segment Review: The Indian Biotech industry can be divided into different segments. Following is a review of largest and the fastest growing segments of the Biotech industry in India.
+Medical Biotech Segment
+The Indian pharmaceutical market is growing very rapidly. According to a study by Mckinsey, Indian Pharma industry is expected to grow to an innovation-led US $25 billion industry by 2010 with a market capitalization of almost US $150 billion from the current US $5 billion generic based drug industry. The vaccine market is expected to grow by roughly 20%.
+Agri Biotech Segment
+India being the second largest food producer, offers a huge market for biotechnology products, especially agribiotech products.
+India has an excellent scientific infrastructure in agriculture, rich bio-diversity and skilled and low cost human-power.
+In a report by Ernst & Young it is expected that the Nutraceuticals market is roughly US $532- 638 million presently and growing.
+With its 8000 kilometer of coastline including Andaman & Nicobar and Lakshwadeep islands, India has a rich aqua culture and its Marine resource development holds great potential.
+Services Segment
+With increasing number of pharmaceutical companies finding it difficult to conduct entire drug discovery process-in-house they are looking for ways to minimize costs. India has become a very attractive base as the cost of infrastructure is relatively lower compared to other nations.
+Foreign companies also benefit from cheaper qualified workforce available in India.
+India produces enough qualified graduates each year thus companies looking to expand their operations can easily do so without facing a shortage in labor.
+We have well established and well equipped state of art Bio Chemistry, Bio Organic chemistry, Microbiology, Immunology; Bioprocess, Chemical Engineering, Down stream Process, Instrumental Methods of Analysis, Molecular biology, Genetic engineering and Bioinformatics Labs, where students are allowed to carry out projects under the able guidance of our faculty.
+Supporting Staff
+Ms.S Salomi Santharubi
+\t
+Department Co-ordinator
+Ms.T. Mahalakshmi
+Lab Assistant
+Ms. T Jothi
+Ms. Uma Maheshwari
+Ms. R. Maheshwari
+Mr.S. Arul
+Mr. Kannan
+Ms.M.Latha
+Lab Attender
+Ms.A.Indira
+Ms.V.Tamil Mugila
+

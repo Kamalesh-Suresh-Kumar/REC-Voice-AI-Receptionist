@@ -1,0 +1,41 @@
+TITLE: Online Fee Payment | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/online-fee-payment
+SOURCE_TYPE: website
+SECTIONS: ["Online Fee Payment", "Welcome to Online Fee Payment System", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Online Fee Payment
+SECTION: Welcome to Online Fee Payment System
+COLLEGE FEE - DAYSCHOLARS - (BANDHAN BANK payment gateway) - Click here to Pay Online
+COLLEGE FEE - HOSTELLERS & DAYSCHOLARS - (KOTAK MAHINDRA BANK payment gateway) - Click here to Pay Online
+COLLEGE FEE - DAYSCHOLARS - (INDIAN BANK payment gateway) - Click here to Pay Online
+EXAM FEE - (ICICI BANK payment gateway) - Click here to Pay Online
+REC x ASU Fee Payment - (ICICI BANK payment gateway) - Click here to Pay Online By proceeding to the online fee payment system, you agree to all the terms & conditions mentioned below.
+For INDIAN BANK payment gateway
+Please enter with your login credentials (Roll No. and PASSWORD is your Date of Birth in dd-mm-yyyy (or) mm-dd-yyyy (or) ddmmyyyy format as prescribed in the concerned bank portal) and login into the payment portal.
+Enter your password in dd-mm-yyyy (or) mm-ddy-yyyy (or) ddmmyyyy format.
+Once the student/parent is in their login page, various fees options will be displayed for online payment.
+Please select/click on the respective fee to be paid and proceed. Eg.: Annual Fee package.
+You can choose to pay through Net Banking / Debit Card / Credit Card / Wallet.
+Please follow the instructions as applicable to your choice of payment.
+TERMS & CONDITIONS
+Please follow the instructions carefully.
+Once you select the "PAY NOW" option, you will be redirected to the payment gateway.
+Please select your option of payment and complete the transaction.
+Payment process normally takes a few seconds / minute(s) based on your internet connectivity you will receive a PAYMENT CONFIRMATION SLIP if the payment is successful. Please keep the slip for future reference.
+If the payment is NOT SUCCESSFUL due to any reason, the status of the payment failure will be displayed in the screen.
+In case none of the above two happens, and there is heavy delay in any response from the system - if you have not proceeded with payment and not given card detail particulars, you may proceed from the beginning again and start the payment process again
+In case you have given all the debit / credit card details or net baking authorization for payment, and have not got any response, please check with your bankers or credit card company and see if your account is debited. If your bank account / credit card is debited, please don't make any attempt to pay again.
+However, if your account is not debited in the bank, you have to make the payment and get PAYMENT SUCCESSFUL confirmation.
+If the transaction has FAILED for some reasons, you are REQUESTED TO WAIT for THREE DAYS before trying for payment again. Please contact the accounts department for any discrepancy of online fee faced by you with reference to any of your transaction.
+Please make a note of Reference/Transaction Details in case of Net banking or Card payment.
+Cancellation/Refund Policy
+There is NO CANCELLATION option for the end users once payment is made.
+Students/Parents can approach the Accounts Department for refund with proof of the transaction reference/ your bank statement, in case of duplicate payment.
+IMPORTANT NOTE: By submitting a payment through the online payment gateway, you are agreeing to these terms and conditions including any updated changes in terms and conditions from time to time through our website.
+Mode of Payments : NET BANKING / DEBIT CARD / CREDIT CARD / WALLET
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+\t
+Once you select the \
+

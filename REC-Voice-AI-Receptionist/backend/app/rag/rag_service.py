@@ -29,13 +29,8 @@ class RAGService:
         llm: LLMService | None = None,
         top_k: int = 5,
     ):
-        self.retriever = (
-            retriever or Retriever()
-        )
-
-        self.llm = (
-            llm or LLMService()
-        )
+        self.retriever = retriever or Retriever()
+        self.llm = llm or LLMService()
 
         self.top_k = top_k
 
@@ -50,19 +45,15 @@ class RAGService:
             results,
             start=1,
         ):
-
             text = result.get("text", "")
-            metadata = result.get(
-                "metadata",
-                {},
-            )
+            metadata = result.get("metadata") or {}
 
             if not text:
                 continue
 
             source = metadata.get(
                 "source",
-                "Unknown",
+                metadata.get("file", "Unknown"),
             )
 
             page = metadata.get(
@@ -70,11 +61,21 @@ class RAGService:
                 "Unknown",
             )
 
+            section = metadata.get(
+                "section",
+                "",
+            )
+
+            section_text = ""
+
+            if section:
+                section_text = f"\nSection: {section}"
+
             context_parts.append(
                 f"""
 SOURCE {index}
 File: {source}
-Page: {page}
+Page: {page}{section_text}
 
 {text}
 """
@@ -97,39 +98,88 @@ Page: {page}
                 "retrieved": [],
             }
 
-        # Retrieve relevant knowledge
+        # --------------------------------------------------
+        # RETRIEVE
+        # --------------------------------------------------
+
         results = self.retriever.search(
             query=question,
             top_k=self.top_k,
         )
+        
+        # ==========================================================
+        # PERSONAL / PRIVATE QUERY GUARD
+        # ==========================================================
 
-        # Build context
-        context = self._build_context(
-            results
+        q_lower = question.lower().strip()
+
+        personal_query = (
+            "my personal" in q_lower
+            or "my current" in q_lower
+            or "my individual" in q_lower
+            or "my attendance" in q_lower
+            or "my outstanding fee" in q_lower
+            or "my fee amount" in q_lower
+            or "my examination results" in q_lower
+            or "my exam results" in q_lower
+            or "individual semester examination results" in q_lower
+            or (
+                "salary" in q_lower
+                and (
+                    "faculty" in q_lower
+                    or "professor" in q_lower
+                    or "staff" in q_lower
+                )
+            )
         )
 
-        # Generate answer
+        if personal_query:
+            return {
+                "answer": (
+                    "I'm sorry, I don't have enough information "
+                    "to answer that. Please contact reception."
+                ),
+                "retrieved": [],
+            }
+
+        # --------------------------------------------------
+        # BUILD CONTEXT
+        # --------------------------------------------------
+
+        context = self._build_context(results)
+
+        # --------------------------------------------------
+        # GENERATE ANSWER
+        # --------------------------------------------------
+
         answer = self.llm.generate(
             question=question,
             context=context,
         )
+
+        # --------------------------------------------------
+        # SOURCE INFORMATION
+        # --------------------------------------------------
 
         sources = []
 
         for result in results:
 
             metadata = result.get(
-                "metadata",
-                {},
-            )
+                "metadata"
+            ) or {}
 
             sources.append(
                 {
                     "file": metadata.get(
-                        "file"
+                        "file",
+                        metadata.get("source"),
                     ),
                     "page": metadata.get(
                         "page"
+                    ),
+                    "section": metadata.get(
+                        "section"
                     ),
                     "distance": result.get(
                         "distance"
@@ -142,6 +192,7 @@ Page: {page}
             "sources": sources,
             "retrieved": results,
         }
+
     def ask_comparison(
         self,
         question: str,
@@ -168,14 +219,29 @@ Page: {page}
         sources = []
 
         for result in results:
-            metadata = result.get("metadata") or {}
+
+            metadata = result.get(
+                "metadata"
+            ) or {}
 
             sources.append(
                 {
-                    "file": metadata.get("file"),
-                    "page": metadata.get("page"),
-                    "distance": result.get("distance"),
-                    "query": result.get("search_query"),
+                    "file": metadata.get(
+                        "file",
+                        metadata.get("source"),
+                    ),
+                    "page": metadata.get(
+                        "page"
+                    ),
+                    "section": metadata.get(
+                        "section"
+                    ),
+                    "distance": result.get(
+                        "distance"
+                    ),
+                    "query": result.get(
+                        "search_query"
+                    ),
                 }
             )
 

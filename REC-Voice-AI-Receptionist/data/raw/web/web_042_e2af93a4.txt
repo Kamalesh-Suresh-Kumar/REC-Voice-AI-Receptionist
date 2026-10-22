@@ -1,0 +1,258 @@
+TITLE: NAAC | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/naac
+SOURCE_TYPE: website
+SECTIONS: ["DVV Clarifications", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: DVV Clarifications
+Extended Profile
+1.1 Number of programs offered year-wise for last five years.
+1.2 Number of departments offering academic programmes
+2.1 Number of students year-wise during last five years
+2.2 Number of outgoing / final year students year-wise during last five years
+2.3 Number of students appeared in the examination conducted by the Institution, year-wise during the last five years
+2.4 Number of revaluation applications year-wise during last five years
+3.1 Number of courses in all programs year-wise during last five yearss
+3.2 Number of full time teachers year-wise during the last five years
+3.3 Number of sanctioned posts year-wise during last five years
+4.1 Number of eligible applications received for admissions to all the programs year-wise during last five years
+4.2 Number of seats earmarked for reserved category as per GOI/State Govt rule year-wise during last five years
+4.3 Total number of classrooms and seminar halls
+4.4 Total number of computers in the campus for academic purpose
+4.5 Total Expenditure excluding salary year-wise during last five years (INR in Lakhs)
+Metrices
+1.1.2 Percentage of Programmes where syllabus revision was carried out during the last five years.
+1.1.3 Average percentage of courses having focus on employability/entrepreneurship/ skill development offered by the institution during the last five years.
+1.2.1 Percentage of new courses introduced of the total number of courses across all programs offered during the last five years.
+1.2.2 Percentage of Programmes in which Choice Based Credit System (CBCS)/ elective course system has been implemented (Data for the latest completed academic year).
+1.3.4 Percentage of students undertaking field projects/ internships / student projects (Data for the latest completed academic year).
+1.4.1 Structured feedback for design and review of syllabus – semester-wise / year-wise is received from 1) Students, 2) Teachers, 3) Employers, 4) Alumni
+1.4.2 The feedback system of the Institution and Action Taken Report.
+2.1.1 Average Enrolment percentage (Average of last five years).
+2.1.2 Average percentage of seats filled against reserved categories (SC, ST, OBC, Divyangjan, etc. as per applicable reservation policy ) during the last five years ( exclusive of supernumerary seats).
+2.2.2 Student - Full time teacher ratio (Data for the latest completed academic year).
+2.3.3 Ratio of students to mentor for academic and other related issues (Data for the latest completed academic year ).
+2.4.1 Average percentage of full time teachers against sanctioned posts during the last five years.
+2.4.3 Average teaching experience of full time teachers in the same institution (Data for the latest completed academic year in number of years).
+2.5.1 Average number of days from the date of last semester-end/ year-end examination till the declaration of results year-wise during the last five years.
+2.5.2 Average percentage of student complaints/grievances about evaluation against total number appeared in the examinations during the last five years.
+2.6.3 Pass Percentage of students(Data for the latest completed academic year).
+3.1.2 The institution provides seed money to its teachers for research (average per year, INR in Lakhs).
+3.1.3 Percentage of teachers awarded national / international fellowship for advanced studies/research during the last five years.
+3.2.2 Percentage of teachers having research projects during the last five years.
+3.2.3 Percentage of teachers recognised as research guides.
+3.2.4 Average percentage of departments having Research projects funded by government and non-government agencies during the last five years.
+3.3.2 Number of workshops/seminars conducted on Research methodology, Intellectual Property Rights (IPR),entrepreneurship, skill development during the last five years.
+3.4.1 The Institution ensures implementation of its stated Code of Ethics for research.
+3.4.2 Number of Ph.D’s registered per teacher (as per the data given w.r.t. recognized Ph.D guides/ supervisors provided at 3.2.3 metric) during the last five years.
+3.4.3 Number of research papers per teachers in the Journals notified on UGC website during the last five years.
+3.4.4 Number of books and chapters in edited volumes / books published per teacher during the last five years.
+3.5.1 Revenue generated from consultancy and corporate training during the last five years (INR in Lakhs).
+3.6.2 Number of awards and recognition received by the Institution, its teachers and students for extension activities from Government / Government recognised bodies during last five years.
+3.6.3 Number of extension and outreach programs conducted by the institution through NSS/NCC, Government and Government recognised bodies during the last five years.
+3.6.4 Average percentage of students participating in extension activities listed at 3.6.3 above during the last five years.
+4.1.4 Average percentage of expenditure for infrastructure augmentation excluding salary during the last five years (INR in Lakhs).
+4.2.2 Institution has access to the following:1. e-journals, 2. e-ShodhSindhu, 3. Shodhganga Membership, 4. e-books, 5. Databases, 6. Remote access to e-resources.
+4.2.3 Average annual expenditure for purchase of books/ e-books and subscription to journals/e-journals during the last five years (INR in Lakhs).
+4.2.4 Percentage per day usage of library by teachers and students (foot falls and login data for online access) during the latest completed academic year.
+4.3.2 Student - Computer ratio (Data for the latest completed academic year).
+4.3.4 Institution has the following Facilities for e-content development1. Media centre, 2. Audio visual centre, 3. Lecture Capturing System(LCS), 4. Mixing equipments and softwares for editing.
+4.4.1 Average percentage expenditure incurred on maintenance of physical facilities and academic support facilities excluding salary component during the last five years.
+5.1.1 Average percentage of students benefited by scholarships and freeships provided by the Government during last five years.
+5.1.2 Average percentage of students benefited by scholarships, freeships, etc. provided by the institution and non-government agencies during the last five years.
+5.1.3 Following Capacity development and skills enhancement activities are organised for improving students capability1. Soft skills, 2. Language and communication skills, 3. Life skills (Yoga, physical fitness, health and hygiene), 4. Awareness of trends in technology.
+5.1.5 The institution adopts the following for redressal of student grievances including sexual harassment and ragging cases1. Implementation of guidelines of statutory/regulatory bodies2. Organisation wide awareness and undertakings on policies with zero tolerance3. Mechanisms for submission of online/offline students’ grievances4. Timely redressal of the grievances through appropriate committees.
+5.2.1 Average percentage of placement of outgoing students during the last five years.
+5.3.1 Number of awards/medals won by students for outstanding performance in sports/cultural activities at inter-university/state/national/ international level (award for a team event should be counted as one) during the last five years.
+5.3.3 Average number of sports and cultural events / competitions organised by the institution per year.
+5.4.2 Alumni financial contribution during the last five years (in INR).
+6.2.3 Implementation of e-governance in areas of operation1. Administration, 2. Finance and Accounts, 3. Student Admission and Support, 4. Examination.
+6.3.2 Average percentage of teachers provided with financial support to attend conferences / workshops and towards membership fee of professional bodies during the last five years.
+6.3.3 Average number of professional development / administrative training programmes organized by the institution for teaching and non-teaching staff during the last five years.
+6.3.4 Average percentage of teachers undergoing online/ face-to-face Faculty Development Programmes (FDP)during the last five years (Professional Development Programmes, Orientation / Induction Programmes, Refresher Course, Short Term Course ).
+6.4.2 Funds / Grants received from non-government bodies, individuals, philanthropists during the last five years (not covered in Criterion III and V) (INR in Lakhs).
+6.5.3 Quality assurance initiatives of the institution.
+7.1.5 Green campus initiatives.
+7.1.6 Quality audits on environment and energy are regularly undertaken by the Institution and any awards received for such green campus initiatives.
+7.1.10 The Institution has a prescribed code of conduct for students, teachers, administrators and other staff and conducts periodic programmes in this regard.
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+Criterion 1 - Curricular Aspects
+1.1.1
+Curriculum developed and implemented have relevance to the local, national, regional and global developmental needs which is reflected in Programme outcomes (POs), Programme Specific Outcomes (PSOs) and Course Outcomes (COs) of the Programmes offered by the Institution.
+Courses focussed on Employability, Entrepreneurship and Skill Development
+Programmes in which CBCS / Elective course system implemented
+1.3.1
+Institution integrates crosscutting issues relevant to Professional ethics, Gender, Human Values, Environment and Sustainability into the Curriculum
+1.3.2
+Value-added courses for imparting transferable and life skills offered during last five years
+1.3.3
+Students enrolled in value added courses (beyond the curriculum) offered year-wise during last five years
+Students undertaking field projects / internships / student projects
+Additional Links
+Feedback analysis and Action taken report
+Criterion 2 - Teaching Learning and Evaluation
+2.2.1
+The institution assesses the learning levels of the students and organises special programmes for advanced learners and slow learners
+Students Teacher’s Ratio
+2.3.1
+Students centric learning method
+2.3.2
+ICT teaching tools
+Ratio of Mentor to students for academic and other related activities
+2.3.4
+Preparation and adherence of academic calendar and teaching plans by the institution
+Average percentage of full time teachers against the sanctioned posts
+2.4.2
+Average percentage of full time teachers with Ph.D./ D.M / M.Ch. / D.N.B Superspeciality / D.Sc / D.Litt. during the last five years.
+Recognized Guide List
+Ph.D. scholars Registration details
+Average number of days from the date of last semester-end/ year- end examination till the declaration of results during the last five years
+Average percentage of student complaints/grievances about evaluation against total number appeared in the examinations during the last five years (Revaluation applications to be considered)
+2.5.3
+Additional Information
+2.6.1
+Student performance and learning outcomes
+2.6.2
+Attainment of programme outcomes and course outcomes are evaluated by the institution.
+Pass percentage of students (Data for the latest completed academic year)
+Annual Report (for the latest completed academic year)
+2.7.1
+Student satisfaction Survey
+Criterion 3 - Research, Innovations and Extension
+3.1.1
+The institution has a well defined policy for promotion of research and the same is uploaded on the institutional website
+The institution provides seed money to its teachers for research (average per year)
+Number of teachers awarded national / international fellowship for advanced studies/ research during the last five years
+3.2.1
+Grants received from Government and non-governmental agencies for research projects, endowments, Chairs in the institution during the last five years
+List of Faculty received Research Grants
+Faculty recognised as Research Supervisors
+Departments received Research Grants
+3.3.1
+Innovation Ecosystem
+Number of workshops / seminars conducted on Intellectual Property Rights (IPR) and Industry - Academia Innovative practices during the last five years
+The institution has a stated Code of Ethics to check malpractices and plagiarism in Research
+Research Scholars currently pursuing Ph.D. Programme in REC Research Centres
+Number of research papers per teacher in the Journals notified on UGC website during the last five years
+Number of books and chapters in edited volumes / books published, and papers in national / international conference-proceedings per teacher during the last five years
+3.5.2
+Total amount spent on developing facilities for training teachers and staff for undertaking consultancy
+3.6.1
+Extension activities in the neighborhood community in terms of impact and sensitising students to social issues and holistic development during the last five years
+Awards and recognition received for extension activities from Government / recognised bodies during the last five years
+Extension and outreach Programs conducted in collaboration with Industry, Community and Non- Government Organizations through NSS / NCC / Red Cross / YRC etc., during the last five years (including Government initiated programs such as Swachh Bharat, Aids Awareness, Gender Issue, etc. and those organised in collaboration with industry, community and NGOs)
+Students participating in extension activities with Government Organisations, Non-Government Organisations and programs such as Swachh Bharat, Aids Awareness, Gender Issue, etc. during the last five years
+3.7.1
+Linkages with institutions/industries for internship, on-the-job training, project work, sharing of research facilities etc. during the last five years
+3.7.2
+Functional MoUs with institutions of National/ International importance, Other Institutions, Industries, Corporate houses etc., during the last five years
+Criterion 4 - Infrastructure and Learning Resources
+4.1.1
+The Institution has adequate infrastructure and physical facilities for teaching- learning. viz., classrooms, laboratories, computing equipment etc.
+4.1.2
+The Institution has adequate facilities for cultural activities, sports, games (indoor, outdoor), gymnasium, yoga centre etc.
+4.1.3
+Percentage of classrooms and seminar halls with ICT- enabled facilities such as smart class, LMS, etc. For Master Time Table.
+Average percentage of expenditure, excluding salary for infrastructure augmentation
+4.2.1
+Library is automated using Integrated Library Management System (ILMS)
+The institution has subscription for the following E-resources:
+1.e-journals 2.e-ShodhSindhu 3.Shodhganga Membership 4.E-book 5.Databases 6.Remote access to e-resources
+Average annual expenditure for purchase of books/e-books and subscription to journals/e-journals
+4.3.1
+Institution frequently updates its IT facilities including Wi-Fi
+Student – Computer ratio
+4.3.3
+Bandwidth of internet connection in the Institution
+Facilities for e-content development such as Media Centre, Recording facility, Lecture Capturing system (LCS)
+Average percentage of expenditure incurred on maintenance of infrastructure (physical and academic support facilities) excluding salary component
+4.4.2
+There are established systems and procedures for maintaining and utilizing physical, academic and support facilities - laboratory, library, sports complex, computers, classrooms etc
+Criterion 5- Student Support and Progression
+Average percentage of students benefited by scholarships and freeships provided by the Government during the last five years
+Self Attested Letter with the List of Students Sanctioned Scholarship
+Average Percentage of Students benefited by Scholarship Provided by Government
+Yearwise List of Students with amount
+Audit Statement
+1.Details of capability enhancement and development schemes
+2.Link to Institutional website
+5.1.4
+Average percentage of students benefited by guidance for competitive examinations and career counselling offered by the institution during the last five years.
+1. Number of students benefited by guidance for competitive examinations and career counselling during the last five years
+The institution has a transparent mechanism for timely redressal of student grievances including sexual harassment and ragging cases.
+1. Grievance Details
+2. Minutes of Meeting
+3. Weblink
+1. List of students placed
+2. Details of student placement during the last five years
+5.2.2
+Percentage of student progression to higher education (previous graduating batch).
+1.Details of student progression to higher education
+5.2.3
+Average percentage of students qualifying in state/ national/ international level examinations during the last five years(eg: NET/ SLET/ GATE/ GMAT/ CAT/ GRE/ TOEFL/ Civil Services/State government examinations).
+1. Number of students qualifying in state/ national/ international level examinations during the last five years
+Number of awards/medals for outstanding performance in sports/cultural activities at inter-university / state / national/international events during the last five years
+1. Number of awards/medals for outstanding performance in sports/cultural activities at national/international level during the last five years
+2. e-copies of award letters and certificates
+5.3.2
+Presence of an active student Council & representation of students on academics of the institution
+Average number of sports and cultural events / competitions organised by the institution level per year
+1. Report of the event
+5.4.1
+Alumni association chapters contributes to the development of the institution through financial and other support services
+Alumni contribution during the last five years
+1. List of Alumnus Contribution
+2. Alumni association audited statements
+Criterion 6- Governance, Leadership and Management
+6.1.1
+The governance of the institution is reflective of and in tune with the vision and mission of the institution
+6.1.2
+The effective leadership is visible in various institutional practices such as decentralization and participative management
+6.2.1
+The institutional Strategic/ perspective plan is effectively deployed
+6.2.2
+The functioning of the institutional bodies is effective and efficient as visible from policies, administrative setup, appointment and service rules, procedures, etc.
+1. Additional links
+2. Organogram Chart
+6.3.1
+The Institution has effective welfare measures for teaching and non-teaching Staff and avenues for career development/progression
+Average percentage of teachers provided with financial support to attend conferences/workshops and towards membership fee of professional bodies during the last five years
+Policy Document
+Average number of professional development /administrative training programs organized by the institution for teaching and non-teaching staff during the last five years
+Events Count Summary
+Average percentage of teachers attending professional development programs viz., FDP
+IQAC Summary Report
+6.4.1
+Institution conducts internal and external financial audits regularly
+6.4.3
+Institutional strategies for mobilisation of funds and the optimal utilisation of resources
+6.5.1
+Internal Quality Assurance Cell (IQAC) has contributed significantly for institutionalizing the quality assurance strategies and processes
+6.5.2
+The institution reviews its teaching learning process, structures & methodologies of operations and learning outcomes at periodic intervals through IQAC set up as per norms and recorded the incremental improvement in various activities
+Criterion 7 - Institutional Values and Best Practices
+Institutional Values and Social Responsibilities
+7.1.1 - Measures initiated by the Institution for the promotion of gender equity during the last five years
+7.1.2
+The Institution has facilities for alternate sources of energy and energy conservation measures
+7.1.3
+Describe the facilities in the Institution for the management of the following types of degradable and non-degradable waste
+7.1.4
+Water conservation facilities available in the Institution
+7.1.7
+The Institution has disabled-friendly, barrier free environment
+7.1.8
+Inclusion and Situatedness
+7.1.9
+Sensitization of students and employees of the Institution to the constitutional obligations: values, rights, duties and responsibilities of citizens
+7.1.11
+Institution celebrates / organizes national and international commemorative days, events and festivals
+7.2
+Best Practices
+7.2.1 - Describe two best practices successfully implemented by the Institution as per NAAC format provided in the Manual
+7.3
+Institutional Distinctiveness
+7.3.1 - Portray the performance of the Institution in one area distinctive to its priority and thrust
+Click here to view
+

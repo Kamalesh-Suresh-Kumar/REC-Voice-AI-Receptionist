@@ -1,0 +1,31 @@
+TITLE: Regulation | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/reg2013
+SOURCE_TYPE: website
+SECTIONS: ["Regulations 2013", "Regulations 2013 - UG", "Regulations 2013 - PG (Engineering)", "Regulations 2013 - PG (M.B.A.)"]
+
+SECTION: Regulations 2013
+SECTION: Regulations 2013 - UG
+Aeronautical Engineering
+Automobile Engineering
+Biomedical Engineering
+Biotechnology
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Electrical and Electronics Engineering
+Electronics and Communication Engineering
+Food Technology
+Information Technology
+Mechanical Engineering
+Mechatronics
+SECTION: Regulations 2013 - PG (Engineering)
+Avionics
+Biotechnology
+Communication Systems
+Computer Science and Engineering
+Engineering Design
+Embedded System Technologies
+Medical Electronics
+Software Engineering
+SECTION: Regulations 2013 - PG (M.B.A.)
+M.B.A.

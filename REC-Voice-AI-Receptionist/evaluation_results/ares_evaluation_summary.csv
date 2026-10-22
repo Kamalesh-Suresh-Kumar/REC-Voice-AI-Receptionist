@@ -1,0 +1,4 @@
+metric,mean_score,mean_percentage,successful_evaluations,expected_evaluations
+context_relevance,0.986842,98.68,95,95
+answer_faithfulness,0.994737,99.47,95,95
+answer_relevance,0.984211,98.42,95,95

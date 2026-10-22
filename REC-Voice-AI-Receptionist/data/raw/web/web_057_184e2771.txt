@@ -1,0 +1,16 @@
+TITLE: VLabs | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/vlabsrec
+SOURCE_TYPE: website
+SECTIONS: ["2026"]
+
+SECTION: 2026
+Amplitude Modulation
+Binary Frequency Shift
+Binary Phase Shift Keying
+Delta Modulation Demodulation
+Direct Sequence Spread Spectrum
+Frequency Modulation
+Line Coding
+Linear Block Codes
+Pulse Code Modulation
+Quadrature Phase Shift

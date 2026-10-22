@@ -1,0 +1,20 @@
+REC Voice AI Receptionist - Offline Latency Evaluation
+============================================================
+Samples attempted: 100
+Successful end-to-end samples: 100
+Failed samples: 0
+
+Evaluation notes:
+- Uses actual clean synthetic-speech WAV files.
+- STT uses the recognized transcript, not the reference text.
+- Failed samples are excluded from successful-sample averages.
+- LLM/service timing may include deterministic rule-based answers.
+- Total time measures the offline pipeline stages, not a complete live telephone call.
+
+Averages below use successful samples only.
+
+STT transcription: average=0.416s, min=0.341s, max=0.975s
+RAG retrieval/context: average=0.022s, min=0.013s, max=0.268s
+LLM/service response stage: average=1.281s, min=0.000s, max=6.275s
+TTS synthesis + audio conversion: average=0.299s, min=0.095s, max=2.170s
+Total offline pipeline: average=2.018s, min=0.526s, max=8.020s

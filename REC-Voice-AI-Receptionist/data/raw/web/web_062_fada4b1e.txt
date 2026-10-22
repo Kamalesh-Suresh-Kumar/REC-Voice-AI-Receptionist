@@ -1,0 +1,66 @@
+TITLE: Research | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/research
+SOURCE_TYPE: website
+SECTIONS: ["Research Centre", "Centre for Sponsored Research & Consultancy", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Research Centre
+SECTION: Centre for Sponsored Research & Consultancy
+Rajalakshmi Engineering College (REC) is a research focused Technical Institution. Ever since its inception in the year 1997, the Institution has taken concerted efforts towards differentiating itself by encouraging Innovation and Research. Centre for Sponsored Research & Consultancy (CSRC) was constituted to strengthen research activities, enhance industry interaction and to foster industry relevant research. CSRC provides support and guidance to enable faculty and students to take up research and innovative development relevant to industry as well as society. The CSRC is headed by Dr. R. Sundar and ably guided by Dr. C. R. Muthukrishnan, Chairman, CSRC. Major goals of CSRC include the following:
+Establish and Nurture Research culture
+Develop and Augment Research labs
+Encourage Sponsored Research & Enhance facilities
+Provide Ambience for State-of-the-Art Research
+Engage in Collaborative Research
+Pursue focused research towards International Expertise
+Board Members Dr. C. R. Muthukrishnan, Advisor, Rajalakshmi Institutions Chairman, CSRC Dr. R. Sundar, Professor, ECE Head, CSRC & CEMV Dr. L. Sujatha, Professor, ECE Head, Centre of Excellence in MEMS & Microfluidics Advisory Expert, CSRC Dr. Natteri. M. Sudharsan, Professor, Mechanical Advisory Expert, CSRC Dr. K.Hariharan, Professor, Physics Advisory Expert, CSRC
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+The college has been recognized as a “Scientific and Industrial Research Organization” (SIRO) by the Department of Scientific and Industrial Research (DSIR), Government of India. The college has been granted with “12B” status of the University Grants Commission (UGC) in 2013.
+These recognitions have enhanced funding opportunities from government and other agencies to conduct research and development that are of national relevance and importance.
+MEMS and Micro-fluidics
+Machine Vision applied to Industrial Quality Control
+Computational Fluid Dynamics
+Applied Nano-Technology
+Composite Materials Technology
+Product Design and Development
+Bio-Medical Image Processing
+Environmental Biotechnology
+Clinical Research
+Big Data Analytics
+Computational Intelligence
+Business Intelligence and Computing
+Energy Systems
+Power Electronics and Drives
+Wireless Communication
+RF & Microwaves
+Embedded Systems
+Structural Engineering & Construction Materials
+Research affiliations
+Over the years, most of the departments of REC have been brought into research fold through affiliation with Anna University research center. Currently the following nine departments of REC have been approved and recognized as
+Research Centers of Anna University
+to offer M.S (by Research) and Ph.D. Programs.
+Mechanical Engineering
+Computer Science & Engineering
+Electrical & Electronics Engineering
+Biotechnology
+Chemistry
+Electronics & Communication Engineering
+Mathematics
+Bio-Medical Engineering
+There are currently 71 faculty members from different departments recognized as Research Supervisors under Anna University. 244 scholars pursue their Ph.D. and M.S by Research Programs from the recognized research centres of our College.
+CSRC has established good ties with industry enabling training, consultancy and projects specific to Industry requirements. Some of the industries wherein the college has established collaborative research and development activities are listed below:
+Super Auto Forge – Machine Vision Systems for Quality Control
+Valeo India Pvt. Ltd. – Development of Ultra Low Cost HVAC System
+Aban Biotech Ltd. – Bio-product development from micro-organisms
+Intelligent Chip Connections Ltd, Singapore – Development of Microfluidic Devices
+Ilgin Automotives – Fly-Wheel Hot-Press Assembly validation
+Tata Consultancy Services – High Performance Computing Facilities for R & D
+Rameshwar Engineering – Sensors for Industrial Applications
+CGN Research Labs Pvt. Ltd. – Medical Thermography
+Addison & Company Ltd. – Drill Bits Inspection
+Several Industrial consultancy and development projects for different automobile and pharmaceutical industries have been taken-up and completed under the Machine-Vision activity and other domains.
+Over the last 3 years, forty such works in the sectors of Machine Vision, Aircraft maintenance, Bio-chemicals, Image processing were undertaken by the faulty and completed for the cost of Rs. 48 Lakhs.
+Following is the summary of research projects funded by various government agencies as on April 2017
+Details of Internally Funded Research Projects
+

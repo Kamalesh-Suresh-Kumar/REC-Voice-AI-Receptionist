@@ -1,0 +1,108 @@
+TITLE: Information Technology | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/it
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+Programmes Offered UG - B.Tech. Information Technology PG - M.Tech. Data Science
+Vision
+To promote highly Ethical and Innovative Information Technology Professionals through excellence in teaching, training and research.
+Mission
+To produce globally competent professionals, motivated to learn the emerging technologies and to be innovative in solving real world problems.
+To promote research activities amongst the students and the members of faculty that could benefit the society.
+To impart moral and ethical values in their profession.
+Updated on 08.08.2026
+
+FACULTY
+=======
+Dr.K L Shunmuganathan, Dean & Professor
+Dr.P.Valarmathie, HoD & Professor
+Dr.Subbiah Swaminathan, Professor
+Dr.Muthukumar Balasundaram, Professor
+Dr.Babu M, Professor
+Dr.Prasannakumari V, Professor
+Dr.Priya L, Professor
+Dr.Priya Vijay, Professor
+Dr.Nalini S, Associate Professor
+Mr.Nevathetha R.A, Assistant Professor
+Mr.Prasanth Sanmugasundaram, Assistant Professor
+Mr.Abel Priyakumar P, Assistant Professor
+Ms.Dhanya J, Assistant Professor
+Ms.M Nandhini, Assistant Professor
+Mr.Satheeshkumar N, Assistant Professor
+Dr.Bennet Prabhu, Assistant Professor
+Ms.Ramyadharshini S S, Assistant Professor
+Mr.Sureshkumar Ramanujam, Assistant Professor
+Mr.Vinoth Kumar R, Assistant Professor
+Ms.Ragavarthini S, Assistant Professor
+Ms.Subashree R, Assistant Professor
+Mr.Sathish M, Assistant Professor
+Mr.Vimalan M, Assistant Professor
+Mr.Suresh Kumar Kumar, Assistant Professor
+Ms.Priyanka D, Assistant Professor
+Ms.Janani M, Assistant Professor
+Ms.Premalatha Anand, Assistant Professor
+Ms.Kalaivani S, Assistant Professor
+Ms.Padmini S, Assistant Professor
+Ms.Indumathi K, Assistant Professor
+Mr.Pragadeesh M, Assistant Professor
+Ms.Leena Jenifer L, Assistant Professor
+Ms.Sandhiya Manickaraj, Assistant Professor
+Ms.Aruna Jameela Anpumony Prameela, Assistant Professor
+Ms.Madhurani Muthu Selvam, Assistant Professor
+Dr.Narayana K E, Assistant Professor
+Ms.Usha S, Assistant Professor
+Ms.Monisha S, Assistant Professor
+Mr.Arun Kumar Nagaraja , Assistant Professor
+Mr.Stephenson Ebinezer, Assistant Professor
+Ms.Anitha J, Assistant Professor
+Ms.Suvathika K, Assistant Professor
+Dr.Neelaveni Premkanth, Professor
+Dr.Kalaivani A, Professor
+Dr.Chandramohan S, Associate Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+PROGRAMME EDUCATIONAL OBJECTIVES
+PEO I
+To provide essential background in science, basic Electronics, applied Mathematics and Information Sciences.
+PEO II
+To prepare students with fundamental knowledge in programming languages and to design and develop information systems and applications.
+PEO III
+To engage the students in life-long learning, to remain current in their profession and obtain additional qualifications to enhance their career positions in IT field.
+PEO IV
+To enable students to implement computing solutions for real world problems and carry out basic and applied research leading to new innovations in Information Technology (IT) and related interdisciplinary areas.
+PEO V
+To familiarize students with ethical issues in engineering profession, issues related to the worldwide economy, nurturing of current job related skills and emerging technologies with a concern for society
+PROGRAMME OUTCOMES
+PO1: Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2: Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3: Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO4: Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO5: Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+PO6: The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+PO7: Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO8: Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO9: Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO10: Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO11: Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12: Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAM SPECIFIC OUTCOMES (PSOs)
+PSO 1:
+To identify and assess current technologies and review their applicability to meet user requirements and organizational needs.
+PSO 2:
+To engage in the computing profession by working effectively and utilizing professional skills to make a positive contribution to society.
+PSO 3:
+To take up research and entrepreneurship and embark on business in the IT field.
+Regulation 2023 - AY 2026-2027
+Regulations 2023
+Regulations 2019 (From 2021-25 batch)
+Regulations 2019
+Regulations 2017 (From 2018-22 batch)
+Regulations 2017 (2017-21 batch)
+Regulations 2013
+Regulations 2023 (2024 Batch)
+This course provides a comprehensive view of the world of Information Technology including Internet Applications and design, besides the traditional opportunities in computer career. Web applications require enormous knowledge of several components like Web servers, Web Protocols and to use the Web Application tools besides OOPS concept. The information technologist has greater opportunities in Software Development because of their excellent knowledge of Web Technology. In future the IT Industry will purely depend on information technologists. Besides, job opportunities in the field of IT, other options are the pursuit of higher studies in areas of Networking, Distributed Systems, Web Technologies, Information Systems, Bio Informatics and Artificial Intelligence.
+The department of information technology was started with the aim of catering to the needs for quality IT professionals in the nations march towards digital age. The vision of the IT department is to efficiently mould the engineer's knowledge with theory and practice, using teaching skill utilizing the latest practical experiments and software to fit into areas of technology with advanced information.
+

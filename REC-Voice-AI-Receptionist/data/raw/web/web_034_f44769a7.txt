@@ -1,0 +1,119 @@
+TITLE: Mechanical Engineering | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/mech
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+Programmes Offered UG - B.E. Mechanical Engineering PG - M.E. Engineering Design VISION and MISSION of the Department(UG &PG)
+The Department of Mechanical Engineering, which was started in 1997, provides both undergraduate and post graduate studies. Anna University has recognized it as a research centre for its collaborative research programme that leads to a Ph.D. by research. The NBA has re-accredited the department. It has well-trained faculty with a mix of industrial and academic experience. The department is actively involved in research and consultancy work funded by a variety of funding sources, including DST, UGC, AICTE, GTRE, ISHRAE and others. Faculty and students are actively involved in patent publication. The department's faculty members hold doctorates in a variety of fields and are also qualified for research guidance from Anna University. Around 20 scholars have received their Ph.D from the mechanical research centre, and more than 30 are now pursuing their studies. The faculty and students are also actively engaged in innovative projects, presenting papers in conferences, publishing journal papers and patents.
+ANNA UNIVERSITY RESEARCH CENTER The department is approved as a RESEARCH CENTER by ANNA UNIVERSITY for doing M.S and Doctoral programs. PERMANENT AFFILIATION The Department is PERMANENTLY AFFILIAITED by the ANNA UNIVERSITY due to the excellent facilities. THE DEPARTMENT- Under Graduation-B.E. (Mechanical) 1997- Department was started in the year with intake of 60 2004-Accredited by NBA 2006-Regonised by Anna university as center for research studies (Ph.D.) 2007-Reaccredited by NBA and REC-Institution was accredited by NAAC 2010-Received University rank of 27 th position in UG. 2012-Reached to second (2 nd ) position by AICTE-CII survey. Received University rank of 20th position in UG. 2013-Reaccreditation by NBA again (for 3 years) & REC received NAAC. Received University rank in 37th position in UG 2014-Received Three University ranks of (11 th, 27 th,40 th) positions in UG 2015-Received Two University ranks of (8 th, 36th ) positions in UG and one University rank of twenty fourth (24 th) position from PG. 2016- NBA Extensions for one year (upto June 2017) and NAAC Accredited with “A” Grade on 4 points scale for 5 years from May 2016.Received Three University rank of (2 nd ,31 st,42nd) positions in UG 2017-Attained an Autonomous status by Anna University. Received Three university ranks of (2nd ,31st,42nd) position in UG. 2018- Received University rank of 20th position for the batch of 2015-2019 2020- Received Two University ranks of (20 th,23 rd) positions in UG. THE DEPARTMENT- Post Graduation-M.E.(Engineering Design) 2004 - P.G.programme-M.E.CAD/CAM-was started. 2011 - P.G. Programme –M.E, Engineering Design was started 2012 - Received University First (1 st ) rank in PG. 2013 - Received University Seventh (7 th ) rank in PG 2014 - Received University rank of fourteen (14 th) position in PG 2016 - Received Two university ranks of (5th,13th) position in PG 2017 - Attained an Autonomous status by Anna University. R2017 syllabus was framed. 2018 - R2017-Autonomous Syllabus is framed. 2019 - R2019 - Autonomous Syllabus is framed. 2020 - updated syllabus is in Teaching & Learning process. B.E (MECHANICAL ENGINEERING)- REGULATIONS 2019 DEPARTMENT VISION
+To provide a world class Mechanical Engineering education through innovation and excellence in Teaching and Research.
+DEPARTMENT MISSION
+M1. To impart high quality technical education and prepare Mechanical Engineers with all round knowledge of multi-disciplinary branches of Engineering and Technology.
+M2. To foster skill sets required to be a global professional for industry, research and technology management.
+M3. To provide consultancy to the neighborhood
+M4. To cultivate the spirit of entrepreneurship.
+M.E. (ENGINEERING DESIGN) -REGULATIONS 2019 DEPARTMENT VISION
+To provide a world class Mechanical Engineering education through innovation and excellence in Teaching and Research.
+DEPARTMENT MISSION
+M1. To impart high quality technical education and develop Mechanical Engineers with all round knowledge of multi-disciplinary branches of Engineering and Technology.
+M2. To foster skill sets required to be a global professional in the areas of industry, research and technology management.
+Updated on 06.08.2026
+
+FACULTY
+=======
+Dr.Velraj R, Professor
+Dr.Murugesan S N, Principal
+Dr.Srinivasan S P, Professor
+Dr.Shanthi R, HoD & Professor
+Dr.N Vinoth Babu, Academic Head & Associate Professor
+Dr.Baskar Subramanian, Professor
+Dr.Sudharsan Mangadu Natteri, Professor
+Dr.Sriram Jayakumar, Professor
+Mr.R Dhanaraj, Associate Professor
+Dr.Kumar S, Associate Professor
+Dr.Paramasivam A, Associate Professor
+Dr.Chandrasekar P, Associate Professor
+Dr.Shankar E, Associate Professor
+Dr.Santhanakrishnan Mamallan, Assistant Professor
+Dr.B. Rajesh Kumar, Assistant Professor
+Ms.Aruna Ramu, Assistant Professor
+Ms.Vidhushini P, Assistant Professor
+Dr.Devanathan Chockalingam, Assistant Professor
+Mr.Loganathan Kamalanathan, Assistant Professor
+Mr.Hariram Soundrarajan, Assistant Professor
+Dr.Ramesh G, Professor
+Dr.Venkat Prasat Sridhar, Professor
+Dr.Sekar S, Professor
+Dr.Dhandapani S, Professor
+Dr.Rajkumar Arondoss, Professor
+Dr.Ramkumar Sathiyamurthy, Associate Professor
+Mr.Muthiah Ct Ct, Associate Professor
+Mr.Arumugam Pachiappan, Associate Professor
+Mr.S Panneerselvan, Associate Professor
+Mr.Parthiban N, Assistant Professor
+Mr.Dineshkumar Thirunavukkarasu, Assistant Professor
+Mr.L S Tamizhselvan, Assistant Professor
+Mr.Ragavendiran R, Assistant Professor
+Dr.Muthaimanoj Periyasamy, Assistant Professor
+Ms.Natarajan Srinivasan, Assistant Professor
+Dr.Vigneshwaran K, Assistant Professor
+Mr.Rajkumar Maran, Assistant Professor
+Mr.Abraham Anthony D, Assistant Professor
+Mr.Arun Prakash N, Assistant Professor
+Dr.Arulmurugan S, Assistant Professor
+Mr.Ghadhatharan V, Assistant Professor
+Mr.Karthikeyan R V, Assistant Professor
+Mr.Ravikumar J, Assistant Professor
+Dr.Ramya G, Professor
+Dr.Venkateshwaran Narayanan, Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+PROGRAMME EDUCATIONAL OBJECTIVES
+To provide students with sound foundation in the mathematical, scientific and engineering fundamentals necessary to formulate, analyze and solve engineering problems and to prepare them for graduate studies and for successful careers in industry.
+To impart students with skills for design, improvement and installation of Mechanical and allied integrated systems of men, material.
+To educate the students on designing the modern mechanical systems and expose them to industrial practices for better employability and adaptability.
+To instill the values, skills, leadership and team spirit for comprehensive and wholesome personality, to promote entrepreneurial interest among students and to create a fervor for use of Engineering in addressing societal concerns.
+PROGRAMME OUTCOMES
+Engineering knowledge:
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Problem analysis:
+Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+Design/development of solutions:
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+Conduct investigations of complex problems:
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+Modern tool usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The engineer and society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability:
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Ethics:
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Individual and team work:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication:
+Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Project management and finance:
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Life-long learning:
+Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAM SPECIFIC OUTCOMES (PSOs)
+To innovate a Mechanical System which meets the desired specifications and requirements using CAE tools.
+To explore alternate materials for automobile, manufacturing and process industries.
+To lead professional career in industries or an entrepreneur by applying Engineering and Management principles and practices.
+R2023 (2023 Batch)
+R2023 (2024 Batch)
+Regulations 2019 (From 2021-25 batch)
+Regulations 2017 (From 2018-22 batch)
+Regulations 2017 (2017-21 batch)
+Regulations 2013
+Regulations 2023
+Open Electives offered by Mechanical Engineering Department
+Minor Degree Programmes offered by Mechanical Engineering Department
+Students will have the opportunity to work in diverse fields like Production, Industrial Engineering, Design, Refrigeration and Air Conditioning. They also have the option to work in CAD/CAM fields, Computer Hardware and Software Development areas. A high percentage of students get admission to prestigious Universities abroad to pursue their MS Degree. Students who successfully graduate have tremendous scope in public sector and private sector organizations.
+Students of mechanical engineering learn about the machines that bring convenience and excitement to our lives. They study the physics that make roller coasters loop and planes fly. They learn about the properties of materials that can withstand the heat of the sun and the cold of outer space and they discover the secrets behind control systems such as the cruise control in the family car. A mechanical engineer will learn the science behind machines and the energy that makes them work. They will also apply what they learnt by creating their own machines.
+

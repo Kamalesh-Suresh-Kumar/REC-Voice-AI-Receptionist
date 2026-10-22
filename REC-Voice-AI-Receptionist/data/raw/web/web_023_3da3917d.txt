@@ -1,0 +1,76 @@
+TITLE: Computer Science & Business Systems | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/csbs
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+For the NextGen business engineers, TCS has created a unique undergraduate Computer Science Program - Computer Science & Business System (CSBS). The course has been designed by global industry experts and academia in tune with Industry 4.0 requirements. Click here to know more. TCS (India's largest software giant) supported B.Tech - Computer Science and Business Systems (CSBS) program aims to enhance the relevance of the computer Science program in India to meet the future demands of the IT industry whose landscape is rapidly changing in the era of Business 4.0. The curriculum is designed to ensure that students should get better exposure to emerging subjects such as Analytics, Deep learning, Machine Learning, Cloud Computing, and Internet of Things and Design thinking and also to develop an equal interest and appreciation towards humanity, value added science and other interrelated topics. The students graduating from this program will be in high demand by the industries and will be productive. Click here to know more about the curriculum.
+Updated on 06.08.2026
+
+FACULTY
+=======
+Dr.Manikandan Thirumalaisamy, Professor
+Dr.Tamilselvi P, Professor
+Dr.Vishnukumar Aravamuthan, Associate Professor
+Ms.Sahayasoosanpojakshya C, Assistant Professor
+Ms.Rohini Chandrasekar, Assistant Professor
+Mr.Lokesh K, Assistant Professor
+Ms.Kaviya S, Assistant Professor
+Ms.Domi Evangeline S, Assistant Professor
+Mr.Alphin Ezhil Manuel M L, Assistant Professor
+Ms.V.Stanlin Prija, Assistant Professor
+Ms.Padmasheela Keshvan, Assistant Professor
+Ms.Rajammal K, Assistant Professor
+Ms.Janani U, Assistant Professor
+Ms.Jayanthi M, Assistant Professor
+Ms.Bakiyalakshmi S, Assistant Professor
+Ms.Poornimathi K, Assistant Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+PROGRAMME EDUCATIONAL OBJECTIVES
+To equip students with state of the art contemporary technology in computer science and basic engineering science.
+To expose students to the business principles aligned with their domain.
+To educate on the service orientation principles for various business disciplines.
+To encourage innovative research through creative thinking and critical analytical ability.
+To inculcate ethical and moral values in the individuals benefitting the society.
+PROGRAM OUTCOMES (POs)
+A graduate of the Computer Science and Business Systems program will demonstrate:
+PO1:
+Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2:
+Problem analysis: Identify, formulate, review research literature, and analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3:
+Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO4:
+Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO5:
+Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations.
+PO6:
+The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+PO7:
+Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO8:
+Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO9:
+Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO10:
+Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO11:
+Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12:
+Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAM SPECIFIC OUTCOMES (PSOs)
+The students graduating will have sound knowledge in Computer Science with equal appreciation of humanities, management sciences and human values.
+The students will explore emerging topics such as Analytics, Machine Learning, Cloud Computing, and Internet of Things and apply the knowledge to design and develop solutions to societal needs.
+The students will be industry ready with required business skills in service orientation.
+UG
+Regulations 2023 (From 2024–28 Batch)
+Regulations 2023
+Regulations 2019 (From 2021-25 batch)
+Regulations 2019
+The Computer Science and Business Systems (CSBS) program offers numerous opportunities for students, bridging the gap between core computer science knowledge and business applications. One key advantage is the integration of emerging technologies such as Machine Learning, Cloud Computing, and the Internet of Things with Business Analytics. Graduates are equipped with the technical expertise to develop innovative solutions while also understanding business needs, making them valuable in industries that rely on data-driven decision-making, automation, and digital transformation.
+The business-oriented curriculum includes courses on management principles, financial accounting, marketing research, and entrepreneurship. This interdisciplinary approach prepares students not only for technical roles but also for leadership positions in business-driven tech environments. With exposure to both programming and strategic business operations, CSBS graduates can work in diverse roles such as business analysts, IT consultants, and product managers, catering to the increasing demand for tech-savvy business professionals.
+Additionally, the focus on industry readiness ensures that students graduate with practical skills through project-based learning, internships, and industry collaborations. The curriculum emphasizes service orientation, making graduates well-suited for roles in IT services, fintech, and consulting. The combination of software development skills and business acumen enhances employability across various sectors, including banking, e-commerce, and enterprise software solutions, giving CSBS graduates a competitive edge in the job market.
+

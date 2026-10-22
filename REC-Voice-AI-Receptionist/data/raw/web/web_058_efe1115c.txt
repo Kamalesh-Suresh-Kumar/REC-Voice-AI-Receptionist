@@ -1,0 +1,990 @@
+TITLE: Placements | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/placement
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "Offer Distribution", "Our Recruiters", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+SECTION: Offer Distribution
+SECTION: Our Recruiters
+Larsen & Toubro
+Saint-Gobain India
+Bosch
+Caterpillar India
+Brakes India
+Rane Group
+GE Vernova
+Larsen & Toubro
+Saint-Gobain India
+Bosch
+Caterpillar India
+Brakes India
+Rane Group
+GE Vernova
+TCS
+Cognizant
+Infosys
+Wipro
+Accenture
+HCLTech
+Capgemini
+TCS
+Cognizant
+Infosys
+Wipro
+Accenture
+HCLTech
+Capgemini
+Amazon
+MR COOPER
+RTCAMP
+WORKATO
+Multicoreware
+Thoughtworks
+Zoho Corporation
+Amazon
+MR COOPER
+RTCAMP
+WORKATO
+Multicoreware
+Thoughtworks
+Zoho Corporation
+Hyundai Motor
+Ashok Leyland
+Ford India
+TVS Motor
+Renault Nissan
+Mahindra & Mahindra
+Force Motors
+Hyundai Motor
+Ashok Leyland
+Ford India
+TVS Motor
+Renault Nissan
+Mahindra & Mahindra
+Force Motors
+ICICI Bank
+HDFC Bank
+Kotak Mahindra
+City Union Bank
+Standard Chartered
+Barclays Bank
+Axis Bank
+ICICI Bank
+HDFC Bank
+Kotak Mahindra
+City Union Bank
+Standard Chartered
+Barclays Bank
+Axis Bank
+HSBC
+Temenos
+BNY Mellon
+Volante Technologies
+Fidelity
+Bajaj Allianz
+HDFC Life
+HSBC
+Temenos
+BNY Mellon
+Volante Technologies
+Fidelity
+Bajaj Allianz
+HDFC Life
+Deloitte
+PwC
+Ernst & Young
+KPMG
+Mu Sigma
+Deloitte
+PwC
+Ernst & Young
+KPMG
+Mu Sigma
+Mathco
+Tiger Analytics
+LatentView Analytics
+IQVIA
+Visual BI
+AbsolutData
+NielsenIQ
+Mathco
+Tiger Analytics
+LatentView Analytics
+IQVIA
+Visual BI
+AbsolutData
+NielsenIQ
+ADP India
+iOPEX
+CSS Corp
+Genpact
+Concentrix
+Sitel India
+Amazon Customer Excellence
+ADP India
+iOPEX
+CSS Corp
+Genpact
+Concentrix
+Sitel India
+Amazon Customer Excellence
+Tata Communications
+Tata Electronics
+Foxconn
+Verizon
+Bharti Airtel
+Reliance Jio
+Tata Communications
+Tata Electronics
+Foxconn
+Verizon
+Bharti Airtel
+Reliance Jio
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+Highlights of the Placement
+Total no of offers:\t1968+\nNo of recruiters each year:\t400+\nHighest Offer:\t54 LPA\nSecond Highest offer: 44 LPA\nAvg CTC Top 10 % of students placed: 10.4 LPA
+Objective
+The Placement Centre at Rajalakshmi is committed to transforming students into confident, skilled, and industry-ready professionals. We work to ensure every eligible final-year student secures rewarding career opportunities while being equipped to excel from day one.
+Our objectives include:
+Facilitating Campus Recruitment - Bringing leading companies to our campus for placement drives.
+Enhancing Technical & Practical Skills - Keeping students ahead through up-to-date knowledge and real-world exposure.
+Developing ‘Plug & Play’ Talent - Building communication, leadership, and employability skills for immediate workplace impact.
+Strengthening Industry-Institute Ties - Ensuring our training and curriculum align with market needs.
+Why Rajalakshmi Graduates Stand Out
+Quality Intake
+50% of our students are admitted through the Anna University state-level single window system.
+The remaining 50% are admitted through the Management quota on a merit basis.
+Strong Academic Foundation
+Consistently high University Ranks and academic results.
+Highly qualified faculty with an impressive faculty–student ratio of 1:13.1.
+Many faculty members hold PhDs, enabling students to participate in cutting-edge research.
+Vibrant Co-Curricular Culture
+A well-stocked library with online journals and 24×7 internet access.
+Professional clubs, seminars, and national-level project and paper presentation participation.
+Several students have converted their projects into job offers with companies like Mahindra & Mahindra.
+Value-Added Learning
+Guest lectures, industrial visits, in-plant training, and live industry projects.
+On-campus certification programmes including SUN JAVA, Microsoft Certified Programmes, and CATIA.
+Skill Enhancement
+Intensive training camps for soft skills and employability skills.
+Students are ‘Plug & Play’ ready, capable of delivering results from day one.
+Overall Development
+A dynamic campus atmosphere that encourages academic, cultural, and leadership growth.
+Alumni who excel and rise quickly in their careers, showcasing the strong foundation built during their college years.
+Campus Recruitment Process
+Our campus recruitment for final-year students begins every June. Recruitment opportunities may also be available after graduation, depending on unplaced student availability.
+For Recruiters
+Interested recruiters are requested to email the following details to
+placement@rajalakshmi.edu.in
+Job Profile and Location
+Training Period (if applicable)
+Compensation (CTC) during & after training
+Designation before & after training
+Service Agreement details (duration & bond amount, if any)
+Eligible Degrees & Branches
+Eligibility Criteria – Academic scores (X / XII / Diploma / Current degree) & arrear status
+Selection Process – Test (online/offline), GD, Interview, etc.
+Facilities Required for campus recruitment
+Preferred Dates to visit
+Note: We do not allow placements involving paid training by students or consulting fee–based opportunities.
+Recruitment Flow
+Student Registration - Once company details are received, eligible students register with the Placement Centre.
+Sharing Student Data - Number of interested candidates will be communicated to the company.
+Venue Options - Based on numbers, the company may conduct interviews on campus or at their own premises.
+Shortlisting - Resumes can be sent to the company for pre-screening if required.
+Pooled Drives - We are open to hosting pooled campus drives for multiple colleges.
+Selection & Offers
+Final list of selected candidates and offer letters must be provided to the Placement Officer at the end of the process.
+If results are delayed, students may attend subsequent recruitment drives.
+If a student receives an offer from another company, the earlier offer will be considered void.
+Dream Offer Policy
+A Dream Offer is defined as:
+Offers with a CTC above ₹4.50 LPA, or
+Offers from core engineering companies, allowing students to pursue careers aligned with their specialization.
+Guidelines:
+Students securing a Dream Offer will not be eligible for other Dream Offer drives.
+If a student accepts a Dream Offer, any prior offer will be cancelled, and the previous recruiter will be informed to ensure single-company joining.
+Continuous Improvement
+We value recruiter feedback on student performance during selection and after training. This helps us continuously improve and deliver even better talent each year
+Dr. S.T. Jothi Basu
+Director – Training and Placement
+Mobile: +91 63850 58626
+Email:
+2024-2025
+(2021-2025 Batch)
+2023-2024
+(2020-2024 Batch)
+2022-2023
+(2019-2023 Batch)
+2021-2022
+(2018-2022 Batch)
+2020-2021
+(2017-2021 Batch)
+2019-2020
+(2016-2020 Batch)
+2018-2019
+(2015-2019 Batch)
+2017-2018
+(2014-2018 Batch)
+2016-2017
+(2013-2017 Batch)
+2015-2016
+(2012-2016 Batch)
+2014-2015
+(2011-2015 Batch)
+2013-2014
+(2010-2014 Batch)
+The Employability Training Camp is a unique one of a kind value addition programme offered to our students from the Second year onwards. This camp, which is run on a residential mode is offered completely free of cost. It is a matter of pride that this programme is one of the premier events in the Institution and every student looks forward eagerly to be part of this event.
+The students who are part of the camp are put through a set of pre-camp screening tests and their exact training requirements mapped. Following the Ice Breaker session on the inaugural day, our expert trainers who are the best in the Industry put our students through their paces through a uniquely developed curriculum, which is aligned towards the ever-changing demands of the Corporate.
+The students are also continuously monitored for their performance with daily online tests, camp diary etc and corrective actions are implemented immediately. The students also have the benefit of interacting with top executives from various industries on a daily basis in \
+Three such Employability Training Camps are conducted for every student before Campus recruitments begin. Also the Camps are followed up effectively with regular web enabled online tests. This ensures that enough opportunities are provided for the students to pick up the trails of employability and thereby secure his/her placement in the Campus. The Employability Training Camps have resulted in a phenomenal increase in the number of students getting recruited over the past five years, thereby catapulting REC into a different league to Top notch Institutions preferred by the vast majority of student community.
+1. Soft skills
+There are many soft skills that one should possess such as :
+Public Speaking Skills
+Leadership Qualities
+Problem-Solving capability
+Out of box thinking
+Effective utilization of Time
+Emotional Quotient
+Adaptability to changing work environment
+Participation in Teamwork
+Conflict Management
+In the present context, any job requires a variety of skills and aptitudes, apart from the knowledge and expertise acquired in a specific programme of study, such as Computer Science and Engineering or Mechanical Engineering. A graduate has to possess not only multi –disciplinary awareness but also skills that would match many challenging situations that arise time to time, due to ever expanding expectations of the industries as well as the society. The resume, a job aspirant prepares should reflect his/her soft skills, apart from the pure academic distinction, so that the interview and the selection go on smoothly, in this competitive job seeking scenario and ends in a dream placement.
+New Trends in Career Development
+Interpersonal skills enhancement session
+Click here to view details
+2. Language and Communication Skills
+These days proficiency in written and spoken English has become very essential in any profession. Apart from the advantage to show as an effective team member and also communicating with higher-ups, this expertise, enhances the self-confidence to work with an optimistic outlook. This skill should be developed from the school days and certainly be improved during the college days. In our autonomous institution, the curriculum itself contains theory and laboratory oriented courses in Technical English. Apart from this, as a part of extra-curricular activities, there are Atrium and debating union of our college functioning in a very organised way, conducting periodically debating and elocution competitions among students, under the guidance of the faculty members handling courses on English in the Department of Humanities & Sciences. Besides, opportunities are given to students to learn other languages, to learn the new developed technology and also to serve the society speaking different languages.
+Mrs. G. Alamelu, AP (SS), English Department, addressing students
+Mrs. G. Alamelu, AP (SS), English Department, n ice-breaker activity during language training
+3. Life Skills (Health, Hygiene, Physical Fitness and Yoga)
+It is said that health is real wealth, to emphasise the importance of physical as well as mental wellbeing for a comfortable living. For this, apart from taking food with nutritional content, doing exercises regularly and maintaining physical fitness is essential, whatever be one’s professional orientation. Regular yoga practice inculcates such exercises and improves concentration very much required for curricular as well as co-curricular and personality building endeavours of students.
+In this context, several programmes are conducted to create awareness and emphasizing the importance of maintaining good health and hygiene in smoothly carrying on all the lifelong activities. Some of this programmes held recently are:
+Neuro Nutrition
+Food Safety and Standards
+Gut health
+Functional foods for health
+Food Sanitation and Hygiene
+Covid-19 overview
+DR. CHANDRAKALA R DELIVERING LECTURE ON GUT HEALTH
+Mrs. SRIMAGAL.A DELIVERING LECTURE ON FOOD SANITATION AND HYGINE
+The above programmes are conducted by our eminent faculty members and also by outside experts in this field.
+4. Awareness of Trends in Technology
+An awareness on the recently developing technology in one’s field specialisation and allied fields is essential, even if there is no mention of that in the curriculum. In fact, an Engineering student should be curious to know what are present trends in design and manufacturing of any products in any industry, including medicine and agriculture so that, he/she can explore the possibilities of enhancing the concerned processes, by introducing his/her own innovative engineering concepts.
+This also enables and opens opportunities after passing out of the programme in launching on start- ups in emerging fields. This can be considered as the example of the best outcome of such awareness during student days.
+Our college emphasises technology trend awareness among students in the following ways:
+Arranging guest lectures by industrial experts to discuss the recent developments in their specialisation.
+Conducting professional society activities.
+Interacting with them while undergoing internships and asking them to give a presentation at the end to assess how far they have absorbed the new trends.
+Encouraging and guiding students in innovative projects, apart from the curriculum specified ones.
+Motivating students to prepare and present papers in national and international conferences.
+3 days Workshop on Electric Vehicle Engineering
+Dr. S.Sriman Narayanan addressing gathering on Brain awareness week- 2022
+
+
+
+IMAGE-BASED INFORMATION
+========================
+
+IMAGE 1
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Flanding-page%2Fplacement-pyramid.png&w=1080&q=75
+ALT_TEXT: Placement Offers Pyramid - Elite Offers: 183, Super Dream: 274, Core Offers: 404, Dream Offers: 458, Regular Offers: 649
+NEARBY_TEXT: Offer Distribution
+OCR_TEXT: 183 ¢ Elite Offers 274 ¢ Super Dream offers 404 ¢ Core Offers 458 ¢ Dream Offers , bs Regulates Regular Offers
+
+IMAGE 2
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Group 6.png
+ALT_TEXT: Larsen & Toubro
+NEARBY_TEXT: Larsen & Toubro | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: fl ARGSGEN & TOLIBRO
+
+IMAGE 3
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/layer1.png
+ALT_TEXT: Saint-Gobain India
+NEARBY_TEXT: Saint-Gobain India | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: SAINT-GOBAIN
+
+IMAGE 4
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Asset 86.png
+ALT_TEXT: Bosch
+NEARBY_TEXT: Bosch | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+
+IMAGE 5
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Asset 83.png
+ALT_TEXT: Caterpillar India
+NEARBY_TEXT: Caterpillar India | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: . 1 f n ' B Bh : — ] a j
+
+IMAGE 6
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Asset 81.png
+ALT_TEXT: Brakes India
+NEARBY_TEXT: Brakes India | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: {5 Brakes India
+
+IMAGE 7
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Asset 87.png
+ALT_TEXT: Rane Group
+NEARBY_TEXT: Rane Group | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: Expanding Horizons
+
+IMAGE 8
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Asset 82.png
+ALT_TEXT: GE Vernova
+NEARBY_TEXT: GE Vernova | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: (96) GE VERNOVA
+
+IMAGE 9
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Group 6.png
+ALT_TEXT: Larsen & Toubro
+NEARBY_TEXT: Larsen & Toubro | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: fl ARGSGEN & TOLIBRO
+
+IMAGE 10
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/layer1.png
+ALT_TEXT: Saint-Gobain India
+NEARBY_TEXT: Saint-Gobain India | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: SAINT-GOBAIN
+
+IMAGE 11
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Asset 86.png
+ALT_TEXT: Bosch
+NEARBY_TEXT: Bosch | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+
+IMAGE 12
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Asset 83.png
+ALT_TEXT: Caterpillar India
+NEARBY_TEXT: Caterpillar India | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: . 1 f n ' B Bh : — ] a j
+
+IMAGE 13
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Asset 81.png
+ALT_TEXT: Brakes India
+NEARBY_TEXT: Brakes India | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: {5 Brakes India
+
+IMAGE 14
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Asset 87.png
+ALT_TEXT: Rane Group
+NEARBY_TEXT: Rane Group | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: Expanding Horizons
+
+IMAGE 15
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Core/PNG/Asset 82.png
+ALT_TEXT: GE Vernova
+NEARBY_TEXT: GE Vernova | Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova Larsen & Toubro Saint-Gobain India Bosch Caterpillar India Brakes India Rane Group GE Vernova | Our Recruiters
+OCR_TEXT: (96) GE VERNOVA
+
+IMAGE 16
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/Asset 92.png
+ALT_TEXT: TCS
+NEARBY_TEXT: TCS | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: TATA CONSULTANCY SERVICES
+
+IMAGE 17
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/Asset 93.png
+ALT_TEXT: Cognizant
+NEARBY_TEXT: Cognizant | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: € cognizant
+
+IMAGE 18
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/g11.png
+ALT_TEXT: Infosys
+NEARBY_TEXT: Infosys | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: INTOS\S
+
+IMAGE 19
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/Asset 91.png
+ALT_TEXT: Wipro
+NEARBY_TEXT: Wipro | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+
+IMAGE 20
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/g1.png
+ALT_TEXT: Accenture
+NEARBY_TEXT: Accenture | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: accenture
+
+IMAGE 21
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/Asset 89.png
+ALT_TEXT: HCLTech
+NEARBY_TEXT: HCLTech | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: HCLiech
+
+IMAGE 22
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/Asset 88.png
+ALT_TEXT: Capgemini
+NEARBY_TEXT: Capgemini | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: Capaawini@
+
+IMAGE 23
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/Asset 92.png
+ALT_TEXT: TCS
+NEARBY_TEXT: TCS | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: TATA CONSULTANCY SERVICES
+
+IMAGE 24
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/Asset 93.png
+ALT_TEXT: Cognizant
+NEARBY_TEXT: Cognizant | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: € cognizant
+
+IMAGE 25
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/g11.png
+ALT_TEXT: Infosys
+NEARBY_TEXT: Infosys | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: INTOS\S
+
+IMAGE 26
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/Asset 91.png
+ALT_TEXT: Wipro
+NEARBY_TEXT: Wipro | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+
+IMAGE 27
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/g1.png
+ALT_TEXT: Accenture
+NEARBY_TEXT: Accenture | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: accenture
+
+IMAGE 28
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/Asset 89.png
+ALT_TEXT: HCLTech
+NEARBY_TEXT: HCLTech | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: HCLiech
+
+IMAGE 29
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/IT/PNG/Asset 88.png
+ALT_TEXT: Capgemini
+NEARBY_TEXT: Capgemini | TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini TCS Cognizant Infosys Wipro Accenture HCLTech Capgemini | Our Recruiters
+OCR_TEXT: Capaawini@
+
+IMAGE 30
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 101.png
+ALT_TEXT: Amazon
+NEARBY_TEXT: Amazon | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+OCR_TEXT: amazon
+
+IMAGE 31
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 100.png
+ALT_TEXT: MR COOPER
+NEARBY_TEXT: MR COOPER | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 32
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 99.png
+ALT_TEXT: RTCAMP
+NEARBY_TEXT: RTCAMP | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 33
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 98.png
+ALT_TEXT: WORKATO
+NEARBY_TEXT: WORKATO | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 34
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 97.png
+ALT_TEXT: Multicoreware
+NEARBY_TEXT: Multicoreware | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 35
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Layer 2.png
+ALT_TEXT: Thoughtworks
+NEARBY_TEXT: Thoughtworks | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 36
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 95.png
+ALT_TEXT: Zoho Corporation
+NEARBY_TEXT: Zoho Corporation | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 37
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 101.png
+ALT_TEXT: Amazon
+NEARBY_TEXT: Amazon | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 38
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 100.png
+ALT_TEXT: MR COOPER
+NEARBY_TEXT: MR COOPER | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 39
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 99.png
+ALT_TEXT: RTCAMP
+NEARBY_TEXT: RTCAMP | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 40
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 98.png
+ALT_TEXT: WORKATO
+NEARBY_TEXT: WORKATO | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 41
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 97.png
+ALT_TEXT: Multicoreware
+NEARBY_TEXT: Multicoreware | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 42
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Layer 2.png
+ALT_TEXT: Thoughtworks
+NEARBY_TEXT: Thoughtworks | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 43
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Product/PNG/Asset 95.png
+ALT_TEXT: Zoho Corporation
+NEARBY_TEXT: Zoho Corporation | Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation Amazon MR COOPER RTCAMP WORKATO Multicoreware Thoughtworks Zoho Corporation | Our Recruiters
+
+IMAGE 44
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/g832.png
+ALT_TEXT: Hyundai Motor
+NEARBY_TEXT: Hyundai Motor | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 45
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/Asset 107.png
+ALT_TEXT: Ashok Leyland
+NEARBY_TEXT: Ashok Leyland | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 46
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/g2317.png
+ALT_TEXT: Ford India
+NEARBY_TEXT: Ford India | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 47
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/Asset 105.png
+ALT_TEXT: TVS Motor
+NEARBY_TEXT: TVS Motor | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 48
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/Asset 102.png
+ALT_TEXT: Renault Nissan
+NEARBY_TEXT: Renault Nissan | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 49
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/Asset 103.png
+ALT_TEXT: Mahindra & Mahindra
+NEARBY_TEXT: Mahindra & Mahindra | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 50
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/Asset 104.png
+ALT_TEXT: Force Motors
+NEARBY_TEXT: Force Motors | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 51
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/g832.png
+ALT_TEXT: Hyundai Motor
+NEARBY_TEXT: Hyundai Motor | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 52
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/Asset 107.png
+ALT_TEXT: Ashok Leyland
+NEARBY_TEXT: Ashok Leyland | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 53
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/g2317.png
+ALT_TEXT: Ford India
+NEARBY_TEXT: Ford India | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 54
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/Asset 105.png
+ALT_TEXT: TVS Motor
+NEARBY_TEXT: TVS Motor | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 55
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/Asset 102.png
+ALT_TEXT: Renault Nissan
+NEARBY_TEXT: Renault Nissan | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 56
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/Asset 103.png
+ALT_TEXT: Mahindra & Mahindra
+NEARBY_TEXT: Mahindra & Mahindra | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 57
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Automobile/PNG/Asset 104.png
+ALT_TEXT: Force Motors
+NEARBY_TEXT: Force Motors | Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors Hyundai Motor Ashok Leyland Ford India TVS Motor Renault Nissan Mahindra & Mahindra Force Motors | Our Recruiters
+
+IMAGE 58
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/layer1 (2).png
+ALT_TEXT: ICICI Bank
+NEARBY_TEXT: ICICI Bank | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 59
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/layer1.png
+ALT_TEXT: HDFC Bank
+NEARBY_TEXT: HDFC Bank | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 60
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/Asset 113.png
+ALT_TEXT: Kotak Mahindra
+NEARBY_TEXT: Kotak Mahindra | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 61
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/Asset 112.png
+ALT_TEXT: City Union Bank
+NEARBY_TEXT: City Union Bank | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 62
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/Asset 111.png
+ALT_TEXT: Standard Chartered
+NEARBY_TEXT: Standard Chartered | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 63
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/Asset 110.png
+ALT_TEXT: Barclays Bank
+NEARBY_TEXT: Barclays Bank | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 64
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/Asset 109.png
+ALT_TEXT: Axis Bank
+NEARBY_TEXT: Axis Bank | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 65
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/layer1 (2).png
+ALT_TEXT: ICICI Bank
+NEARBY_TEXT: ICICI Bank | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 66
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/layer1.png
+ALT_TEXT: HDFC Bank
+NEARBY_TEXT: HDFC Bank | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 67
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/Asset 113.png
+ALT_TEXT: Kotak Mahindra
+NEARBY_TEXT: Kotak Mahindra | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 68
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/Asset 112.png
+ALT_TEXT: City Union Bank
+NEARBY_TEXT: City Union Bank | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 69
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/Asset 111.png
+ALT_TEXT: Standard Chartered
+NEARBY_TEXT: Standard Chartered | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 70
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/Asset 110.png
+ALT_TEXT: Barclays Bank
+NEARBY_TEXT: Barclays Bank | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 71
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Banking/PNG/Asset 109.png
+ALT_TEXT: Axis Bank
+NEARBY_TEXT: Axis Bank | ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank ICICI Bank HDFC Bank Kotak Mahindra City Union Bank Standard Chartered Barclays Bank Axis Bank | Our Recruiters
+
+IMAGE 72
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 122.png
+ALT_TEXT: HSBC
+NEARBY_TEXT: HSBC | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 73
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 121.png
+ALT_TEXT: Temenos
+NEARBY_TEXT: Temenos | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 74
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 120.png
+ALT_TEXT: BNY Mellon
+NEARBY_TEXT: BNY Mellon | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 75
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 119.png
+ALT_TEXT: Volante Technologies
+NEARBY_TEXT: Volante Technologies | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 76
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 118.png
+ALT_TEXT: Fidelity
+NEARBY_TEXT: Fidelity | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 77
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 117.png
+ALT_TEXT: Bajaj Allianz
+NEARBY_TEXT: Bajaj Allianz | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 78
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 116.png
+ALT_TEXT: HDFC Life
+NEARBY_TEXT: HDFC Life | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 79
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 122.png
+ALT_TEXT: HSBC
+NEARBY_TEXT: HSBC | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 80
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 121.png
+ALT_TEXT: Temenos
+NEARBY_TEXT: Temenos | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 81
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 120.png
+ALT_TEXT: BNY Mellon
+NEARBY_TEXT: BNY Mellon | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 82
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 119.png
+ALT_TEXT: Volante Technologies
+NEARBY_TEXT: Volante Technologies | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 83
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 118.png
+ALT_TEXT: Fidelity
+NEARBY_TEXT: Fidelity | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 84
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 117.png
+ALT_TEXT: Bajaj Allianz
+NEARBY_TEXT: Bajaj Allianz | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 85
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Fintech/PNG/Asset 116.png
+ALT_TEXT: HDFC Life
+NEARBY_TEXT: HDFC Life | HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life HSBC Temenos BNY Mellon Volante Technologies Fidelity Bajaj Allianz HDFC Life | Our Recruiters
+
+IMAGE 86
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Consulting/PNG/Asset 127.png
+ALT_TEXT: Deloitte
+NEARBY_TEXT: Deloitte | Deloitte PwC Ernst & Young KPMG Mu Sigma Deloitte PwC Ernst & Young KPMG Mu Sigma | Our Recruiters
+
+IMAGE 87
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Consulting/PNG/Asset 126.png
+ALT_TEXT: PwC
+NEARBY_TEXT: PwC | Deloitte PwC Ernst & Young KPMG Mu Sigma Deloitte PwC Ernst & Young KPMG Mu Sigma | Our Recruiters
+
+IMAGE 88
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Consulting/PNG/Asset 125.png
+ALT_TEXT: Ernst & Young
+NEARBY_TEXT: Ernst & Young | Deloitte PwC Ernst & Young KPMG Mu Sigma Deloitte PwC Ernst & Young KPMG Mu Sigma | Our Recruiters
+
+IMAGE 89
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Consulting/PNG/Asset 124.png
+ALT_TEXT: KPMG
+NEARBY_TEXT: KPMG | Deloitte PwC Ernst & Young KPMG Mu Sigma Deloitte PwC Ernst & Young KPMG Mu Sigma | Our Recruiters
+
+IMAGE 90
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Consulting/PNG/Asset 123.png
+ALT_TEXT: Mu Sigma
+NEARBY_TEXT: Mu Sigma | Deloitte PwC Ernst & Young KPMG Mu Sigma Deloitte PwC Ernst & Young KPMG Mu Sigma | Our Recruiters
+
+IMAGE 91
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Consulting/PNG/Asset 127.png
+ALT_TEXT: Deloitte
+NEARBY_TEXT: Deloitte | Deloitte PwC Ernst & Young KPMG Mu Sigma Deloitte PwC Ernst & Young KPMG Mu Sigma | Our Recruiters
+
+IMAGE 92
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Consulting/PNG/Asset 126.png
+ALT_TEXT: PwC
+NEARBY_TEXT: PwC | Deloitte PwC Ernst & Young KPMG Mu Sigma Deloitte PwC Ernst & Young KPMG Mu Sigma | Our Recruiters
+
+IMAGE 93
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Consulting/PNG/Asset 125.png
+ALT_TEXT: Ernst & Young
+NEARBY_TEXT: Ernst & Young | Deloitte PwC Ernst & Young KPMG Mu Sigma Deloitte PwC Ernst & Young KPMG Mu Sigma | Our Recruiters
+
+IMAGE 94
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Consulting/PNG/Asset 124.png
+ALT_TEXT: KPMG
+NEARBY_TEXT: KPMG | Deloitte PwC Ernst & Young KPMG Mu Sigma Deloitte PwC Ernst & Young KPMG Mu Sigma | Our Recruiters
+
+IMAGE 95
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Consulting/PNG/Asset 123.png
+ALT_TEXT: Mu Sigma
+NEARBY_TEXT: Mu Sigma | Deloitte PwC Ernst & Young KPMG Mu Sigma Deloitte PwC Ernst & Young KPMG Mu Sigma | Our Recruiters
+
+IMAGE 96
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 134.png
+ALT_TEXT: Mathco
+NEARBY_TEXT: Mathco | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 97
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 133.png
+ALT_TEXT: Tiger Analytics
+NEARBY_TEXT: Tiger Analytics | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 98
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 132.png
+ALT_TEXT: LatentView Analytics
+NEARBY_TEXT: LatentView Analytics | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 99
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/g58.png
+ALT_TEXT: IQVIA
+NEARBY_TEXT: IQVIA | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 100
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 130.png
+ALT_TEXT: Visual BI
+NEARBY_TEXT: Visual BI | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 101
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 129.png
+ALT_TEXT: AbsolutData
+NEARBY_TEXT: AbsolutData | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 102
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 128.png
+ALT_TEXT: NielsenIQ
+NEARBY_TEXT: NielsenIQ | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 103
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 134.png
+ALT_TEXT: Mathco
+NEARBY_TEXT: Mathco | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 104
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 133.png
+ALT_TEXT: Tiger Analytics
+NEARBY_TEXT: Tiger Analytics | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 105
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 132.png
+ALT_TEXT: LatentView Analytics
+NEARBY_TEXT: LatentView Analytics | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 106
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/g58.png
+ALT_TEXT: IQVIA
+NEARBY_TEXT: IQVIA | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 107
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 130.png
+ALT_TEXT: Visual BI
+NEARBY_TEXT: Visual BI | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 108
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 129.png
+ALT_TEXT: AbsolutData
+NEARBY_TEXT: AbsolutData | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 109
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Analytivs/PNG/Asset 128.png
+ALT_TEXT: NielsenIQ
+NEARBY_TEXT: NielsenIQ | Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ Mathco Tiger Analytics LatentView Analytics IQVIA Visual BI AbsolutData NielsenIQ | Our Recruiters
+
+IMAGE 110
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 140.png
+ALT_TEXT: ADP India
+NEARBY_TEXT: ADP India | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 111
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 139.png
+ALT_TEXT: iOPEX
+NEARBY_TEXT: iOPEX | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 112
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 138.png
+ALT_TEXT: CSS Corp
+NEARBY_TEXT: CSS Corp | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 113
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/layer1.png
+ALT_TEXT: Genpact
+NEARBY_TEXT: Genpact | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 114
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 136.png
+ALT_TEXT: Concentrix
+NEARBY_TEXT: Concentrix | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 115
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 135.png
+ALT_TEXT: Sitel India
+NEARBY_TEXT: Sitel India | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 116
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 141.png
+ALT_TEXT: Amazon Customer Excellence
+NEARBY_TEXT: Amazon Customer Excellence | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 117
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 140.png
+ALT_TEXT: ADP India
+NEARBY_TEXT: ADP India | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 118
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 139.png
+ALT_TEXT: iOPEX
+NEARBY_TEXT: iOPEX | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 119
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 138.png
+ALT_TEXT: CSS Corp
+NEARBY_TEXT: CSS Corp | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 120
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/layer1.png
+ALT_TEXT: Genpact
+NEARBY_TEXT: Genpact | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 121
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 136.png
+ALT_TEXT: Concentrix
+NEARBY_TEXT: Concentrix | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 122
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 135.png
+ALT_TEXT: Sitel India
+NEARBY_TEXT: Sitel India | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 123
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/ITES/PNG/Asset 141.png
+ALT_TEXT: Amazon Customer Excellence
+NEARBY_TEXT: Amazon Customer Excellence | ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence ADP India iOPEX CSS Corp Genpact Concentrix Sitel India Amazon Customer Excellence | Our Recruiters
+
+IMAGE 124
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/Asset 79.png
+ALT_TEXT: Tata Communications
+NEARBY_TEXT: Tata Communications | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters
+
+IMAGE 125
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/Asset 78.png
+ALT_TEXT: Tata Electronics
+NEARBY_TEXT: Tata Electronics | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters
+
+IMAGE 126
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/Asset 77.png
+ALT_TEXT: Foxconn
+NEARBY_TEXT: Foxconn | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters
+
+IMAGE 127
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/Asset 75.png
+ALT_TEXT: Verizon
+NEARBY_TEXT: Verizon | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters
+
+IMAGE 128
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/g20.png
+ALT_TEXT: Bharti Airtel
+NEARBY_TEXT: Bharti Airtel | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters
+
+IMAGE 129
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/Asset 80.png
+ALT_TEXT: Reliance Jio
+NEARBY_TEXT: Reliance Jio | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters
+
+IMAGE 130
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/Asset 79.png
+ALT_TEXT: Tata Communications
+NEARBY_TEXT: Tata Communications | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters
+
+IMAGE 131
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/Asset 78.png
+ALT_TEXT: Tata Electronics
+NEARBY_TEXT: Tata Electronics | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters
+
+IMAGE 132
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/Asset 77.png
+ALT_TEXT: Foxconn
+NEARBY_TEXT: Foxconn | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters
+
+IMAGE 133
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/Asset 75.png
+ALT_TEXT: Verizon
+NEARBY_TEXT: Verizon | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters
+
+IMAGE 134
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/g20.png
+ALT_TEXT: Bharti Airtel
+NEARBY_TEXT: Bharti Airtel | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters
+
+IMAGE 135
+IMAGE_URL: https://www.rajalakshmi.org/assets/placements/Logos/Telecom/PNG/Asset 80.png
+ALT_TEXT: Reliance Jio
+NEARBY_TEXT: Reliance Jio | Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio Tata Communications Tata Electronics Foxconn Verizon Bharti Airtel Reliance Jio | Our Recruiters

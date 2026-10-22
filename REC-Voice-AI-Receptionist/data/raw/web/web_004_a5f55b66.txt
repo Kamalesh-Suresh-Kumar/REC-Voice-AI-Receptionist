@@ -1,0 +1,43 @@
+TITLE: Academic Schedule | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/academic-schedule
+SOURCE_TYPE: website
+SECTIONS: ["UG", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: UG
+Academics Schedule - Odd SEM - 2026-27 - UG & PG
+Academics Schedule - Even SEM - 2025-26 - UG & PG
+Academic Schedule - ODD SEM - 2025-26 - UG & PG
+Academic Schedule - EVEN SEM - I, II, III & IV Year - 2024-25 - UG
+Academic Schedule - ODD SEM - I Year - 2024-25 - UG
+Academic Schedule - ODD SEM - II, III & IV Year - 2024-25 - UG
+Academic Schedule - EVEN SEM - II, III & IV Year - 2023-24 - UG
+Academic Schedule - EVEN SEM - First Year - 2023-24 - UG
+Academic Schedule - ODD SEM - 2023-24 - First Year
+Academic Schedule - ODD SEM - 2023-24 - Second, Third and Final Year
+Academic Schedule - EVEN SEM - 2022-23 - First Year
+Academic Schedule - EVEN SEM - 2022-23 - Second, Third & Final Year
+Academic Schedule - ODD SEM - 2022-23 - First Year
+Academic Schedule - ODD SEM - 2022-23 - Second, Third & Final Year
+Academic Schedule - EVEN SEM - 2021-22
+Academic Schedule - ODD SEM - 2021-22
+Academic Schedule - EVEN SEM - 2020-21
+Academic Schedule - ODD SEM - 2020-21
+Academic Schedule - EVEN SEM - 2019-20
+Academic Schedule - ODD SEM - 2019-20
+Academic Schedule - EVEN SEM - 2018-19
+Academic Schedule - ODD SEM - 2018-19
+Academic Schedule - EVEN SEM - 2017-18
+Academic Schedule - ODD SEM - 2017-18
+PAGE LINKS
+LINK: Academic Schedule - EVEN SEM - II, III & IV Year - 2023-24 - UG -> https://www.rajalakshmi.org/academic-schedule
+LINK: Academic Schedule - ODD SEM - 2023-24 - First Year -> https://www.rajalakshmi.org/academic-schedule
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+Academic Schedule - EVEN SEM - I & II Year - 2024-25 - PG
+Academic Schedule - EVEN SEM - 2024-25 - PG (I Sem)
+Academic Schedule - EVEN SEM - 2024-25 - PG (III Sem)
+Academic Schedule - EVEN SEM - 2023-24 - PG
+Academic Schedule - EVEN SEM - 2023-24
+2025 - 2026
+

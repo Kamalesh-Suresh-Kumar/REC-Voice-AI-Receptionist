@@ -1,0 +1,403 @@
+TITLE: Aeronautical Engineering | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/aero
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "Postgraduate Programme - M.E. Avionics", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+Established in 2005 , the Department of Aeronautical Engineering offers a 4-year B.E. programme with an intake of 60 students, shaping future leaders in aviation, aerospace, and emerging technologies.
+Our programme blends core aeronautical disciplines—structural mechanics, aerodynamics, propulsion, and space dynamics - with cutting-edge applications in aircraft engineering, drones, rockets, and space technology . Students also gain strong foundations in mathematics, physics, chemistry, and humanities, ensuring a well-rounded engineering education.
+Hands-on learning is at the heart of our approach. The department houses state-of-the-art laboratories including:
+Aircraft Propulsion Lab
+Aerodynamics Lab
+Aircraft Structures Lab
+Aircraft Simulation Lab
+Design, Modelling & Analysis Lab
+High-Speed Jet Lab
+These facilities support both academic learning and advanced research. Computational skills are developed through programming, simulation and industry-standard engineering software .
+We maintain strong industry and research collaborations with organizations like NAL and ISRO , enabling students and faculty to engage with real-world aerospace challenges. Final-year students undertake year-long, industry-relevant projects, often supported by leading MNCs and defence laboratories, meeting the high standards of modern aerospace engineering .
+Career Pathways
+Graduates find opportunities in civil aviation, defence R&D, space research, CSIR laboratories and software industries specializing in engineering tools. Many also excel in management, civil services, higher education, and research at M.Tech and Ph.D. levels.
+SECTION: Postgraduate Programme - M.E. Avionics
+Launched in 2018 , the M.E. Avionics programme equips students with expertise in integrating avionics subsystems, cockpit systems, and next-gen aerospace technologies. With a strong focus on drone technology, AI integration, and advanced flight systems , the programme aligns with global aviation standards and industry demands.
+Career Opportunities
+M.E. Avionics graduates are in demand with DRDO, ISRO, ADE, CVRDE and leading companies like Honeywell, GE, and Data Patterns . They are also sought after in engineering software development and the rapidly expanding drone industry, including roles as certified Drone RC pilots for civil and military applications. The programme also fosters an entrepreneurial mindset, encouraging ventures in unmanned aerial systems and aerospace innovation.
+Updated on 23.09.2026
+
+FACULTY
+=======
+Dr.Suresh Chandra Khandai, HoD & Professor
+Dr.Kathiravan B, Professor
+Dr.Nithiyanantham K K ., Associate Professor
+Dr.Surendra Bogadi, Associate Professor
+Mr. Balaji R, Assistant Professor (SG)
+Mr.Harikrishnan Ravichandran, Assistant Professor
+Mr.Harish Soundhararajan, Assistant Professor
+Mr.Pradesh Sakthivel, Assistant Professor
+Mr.Prem Anand Thanganadar Palraj, Assistant Professor
+Mr.Vasthadu Vasu Kannah D L, Assistant Professor
+Mr.J P Shebaz Ahmed, Assistant Professor
+Mr.Balaji R, Assistant Professor
+Dr.Nithiyaraj M, Assistant Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+PROGRAMME EDUCATIONAL OBJECTIVES
+Our graduates have the ability to apply knowledge across the disciplines and in emerging areas of Aerospace Engineering for higher studies, research, employability and product development.
+Our graduates have the communication skills, sense of responsibility to protect the environment and ethical conduct towards their profession and commitment to serve the society.
+Our graduates possess academic excellence, managerial skills, leadership qualities and understand the need for lifelong learning for a successful professional career.
+PROGRAMME OUTCOMES (POs)
+Engineering Graduates will be able to,
+Engineering knowledge
+: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Problem analysis
+: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+Design/development of solutions
+: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+Conduct investigations of complex problems
+: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+Modern tool usage
+: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The engineer and society
+: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability
+: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Ethics
+: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Individual and team work
+: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication
+: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Project management and finance
+: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Life-long learning
+: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAMME SPECIFIC OUTCOMES (PSOs)
+A graduate of the Aeronautical Engineering program will
+Develop deep working knowledge to solve complex problems in aerodynamics, propulsion, structure and flight mechanics
+Demonstrate problem solving ability and hands-on skills to enter careers in the design, manufacturing, testing, or maintenance of aeronautical systems.
+Be equipped to use CAE packages and simulation language skills to solve practical, design and analysis problems
+Regulations 2023 (2024-2028 & 2025-2029 Batch)
+Regulations 2023 (2023-2027 Batch)
+Regulations 2019 (From 2021-25 batch)
+Regulations 2019
+Regulations 2017 (From 2018-22 batch)
+Regulations 2017 (2017-21 batch)
+Regulations 2013
+PG -
+Regulations 2023
+Minor Degree - Space Technology ( From 2024-2028 & 2026-2030 Batches)
+OPEN ELECTIVIES for All Departments
+Minor Degree Programmes for All Departments
+TOP ACHIEVEMENTS OF THE DEPARTMENT
+TEACHING AWARDS IN ENGINEERING
+The Department has received \
+Teaching Awards in Engineering
+PLACEMENTS
+33 students of 2018-22 batch placed so far in campus recruitment Placements for the 2018-22 batch is still in progress.
+32 students of 2017 - 21 batch placed in campus recruitment.
+27 students of 2016 - 20 batch, 28 students of 2015 - 19 batch and 18 students of 2014 - 18 batch placed in campus recruitment.
+29 students of 2013-2017(as on 26.04.2017) and 24 students of 2012-2016 batch (2016 passed out) placed in various companies.
+HIGHER STUDIES
+Mr. Sivacharan M
+. of 2016 - 20 batch got admitted into Wayne State University, Detroit, Michigan, USA
+Ms. Sanjana Rao
+of 2016 - 20 batch got admitted into MTech program in BITS Mesra.
+Ms.Apoorva S
+. of 2015 -19 batch has got admitted into MS program in ISAE-SUPAERO, FRANCE.
+Mr. Saji M
+. of 2014 - 18 batch got admission for MTech program in IISc, Bangalore.
+Mr. S. Hemanth
+of 2014 - 18 batch got admission for MTech program in Monash University
+Mr. Pracheesh .P and Mr. D.Udhay Sakthi
+2014 - 18 batch got admission for MTech program in University of windsor, Canada
+Ms.U.S.Lekha Shree
+of 2014 - 18 batch got admission for MTech program in IIT Mumbai.
+Ms. Abinayaa Dhanagopal
+of 2013-17 batch has got admission in Iowa State University Of Science and Technology in, U.S.
+Mr. Sidharth Krishnan Kalyani
+of 2013-17 batch has got admission in Delft University of Technology in, The Netherlands
+6 students of 2012-2016 batch and 6 students of 2011-2015 batch are pursuing higher studies in various like IIT’s, IISc, MIT, BITS Mesra and other well-known overseas universities in U.K, U.S.A, Germany, Netherland, Singapore etc.
+Mr.VIVEK S
+. of 2013-2017 batch has got admitted into MS Aerospace Program at IIT Kanpur
+BEST OUTGOING STUDENT AWARD
+Mr. D K Pavan Ranjith Babu
+of 2015-2019 batch was honoured with the \
+Ms. S. Sakthi Uma Devi
+of 2014-2018 batch was honoured with the \
+Mr. Vivek.S
+of 2013-2017 batch was honoured with the \
+Ms. Anitha. A
+of 2012-2016 batch was honoured with the “VOC memorial award for the Best Outgoing Aeronautical Engineer “for the academic year 2015-16.
+BEST STUDENT PROJECT AWARD
+Team of 7 students from IV Year Aeronautical Engineering, under the mentorship of Dr.Surendra Bogadi has won a special prize in the national level Aircraft Design Competition “AEROTHON - 2021” conducted by SAE-INDIA during February - May 2021
+Mr. Sathish Kumar R., Mr. Selvakumar L. & Mr. Saravanan M.,
+of 2012-16 batch won the Best Aero Student Project' 2016 in State Level Aeronautical Engineering Project Competition held in Tamil Nadu, by Aeronautical Society of India.
+SPECIAL ACHIEVEMENTS
+Mrs. Azega R. K., Mrs. Priyanka M., Mrs. Shubavi P
+., of 2013 -17 batch with Dr. Suresh Chandra Khandai (Associate Professor / Aero) got selected to work in the AK-Edusat Program.
+Mr. Vignesh K, Ms.Swastika Devi
+of 2018-2022 batch with Dr. Suresh Chandra Khandai ( Professor / Aero) got the best research paper award in NCRAMS-21 held at Rajalakshmi Engineering College
+Mr. Arivazhagan A and Jesurajanishanth G
+of 2016-2020 got the best research paper award in National Conference on Recent Developments in Aerospace & Defence Technology held at Hindustan Institute of Technology and Science
+INTERNSHIP PROGRAMMES
+The students of batch 2018-2022 have undergone summer internships during May-2021 to June-2021 at
+kaashiv Infotech, Chennai
+Avian Aerospace Pvt Ltd, Bangalore
+Vaayushaastra Aerospace, IIT madras, Chennai
+Dautya Aerospace Pvt Ltd, Goa
+Vymanik Aerospace Limited, Uttar Pradesh
+Garuda Aerospace, Chennai
+Vayu Aero, Bangalore
+Student Activities
+Apart from the curriculum, students have earned a certificate in many educational domains like
+Coursera
+Udemy
+LearnCode Academy
+LinkedIn Learning
+Energy Swaraj Foundation etc..
+NPTEL – National Programme on Technology Enhanced Learning Students are utilizing NPTEL Lectures to nurture themselves for the new learning technique. The students are advised to register on NPTEL courses and get certification by writing exams. Many staff members also participate in the exams and get certificates. Our college has been awarded “LC STAR” recognition for being in Top 100 since last 7 semesters consecutively.
+PARTICIPATED IN THE SPIRIT GLOBAL DESIGN CHALLENGE - 2013 & 2012
+Global Design Challenge is an academic competition sponsored by Spirit Aero Systems that encourages students of premier Engineering institutions to seek out new thinking using new technologies to design aircraft structures. With guidance and mentoring from Spirit engineers, Infosys engineers, University professors and associated engineering and aerospace experts, the students do research and formulate design concepts.
+DRDO GOLDEN JUBILEE STUDENT COMPETITION 2009
+5 of our Aeronautical Engineering Students led a 10 member design team to the final round of student competition conducted by DRDO for the design and development of a prototype for Low Cost Outdoor Surveillance System with remote access to sensor imagery and successfully came among TOP TEN Teams and won a cash prize of Rs.50000/-
+SIFE-REC
+A team of our Aeronautical Engineering students participated in the finals of Project Presentation held in Mumbai, July 2009. Their project titled “Mileage of Autoprenuership” won the Regional final and National semifinals.
+DESIGN CONTEST
+Kannan G.,Pavan Ranjith Babu D K
+Of 2015-2019 batch has won First Place IN Aircraft Design Contest’17 held at Kumaraguru College of Technology, Coimbatore.
+Co - Curricular Activities:
+Department of Aeronautical Engineering not only imparting knowledge to students we are encouraging the students participation in co-curricular activities. Some of them are listed below:
+BLOG WRITING COMPETITION
+Challenges of Deep Space Travel
+Essay Writing Contest
+National Level Poetry Contest
+EntrepreNOWetc..
+Mr. Guillaume Ramassamy, a student from ESTACA, France, successfully completed his 2 months Internship Programme in the Department of Aeronautical Engineering, REC
+The students have undergone internships at Hindustan Aeronautics Limited (HAL), Bengaluru, Centre for Air Borne Systems (Cabs), Bangalore, Air Fin Cooler Division BGR Energy Systems Ltd .
+TRAINING PROGRAMMES
+Every year Students will be taken for Flight training programme in IIT Khanpur and NDT Training programme in IGCAR Kalpakkam.
+INDUSTRIAL VISIT
+Students have been taken for industrial visit to INS Rajali, Arakkonam,Dinesh Engineering Industries,CSIR – Structural Engineering Research Centre to enchance their knowledge on current trends in engineering sectors
+BEST ALUMNI ENTREPRENEUR AWARD
+MR. Vinoth G
+. of 2005-2009 batch was honored with the \
+SPORTS ACHIEVEMENTS
+We are not only imparting knowledge to students we are encouraging the students participation in sports and co-curricular activities. Some of the student’s accolades are listed below:
+Ms.Shakthi Uma Devi S
+. of 2014-18 won Gold Medal in Anna University Zonal Athletics Meet in 800 Mts -Women.
+Mr. Ashok Kumar S
+. of 2013-17 batch secured Silver Medal in Anna University Zonal Athletics Meet in 1500 Mts –Mens.
+Mr. Dinesh Kumar G
+. of 2016-20 batch secured Bronze Medal in Anna University Zonal Athletics Meet in 4 X 100 Mts Relay(Men).
+Mr. Ashok Kumar S.
+of 2013-17 batch and Mr. Dinesh Kumar G. of 2016-20 batch secured Silver Medal in Anna University Zonal Foot Ball Tournament.
+Ms. Raga Struthi S
+. of 2016-20 batch secured Silver Medal in Anna University Zonal Badminton (Women Team) Tournament.
+Mr. Dinesh S
+. of 2013-17 batch and Mr. Dinakaran P. G. of 2016-20 batch secured Bronze Medal in Anna University Zonal Hand Ball Tournament.
+. of 2014-18 won First Place in Annual Sports meet 2017 in 400 x 100 mts (Relay) – Women, 1500 mts, 400 mts and 800 mts
+Mr. Arivazhagan A.
+of 2016-20 batch has participated ITM Global National Floor Ball League
+Our department has secured the overall college championship for two consecutive times.
+Our department students leading volley ball, cricket and football team has secured the various trophies in inter college and zonal level matches.
+Mr.KISHANTH B.Y
+of 2017-2021 batch has won Gold Medal in 32nd TAMILNADU INTER DISTRICT JUNIOR ATHLETIC CHAMPIONSHIPS in Javelin Throw event– 2017
+DINAKARAN P
+of 2016-2020 has secured III Place in Anna University Zone-2 Handball Tournament
+Conferences/Seminars/Workshops/FDPs Organized:
+The Department is organizing National Level Seminars / Conferences / Workshops and various technical programmes in association with AICTE, Aeronautical Society of India for the students to enrich their technical knowledge in aerospace field. Some of the topics are listed below:
+Technological challenges in the Development of Aero Engines
+Aircraft Design and Manufacturing
+Application of CFD in Aerospace Industries
+FEM Theory and its Application in Aerospace Industries
+Experimental Aerodynamics
+Emerging trends in aircraft maintenance
+Applications of Nano-Technology in Aeronautical Engineering
+Aero-Quiz
+Role Of DRDO In Aviation
+Challenges And Future Indian Space Programmes
+FDP On “Experimental Techniques For High Speed Jet Flows”
+“PYTHON PROGRAMMING And INTERNET OF THINGS”.
+“CATIA FOR ENGINEERING STUDENTS”
+Matlab & Scilab For Aeronautical Engineering Students\
+In tune with the vision of the college to bring out globally competent professionals with a commitment to serve the society, the budding engineers of REC are faithfully involved in community services through voluntarily asked to undergo Personality and Character Development Programmes for a minimum period of 80 hours. There are two wings to this programme and students may choose one club from each wing. One wing consists of pan national groups like ENACTUS, NSS, YRC, ROTARACT, CII-YI and NSO while the other wing is made of college level clusters like Debating Union, Atrium, Yaazh Mandram, Ethics Club, EDC and STEM. Their contributions are appreciated by the voluntary organizations.
+Quality jobs :
+Employability Training camps, Industrial visits, guest lectures, in-plant trainings and effective practical sessions are organized to obtain quality jobs in core areas.
+Entrepreneurship
+– Students’ entrepreneurial skills are honed through Entrepreneurship Development Cell (Kriya), which also helps the economically weaker students to ‘earn while they learn’. The EDC has brought in various innovations and the students work for it with commitment and dedication. The EDC guides them to apply for external funds and patents. EDC of the college functions in collaboration with National Entrepreneurship Network and CII.
+Innovations:
+Innovative Project Cell (IPC) of the college organizes iQuest – a contest for innovative ideas and projects every year for the benefit of the students.
+Research Aptitude:
+Research aptitude of students is kindled right from the first year of graduation by encouraging students for course relevant in-house projects and final semester projects and guidance in preparing and presenting technical papers in seminars and conferences.
+2021-22
+Journal
+Surendra Bogadi, B
+.T.N Sridhar,“Acoustic characteristics of supersonic rectangular jets issuing from nozzles with diagonal expansion ramps’, Journal of the Brazilian Society of Mechanical Sciences and Engineering, vol.43, November 2021, ISSN: 1678-5878. Publisher: Springer DOI:
+Balaji Rajendran
+, Dinesh Kumar P. K., “Influence of Cenosphere on Compression After Impact Strength of Glass Epoxy Laminates”, Engineering Research Express, Vol.3, December 2021, ISSN: 2631-8695. Publisher: IOP Science DOI:
+Conference
+Badri Venkata Bharath, Raja. S,
+, “
+Thrust Improvement of
+Mpd
+Thurster by varying cathode to Anode Ratio
+”,3
+National conference on “Recent Advances in Mechanical Sciences”[NCRAMS 2021] , Rajalakshmi Engineering College ,Chennai on December 17 &18,2021.
+B. Boomika, S. Anto Snowfen,
+T.P. Prem Anand
+, ”
+3D Simulation of Formation Flying using Esp-copter
+National conference on “Recent Advances in Mechanical Sciences” [NCRAMS 2021], Rajalakshmi Engineering College, Chennai on December 17 &18,2021.
+Vignesh Kumar, Santhosh Ranjan S.S,
+Autonomous Drone Docking for Eviation Vehicle Charging
+G.Sarankumar, G.S.Tharun Kumaar,
+Design and Development of Multirole Multirotor Counter UAV
+M. Prabhu, M. Jovitha,
+Review of Thrust Vectoring Control Techniques
+Aditya K, Venkatesha Kishore S,
+, “Lab
+Scale Schlieren Setup for High-Speed Flow Visualization
+R. Dhiren, R. Nithya,
+Experimental Analysis of A Scramjet Combustor
+”, 3
+Jambukeswar. T. Kandaswamy, B. Jayasurya,
+Experimental Study of A Single Expansion Ramp Nozzle
+Naresh Kumar T, Nilesh Kumar K, Vasthadu
+Vasukannah DL
+Design and Fabrication of Hexacopter Drone with Cutter Arm for Coconut Harvesting
+B. Suraj, A. Siddarthan,
+Computational Analysis of Inlet Characteristics of Concentric Dual Mode Supersonic Inlet
+Pradeep. N, Vithya M, Vasthadu
+Vasu Kannah DL, “
+JET Noise Abatement using Elliptical RingTabs
+Prasath S, Naveen. B,
+Computational Analysis of Partly coated Hydrophobic Aerofoil
+Ivan Immanuel Michael, Jaswanth D,
+Flexural Response & Damping Property of Hole Defect In Flax Fiber
+Tharakeshwar Raghuraman, Logeshwar MS,
+Dynamic Mechanical Analysis of FLAX/EPOXY Laminate with polypropylene particles at different temperatures
+Vignesh K, Swathiga Devi C,
+Three-Dimensional Numerical Investigation of Straight and Choked Reactant Injection in an H2/Air Rotating Detonation Engine
+Manikandan S, Bharath H, “
+Design and Development of Real –Time Crop Health Monitoring Drone for Agriculture
+2020-21
+Nameera Nilofer Khan, Ranjithkumar B,
+Yogesh Kumar Sinha
+,Suresh Chandra Khandai,“Analysis of modified lifting-line theory(1933) with multiple winglets”, International Journal of Mechanical and Production Engineering Research and Development, vol. 10(3), pp. 12545-12552, June 2020. ISSN: 2249–6890 Publisher: Trans stellar.
+Kowsalya P , Ashwin V.G ,
+Dharani J &
+“ Experimental Study Of Supersonic Jet Characteristics Of A Grooved Nozzle”, International Journal of Mechanical and Production Engineering Research and Development, vol. 10(3), pp. 8617–8624, June 2020. ISSN: 2249–6890,Publisher: Trans stellar.
+Rahul, J. Dharani and
+, A. “Optimal Method for Determination of Rayleigh Damping Coefficients for Different Materials using Modal Analysis”, International Journal of Vehicle Structures & Systems, vol. 13(1), pp. 102-111, January 2021. ISSN: 0975-3060 Publisher: MechAero Foundation for Technical Research & Education Excellence (MAFTREE) doi: 10.4273/ijvss.13.1.20]
+Santhosh Kumar Sundareswaran ,
+Balaji Rajendran, P.K. Dinesh Kumar
+, “Experimental evaluation of glass fiber composite reinforced with cellulose nanoparticles”, Materials Today: Proceedings, vol. 39(4), pp.1221-1227, March 2021 . ISSN: 2214-7853Publisher: Elsevier Ltd DOI:
+P.K Dinesh Kumar, Balaji Rajendran
+, Balavinayagar Subeetsha, Nagaraj Swetha, “Study on tensile, flexural and impact strength of GLARE reinforced with sugarcane bagasse ash microparticles”, Materials Today: Proceedings, June 2021, ISSN: 2214-7853, Publisher: Elsevier Ltd DOI:
+Balaji Rajendran, P.K. Dinesh Kumar, R
+. Vishal, S. Praveen, M. Sivaacharan, “Influence of carbon nano-filler in GFRP under dynamic loading conditions at an elevated temperature”, Materials Today: Proceedings, July 2021, ISSN: 2214-7853Publisher: Elsevier Ltd, DOI:
+Book Chapter
+Jayashree. TR
+, Priyadarshini, Sri Harini, “Li-Fi & Wi-Fi Based Drone for Weather Monitoring with Data Storage in Cloud Using IoT”,
+Smart Intelligent Computing and Communication Technology, IOP PRESS,2021.
+doi:10.3233/APC210079
+2019-20
+and BTN Sridhar, “Decay of Supersonic Rectangular Jet Issuing from a Nozzle with Diagonal Expansion Ramps”,
+Thermal Science
+, Vinča Institute of Nuclear Sciences, Vol. 23(6B), pp.3929-3940, Dec 2019.
+Ezhilmaran, G., Khandai, S. C., Sinha, Y. K.,
+& Thanigaiarasu, S., “Numerical Simulation of Supersonic Jet Control by Tabs with Slanted Perforation”,
+International
+of Turbo & Jet-Engines
+(doi:10.1515/tjj-2019-0015),
+2019
+R Karthicksundar,
+Balaji Rajendran, P K Dinesh Kumar
+and S Devaganesh, \
+Materials Research Express
+, IOP Publishing Ltd, 6(10), Aug 2019
+Devaganesh,
+P.K. Dinesh Kumar,
+N. Venkatesh,
+R. Balaji,
+Devaganesh S, Venkatesh N &
+P.K. Dinesh Kumar
+Investigation on Influence of Solid Lubricants over Mechanical Behavior of Hybrid Al7075-SiC Metal Matrix Composites
+”, International Conference on Materials and Manufacturing Methods (3M – 2019), NIT Tiruchirappalli, 5 - 7
+July, 2019
+Arivazhagan A, Jesurajanishnth G. and
+“Design Optimization of Single Expansion Ramp Nozzle using Computational Method”,
+“Rotary Vanes to Increase Turbulence Inside the Combustor, 3rd International Conference on Advances in Mechanical Engineering 2020 (IOP Cinf series- Materials Science and Engineering 912), SRM Institute of Science and Technology, 24-29th February 2020.
+G Jesurajanishanth , A Arivazhagan,
+,\
+R.Nisha
+, A.B. Moosa Naina and
+“Flow separation control and enhanced expansion of SERN nozzle flows using dielectric barrier discharge”,
+3rd International Conference on Advances in Mechanical Engineering 2020, SRM Institute of Science and Technology, 24-29th February 2020.
+2018-19
+Surya S
+, Swetha Sri S and Suresh Chandra Khandai, “Effect of Secondary Injection on No-Circular Jets”, International Journal of Mechanical and Production Engineering Research and Development, Trans Stellar, Vol.8, No.4, pp. 845-852, August 2018.
+Surekha Rathi Samundi D
+, Shakthi Uma Devi , Pracheesh P and Thirumalai Kumar M, “Numerical analysis of two-dimensional wing with trailing edge flap” International Journal of Pure and Applied Mathematics, Academic Publications, Vol 119, No 15, pp. 291-299, June 2018.
+Ezhilmaran G
+,Suresh Chandra Khandai, Pavithrabalan S, Udhayakumar K, “Supersonic Jet Control by Tabs with Slanted Perforation”, International Journal of Turbo & Jet Engines, De Gruyter, (Online published,
+, October 2018.
+D. Surekha R.
+S. , A. Khandelwal, and R. Rajasekar, “Investigation of Flow Field in Deep Dynamic Stall over an Oscillating NACA 0012 Airfoil”, Journal of Applied Fluid Mechanics,Vol.12,No.3,pp.857-863, 2019.
+Abisha C., Kovardhana Guru J. and
+Ezhilmaran G.
+“Effect of lip thickness on rectangular nozzle co-flowing subsonic jet”, National Conference on Recent Advances in Mechanical Science (NCRAMS), Rajalakshmi Engineering College, 16 March 2019.
+Mukesh B., Marudhavanan S. and
+Dinesh Kumar P. K.
+“Establishment of VARTM Process for Fabrication of Composite Laminates”, National Conference on Recent Advances in Mechanical Science (NCRAMS), Rajalakshmi Engineering College, 16 March 2019.
+Guruvishali D., Keerthana D. and
+Surekha Rathi Samundi
+“Investigation of Aerodynamic Characteristics of Double V setup with Jet Interaction”, National Conference on Recent Trends in Aerospace Technology (NCRTAT-19), Bharat Institute of Higher Education and Research, 29 March 2019.
+Kabilan A. and Saktheeswari D. “Fabrication and Testing of ARECA Fiber treated with Nano Graphite Powder”, National Conference on Recent Advances in Mechanical Science (NCRAMS), Rajalakshmi Engineering College, 16 March 2019.
+BaranitharanK. And Jessima Parveen H., “Synthesis and Analysis of Paraffin based Rocket Fuel with Nano Silica”, National Conference on Recent Advances in Mechanical Science (NCRAMS), Rajalakshmi Engineering College, 16 March 2019.
+Kannan G., Monica S and
+. “Thrust Loss Minimization of Injector Nozzle”, National Conference on Recent Trends in Aerospace Technology (NCRTAT-19), Bharat Institute of Higher Education and Research, 29 March 2019.
+Babu S., Vignesh A. R. and
+“Evaluation of Hybrid Ramie/Pinapple Composite Laminate using Different Methodologies”, National Conference on Recent Advances in Mechanical Science (NCRAMS), Rajalakshmi Engineering College, 16 March 2019.
+Shanmuga Sundaram Raj K. and Surendar A. “Image Stitching Algorithm with Indigenously Developed Solarcraft Model”, National Conference on Recent Advances in Mechanical Science (NCRAMS), Rajalakshmi Engineering College, 16 March 2019.
+Aravind P. and Vinoth G. “Study of Mechanical Behavior of Glare Reinforced with Sugarcane Bagasse Ash Microparticles”, National Conference on Recent Advances in Mechanical Science (NCRAMS), Rajalakshmi Engineering College, 16 March 2019.
+Haridoss S. and Hariharan K. “Construction and Study of Ballistic Impact for Aluminum and Fiber Composite”, TIME-2019: A National Level Conference on Unmanned Aerial Vehicles and Robotics, 29 March 2019.
+Natchiappan M. and Vijay V. S. “Design and Fabrication of Microthruster”,National Conference on Recent Advances in Mechanical Science (NCRAMS), Rajalakshmi Engineering College, 16 March 2019.
+Sarnya G. and Pavan Ranjith D. K. and
+“Aeroacoustic Characterization of an Underexpanded Rectangular Injector Nozzle”, National Conference on Recent Trends in Aerospace Technology (NCRTAT-19), Bharat Institute of Higher Education and Research, 29 March 2019.
+2017-18
+Gokul Raja E, Hemachandar I, Senthil Kumaran D and
+Muthusamy N
+, “Vortex Reduction Techinique on Wingtip using Spiroidal Winglet”, International Journal of Engineering Research & Technology (IJERT), ISSN: 2278-0181, Vol. 8 Issue 05, May-2019
+Muthusamy N,
+Senthil Kumar C, “Comparative analysis of winglets fitted on aircraft model”, International Journal of Mechanical Engineering & Technology”, Vol 8, Issue 9, Sep 2017, pp. 321-324
+, Mohideen P, “Study of Mechanical Properties of Moisture absorbed Hybrid Composite Material”, International Journal of Engineering research and Technology, Vol 6, Issue 10, Oct 2017 (ISSN: 2278-0181)
+Aathithyan A, Mugunthan K, Deepak Raj S and
+Mrs. Surekha Rathi Samundi
+D “Design and Fabrication of Tabletop low speed wind tunnel” in ‘National conference on Mechanical, Aeronautical and Civil Engineering’ (NCMACE’18), KCG College of Technology, Chennai, 28th March 2018.
+Adhithya M. P., SubashD.S. and
+Mr.N.Muthusamy
+, ‘Synchronizing of hydraulic jacks for efficient aircraft operations’, National Conference on recent innovations in advanced material science RIAMS’18, Rajalakshmi Institute Of Technology, 2018
+UdhayaKumar.K, PavithraBalan.S and
+Mr.Ezhilmaran.G
+“Supersonic Jet Control By Tabs With Slanted Perforation”, National Conference on Mechanical, Aeronautical and Civil Engineering’ (NCMACE’ 18), KCG College of Technology, Chennai, 28th March 2018
+MoU FOR THE ACADEMIC DEVELOPMENT
+MoU Signed between Department of Aeronautical Engineering, Rajalakshmi Engineering College with Vayusastra Aerospace Pvt.Ltd., Chennai on 01st Oct 2021
+MoU Signed between Department of Aeronautical Engineering,Rajalakshmi Engineering College with Garuda Aerospace Pvt. Ltd., Chennai on 30th Dec 2021.
+Job Opportunities for an Aeronautical Engineer in India, lies with various airlines like Air India, Indian Airlines, Helicopter Corporation of India and flying clubs, private airlines and government owned air service and aircraft manufacturers like Hindustan Aeronautics Ltd. (HAL), which has its factories at Bangalore, Nashik, Koraput, Kanpur etc., Defence Research and Development Organization (DRDO), National Aerospace Laboratories (NAL), Aeronautical Development Establishment, Aeronautical Development Agency, Civil Aviation Department etc. The Defence services such as Indian Air Force (IAF), Indian Navy (IN), and Indian Space Research Organisation (ISRO) also happen to be three major employers.
+This course trains an engineer in designing, constructing, analyzing, testing, developing and manufacturing of commercial and military aircrafts, missiles and spacecrafts. Aeronautics focuses on systems that operate on the earth's atmosphere and astronautics on those operating in space. Aerospace engineers design, develop, test, and help manufacture commercial and military aircraft, missiles, and spacecraft. They develop new technologies in commercial aviation, defense systems, and space exploration.
+Centre of Excellence for High Speed Jet Lab
+The High Speed Jet Facility started in the year 2012 -13 with a seed money of Rs.12.5 L.The High Speed Laboratory provides facilities in the areas of High Speed Jet Mixing and Acoustics, Supersonic. Combustion and so on. In addition to catering to the needs of undergraduate laboratory course needs, it caters to the research requirements of a large number of Doctoral (PhD) and Master (MTech) students.The lab is equipped with an indigenously built Jet Acoustic Chamber.
+Research Activities
+Gas Dynamics - experimental and theoretical investigation Rarefied flowsApplied Gas Dynamics and High speed jets
+Sudden expansion problems
+Aeroacoustics
+Active and passive control of jets and base flows
+Supporting Staff Members
+Mr.G.Murugan, Foreman
+Mr.E.Jothi Ramalingam, Lab Assistant
+Mr.A.Daniel, Lab Assistant
+Mr.Y.Dhanasingam, Lab Assistant
+Ms.R.Varalakshmi, Department Coordinator
+

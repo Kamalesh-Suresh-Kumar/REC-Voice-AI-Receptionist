@@ -1,0 +1,33 @@
+TITLE: Rajalakshmi Engineering College - Top Science & Technology Institution in India | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/blogs/Neuro_Electrogenomics
+SOURCE_TYPE: website
+SECTIONS: ["Blog"]
+
+Top Science & Technology Institution in India
+Blog
+Top Science & Technology Institution in India
+Blog
+
+
+IMAGE-BASED INFORMATION
+========================
+
+IMAGE 1
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2Fariia.svg&w=64&q=75
+ALT_TEXT: ARIIA Badge
+NEARBY_TEXT: Top Science & Technology Institution in India Blog
+
+IMAGE 2
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2FStar.svg&w=96&q=75
+ALT_TEXT: Decorative Star
+NEARBY_TEXT: Top Science & Technology Institution in India Blog | Top Science & Technology Institution in India Blog Top Science & Technology Institution in India Blog
+
+IMAGE 3
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2FStar.svg&w=64&q=75
+ALT_TEXT: Decorative Star
+NEARBY_TEXT: Top Science & Technology Institution in India Blog | Top Science & Technology Institution in India Blog Top Science & Technology Institution in India Blog
+
+IMAGE 4
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2Fariia.svg&w=384&q=75
+ALT_TEXT: ARIIA & NAAC Badge
+NEARBY_TEXT: Top Science & Technology Institution in India Blog | Top Science & Technology Institution in India Blog Top Science & Technology Institution in India Blog

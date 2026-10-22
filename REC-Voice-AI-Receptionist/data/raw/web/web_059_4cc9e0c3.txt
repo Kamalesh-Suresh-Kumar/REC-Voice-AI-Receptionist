@@ -1,0 +1,36 @@
+TITLE: Academics | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/academics
+SOURCE_TYPE: website
+SECTIONS: ["Curriculum and Syllabus", "Regulations", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Curriculum and Syllabus
+SECTION: Regulations
+Regulations 2023 - Click Here
+Regulations 2019 (From 2021-25 batch) - Click Here
+Regulations 2019 - Click Here
+Regulations 2017 (From 2018-22 batch) - Click Here
+Regulations 2017 (2017-21 batch) - Click Here
+Regulations 2013 - Click Here
+PAGE LINKS
+LINK: Regulations -> https://www.rajalakshmi.org/academics
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+Regulation 2023
+REGULATIONS 2023 - UG
+REGULATIONS 2023 - PG
+Regulation 2019(R)
+REGULATIONS 2019 (R)- UG
+REGULATIONS 2019 (R)- PG
+Regulation 2019
+REGULATIONS 2019 - UG
+REGULATIONS 2019 - PG
+Regulation 2017(R)
+REGULATIONS 2017 (R)- UG
+REGULATIONS 2017 (R)- PG
+Regulation 2017
+REGULATIONS 2017 - UG
+REGULATIONS 2017 - PG
+Students Handbook 2024-25 -
+Students Handbook 2023-24 -
+

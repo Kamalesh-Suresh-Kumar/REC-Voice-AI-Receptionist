@@ -1,0 +1,130 @@
+TITLE: About Rajalakshmi | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/about
+SOURCE_TYPE: website
+SECTIONS: ["Our Story", "NEXTJS-SERIALIZED-CONTENT"]
+
+Our Story
+Rajalakshmi Engineering College, an autonomous institution affiliated to Anna University, Chennai, was established in the year 1997 under the aegis of Rajalakshmi Educational Trust whose members have had consummate experience in the fields of education and industry. The College has grown from strength to strength over the last 3 decades and progressing towards Excellence in Engineering Education, Research and Development.
+Started with 3 Under Graduate programmes in Engineering with an annual intake of 180 students in 1997, the College presently offers 19 Under Graduate and 9 Post Graduate programmes including MBA program, with an annual intake of 4000 students. The approval of AICTE and affiliation of the Anna University for such a progressive intake is a standing testimony for the continuous growth of the college over the years. All the departments are recognized as Research Centers of Anna University to conduct Ph.D. and M.S. (By Research) programmes and many scholars have obtained Ph.D. through these research centres.
+Ours is one among the few Colleges to receive accreditation for Under Graduate Engineering programmes from the National Board of Accreditation (NBA), New Delhi, as soon as attaining the eligibility to apply for accreditation. The College is accredited by the National Assessment and Accreditation Council (NAAC) with 'A++' Grade. The college has also secured 12(b) status from UGC. Anna University, Chennai has granted Permanent Affiliation for 10 UG courses viz. Aeronautical Engineering, Automobile Engineering, Biomedical Engineering, Biotechnology, Civil Engineering, Computer Science and Engineering, Electronics and Communication Engineering, Electrical and Electronics Engineering, Mechanical Engineering, Information Technology and 4 PG Courses viz. M.Tech - Biotechnology, M.E. Computer Science and Engineering, M.E. Communication Systems and Master of Business Administration.
+The Department of Scientific and Industrial Research (DSIR), Government of India has recognized the College as a Scientific and Industrial Research Organization (SIRO), considering its potential for Research and Development activities.
+Vision
+To be a Global Leader in engineering & management education, research and innovation, empowering individuals to drive transformative change for a sustainable future.
+Mission
+To provide a transformative learning experience nurturing innovation, design thinking, lifelong learning for global competence.
+To forge cutting-edge research through Trans-disciplinary academia and industry collaborations to address sustainability, energy and environmental challenges.
+To promote diversity, inclusivity and leadership upholding humane values and ethics
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+The Governing Board of the College has been constituted to guide and advise the Leadership on priorities, plans & strategic initiatives. The board helps to shape the institutes agenda, inquire into quality and progress of its activities and assure that Rajalakshmi remains true to its Mission & Vision.
+This board consists of leading Educationalists, Industrialists and Administrators.
+Know more about the Members of the Board
+Minutes of the Governing Body
+Minutes of the 13th Governing Body Meeting
+Minutes of the 12th Governing Body Meeting
+Minutes of the 11th Governing Body Meeting
+Minutes of the 10th Governing Body Meeting
+The Academic Council is the guiding force behind our learning journey. Comprising eminent academicians and professionals, they work together to craft an education that is future-ready, industry-relevant, and deeply impactful for our students.
+Members of the Academic Council
+Dr. S.N.Murugesan
+, Principal & Chairman
+Mr. Balaji Venkatesan
+, Director - South Chennai Campus, REC
+Dr. L.Sujatha
+, Teachers' Representative
+Mr.I.Philip Praveen
+Dr.V.PrasannaKumari
+Dr.C.R.Muthukrishnan
+, Academicians
+Dr.M.Subbiah
+Dr. D. Meganathan
+, Professor, Department of Electronics Engineering, MIT Campus, Anna Nagar, Chennai, University Representatives
+Dr.R.P.Kumudini Devi
+, Professor, Department of Electrical & Electronics Engineering, CEG Campus, Anna University, Chennai, University Representatives
+Dr.S.Ramalingam
+, Professor, Centre for Food Technology, AC Tech Campus, Anna University, Chennai, University Representatives
+Dr. Suceendran K.M
+., Techno HR Leader, Digital Evangelist, Head - Academic Alliances, TCS, Chennai, Industry Representatives
+Mr.Hemant Sahal
+, Founder & CEO of Digii, Industry Representatives
+Dr.K.Malathi
+, Member Secretary & Dean (Academics)
+Dr.Suresh Chandra Khandai
+, HoD & Professor, Aeronautical Engineering
+Dr.Pavan P
+, HoD & Assistant Professor, Automobile Engineering
+Dr.Jobin Christ Michael Christu Dhas
+, HoD & Professor, Biomedical Engineering
+Dr.M Sankar
+, HoD & Professor, Biotechnology
+Dr.Sundararaman T.R
+, HoD & Professor, Chemical Engineering
+Dr.Geetha S
+, HoD & Professor, Civil Engineering
+Dr.Manoranjini J
+, HoD & Professor, Computer Science & Engineering
+Dr.K.R.Sowmia
+, HoD & Professor, Computer Science & Business Systems
+Dr.S. Vinodhkumar
+, HoD & Professor, Computer Science Design
+Dr.P.Tamilselvi
+, HoD & Professor, Computer Science & Engineering (Cyber Security)
+Dr. M. Ayyadurai
+, HoD & Professor, Artificial Intelligence & Machine Learning
+Dr.J.M.Gnanasekar
+, HoD & Professor, Artificial Intelligence & Data Science
+Dr.M Sridevi
+, HoD & Professor, Electrical & Electronics Engineering
+Dr.L Bhagyalakshmi
+, HoD & Professor, Electronics & Communication Engineering
+Dr.Ramalakshmi K
+, HoD & Professor, Food Technology
+Dr.P.Valarmathie
+, HoD & Professor, Information Technology
+Dr.Shanthi R
+, HoD & Professor, Mechanical Engineering
+Dr.Santhanam V
+, HoD & Professor, Mechatronics
+Dr.Giri Raghavendran
+, HoD & Professor, Robotics & Automation
+Dr.Muthusamy Munusamy
+., HoD & Professor, Humanities & Sciences
+Dr.Umaraman M
+, HoD & Professor, Management Studies
+Minutes of the Academic Council
+Minutes of the 21st Academic Council Meeting
+Minutes of the 20th Academic Council Meeting
+Minutes of the 19th Academic Council Meeting
+Minutes of the 18th Academic Council Meeting
+REC is approved by All India Council for Technical Education (AICTE), New Delhi.
+E&T: F.No. Southern/1-3516197789/2018/EOA
+MBA: F.No. Southern/1-3512496789/2018/EOA
+2026-27 - AICTE Approval - Engineering & Technology / MBA / Off-Campus -
+Click here to view/download
+2025-26 - AICTE Approval - Engineering & Technology -
+2024-25 - AICTE Approval - Engineering & Technology -
+AICTE Approval (Since Inception) - Engineering & Technology -
+2025-26 - AICTE Approval - MBA -
+2024-25 - AICTE Approval - MBA -
+REC is affiliated to Anna University, Chennai -
+REC :: Autonomous Status by UGC -
+REC :: Autonomous Status Conferment :: Anna University -
+The following branches are accreditated by National Board of Accreditation (NBA) of AICTE in short span of time.
+UG Programmes
+Chemical Engineering
+Computer Science & Business Systems
+Food Technology
+Mechatronics Engineering
+PG Programmes
+NATIONAL ASSESSMENT & ACCREDITATION COUNCIL
+The National Assessment & Accreditation Council (NAAC) has re-accredited the college (3rd cycle) with 'A++' Grade for a period of five years from April 2023 valid till April 2028.
+Please click here to view the certificate.
+Meet Aadhi !
+Fast. Focused. Future-Ready.
+Long ago in the windswept plains of Tamil Nadu, where the sun kissed the dry grasslands and ancient trees whispered wisdom, lived the swiftest of all antelopes - the blackbuck, revered by poets and protected by kings. Among them was one, born different. He didn’t just run fast - he thought fast. He wasn’t drawn to the herd — he was drawn to invention, ideas, and light.
+His name was Aadhi, meaning “the beginning.” Because from the beginning, he was destined to break boundaries.
+Aadhi grew up in the shadow of temples carved with geometry, in a land of language, rhythm, and resolve. While others raced for speed, Aadhi sought purpose - in circuits, in code, in creation. They say he once outran the wind to carry the first design of a solar-powered chariot. Another time, he leapt over a fence to rewire a robot that no one else could fix.
+But he wasn’t just smart - he was kind, curious, and grounded. He wore his purple jacket as a badge of boldness, and carried the torch not just on his chest, but in his spirit - the torch of learning, innovation, and leadership.
+When he reached Rajalakshmi, he found his true home. A place that valued thinking big, running fast, and reaching forward - just like him. And so, he stayed. Not as a statue or symbol, but as a guide. A fellow learner. A spark for every student stepping into a world that’s changing faster than ever.
+

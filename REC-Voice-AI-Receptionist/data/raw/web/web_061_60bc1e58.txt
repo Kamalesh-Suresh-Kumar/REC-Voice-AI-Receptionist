@@ -1,0 +1,259 @@
+TITLE: Life at Rajalakshmi | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/student-life
+SOURCE_TYPE: website
+SECTIONS: ["Living On Campus", "Hostel", "Hostel Mess", "Recreation Center", "Zumba Fitness Training", "Swimming Pool", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Living On Campus
+SECTION: Hostel
+We have separate hostels for boys and girls, with accommodation for 2000 boys and 1200 girls. Single-room facilities are provided for final year and postgraduate students, who are also permitted to use their own computers in their rooms. For added comfort, air-conditioned rooms are available. The mess is spacious, with a well-equipped kitchen and dining hall, and separate seating arrangements are provided for boys and girls.
+Rules and Regulations:
+Students must occupy the rooms allotted to them by the Warden (Principal).
+Students should refrain from anti-social and undesirable activities such as consumption of alcohol, tobacco, gambling, ragging etc.
+Students are responsible for the cleanliness of their rooms.
+No student will be allowed to leave the hostel based on a phone call.
+Parents are requested to give a list of authorized visitors/local guardians. Visitors not mentioned in the list will not be permitted to visit the students in the hostel.
+Students will be permitted to go home only if the college is closed continuously for five days or more.
+Any student wishing to attend a function in the house, marriage or any other ceremony will be permitted to go only if the request is made by the parents to the Principal.
+Visitors are allowed on holidays from 11.00 A.M. to 6.00 P.M.
+SECTION: Hostel Mess
+Hostel Mess is run by the Management through private contractor under the guidance of the Principal and Administrative officer. Vegetarian food is served in the hostel. Mess charges are collected on an annual basis at the time of admission. Parents and guests are allowed to consume food by paying for them.
+SECTION: Recreation Center
+Spanning an impressive 40,000 sq. ft., our gym is more than just a workout space – it’s a world-class fitness arena built exclusively for our hostellers. Every corner is equipped with state-of-the-art machines, free weights, and functional training zones to cater to beginners, fitness enthusiasts, and professional athletes alike.
+Designed for both strength and cardio training, the facility includes dedicated zones for resistance workouts, high-intensity training, and flexibility routines, along with expert guidance to ensure safe and effective sessions.
+This isn’t just about staying fit – it’s about building a lifestyle. From early-morning energizers to late-night workouts, the center is open to match hostel life’s unique rhythm, making wellness an everyday habit.
+SECTION: Zumba Fitness Training
+Kickstart your day with energy and rhythm! We offer free Zumba fitness training exclusively for hostel students every morning from 6:30 AM to 7:30 AM . Led by certified instructors, these high-energy dance workouts blend cardio, music, and fun, helping you stay fit, flexible, and stress-free before your day even begins.
+SECTION: Swimming Pool
+Our mini Olympic-size swimming pool is built exclusively for hostel residents, offering both serious training and pure relaxation. Perfect for lap swimming, endurance building, or mastering technique, the pool is maintained to international standards of safety, hygiene, and water quality. Whether you’re here to train like an athlete or simply cool off after a long day, it’s a refreshing way to stay fit and recharge - right inside your campus.
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+Recharge is Rajalakshmi Engineering College’s flagship annual intercollegiate cultural fest - a high-energy blend of music, dance, drama, sports, and countless creative expressions. With 100+ events spanning multiple genres, it draws talent from campuses across the country, turning REC into a vibrant festival arena.
+Over the years, the stage has welcomed music icons like
+Hiphop Tamizha Aadhi, Jonita Gandhi, Santhosh Narayanan, Andrea Jeremiah, DJ Gowtham
+, Masala Coffee, and musicianHiphop Tamizha Aadhi; sports legends including
+Kris Srikkanth, T. Natarajan, Dwayne Bravo, and Suresh Raina
+; and film personalities like
+Gautham Vasudev Menon, Karthi Sivakumar, director Aadhik Ravichandran, and Meenakshi Chaudhary.
+It’s not just a fest - it’s a cultural phenomenon that electrifies the entire campus, giving students a platform to perform, compete, and make unforgettable memories.
+Reboot
+is our culture-driven music concert - a night where the campus comes alive to electrifying performances. From soulful melodies to high-energy anthems, it’s a celebration of music in all its forms, bringing together artists, bands, and DJs who know how to own the stage.
+This year, the spotlight is on two powerhouse acts -
+Staccato
+, known for their unique blend of Indian classical and contemporary sounds, and
+Motta Maadi Music
+, the crowd-favorite rooftop jam band that turns every performance into a sing-along.
+It’s not just a show, it’s an experience - the lights, the crowd, the beats, and the shared thrill of live music. Reboot is where students drop the books, turn up the volume, and let the rhythm take over.
+Titanium: Tech Symposium
+Titanium is not just another symposium. It’s a convergence of 20+ departments, backed by ₹1.5 crore in ambition, driven by a mission to create real innovation for a Viksit Bharat by 2047. This is where our students, faculty, and partners build the future
+REC Café
+The REC Café is the main dining hub on campus, where students enjoy their daily breakfast and lunch. Alongside wholesome meals, it also serves a variety of snacks to keep everyone fueled through the day. With its convenient location and lively atmosphere, it’s the go-to spot for starting the morning right and catching up with friends over lunch.
+Hut Café
+Nestled among the greenery, the Hut Café has been thoughtfully built without disturbing the surrounding trees, giving it a unique natural charm. Its open, breezy setting makes it an inviting space to relax, enjoy light refreshments, and feel connected to nature in the middle of campus life.
+Juice Corner
+The Juice Corner is where freshness meets flavor. Serving chilled juices, smoothies, and seasonal fruit blends, it’s perfect for a quick, healthy boost between classes or after workouts. Every drink is made fresh, making it a favorite hangout for health-conscious students.
+Spice Corner
+Spice Corner is the campus’s very own chaat shop, where the aroma of tangy, spicy street-style snacks fills the air. From pani puri and bhel puri to pav bhaji, it’s the place to satisfy those evening cravings with flavors that feel straight out of a bustling city market.
+WokOn
+WokOn adds a touch of Asian flair to campus dining with its freshly made stir-fries, noodles, and aromatic gravies. Perfect for a filling lunch or an indulgent dinner, it’s the spot for students who love bold, flavorful Chinese cuisine.
+Sugarcane Corner
+For something refreshingly sweet, the Sugarcane Corner serves fresh-pressed sugarcane juice throughout the day. Naturally hydrating and full of flavor, it’s a campus favorite — especially on warm afternoons when you need an instant energy lift.
+The REC Library is a 9,000 sq. ft. learning hub open to students and staff from
+8:00 a.m. to 8:00 p.m
+on all working days
+. With a growing collection of over
+64,205 volumes
+of textbooks, reference books, and national and international journals across Engineering, Science, Technology, Management, and General Studies, it’s designed to support both academic and research needs. Books are organized using the
+Dewey Decimal Classification Scheme
+, and an
+open access system
+makes browsing simple and convenient.
+Periodicals Section
+A dedicated periodicals section houses
+5,834 journals
+- including
+5,574 international
+260 national
+titles, along with
+5,702 e-journals
+. The library also receives newsletters and publications from professional bodies such as the
+IEEE
+Aeronautical Society of India
+Computer Society of India
+Confederation of Indian Industry
+ISTE
+IETE
+, and many more, keeping the REC community updated on the latest developments in technical education, research, and industry trends.
+E-Journals & Digital Resources
+Our subscriptions include leading databases and publishers such as
+Springer
+ASCE
+Elsevier (ScienceDirect)
+Nature Biotechnology
+ASTM Standards
+McGraw Hill Access Engineering
+J-GATE
+EBSCO
+Digital Library
+supports computer-assisted learning, while the
+Electronic Library
+offers a collection of over
+3,500 CD-ROMs
+e-journals
+Click here
+to access e-journals.
+AICTE recommended list of suggested boooks of Indian Authors & Publishers
+to access
+Reference & Back Volumes
+The reference section features international editions, handbooks, encyclopedias, conference proceedings, and specialized documents. Back volumes of journals are neatly bound and organized for easy subject-wise reference.
+Audio-Visual & Satellite Learning
+An Audio-Visual Section allows students to access educational programmes, including content from
+Gyan Darshan Technology
+via an exclusive satellite receiver. Video programmes are stored and made available for faculty and students.
+Institutional Memberships
+REC holds memberships with the
+Institution of Engineers (India) Library
+Anna University Library
+, and the
+Anna Centurion Library
+, giving students and staff access to resources beyond our campus collection.
+Technology & Services
+The library uses a
+computerised Online Public Access Catalogue (OPAC)
+for searching books and CD-ROMs, with a
+barcode system
+for smooth transactions. Photocopying services are also available at a nominal charge.
+Sports and physical activity are an integral part of life at Rajalakshmi, and our campus offers facilities that match our commitment to all-round development. Spread across a well-planned sports complex, students have access to a diverse range of courts and fields that cater to both competitive training and recreational play.
+The outdoor setup includes volleyball courts, a tennis court, a dedicated ball badminton court, throwball and handball courts, and a full-sized basketball court. For football enthusiasts, we have an 8v8 turf pitch that’s perfect for high-intensity matches. Our cricket ground is maintained to professional standards, while the 400-meter athletic track provides the ideal space for runners and track-and-field events.
+To encourage emerging and niche sports, the campus also offers facilities for pickleball and squash, ensuring that students can explore new challenges beyond mainstream games.
+Whether you’re aiming for competitive excellence or simply want to stay active, our sports infrastructure, combined with regular inter-college tournaments and coaching support, creates an environment where every student can find their game and thrive.
+Good health is the foundation for a great campus experience, and at Rajalakshmi, medical support is always close by. Our Health Centre offers separate inpatient facilities for male and female students, equipped with
+6 beds and a fully stocked medicine cabinet
+to meet a range of health needs.
+A dedicated Medical Officer and Healthcare Assistant provide free medical care to all students, faculty, and staff. Under the guidance of
+Dr. R. Nandini
+, the centre maintains high standards of treatment, manages emergency procedures, and conducts regular vaccinations and annual health check-ups.
+With plans to bring in advanced medical equipment in the future, we’re committed to ensuring that quality healthcare remains an integral part of life at Rajalakshmi. In addition,
+all staff members are covered under a comprehensive health insurance scheme
+, reinforcing our commitment to their well-being.
+Various technical societies of Rajalakshmi Engineering College - namely the
+Computer Association, Society of Mechanical Engineers, E-Com Society, and Society of Electrical Engineers
+- conduct a State-level Inter-Collegiate Technical Symposium called
+Techfest
+every year. The symposium showcases the latest developments and inventions in their respective fields of engineering.
+Clubs and Student Organizations
+Beyond academics, REC is home to a vibrant network of student-led societies, clubs, and forums that encourage creativity, leadership, service, and personal growth. Some of the active groups on campus include:
+Devs
+Film Society
+Artistry
+Atrium
+Debating Union
+Entrepreneurship Development Cell (EDC)
+Enactus
+Ethics Club
+Leo Club
+National Cadet Corps (Army & Navy)
+National Sports Organization (NSO)
+National Service Scheme (NSS)
+Photography Club
+Rotaract Club
+Toastmasters Club
+Yazh Tamil Mandram
+Youth Red Cross (YRC)
+YUVA Club
+Green Campus
+Rajalakshmi Engineering College has adopted many green cover initiatives, thereby enriching the eco-friendly ambience of the Campus. Parking facilities are created for two and four wheelers separately for both faculties and students outside the campus near entrance. Vehicle parking sign boards are stationed at respective places. Security people are assigned duties on every turn to ensure restricted entry of automobiles in no parking areas.
+Staff members and students use bicycles/battery powered four-wheeler inside the campus to reduce CO2 emission and maintain fresh air inside the campus.
+The students and the faculty are advised to use pedestrian friendly pathways for convenience and safety. Landscaping with trees is designed either side of the pathway to provide shade for the pedestrians while walking, to add greenery and to control pollution inside the campus.
+The college has made many efforts to achieve plastic free environment. Circulars are given to minimize the usage of plastic by all stake holders inside campus. Posters are placed in the campus everywhere to motivate and to create awareness among our stakeholders to avoid plastic inside campus. Dustbins are also replaced with biodegradable plastics and steel dustbins to promote ban on plastics.
+The college always concentrate on planting trees and making the environment green. The campus has nearly 3200 trees to support flora and fauna species and to support green initiatives.
+The observations indicated that the Rajalakshmi Engineering College campus has more than 30-50% of wild, 50-60% native plant species and the other 20-25% plant species are ornamental in nature coming under the planted vegetation. Native plant traits promote the indigenous fauna at the site area. Hence, the accountancy of 35% of the wild traits are leveraged for the native animals and birds. There are 211 species of creepers, plants, shrubs and trees in the campus.
+The most plants recorded are Azadirachta indica A. Juss., Tamarindus indica, Pongamia pinnata, Cassia fistula, which are dominant trees species characteristic to the vegetation within the campus. Some of the shrub species like Nerium oleander L., Nerium indicum Mill, Punica granatum are also rather common in the campus.
+Ground flora is comparatively sparse, but fairly rich in undistributed areas. Some of the common weeds like Euphorbhia hirta L., is found to be predominant. Species such as Catharanthus roseus, Cynodon dactylon are some common herbs in the campus. Certain common climbers found among the shrubs are Abutilon indicum L., Adhatoda vasica, Anisomeles malabarica, Coccinia grandis L., Cardiospermum halicacabum, Tinospora cordifolia (wild.), Toddalia asiatica L.,and Citrullus landaus (Thumb.), This campus is rich in grass species like Andropogon pumilis, Apluda mutica, Cenchrus ciliaris, Rottboellia cochinchinensis (Lour.), Asparagus racemosus Wild., and Commelina benghalensis L.
+Energy Conservation
+The Alternative Energy Sources of Rajalakshmi Engineering College is made for proper implementation and efficient utilization of renewable energy sources in such a systematic way so as to minimize its impact on the environment. An alternative Energy source offers the opportunities for student’s community to engage in initiatives for contributing to environmental protection.
+Solar Energy
+Ours is an Energy shortfall solar PV system.
+Solar PV system is designed for automatic operation with no need for user interaction. In the case of main grid supply failure, the inverter will be automatically and immediately disabled. This is known as anti-islanding. Once the power has been restored, the inverter will be automatically re-enabled.
+Solar Panel Specifications:-
+Solar PV System capacity-61.75 KW
+Type of System-On-grid solar power generating system
+Total number of modules-190 Nos
+Single PV module capacity-325Wp
+Total number of strings-10 Nos/Each string has connected 19 nos panels in series.
+Total number of Inverter-1 No
+Inverter capacity/make-50 KW/Delta
+Bio Gas Plant
+In REC, kitchen waste is used to generate thermal energy for cooking and heating.The bio-gas produced from food waste, decomposable organic material and kitchen waste, consisting of methane and a little amount of carbon dioxide is an alternative fuel for cooking gas (LPG). The bio gas plant is set up to operate for 50 KG waste.
+Kitchen waste is processed and moistened to produce a suspension that subsequently undergoes a fermentation process. Fermentation produces biogas – a valuable energy source – that is desulphurised by biological means. Also, the waste materials can be disposed off efficiently without any odour or flies and the digested slurry from the bio-gas unit can be used as organic manure in the garden. The major components of the bio-gas plant are a digester tank, an inlet for feeding the kitchen waste, gas holder tank, an outlet for the digested slurry and the gas delivery system for taking out and utilizing the produced gas.
+Sensor based Energy conservation
+In REC Sensors are used to control lights and water flow which helps to do energy conservation. Sensor Based Solar Lights are installed in the college premises.
+Water Flow Sensor
+To monitor the amount of water being supplied and used, the rate of flow of water has to be measured. Water flow sensors are used for this purpose. Water flow sensors are installed at the water source or pipes in the library block, to measure the rate of flow of water and calculate the amount of water flowing through the pipe. Rate of flow of water is measured as litres per hour or cubic meters.
+PV Sourced Street Focus Lighting Systems
+A photovoltaic-sourced street lighting system is most commonly promoted nowadays for illuminating a street or an open area of rural and urban places. This system improves the efficient utilization of energy consumption with the addition of suitable sensing and control devices. The main components of the above system are the PV panel, Battery, Sensor, DC-DC converter, power electronics Inverter, and real-time Timer. Here we prose a day-light sensor that opens the circuit electrically during the sunlight's visible time period and closes the electrical circuit. The battery is used to store the energy obtained from the Pohotovaltic array during the high sunshine time period and a suitable DC to DC converter is used for charging the energy
+Wheeling to the Grid
+A grid-connected photovoltaic system is an electricity generating solar PV power system that is connected to the utility building load. A grid-connected PV system consists of solar panels, one inverter, DC/AC isolator switch, a power conditioning unit and grid connection equipment.
+Operation of our system works:-
+There are two grid connected system, one is solar PV system has connected Energy shortfall- internal demand is more than solar energy produced is drawn from the grid and another one is PV system is Energy surplus/excess power (solar energy produced is more than internal demand) is fed into the grid-Power exported to the grid.
+Use of LED Bulb
+Led Bulbs are used to save energy upto 90% of electrical power and highly illuminated and efficient when compared to radiant light bulbs. They are highly efficient. LED bulbs are used in various places in the college for achieving proper lightings. The CFL fittings with higher rating wattage are replaced with LED fittings with lower wattage with the same luminous level .They are used in large numbers in Admin office, reception, seminar halls and corridors. LED lights are fitted on the roof walls in all the places.
+Water Conservation
+Our college has very good water management plan to support all our water needs including both ladies and gent’s hostel. The water management is well supported with rain water harvesting and sump. The ground water is circulated to all overhead tanks using borewells. The college also has a sewage treatment plant to do water recycling and use it for watering plants and to support green energy.
+The rainwater is harvested to charge the rain water into the soil for ground water recharging. The storage of rainwater on surface is a traditional techniques and structures used were underground tanks, ponds, check dams, weirs etc. Due to certain difficulties on going ahead with traditional techniques the campus has installed 16 to 18 numbers of ground water recharging pits to recharge storm water/rainwater to maximum extent.
+The borewells are constructed in water abundant points inside and outside college. The ground water was pumped to sump using borewell. There are totally 8 sumps inside the college to support water necessities to cover all blocks of the college including hostel. The sump and borewell are periodically monitored and maintained by plumbers and civil maintenance people to take immediate actions. The sump water is loaded to overhead tanks.
+From the sump water is collected in overhead tank constructed at the top of each block. All blocks have overhead tanks to support water necessities. The water from overhead tank is separately treated by RO plant for drinking purpose. The drinking water is supplied in all blocks. A well-arranged pipe network connecting sumps and overhead tank to the water distributing point is established to support all water needs of the college.
+The institution always has a motto in saving water for future. In this regard a Wastewater treatment plant of capacity 300KLD is available at the campus with present utilization value of about 2,10,000 litres per day. The technology that has been adopted this WWTP is FMBR (Floating Media Bioreactor) technology for the treatment of domestic sewage and other waste waters. This technology ensures that the quality of the treated water confirms to the standards and requirements as laid out by Central/State pollution control board and the same has been reviewed and approved by NABL authorized laboratory on periodic basis to ensure on the quality. The water recycled was used to gardening (70%), flushing toilets in Academic block (10%) and other custodial purposes like hardscape cleaning, washing etc. (30%).
+REC has focused consistently and deployed best-in-class IT infrastructure and applications development for academic and research support.
+Internet & Intranet
+Our college has a dedicated internet lab working 24 hours a day, 7 days a week. We provide free internet access to our students. We have 2155 Mbps 1:1 dedicated leased line internet connectivity (2 Gbps from Jio and 155 Mbps from Vodafone Idea). The internet can be accessed from more than 2000 computers. All the departments have internet connectivity.
+PCs / Laptops
+The college has more than 2000 desktop PCs and laptops in the campus in various academic blocks, connected through a fibre optic backbone. Internet access is provided to all the computers.
+Software
+The college has purchased adequate numbers of licenses for the licensed software according to the curriculum. All the laboratories have been deployed with licensed software to cater to the needs of lab classes, research work, training, and certification programs. We have started migrating from proprietary software to free and open-source software since 2010 and, as a result, most of our computers now operate only on open-source technologies. We are using free and open-source software in replacement of commercial software wherever possible. We have installed proprietary software in some labs to expose students and faculty to the latest technologies.
+Wi-Fi
+We have also provided a free 24x7 Wi-Fi facility in the entire campus (including hostels, cafeteria, seminar halls, and auditorium) for the benefit of the students and faculty to avail internet connection from anywhere on campus. The campus intranet has important details about test schedules, timetables, examination schedules, campus news, and a wealth of information about the college.
+Data Center
+The institution has a Centre for Technical Support with a Data Centre built over an area of 900 sq. ft. to manage network operations efficiently and host all the rack and blade servers with uninterrupted power supply. Server infrastructure includes high power and 4 TB of NAS storage for backup.
+Firewall
+The Cyberoam 300ING firewall has been deployed for handling the enhanced load on network and applications catering to academic and administrative processes, thereby providing a secure campus.
+ICT Facilities
+Classrooms and seminar halls are equipped with interactive panels, smart boards, lecture capturing systems, and LCD projectors to deliver presentations.
+Biometric / Barcode Scanners
+Biometric systems for staff attendance have been implemented across the campus. Barcode scanners are available in the library for issuing/returning books and to capture the entry/exit movement of students and faculty.
+Centre for Technical Support
+All the IT-related activities including network, hardware, software, interactive panels, projectors, UPS, and IT maintenance come under the Centre for Technical Support (CTS).
+Lecture Capturing System (LCS)
+As part of its digital-first approach, REC has invested in Google Workspace for Education: Teaching and Learning Upgrade to support seamless online classes and courses. In 2019, REC became the first institution in Chennai to introduce the Lecture Capturing System (LCS), marking a significant step in enhancing both teaching methods and the student learning experience.
+The REC-LCS allows students to revisit lecture content anytime, anywhere, enabling self-paced learning and improved retention. Whether it’s revisiting a concept multiple times, catching up on missed classes, or reviewing at different playback speeds, LCS gives students full control over their learning process.
+The system is powered by the Impartus web application - a video-based learning platform designed around real user needs. It offers features such as automated lecture capture, live streaming, remote access, video editing, attachments, notes, bookmarks, playlists, and robust security to protect user identity. This integration of technology not only modernizes classroom delivery but also ensures students have access to contextual, high-quality learning materials beyond the classroom walls.
+The College has been prompt and generous in recognizing, appreciation and encouraging the meritorious students towards excellence in curricular and extra curricular activities. Special Cash Prizes are awarded to the students securing ranks and prizes in: Paper Presentation in Symposia / Conference, Quiz, Publication of Research Papers in Journals & Proficiency in R & D activities. Cash Prizes, Certificate of Appreciation and Books are awarded for the Students securing first or second rank in every semester or every year or securing centum in individual subjects or for 100% attendance in every academic year.
+Raghavan Memorial Merit Award
+This award is presented to the college topper of the year, among all branches of first year students. The Award waives the tuition fee for one year.
+Lady Parvatham Trust Award
+This award carries a cash prize and is awarded to a student, who is the topper among all branches of II, III & IV year students.
+Thiruvenkatam Sivasailam Endurance Prize
+Two scholarships are awarded each to one male and female student who exhibit a positive attitude and a fighting spirit to overcome hurdles and show improved performance.
+Giri Memorial Best Outgoing Student Award
+This has been instituted by Mrs. K. Dhayabara Sundari in the name of her Late Grandson Giridhari Sai Ganesh. The purpose of this award is to encourage engineering students to develop all round personality with consistent academic record having emphasis on extra-curricular activities.
+AGARAM Foundation Scholarship
+A scholarship awarded through the AGARAM Foundation, supporting deserving students with strong academic performance and a commitment to learning.
+MATRAM Foundation Scholarship
+This scholarship is offered through the MATRAM Foundation to students who demonstrate merit and determination, ensuring financial challenges do not hinder their education.
+
+
+
+IMAGE-BASED INFORMATION
+========================
+
+IMAGE 1
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=https%3A%2F%2Fcms.rajalakshmi.org%2Fapi%2Fmedia%2Ffile%2FGYM%252002.jpg&w=2048&q=75
+ALT_TEXT: gym
+NEARBY_TEXT: Recreation Center
+OCR_TEXT: F _ —= aa = ~ é . a 2 i ; as 7 5 ad _- a sf Sr: = —_ Pt ele pf rene Se ae =e ee ae eS SS a ee ae es a ti — Tee ee et ee ee sen a =8: | nm it is ENR Sy * = Sal eae 5 mo: eee echiee so (Scr alae as eS aS | — == — a: =! = str SS ~ i = —
+
+IMAGE 2
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=https%3A%2F%2Fcms.rajalakshmi.org%2Fapi%2Fmedia%2Ffile%2Fswimming%2520pool%2520001.jpg&w=2048&q=75
+ALT_TEXT: Swimming
+NEARBY_TEXT: Swimming Pool
+OCR_TEXT: am Li 1 t 11) ETE LE (CHA TD ins wn Vay Hh \ me 4 i ti ih | | eA A AT Ai TH: my yin Mn GA It Nee ; = ACCES ACE UTR det Wi 1h) Sl —————vi

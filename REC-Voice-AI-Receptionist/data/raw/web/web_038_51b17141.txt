@@ -1,0 +1,24 @@
+TITLE: INSTITUTION’S INNOVATION COUNCIL | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/iic
+SOURCE_TYPE: website
+SECTIONS: ["Vision & Mission", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Vision & Mission
+Vision To achieve recognition as an institution of excellence in innovation promotion ecosystem. Mission
+Conduct periodic workshops/seminars to expose and promote innovative thinking
+Network with entrepreneur development cell
+Organize idea contests to showcase the innovative ideas
+Define and direct focused technical innovations targeting national priorities
+Follow guidelines recommended by MHRD's IIC initiative
+The Institution’s Innovation Council has been constituted as prescribed by MHRD-IIC initiative. The activities of the council are carried out on a programmed schedule to promote innovative thinking among the students. IIC activities are managed through two cells within the institution to handle and promote innovative thinking namely Innovative Project Cell (IPC) and Intellectual Property Rights (IPR) Cell. Workshops/Seminars to improve the cognitive ability and boot camp for entrepreneurship development are organized periodically for the students. The IPC conducts idea contests regularly to showcase and recognize innovative ideas and IPR provides motivation and guidelines to incubate ideas for start-ups.
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+To be a recognized lead centre providing a fertile environment and forum for aspiring engineering professionals, enabling them to evolve new ideas and transform these ideas to useful solutions for the benefit of the society and welfare of mankind.
+To nurture and promote innovative thinking among students
+Provide a healthy competitive environment to develop innovative solutions
+Provide financial support for building prototypes
+Encourage IP protection and entrepreneurship for deserving solutions
+To be a centre of excellence in providing an ambience to transform innovative thinking into product ideas that lead to start-ups and entrepreneurship ventures.
+To identify and protect intellectual properties created by faculty and students of the institution that have value in providing innovative solutions as well as support entrepreneurship and start-ups to build useful products.
+

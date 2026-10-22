@@ -1,0 +1,217 @@
+TITLE: Biomedical Engineering | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/biomed
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+Programmes Offered UG - B.E. Biomedical Engineering PG - M.E. Medical Electronics Ph.D. - Biomedical Engineering Introduction Biomedical Engineering is the application of Engineering concepts and techniques in the field of Medicine. It combines the problem solving capability of engineers with the medical expertise of physicians to enhance the quality of life through health care process. Biomedical engineers bridge the medical and engineering disciplines to provide an overall enhancement in the quality of health care and products. Rajalakshmi Engineering College has established the Department of Biomedical Engineering in the year 2006.Department of Biomedical Engineering offers UG in Biomedical Engineering and PG in Medical Electronics. Faculty members are doing in-house research and publishing papers in peer reviewed international journals and conferences.Our facultymembers have the following areas of expertise such as: Biosignal and Medical image processing, Rehabilitation engineering, Biomedical instrumentation. The department has signed MoU’s with industries and research organizations for faculty training, students training and placement. Visits to hospitals, Equipment manufacturing & maintenance, Industries and Research Centres form part of our core curriculum, so that the students get first-hand knowledge in these areas. Industrial training and Project training are arranged for all students to develop their practical and working knowledge. Each student is encouraged to develop innovative products on their own as part of Innovative Projects and the best are presented in intercollegiate competitions. Our students have won prizes in the national level innovation design contest. Keeping the employability of the graduates in mind, we offer value added labs using latest software and also offer special programmes on communication skills and soft skills so that they are technical experts as well as confident personalities in today's competitive job market. The department has organized many National seminars, Workshops and Faculty development programmes on various topics of biomedical engineering in association with All India Council for Technical Education (AICTE), Indian Council for Medical Research (ICMR) and Atomic Energy and Regulatory Board (AERB), India. The alumni of the Department of Biomedical Engineering are working in reputed healthcare industries in India and abroad. The list of few companies are; Allengers, CURA health care, Stryker, L&T; ECC, HRS Navigation, Phoneix Medical Systems, TCS-Medical Division, Skanray Technologies, Hulhumale Hospital, Medtronic, MIOT hospitals, BPL Healthcare, Agappe Diagnostics, Faber-Sindori-Apollo Groups, TransAsia, Zifo RnD solutions and HCL R&D.; Our alumni are pursuing higher education in renowned Universities across the globe and some of them are: University of California, University of South Florida-USA, Hochschule Furtwangen University, Tomsk Ploytechnic University, UMEA Univeristy-Sweden and Arizona state University, USA. Vision To create a center of academic excellence in the field of Biomedical engineering through innovative research contributions and industrial oriented teaching and training for betterment in healthcare. Mission
+To motivate faculty members and students to explode their creativity to develop innovative products by utilizing modern technologies to serve the society.
+To inculcate the industrial need of the biomedical engineers among the students through relevant training and value added courses.
+To produce technically intense engineers by practicing innovative teaching methodologies.
+Updated on 23.09.2026
+
+FACULTY
+=======
+Dr.Jobin Christ Michael Christu Dhas, HoD & Professor
+Dr. R.Kalpana, Dean & Professor
+Dr.Rajkumar S, Professor
+Dr.Krishna Chaitanya Sunka, Associate Professor
+Dr.Ramachandran R, Associate Professor
+Dr.Sudha S, Associate Professor
+Dr.Rubeshkumar Thulasingam, Associate Professor
+Ms.Anjana Gayathri A, Assistant Professor
+Ms.Revathy Purushothaman, Assistant Professor
+Dr.J Glory Precious, Assistant Professor
+Dr.Senthil Kumar Palani ., Assistant Professor
+Ms.Abiramy Soundararajan, Assistant Professor
+Ms.Subathra Y, Assistant Professor
+Mr.Sankar Kandasamy, Assistant Professor
+Ms.Karuppathal E, Assistant Professor
+Mr.Muralidharan C, Assistant Professor
+Dr.Nandhini R, Assistant Professor
+Ms.Nandhini R, Assistant Professor
+Ms.Jemina Asnoth Sylvia Jayakumar, Assistant Professor
+Dr.Veilumuthu Pattapulavar, Assistant Professor
+Ms.Darshiya V V, Assistant Professor
+Dr.Prashanth Dumpuri, Assistant Professor
+Mr.Attalmushrafkhan M, Assistant Professor
+Dr.Premkumar R, Professor
+Dr.Padmasini Natarajan, Associate Professor
+Dr.Vigneswaran Narayanamurthy, Associate Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+PROGRAMME EDUCATIONAL OBJECTIVES
+To provide students with sound foundation in the mathematical, scientific and engineering fundamentals necessary to formulate, analyze and solve engineering problems and to prepare them for graduate studies and for successful careers in healthcare sector.
+To impart students with skills for research, design and development of biomedical devicesand allied integrated systems for betterment of human society.
+To instill the ethical values, skills, leadership and team spirit for comprehensive and wholesome personality, to promote entrepreneurial interest among students and to create fervor for use of Engineering in addressing societal concerns.
+PROGRAMME OUTCOMES (POs)
+Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAM SPECIFIC OUTCOMES (PSOs)
+An ability to apply advanced technology for measurement and interpretation of data acquired from biological system addressing the problems associated with the interaction between living and non-living materials and systems
+An ability to use software tools, mathematics, science and engineering for precise diagnosis and therapeutic applications
+An ability to develop healthcare information system for automation and remote access
+Regulations 2023
+Regulations 2019 (From 2021-25 batch)
+Regulations 2019
+Regulations 2017 (From 2018-22 batch)
+Regulations 2017 (2017-21 batch)
+Regulations 2013
+TOP ACHIEVEMENTS OF THE DEPARTMENT
+Our students bagged University Gold Medals in 2020, 2019, 2015, 2013 and 2012. Our Students bagged consistent University Ranks in all batches.
+Our alumni are working in renowned healthcare industries like GE Healthcare, Siemens, L&T Medical Systems, Hitachi, TrimedEX, Perfint Healthcare, HCL Healthcare Division, TCS Healthcare, Zifo Technologies, iGATE, Capgemini Pvt Ltd, Aries Biomed Technology etc.
+Our alumni are pursuing higher studies and research in world’s top institutes like Imperial College London, Arizona State University, University of Illinois, University of Texas and University of Connecticut etc.
+Department has signed Memorandum of Understanding (MoU) with Faber Sindoori Management Services (FSMS) Private Limited, Chennai, a company of Apollo Hospitals Group, VHS Chennai, Aries Biomed Technology Private Limited, Coimbatore and GE healthcare in Biomedical Engineering for student’s internship, faculty training and collaborative research and consultancy by sharing the Knowledge and skills available in both organizations.
+The Department has organized various funded programmes on latest research areas like Biosignal and Medical Image Processing, Embedded Systems, Rehabilitation Engineering, Nanotechnology, LabVIEW etc. The funding agencies supported are Indian Council of Medical Research (ICMR), AICTE, Tata Consultancy Services and Atomic Energy Regulatory Board.
+Our Students participated in World University Debating Championship held in Berlin, Germany, 2013 and also had played a key role in Organizing World University Debating Championship in Chennai, 2014.
+S. Sri Vidya Shakthi (2015 PG Batch) won Gandhiyan Young Technology Innovation Award 2016 for her Indigenous Oxygen Conservation Device using Patient Monitoring System.
+Our students have obtained funding for their projects from organization like Computer Society of India (CSI), Texas instruments, Tamilnadu State Council for Science and Technology etc.
+Our students' innovative projects won awards and prizes in National Level Innovative Competitions. Smart India Hackathon (SIH) organized by MHRD and AICTE received around 52,000 entries from 34,000 teams across the country, out of which 250 teams made it to the grand finale round. Team Stupendous Six of REC got selected and they presented their project \
+Ms. V. Bathmaeswari, Final year BME
+Ms. R. Janani, Final year BME
+Ms. K. Jayashree, Final year BME
+Mr. V. Sachayathan , Third year Mechatronics
+Mr. S. Navaneeth Kumar, Third year Mechatronics
+Ms. V. Sakthi Kalyani, Final year ECE
+Mentors: Ms. M. Bobby, AP/BME and Mr. P. Sridharan, AP/ BME
+Mr. Jonath (2017 -2021batch) attended the workshop conducted by the Centre of Biomedical Engineering (CBME), IIT Ropar, Punjab. He was shortlisted one among many IIT and NIT B.Tech, M.Tech, Ph.D scholars from reputed universities to attend the workshop. The event took place form 7th – 9th March 2019. At the end of the workshop each team members presented their project work in front of the eminent Scientist and Doctors from AIIMS Delhi, PGIMER Chandigarh, CSIR-CSIO Chandigarh .and his team own the first prize of Rs. 30,000/- for their project title “Novice idea for evaluating the depth of Anesthesia in the body”.
+Our faculty members have published research papers in high impact factor journals and International Conferences.
+Industrial collaborations are in force for offering training to students on ventilators, sensors, devices and supporting services like testing and calibration of medical equipments.
+Department is successfully following the outcome based education (OBE) prescribed by National Board of Accreditation (NBA), New Delhi.
+UNIVERSITY RANK HOLDERS
+2013-2017
+Ms. S. Ashika - 1st Rank (Gold Medal)
+Mr. MS. Vignesh - 20th Rank
+Ms. T. Shravya - 21st Rank
+Ms. Sneha Vijayan - 36th Rank
+Ms. S. Anushu Sowmya - 37th Rank
+2014-2018
+Ms.Suzanna Williams- 2nd Rank
+Ms.Nandhini E.S -5th Rank
+Ms.Sruti Mohan -13th Rank
+Ms.Anushuya M - 15th Rank
+Ms.Ajitha Iyengar M -15th Rank
+Mr.Arunkumar M -19th Rank
+Ms.Vijayalakshmi T -20th Rank
+Mr.Marudhupandi E -20th Rank
+2015-2019
+Ms. R. Divya - 1st Rank (Gold Medal)
+Ms. S. Smruthi - 5 th Rank
+Ms. T. Reshma Nausheen - 9 th Rank
+Ms. S. Dhulakshika - 10 th Rank
+Ms. J. Jisha Roni - 10 th Rank
+Ms. V. Hari Nishanthi - 12 th Rank
+Ms. Shancy Suresh - 14 th Rank
+Ms. S. Rabiathul Fareen - 18 th Rank
+Ms. S. Senthamilselvi - 25 th Rank
+Ms. T. Sonali - 25 th Rank
+2016-2020
+Mr. Dhileep V - 1st Rank (Gold Medal)
+Ms. Deepika S - 3rd Rank
+Mr. Sakthivel - 4th Rank
+Ms. Sruthi MS - 5th Rank
+Ms. Swarna Latha S - 8th Rank
+Ms. Subalakshmi J - 9th Rank
+Ms. Nikitha Krishna R - 10th Rank
+Mr. Chandrasekar G - 13th Rank
+Ms. Jasmine Jeba Sugirtha J - 13th Rank
+Ms. Subhiksha A - 15th Rank
+M.E-MEDICAL ELECTRONICS
+N.Vigneswari 2015-17 2nd Rank
+PLACEMENTS
+Major recruiters
+Ababil Healthcare
+Capgemini
+GI Retail
+HealthWatch
+Infosys
+Omics International
+S10 Healthcare Solutions
+SITEL
+Sutherland
+TCS - Ninja
+WIPRO
+Higher Studies
+Our Biomedical Engineering students are pursuing their higher studies in
+National Institute of Technology, Roorke (India)
+Anna University, Chennai
+Indian Institute of Technology Madras
+Drexel University, USA,
+University of Sussex, United Kingdom
+Ruprecht Karls Universitat Heidelberg, German
+University of Surrey, UK
+UK King’ College, London
+LA TROBE University, Australia
+The University of New South Wales, Australia
+University of Connecticut, USA
+Flinders University, Australia
+University of Applied Science, Austria
+University of Florida, USA
+University of York, UK
+University of Edinburgh,UK
+Universiti Malaysia Pahang, Malaysia
+Wayne State University,Michigan
+Wipro GE-REC Health care Institute
+Department in collaboration with Wipro GE established Wipro GE-REC Health care Institute in our campus. The main focus of this lab is to train students in Medical Equipments. This lab provides opportunities for the students in hands on training on various medical equipments. It also provides internship for the students. Wipro GE is providing training with the following equipments available in the department.
+Anesthesia Machine.
+Ventilator
+ECG machine
+Patient monitoring System
+Ultrasound Machine
+AW server.
+In addition to the equipments students are taken to Wipro GE health care research centre at Bengaluru for training in CT and MRI machines.
+Outcome:
+Three student batches completed their training in house and at GE Bangalore research center. Faculty members are also benefitted with these training sessions.
+Faber Sindoori Management Services Private Ltd
+TheMemorandum of Understanding is entered on Wednesday, 16 April 2014 between Rajalakshmi Institutions consisting of Rajalakshmi Engineering College (REC), Thandalam, Chennai 602105 and Rajalakshmi Institute of Technology (RIT), Kuthambakkam Post, Chennai 602107 with M/s Faber Sindoori Management Services Private Limited, an institution of Apollo Hospitals Group Head Office Door No. 25 & 26, Prince Towers, 7th Floor, College Road, Nungambakkam, Chennai-600006. The purpose of the collaboration is to ensure co-operation between Rajalakshmi Institutions and Faber Sindoori Management Services (FSMS) Private Limited in Biomedical Engineering for student’sinternship, faculty training and also collaborative research and consultancy by sharing the Knowledge and skills available in both organizations.
+Students are allowed to undertake training in Apollo Hospitals every year for 15 days during their seventh semester
+Aries Biomed Coimbatore
+The Memorandum of Understanding is entered on Wednesday, 16 April 2014 between Rajalakshmi Institutions consisting of Rajalakshmi Engineering College (REC), Thandalam, Chennai 602105 and Rajalakshmi Institute of Technology (RIT), Kuthambakkam Post, Chennai 602107 with Aries Biomed Technology Private Limited. The purpose of the collaboration is to ensure co-operation between Rajalakshmi Institutions and Aries Biomed Technology Private Limited in offering training to faculty and students on ventilators, sensors, devices and supporting services like testing and calibration of medical equipment’s. This MoU will also lead to offering technical expert lectures from one side to the other, valuable inputs to the institution as a feedback from the industry sector in respect of latest technological development in the area of interaction and also in offering guidance for suitable placement for students.
+Every year one batch of students is allowed to do their final year project in Aries Biomed with guidance from technical person from the company. Faculties are undertaking sabbatical training during their vacation to learn the latest development happening in Biomedical field.
+Voluntary Health Services (VHS),Taramani, Chennai
+$2a
+Students of Biomedical department had created a hospital information system for voluntary health services.
+Funded Research Projects
+Faculty members and students in the department are highly focused on research and developmental activities. The Biomedical Engineering department got the following funded projects sponsored from the premier institutions such as Indian Council for Medical Research, New Delhi and University Grants Commission, New Delhi.
+A project Titled “Thermography as a tool to detect Fetus Abnormality” funded by ICMR – 11.42 Lakhs.
+A project Titled “Design and Development of Powered Lower Limb Exoskeleton for Hemiplegic Patients” funded by UGC, New Delhi – 3.0 Lakhs
+A project Titled “Development of automated tool for early diagnosis of Diabetic Retinopathy From SDOCT retinal images using virtual instrumentation” funded by UGC, New Delhi – 2.0 Lakhs
+A project Titled “Development of a device to detect Obstructive Sleep Apnea (OSA) during wakefulness using breathing sounds” funded by UGC, New Delhi – 3.7 Lakhs
+A project Titled “Development of Affordable and Reliable Vein Finder” funded by Institution of Engineers (India), Kolkata – 0.5 Lakhs
+A project titled “Detection of chlorine using Nano silver screen printing electrode” funded by IEI (India), Delhi- 0.5 lakhs
+Biomedical engineers use their expertise in biology, medicine, physics, mathematics, engineering science and communication to make the world a healthier place. The challenges created by the diversity and complexity of living systems require creative, knowledgeable, and imaginative people working in teams of physicians, scientists, engineers, and even business folk to monitor, restore and enhance normal body function. The biomedical engineer is ideally trained to work at the intersection of science, medicine and mathematics to solve biological and medical problems.
+Biomedical engineers use their engineering and science backgrounds to design the next generation of systems and treatments that will advance the quality of life for patients. They leave an impact through the creation of medical devices that detect and treat disease, the invention of materials that can be used to treat illness in the body, and by designing complex computer models to develop the next generation of disease-fighting drugs.
+Biomedical engineers are responsible for the creation of artificial organs, automated patient monitoring, blood chemistry sensors, advanced therapeutic and surgical devices, application of expert systems and artificial intelligence to clinical decision making, design of optimal clinical laboratories, medical imaging systems, computer modeling of physiological systems, biomaterials design, and biomechanics for injury and wound healing, among many others.
+Biomedical engineers respond to societal needs and provide solutions to engineer and a better and healthier world.
+The department of biomedical engineering has laboratories that are one of a kind and well established. The facilities offered in the laboratories have been increased over the years from the time of establishment of the department. The labs are all filled with hi-tech equipments that up-to-date with industry based technology. All the laboratory courses are taught well using the infrastructure. Augmented experiments are also taught to students on selected areas of specialization which are important to core biomedical engineering. This helps the students in doing additional experiments other than the regular curriculum. The department provides lab facilities after college hours to students who are interested in working on their innovative ideas or projects. To assist students and help them in their aspirations, highly knowledgeable lab assistants are also present always. The labs in the department cater to the needs of students looking forward to a career in the core industry.
+The department has the following labs:
+Electronic circuits laboratory
+Biochemistry and human physiology laboratory
+Microbiology and pathology laboratory
+Analog and Digital Integrated circuits laboratory
+Biomedical instrumentation laboratory
+Diagnostic and therapeutic laboratory
+Microprocessor laboratory
+Digital Signal Processing laboratory
+Digital Image Processing laboratory
+Since the department offers PG in Medical Electronics, there is a separate lab for PG students which are equipped with state-of-equipments and students use it for regular courses and also for doing their PG project work. The department encourages and guides the students to do in-house projects to inculcate the habit of research.
+Supporting Staff
+Mr. V. Nanda Kumar,
+\t
+Lab Assistant
+Mr. R. Babu,
+Ms. D.Anitha,
+Department Co-ordinator
+

@@ -1,0 +1,8 @@
+TITLE: E-Journals | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/ejournals
+SOURCE_TYPE: website
+SECTIONS: ["E-Journals"]
+
+SECTION: E-Journals
+Click on the link to access the concerned journal (for use in REC Campus only)
+IEEE ASME - American society of Mechanical Engineers ASCE - American Society of Civil Engineers Elsevier (Science Direct)- Biotechnology (Back File) J-GATE- Engineering & Technology J-GATE- Management Sciences

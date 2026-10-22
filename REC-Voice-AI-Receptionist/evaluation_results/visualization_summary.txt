@@ -1,32 +1,43 @@
 REC VOICE AI RECEPTIONIST
 FINAL EVALUATION VISUALIZATION SUMMARY
-============================================================
-
-FINAL MODEL
-------------------------------------------------------------
-Gemma 3:4B
+=================================================================
 
 DIRECT RAG EVALUATION
-------------------------------------------------------------
-Retrieval Hit@5       : 100.00%
-Answer Accuracy       : 100.00%
-Negative Refusal      : 100.00%
+-----------------------------------------------------------------
+Retrieval Hit@5                 : 100.00%
+Answer Accuracy                 : 100.00%
+Negative Refusal Accuracy       : 100.00%
+
+Direct RAG metric sample counts:
+Retrieval Hit@5                 : 95
+Answer Accuracy                 : 95
+Refusal Accuracy                : 5
+Overall Test Questions          : 100
 
 RAGAS EVALUATION
-------------------------------------------------------------
-Faithfulness          : 95.37%
-Answer Relevancy      : 54.33%
-Context Precision     : 92.31%
-Context Recall        : 100.00%
+-----------------------------------------------------------------
+Faithfulness                    : 96.55%
+Answer Relevancy                : 86.23%
+Context Precision               : 90.57%
+Context Recall                  : 98.95%
+Evaluated rows: 95
 
 ARES-INSPIRED EVALUATION
-------------------------------------------------------------
-Context Relevance     : 89.44%
-Answer Faithfulness   : 95.83%
-Answer Relevance      : 82.22%
+-----------------------------------------------------------------
+Context Relevance               : 98.68%
+Answer Faithfulness             : 99.47%
+Answer Relevance                : 98.42%
+Evaluated rows: 95
+
+SPEECH RECOGNITION EVALUATION
+-----------------------------------------------------------------
+Clean                   : WER 5.51%, CER 1.78%, samples 100
+Noisy                   : WER 7.02%, CER 2.34%, samples 100
+Telephone-filtered      : WER 5.20%, CER 1.73%, samples 100
 
 GENERATED GRAPHS
-------------------------------------------------------------
-1. overall_accuracy.png
+-----------------------------------------------------------------
+1. rag_overall_accuracy.png
 2. ragas_overall_metrics.png
 3. ares_overall_metrics.png
+4. speech_recognition_metrics.png

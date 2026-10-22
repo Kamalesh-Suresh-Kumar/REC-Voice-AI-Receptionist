@@ -1,0 +1,92 @@
+TITLE: Computer Science & Engineering (Cyber Security) | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/csecs
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+UG- B.E. Computer Science and Engineering (Cyber Security)
+Cyber Security program is introduced from the Academic year 2023-2024.
+Vision
+To promote highly ethical and innovative cybersecurity professionals through excellence in teaching, training, and research.
+Mission
+To produce globally competent cybersecurity experts, motivated to learn emerging technologies and innovate in solving real-world security challenges.
+To foster research activities among students and faculty that enhance societal security and resilience.
+To impart moral and ethical values in their profession, ensuring a strong commitment to cybersecurity ethics and responsible practices.
+Updated on 13.08.2026
+
+FACULTY
+=======
+Mr.Benedict Jayaprakash Nicholas, HoD & Assistant Professor
+Dr.Balasubramanian V, Professor
+Dr.Sivakumar D, Professor
+Mr.Arun Gandhi, Assistant Professor
+Ms.Swathilakshmi Sugumar, Assistant Professor
+Ms.Prithipa Akilan, Assistant Professor
+Ms.T Seetha Lakshmi T, Assistant Professor
+Ms.I Janani, Assistant Professor
+Ms.Rupmala R, Assistant Professor
+Ms.Divya R, Assistant Professor
+Ms.Fowzia Sihana.B, Assistant Professor
+Dr.Bhuvana S, Assistant Professor
+Mr.Sathyasandar ., Assistant Professor
+Mr.Raj Adhithya, Assistant Professor
+Mr.Deepan Kumar Ravi Kumar, Assistant Professor
+Mr.Vignesh Gunaseelan, Assistant Professor
+Mr.Jaiselvan R, Assistant Professor
+Mr.Umesh Elumalai, Assistant Professor
+Ms.Arulmozhi Chandrasekar, Assistant Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+PROGRAMME EDUCATIONAL OBJECTIVES (PEOs)
+PEO 1:
+To equip students with essential background in computer science, basic electronics and applied mathematics.
+PEO 2:
+To prepare students with fundamental knowledge in programming languages and tools and enable them to develop applications.
+PEO 3:
+To encourage the research abilities and innovative project development in the field of networking, security, data mining, web technology, mobile communication and also emerging technologies for the cause of social benefit.
+PEO 4:
+To develop professionally ethical individuals enhanced with analytical skills, communication skills and organizing ability to meet industry requirements
+PROGRAMME OUTCOMES (POs)
+PO1: Engineering knowledge:
+Apply the knowledge of Mathematics, Science, Engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2: Problem analysis:
+Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3: Design/development of solutions:
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO 4: Conduct investigations of complex problems:
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO 5: Modern tool usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+PO 6: The engineer and society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+PO 7: Environment and sustainability:
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO 8: Ethics:
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO 9: Individual and team work:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO10: Communication:
+Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO11: Project management and finance:
+Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one‟s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12: Life-long learning:
+Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAM SPECIFIC OUTCOMES (PSOs)
+A graduate of the Computer Science and Engineering Program will demonstrate
+PSO 1: Foundation Skills:
+Ability to understand, analyze, and develop computer programs in the areas related to algorithms, system software, web design, machine learning, data analytics, networking, and cybersecurity for efficient design of computer-based systems of varying complexity. Familiarity and practical competence with a broad range of programming languages, open-source platforms, and cybersecurity tools and practices.
+PSO 2: Problem-Solving Skills:
+Ability to apply mathematical methodologies to solve computational tasks, model real-world problems using appropriate data structures and suitable algorithms, and address cybersecurity challenges. Understanding of standard practices and strategies in software project development, incorporating secure coding practices and using open-ended programming environments to deliver quality and secure products.
+PSO 3: Successful Progression:
+Ability to apply knowledge in various domains to identify research gaps and provide solutions to new ideas, with a particular emphasis on cybersecurity challenges. Inculcating a passion for higher studies, creating innovative career paths to be an entrepreneur, and evolving as an ethically and socially responsible computer science professional with strong cybersecurity expertise.
+Regulation 2023 (From 2023-2026)
+Cybersecurity analyst
+Network security engineer
+Information security consultant
+Ethical hacker
+Cybersecurity researcher
+Cybersecurity manager
+

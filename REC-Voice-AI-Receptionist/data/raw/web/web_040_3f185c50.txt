@@ -1,0 +1,19 @@
+TITLE: IQAC | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/iqac
+SOURCE_TYPE: website
+SECTIONS: ["Message from IQAC Coordinator", "NEXTJS-SERIALIZED-CONTENT"]
+
+Message from IQAC Coordinator
+Greetings from the Internal Quality Assurance Cell (IQAC) of Rajalakshmi Engineering College (REC).
+The Internal Quality Assurance Cell (IQAC) is established to develop a mechanism for systematic reviews of study programs, and to ensure quality teaching-learning, research, knowledge generation and support services standards at an acceptable level.
+We at REC are committed to excellence and innovation in learning, teaching, and research and continuously strives to improve its learning environment and update its curriculum. With clear vision, mission, goals, and adopting strategic planning, we work for continuous improvement by dynamic adjustment of teaching learning process based on measured attainment of program outcomes. The Outcome Based Education provided by REC is student centric that focuses on measuring student performance i.e. outcomes, which includes- knowledge, skills and attitudes.
+The IQAC assures the stakeholders-students, faculty, administrative staff, quality circle members, funding agencies and society in general - of the accountability and transparency in the quality management system of the institution.
+Recognizing our commitments and continuous efforts, REC has been ranked TOP in various rankings for quality education. I convey my appreciation for the faculty, students, management and all stakeholders for their inputs and diligence to make REC a pioneer in higher education.
+Dr. V. Prasannakumari
+Coordinator, IQAC
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+Click Here to View
+Will be updated soon..
+

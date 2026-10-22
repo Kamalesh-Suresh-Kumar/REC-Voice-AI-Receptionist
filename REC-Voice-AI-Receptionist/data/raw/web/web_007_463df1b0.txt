@@ -1,0 +1,262 @@
+TITLE: Blogs | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/blogs
+SOURCE_TYPE: website
+SECTIONS: ["Blogs", "Beyond Grades: The Lessons That Shaped My Engineering Journey", "Panacea: The Eternal Search for a Cure-All and the Ethics Behind Modern Medicine", "Neuro-Electrogenomics", "The IC Engine is Not Dead — It's Evolving. Here's What 2035 Looks Like.", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Blogs
+SECTION: Beyond Grades: The Lessons That Shaped My Engineering Journey
+Sarvesh Sivasankaran | 240701479 | B.E CSE | REC
+SECTION: Panacea: The Eternal Search for a Cure-All and the Ethics Behind Modern Medicine
+By Rashika Parmeshwari Venkataramanan 2116220401129, Class of 2022-2026, BT C, REC
+SECTION: Neuro-Electrogenomics
+Preethi Baskaran | Assistant Professor - Bio Tech Engineering (REC)
+SECTION: The IC Engine is Not Dead — It's Evolving. Here's What 2035 Looks Like.
+Dr. Nambiraj M | Assistant Professor · Mechatronics | Combustion & Alternative Fuels Researcher
+PAGE LINKS
+LINK: Blog Beyond Grades: The Lessons That Shaped My Engineering Journey Sarvesh Sivasankaran | 240701479 | B.E CSE | REC REC Team · Sep 1, 2026 · 3 min read Read More -> https://www.rajalakshmi.org/blogs/beyond-grades-lessons-that-shaped-my-engineering-journey
+LINK: Blog Neuro-Electrogenomics Preethi Baskaran | Assistant Professor - Bio Tech Engineering (REC) REC Team · May 5, 2026 · 4 min read Read More -> https://www.rajalakshmi.org/blogs/Neuro_Electrogenomics
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+When people think about learning, they often associate it with classrooms, examinations, and academic
+performance. While these are undoubtedly important, my journey has taught me that some of the most
+valuable lessons are learned outside textbooks through experiences, challenges, relationships, and
+self-reflection.
+Like many students, I entered school believing that academic scores defined success. Over time, I realized
+that grades often become the first impression people form about us. While academic excellence deserves
+recognition, it should never become the sole measure of an individual's potential.
+During my school years, I experienced moments of self-doubt, isolation, and being underestimated. Those
+experiences, although difficult at the time, became opportunities for growth. Instead of allowing them to define
+me, I gradually began observing people, understanding different perspectives, and learning how experiences
+shape human behavior. This habit of observation eventually became one of my greatest strengths.
+Joining engineering college marked a turning point in my life.
+College offered opportunities that extended far beyond academics. Through technical communities,
+hackathons, symposiums, leadership roles, and collaborative projects, I discovered that learning happens
+everywhere. Every competition taught resilience. Every project improved my technical abilities. Every
+leadership responsibility strengthened my communication, teamwork, and decision-making skills.
+More importantly, I realized that success is rarely the result of talent alone. It is built through consistency,
+continuous learning, and the willingness to embrace failure as part of the journey.
+One lesson that continues to stay with me is that every individual carries experiences that remain unseen.
+Behind every confident student may be years of struggle. Behind every achievement may be countless
+failures. Understanding this has made me value empathy, kindness, and collaboration just as much as
+technical knowledge.
+As engineering students, we often focus on acquiring new technologies and programming languages.
+However, qualities such as emotional intelligence, integrity, adaptability, and leadership are equally important
+in shaping successful professionals.
+These experiences inspired me to write my eBook, The Faces Behind the Faces, a reflection on the many
+lessons I learned through school, college, friendships, leadership, setbacks, and personal growth. Rather
+than being merely a personal story, the book explores the importance of self-awareness, resilience, and lifelong
+learning through real-life experiences.
+Looking back, I no longer measure success solely by achievements or academic performance. Instead, I see
+success as the ability to continue growing, learning from failures, helping others, and becoming a better
+version of myself every day.
+For Every Student Beginning Their Journey
+• Never allow temporary setbacks to define your potential.
+• Learn continuously.
+• Stay curious.
+• Build meaningful relationships.
+• Embrace challenges.
+• Most importantly, never stop believing that growth is always possible.
+After all, the greatest transformation often happens in the parts of our journey that no one else gets to see.
+a remedy for all ills or difficulties : cure-all
+,\
+The Goddess Behind the Word
+Before panacea was a concept, it was a name…the name of a goddess.
+Panacea was the ancient Greek goddess of universal health, granddaughter of Apollo (god of healing) & daughter of Asclepius, the god of Medicine. Her very name meant
+all-healing
+, and she sat at the centre of the Greek imagination of what medicine could, at its most perfect, achieve: a single remedy, a universal balm, a cure for everything.
+Her father Asclepius is the figure most medical practitioners unknowingly invoke every day. His rod, a single staff with one serpent coiled around it is the true symbol of medicine. It is so commonly & erroneously confused with the caduceus, the two-serpented staff of Hermes, which is associated not with healing but with commerce and negotiation, very coincidentally aligning with the commercialization of the human healthcare system.
+The Oath Sworn in Her Name
+When the earliest physicians formalised their ethics, they swore by the Hippocratic Oath. It's widely known from Greek medical texts & one of the oldest binding declarations of professional ethics in history, requiring a new physician to promise by a number of healing gods, Panacea among them, to uphold specific standards of conduct [3]. So, more a spiritual construct rather than a societally beneficial moral construct.
+The oath was and is not a relic though. Its moral architecture has shaped medical ethics across millennia, and its principle still endures today in a phrase most people recognise even without knowing its origins:
+Primum non nocere
+, meaning \
+As medicine & the world changed, so too did the oath. The Declaration of Geneva, adopted by the General Assembly of the World Medical Association (WMA) in 1948 and subsequently amended last in 2017 [4], was intended as a modern revision of the Hippocratic Oath. Unlike the original Oath, the WMA calls the Geneva declaration a \
+The name “Panacea” may no longer appear in these modern pledges, but her shadow remains in the aspiration humans have and in the ideal they can never quite reach.
+Has Anyone Actually Found It?
+The belief that a single substance might cure everything is not a modern fantasy. It is one of the oldest recurring ideas in human history, persistent across cultures and centuries and it is at the root of the word panacea itself [1]. Almost like an obsession in search of “immortality” itself as one may claim it.
+Ancient Greek and Roman scholars described various kinds of plants called panacea or
+panaces
+including
+Opopanax
+sp.,
+Centaurea
+Levisticum
+officinale
+Achillea
+millefolium
+, and
+Echinophora
+tenuifolia
+[5]. The Cahuilla people of the Colorado Desert region of California used the red sap of the elephant tree (
+Bursera microphylla
+) as a panacea [6]. Traditional Chinese medicine employed ginseng widely as a cure-all as is or incorporated in food as herbal remedies [7]. In medieval Europe, balms and treacles (dark & sticky liquids) were used to cure diseases including the bubonic plague [8].
+The concept of a cure-all specifically created & marketed towards consumers acquired a more commercial character starting in the late 1600s. These became known as \
+Panacea, once a sincere name for plants with genuine healing properties like mints, yarrows, the flowering herbs of the carrot family, in current use most often refers to a remedy that \
+From Hippocrates leading up to Bioethics
+If a true panacea were ever discovered, the most urgent questions it would raise would be ethical. Not scientific.
+Who would receive it? Who would decide? Who would profit? What obligations would fall upon those who held such knowledge?
+These are not hypothetical questions. They are, in different forms, the questions that bioethics has always wrestled with. And the historical record shows, with uncomfortable clarity, that the existence of powerful medical knowledge does not guarantee its ethical application. As “rightful application,” in these dire times are subjective to each nation.
+Bioethics is both a field of study & professional practice, concerned with ethical issues related to health and encompassing topics from cloning & gene therapy to life extension, genetic engineering, astroethics, and the manipulation of basic biology through altered DNA, XNA, and proteins [9]. It is not merely a philosophical exercise. It emerges from specific historical injuries, or cases where science moved without conscience.
+The Case of Henrietta Lacks
+Henrietta Lacks was the unwitting source of HeLa cells, taken from a tumour biopsied during her treatment for cervical cancer at the Johns Hopkins Hospital in Maryland, in 1951. These cells were cultured by George Otto Gey, who created the HeLa cell line ehich is still in use today for medical research [10]. As was then the practice, no consent was required to culture cells obtained during treatment. Neither Lacks nor her family were compensated for the extraction or use of her cells [11]. Corporations including Thermo Fisher Scientific and Novartis have since been involved in legal settlements over related familial privacy issues.
+The researcher Chester Southam provides an even starker example. From the mid-1950s to the mid-1960s, he conducted clinical research in which he injected HeLa cancer cells into patients' skin, without their informed consent, to observe whether their immune system would reject the cells or allow them to grow. He did this to patients under his and others' care, and to prisoners [12]. The next plot to a horror movie indeed.
+But these are not isolated aberrations…past examples of unethical experimentation include exposure of humans to chemical & biological weapons, radiation experiments, injections of toxic & radioactive chemicals, surgical experiments, interrogation and torture, tests involving mind-altering substances, and a wide variety of other procedures performed on children, the sick, and mentally disabled individuals often under the guise of medical treatment. In many of these studies, subjects were disproportionately drawn from among the poor, racial minorities, or the incarcerated [13].
+Where was the principle “first, do no harm
+? Down the drain.
+COVID-19 & the Impulse
+The impulse to find the cure-all did not disappear in the modern era, it adapted. During the COVID-19 pandemic, the use of hydroxychloroquine & azithromycin was promoted as a treatment, a combination which was later shown to have no impact on survival & even had cardiotoxic side effects [14]. The social & political urgency of a pandemic created precisely the conditions under which the promise of a panacea is most seductive, and most dangerous.
+Should Scientists Take an Oath Too?
+If the history of medicine tells us anything, it is that capability without ethics produces harm. This raises a question that has gained increasing urgency: should scientists, not just physicians, be bound by a formal ethical oath?
+In 1995, the Nobel Peace Prize laureate Sir Joseph Rotblat used his acceptance speech to suggest a Hippocratic Oath for Scientists [15]. He was a physicist who had worked on the Manhattan Project and subsequently devoted the rest of his life to nuclear disarmament. He understood, from personal experience, what science untethered from moral accountability could produce.
+The debate has not been settled yet though. Another Nobel laureate Jean-Marie Lehn has argued the other position: \
+There is weight on both sides. But we can say the most practically compelling case for a scientific oath comes not from philosophy, but from public confidence. In contrast to earlier discussions of ethics, a code proposed by David King was intended to ensure that \
+The Panacea We Already Have
+If the search for a single miraculous cure has occupied medicine for millennia, perhaps what the search misses is what is already available, not in a pill, or a plant, or a patent, but in daily life.
+Quality sleep, diet, exercise, and digital literacy are not glamorous answers. They do not promise the impossible that panacea implies. But they represent the most sustainable and plausible tools available to individuals navigating a world where immoral scientific research remains a persistent risk. They are the individual's quiet sovereignty over their own body, something that no pharmaceutical corporation, no unethical researcher, no snake oil salesman can access without consent.
+The Hippocratic tradition understood this too, at its core. Before any intervention, any compound, any cure-all, the baseline is simply this: do not make things worse.
+Perhaps that is the closest the modern world comes to Panacea's promise. Not one answer for everything. But a commitment, sworn or unsworn, by physicians and scientists and individuals alike, to act with care, with knowledge, and with the awareness that how we use what we know is as consequential as the knowing itself.
+From Principles to Practice
+The values of ethical scientific inquiry, responsible innovation, and research-driven education are not only ideals discussed in academia—they are principles that shape the next generation of engineers and researchers. Institutions that nurture curiosity alongside integrity play a vital role in preparing students to solve tomorrow's healthcare challenges with both technical expertise and ethical responsibility.
+Rajalakshmi Engineering College, one of the best engineering colleges in Chennai, Tamil Nadu, was established with a clear vision to deliver world-class technical education combined with strong industry exposure and research excellence. Recognized among the top engineering colleges in Chennai, the institution consistently focuses on academic innovation, advanced laboratory infrastructure, and future-ready Biotechnology and interdisciplinary engineering programs. As a leading private engineering college in Chennai, Rajalakshmi Engineering College goes beyond conventional classroom learning by integrating industry collaborations, expert-led guest lectures, hands-on research initiatives, career-focused training, and global professional opportunities while upholding uncompromised technical excellence and ethical standards—the very principles that continue to define the future of modern science and healthcare.
+For many years, the neuroscience community has tried to decode the brain, imagining it as typical hardware. The usual scenario being electrodes recording, algorithms interpreting and silicon models trying to imitate it.
+But what if we change the question?
+What if neurons themselves could be programmed? No external stimuli and pharmacological intervention, but just genetically encoded with pure logic. The answer to this question welcomes you to the conceptual frontier of NeuroElectrogenomics — the amalgamation of synthetic gene circuitry into neuronal genomes to create programmable neural behavior.
+The Natural Neurons and Where They Lag
+The neurons and their firing patterns are truly complex, as they are intertwined with sensory information, cognition and motor function. Though let's not forget the role of experiences based connection in neurons. The neuron based gene expression also comes with many constraints due to the intricate processes involved along with biological inputs. This can be attributed to their survival status and hence lack precision for computation and programmable control. Hence, a research gap arises! -Neuro-electrogenomics challenges this interval.
+Synthetic circuits: What can be a Computational Substrate
+The inadequate understanding of biomolecular interaction paved the way for the development of
+synthetic networks. The field of synthetic biology has greatly established that DNA can perform logical operations. CRISPR-dCas systems, toggle systems, oscillators are some of the demonstrated examples. Especially the CRISPR/Cas 9 system, one of the most versatile platforms for developing genetic circuits. Programmable orthogonal CRISPR/Cas9 transcription factors have also been utilized to develop circuits.
+Studies have shown that these circuits take effect in bacteria, yeast, and mammalian cells. In addition, genetic constituents with one single logical operation that interconnects to intricate logical functions have also been developed. Though, in general these synthetic
+circuits are arduous to build and mostly never in par with the natural ones. Let's pause and imagine…..! Electrical activity becomes the input. Gene regulatory machinery performs the computation. Modified electrophysiology becomes the output. A neuron would no longer merely respond; it would evaluate. That is the futuristic design we are looking at.
+Converting Electrical Signals into Genomic Decisions
+Neurons already translate electrical activity into gene expression through calciumdependent signaling pathways and activity-regulated promoters. This can be combined with the vital goal of synthetic biology, which is to create cellular networks that merge input signals for decision making. Here, combining memory and logic is an important step, though artificial logic gates and memory devices have been separately built.
+Neuro-electrogenomics may extend this mechanism:
+In this framework, action potentials are not just signals — they are programmable triggers. A neuron could be engineered to fire only when two distinct neurotransmitter conditions are met (biological AND gate), suppress pathological overexcitation (NOT gate), or permanently switch phenotypic state following a defined activity threshold (genetic toggle). This is simply not a neuromodulatory step.
+It is rule-based neural behavior. Designing the Programmable Neuron!
+Instead of external devices decoding, these programmable neurons could produce standardized, noise-filtered patterns suitable for machine interpretation that may gradually shift brain–machine interfaces from passive reading to collaborative computation. It is definitely not easy as it sounds, as interpreting neurons that respond to stimuli has been one of the foundational challenges of neuroscience.
+However, logic gates, bistable watches, and molecular clocks have been developed. Currently, IEGs (Immediate Early Gene) expressions and E-SARE enabled mapping are prevalently studied to understand neuronal activation and neuronal ensemble respectively.
+Possible frictions
+Such futuristic visions are not without limitations Synthetic circuits end up imposing metabolic burden and there is also lack of genomic stability. Neurons may be resilient, but may not be reprogrammable.
+The Ethical Edge
+Suppose if neurons become programmable, there arises a possibility that cognition can be altered.
+The difference between therapy and enhancement would eventually be nullified. Questions like:
+Who defines the logic?
+Who safeguards the code?
+Will make an appearance?
+Biotechnology has already learned that capability is primary and above regulation. Neuro-electrogenomics would test that principle at the level of thought itself!!!
+Rajalakshmi Engineering College, one of the best engineering colleges in Chennai, Tamil Nadu, was established with a clear vision to deliver world-class technical education combined with strong industry exposure and research excellence. Recognized among the top engineering colleges in Chennai, the institution consistently focuses on academic innovation, advanced laboratory infrastructure, and future-ready biotechnology and interdisciplinary engineering programs.
+As a leading private engineering college in Chennai, Rajalakshmi Engineering College goes beyond conventional classroom learning by integrating industry collaborations, expert-led guest lectures, hands-on research initiatives, careerfocused training and global professional opportunities with uncompromised technical and ethical standards.
+I've spent nearly a decade studying what burns inside an engine — not just as fuel, but as possibility. After 8+ peer-reviewed publications, countless hours of emission analysis, and conversations with students who will build tomorrow's vehicles, I'm convinced of one thing: the death of the internal combustion engine has been wildly exaggerated.
+But it must transform. Radically. Intelligently. And fast.
+⚠️
+The Real Problem We're Not Talking About
+The global discourse has collapsed into a binary: EV vs ICE. Electric is \
+In countries like India, where my own research is rooted, the CI engine is not a relic — it is the backbone of agriculture, freight, and rural transport. The answer cannot simply be: \
+Where the Technology Stands Today
+The good news? The engineering community is already moving — faster than most headlines suggest. Here's what I'm seeing across research, industry, and the lab:
+Biodiesel Blends:
+My published research on agro-waste-derived antioxidants for biodiesel storage stability shows that nature already offers us the chemistry we need. Biodiesel blends (B20–B100) are now demonstrating competitive thermal efficiency with significant NOx and smoke opacity reduction.
+Hydrogen Engines:
+Dual-fuel hydrogen–diesel and hydrogen–biodiesel systems are achieving near-zero carbon output while retaining the proven reliability of the ICE platform. Hydrogen-fuelled engines are no longer a conference buzzword.
+LHR Engine Technology:
+Low Heat Rejection (LHR) engines with ceramic thermal barrier coatings are improving brake thermal efficiency by 3–6% — meaningful gains when scaled across millions of units.
+Nano-Additives:
+Nano-additives (Al2O3, TiO2, CeO2 nanoparticles) are enhancing fuel atomisation, combustion completeness, and emission profiles. We've demonstrated this in biofuel nano-water emulsion systems at real engine conditions.
+AI-Driven Combustion:
+Adaptive injection timing, real-time air-fuel ratio control, and predictive knock detection are making engines smarter — not just cleaner. AI-driven combustion optimisation is now a genuine field.
+The Road to 2035: What I Actually Expect
+Let me be specific. Based on where the research is heading — not where the marketing is pointing — here is what I believe the next decade will bring:
+2025–2027 —
+Carbon-Neutral Fuel Mandates: Governments in the EU, India, and Southeast Asia accelerate policies requiring 20–30% blended biofuel content in commercial diesel. Agro-waste feedstocks — become strategically critical.
+2027–2030 —
+AI-Embedded Engine Management: Smart ECUs powered by edge AI will dynamically adjust fuel injection, combustion phasing, and EGR rates in real time. Engines will essentially self-optimise based on fuel quality, load, and temperature.
+2029–2032 —
+Mainstream Hydrogen Dual-Fuel Systems: Commercial vehicles, marine engines, and stationary power units will widely adopt H2 co-combustion. Storage challenges will be partially solved by cryo-compressed and solid-state solutions.
+2032–2035 —
+Circular Energy Systems: The future isn't just clean fuels — it's closed-loop energy. Green hydrogen from solar, used in engines, exhaust heat recovered via Phase Change Materials (PCM-based TES), feeding back into industrial processes. Circular. Zero-waste. Thermodynamically elegant.
+AI + Sustainable Fuels + Smart Engines: The Trinity
+This is the convergence I find most exciting — and most misunderstood. People imagine AI in automotive as self-driving vehicles or slick dashboards. The deeper, more impactful application is inside the combustion chamber itself. Machine learning models trained on thousands of hours of engine data can now predict:
+• Optimal injection timing for a given biodiesel blend and ambient condition
+• Real-time NOx–PM trade-off optimisation without expensive hardware EGR modifications
+• Predictive maintenance windows based on vibration and thermal signature patterns
+• Fuel quality sensing and autonomous blend ratio adjustment in multi-fuel systems
+Smart sensors — both in-cylinder pressure transducers and exhaust gas analysers — now generate data streams that AI models can interpret in milliseconds. The engine of 2030 will not just run on cleaner fuel. It will think about how to burn it.
+In my current academic work, I'm actively integrating AI and ML approaches into traditional experimental research — using Python-based models to correlate fuel properties with combustion performance. The synergy is real, and it's transformative.
+A Researcher's Honest Perspective
+I want to say something that doesn't always get said in polished conference papers: this work is hard. Biodiesel long-term storage stability — one of my primary research areas — sounds niche. But it is mission-critical. If a fuel degrades on the shelf before reaching a tractor in rural Tamil Nadu, the 'clean energy transition' means nothing to that farmer.
+My research on essential oil-derived antioxidants from agro-waste — published in Elsevier's Process Safety and Environmental Protection (IF 7.8) — shows that solutions to these real-world problems often come from the most unexpected, nature-inspired places. That's the kind of science I want to keep doing. And that's the kind of science I want my students to believe in.
+EV vs ICE: The Answer is 'Both' — Here's Why
+I'm not anti-EV. Electric vehicles are genuinely transformative for urban personal mobility. But the conversation needs to stop being a war and start being a strategy.
+EVs excel at:
+Urban commuting, short-range personal transport, zero tailpipe emissions in dense cities — EVs excel here.
+Clean ICE + Alternative Fuels excel at:
+Long-haul freight, agriculture, marine, off-grid rural transport, and any application where energy density and refuelling speed are non-negotiable — clean ICE + alternative fuels excel here.
+The grid reality:
+In India, roughly 60% of electricity still comes from coal. An EV charged on a coal grid may not always outperform a modern biodiesel engine on a lifecycle CO2 basis. Context matters.
+The system view:
+Sustainable mobility is not a technology — it is a system. It requires fuel production, vehicle design, grid decarbonisation, and infrastructure — all moving together.
+Key Takeaways
+The internal combustion engine is not obsolete — it is undergoing the most significant transformation in its 150-year history.
+Biodiesel, hydrogen, and carbon-neutral fuels are strategic solutions for the billions of vehicles that cannot be electrified overnight.
+AI is the intelligence layer that will make clean combustion not just possible, but optimal.
+The future of mobility is an intelligent, fuel-agnostic, AI-assisted, circularly designed ecosystem.
+Researchers and industry must bridge the lab-to-road gap faster — publications alone are not enough.
+Every engine that runs on a cleaner fuel today — whether it's a B20 biodiesel blend in a Chennai freight truck or a hydrogen dual-fuel setup in a European test vehicle — is a proof point that the future of sustainable transportation does not have to be a distant aspiration.
+It can be engineered. It can be tested. It can be published. And it can be deployed.
+I've dedicated my career to this intersection — of combustion science, green chemistry, thermal engineering, and artificial intelligence. I believe the next decade will be the most consequential in the history of mechanical engineering. And I'm grateful to be in the lab, in the classroom, and in this conversation.
+Presented By,
+
+
+
+IMAGE-BASED INFORMATION
+========================
+
+IMAGE 1
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2FQS.png&w=64&q=75
+ALT_TEXT: ARIIA Badge
+NEARBY_TEXT: Top Science & Technology Institution in India Blogs
+
+IMAGE 2
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2FStar.svg&w=96&q=75
+ALT_TEXT: Decorative Star
+NEARBY_TEXT: Top Science & Technology Institution in India Blogs | Top Science & Technology Institution in India Blogs Top Science & Technology Institution in India Blogs
+
+IMAGE 3
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2FStar.svg&w=64&q=75
+ALT_TEXT: Decorative Star
+NEARBY_TEXT: Top Science & Technology Institution in India Blogs | Top Science & Technology Institution in India Blogs Top Science & Technology Institution in India Blogs
+
+IMAGE 4
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2FQS.png&w=384&q=75
+ALT_TEXT: ARIIA & NAAC Badge
+NEARBY_TEXT: Top Science & Technology Institution in India Blogs | Top Science & Technology Institution in India Blogs Top Science & Technology Institution in India Blogs
+OCR_TEXT: |-GAUGE DIAMOND
+
+IMAGE 5
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=https%3A%2F%2Fcms.rajalakshmi.org%2Fapi%2Fmedia%2Ffile%2F1-2.jpg&w=3840&q=75
+IMAGE_LINK: https://www.rajalakshmi.org/blogs/beyond-grades-lessons-that-shaped-my-engineering-journey
+ALT_TEXT: Student Blog
+NEARBY_TEXT: Blog | Blog Beyond Grades: The Lessons That Shaped My Engineering Journey Sarvesh Sivasankaran | 240701479 | B.E CSE | REC REC Team · Sep 1, 2026 · 3 min read Read More | Blogs
+OCR_TEXT: e és e rf ' —, | 2 = p RAJALAKSHMI — = = ENGINEERING [A COLLEGE — \ — ' y me or Bon ae sa Srl we Pt , = ‘ a ———— * q A s we. ‘ ae
+
+IMAGE 6
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=https%3A%2F%2Fcms.rajalakshmi.org%2Fapi%2Fmedia%2Ffile%2F5.jpg&w=3840&q=75
+IMAGE_LINK: https://www.rajalakshmi.org/blogs/panacea-the-search-for-a-cure-all-and-medical-ethics
+ALT_TEXT: Titleimage
+NEARBY_TEXT: Blog | Blog Panacea: The Eternal Search for a Cure-All and the Ethics Behind Modern Medicine By Rashika Parmeshwari Venkataramanan 2116220401129, Class of 2022-2026, BT C, REC REC Team · Jul 15, 2026 · 10 min read Read More | Beyond Grades: The Lessons That Shaped My Engineering Journey
+OCR_TEXT: RAJALAKSHMI ENGINEERING COLLEGE
+
+IMAGE 7
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=https%3A%2F%2Fcms.rajalakshmi.org%2Fapi%2Fmedia%2Ffile%2FNeuro%2520Cover.jpg&w=3840&q=75
+IMAGE_LINK: https://www.rajalakshmi.org/blogs/Neuro_Electrogenomics
+ALT_TEXT: Rajalakshmi Engineering College
+NEARBY_TEXT: Blog | Blog Neuro-Electrogenomics Preethi Baskaran | Assistant Professor - Bio Tech Engineering (REC) REC Team · May 5, 2026 · 4 min read Read More | Panacea: The Eternal Search for a Cure-All and the Ethics Behind Modern Medicine
+OCR_TEXT: RAJALAKSHMI ENGINEERING COLLEGE
+
+IMAGE 8
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=https%3A%2F%2Fcms.rajalakshmi.org%2Fapi%2Fmedia%2Ffile%2FRajalakshmiEngineeringCollegeMechatronixDepartmentBlogICEngine.jpg&w=3840&q=75
+IMAGE_LINK: https://www.rajalakshmi.org/blogs/The_IC_Engine_2035
+ALT_TEXT: RajalakshmiEngineeringCollegeMechatronixDepartmentBlog
+NEARBY_TEXT: Blog | Blog The IC Engine is Not Dead — It's Evolving. Here's What 2035 Looks Like. Dr. Nambiraj M | Assistant Professor · Mechatronics | Combustion & Alternative Fuels Researcher REC Team · May 5, 2026 · 7 min read Read More | Neuro-Electrogenomics
+OCR_TEXT: _ _ =_- ~~ _ : ~ Sek cia »—— -_ a ee Oe ae | _ ree. = LS ee VN Tt we. ge <2 bd ue oN : =, Sy r ‘ = ‘ a ae Ay AF ; <= a (7 . , — 1 A AVELI le / fae f tid = } ea Thee Ye. i q \ i, See =e * ES hh oe ary + Ke —

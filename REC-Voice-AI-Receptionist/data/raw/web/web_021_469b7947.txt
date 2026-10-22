@@ -1,0 +1,168 @@
+TITLE: Chemical Engineering | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/chem
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+Programmes Offered UG - B.Tech. Chemical Engineering Chemical engineering is a branch of engineering that applies Physical Sciences (Physics and Chemistry), Life sciences (Microbiology and Biochemistry), together with applied mathematics and economics to produce, transform, transport, and properly use chemicals, materials and energy. Chemical Engineering is a blend of traditional Chemical Engineering, Biomedical Engineering, Nanotechnology, Bimolecular Engineering, Pharmaceutical processing, Molecular dynamic simulations of polymeric systems. A chemical engineer designs large-scale processes that convert chemicals, raw materials, living cells, microorganisms and energy into useful forms and products. The course is designed in a way for the students to undergo an extensive course work and extensive laboratory practice in all conventional and advanced areas of Chemical Engineering.
+Vision To be a center of excellence in chemical engineering to provide well prepared professionals to the industries and society. Mission i. To provide state of art environment to the students for better learning to cater for the chemical industries and pursue higher studies. ii. To provide space to the students in research to think, create and innovate things.
+Updated on 18.08.2026
+
+FACULTY
+=======
+Dr.Sundararaman T.R, HoD & Professor
+Dr.Rames Panda, Professor
+Dr.Vincent Joseph K. L., Professor
+Dr.Sivamani Sivalingam ., Associate Professor
+Dr.Seelam Narasimha Reddy, Associate Professor
+Dr.Mary Rosana Nt, Associate Professor
+Dr.Vijayaraghavan Gopal, Associate Professor
+Dr.Mangaleswari S, Assistant Professor
+Ms.Kalaiarasi N, Assistant Professor
+Ms.Ambigadevi J, Assistant Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+Program Educational Objectives (PEOs)
+PEO I
+To produce employable graduates with the knowledge and competency in Chemical Engineering complemented by the appropriate skills and attributes.
+PEO II
+To produce creative and innovative graduates with design and soft skills to carry out various problem solving tasks.
+PEO III
+To enable the students to work as teams on multidisciplinary projects with effective communication skills, individual, supportive and leadership qualities with the right attitudes and ethics.
+PEO IV
+To produce graduates who possess interest in research and lifelong learning, as well as continuously striving for the forefront of technology.
+Program Outcomes (POs)
+Engineering Graduates will be able to
+1. Engineering Knowledge:
+Apply the knowledge of mathematics, science, and engineering fundamentals, to solve the complex chemical engineering problems
+2. Problem analysis:
+Identify, formulate, review research literature, and analyze complex chemical engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences.
+3. Design/development of solutions:
+Design solutions for complex chemical engineering problems and design system components or process that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal and environmental considerations.
+4. Conduct investigations of complex problems:
+Use research based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to proceed valid conclusions.
+5. Modern tool usage:
+Create, select and apply appropriate techniques, resources and modern engineering and IT tools including prediction and modeling to complex chemical engineering activities with an understanding of the limitations.
+6. The engineer and society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional chemical engineering practice.
+7. Environment and sustainability:
+Understand the impact of the professional chemical engineering solutions in societal and environmental contexts, and demonstrate the knowledge of and need for sustainable development.
+8. Ethics:
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the chemical engineering practice.
+9. Individual and team work:
+Function effectively as an individual and as a member or leader in diverse teams, and in multidisciplinary settings.
+10. Communication:
+Communicate effectively on complex chemical engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+11. Project management and finance:
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+12. Life-long learning:
+Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological changes in chemical engineering.
+Programme Specific Outcomes
+I. Graduates will be able to apply chemical engineering principles to design equipment and a process plant.
+II. They will be able to control and analyze chemical, physical and biological processes including the hazards associated with these processes.
+III. Will be to able to develop mathematical models of real world industrial problems and compute solutions to dynamic processes.
+Regulation 2023 – Batch 2023
+Regulation 2023 – From Batch 2024
+Regulations 2019 (From 2021-25 batch)
+Regulations 2019
+Regulations 2017 (From 2018-22 batch)
+Regulations 2017 (2017-21 batch)
+Regulations 2013
+JOURNAL PUBLICATIONS
+2023 - 2024
+M Venkata Ratnam, P Akilamudhan, K Senthil Kumar, Seelam Narasimha Reddy, K Nagamalleswara Rao, Feroz Shaik, D M Reddy Prasad.\
+Elavazhagan E, Sowmiya A & Sivamani Sivalingam, “Comprehensive analysis and process simulation of biodiesel production from biomass sources” Indian Journal of Chemical Technology, Vol. 30, September 2023, pp. 623-633 DOI: 10.56042/ijct.v30i5.5203 (SCI) (Impact Factor 0.57)
+S. Narasimha Reddy and M. Venkata Ratnam, An Experimental Analysis of Lean Binary Mixture Segregation in a Continuous Liquid Fluidized Bed, International Journal of Chemical Engineering, Nov 2023 (Impact Factor 2.7)
+K Sathya, H Jayalakshmi, S Narasimha Reddy, M Venkata Ratnam, Din Bandhu, Effective removal of Congo red dye using adsorbent prepared from bio-waste: isotherm, kinetic, and thermodynamic studies, Biomass Conversion and Biorefinery, December 2023. (Impact Factor 4.0)
+Tanjore Ramachandran Sundararaman, Sivamani Sivalingam, Melvin Millicent Mabel, and Trisha Gobinath, Biosorption of Toxic Reactive Blue Textile Dye from Effluent Water Using Immobilized Biomass Based Adsorbent, Environment and Natural Resources Journal, (SCOPUS) Jan 2024, (Impact Factor 1.2)
+Sivamani Sivalingam, Vijayaraghavan Gopal, Low cost adsorbent from biomass for removal of Fe(II) and Mn(II) for water treatment: batch and column adsorption study, Chemical Papers, (SCOPUS, SCIE) April 2024. (Impact Factor 2.2)
+2022 - 2023
+Vijayaraghavan Gopal, Dharani Dharan Dharmarajan and Sivamani Sivalingam, “Preparation of Carboxymethyl Cellulose from Musa paradisiaca Pseudo Stem Using an Alkaline Treatment”, Nature Environment and Pollution Technology (SCOPUS), Volume 21, Issue 5, 2022. (Impact Factor 0.7)
+Mary Rosana Nalzala Thomas · Vincent Joseph Kanniyambatti Lourdusamy, “Synthesis and solar cell power conversion efficiency improvement of π‑extended triphenylamine dyes for indoor light based applications”, Applied Nanoscience (SCI, SCOPUS), Volume 13, 2271–2276, 2023. (Impact Factor 3.8)
+Vincent Joseph Kanniyambatti Lourdusamy · Mary Rosana Nalzala Thomas · Sekar Subramani, “Effluent degradation followed hydrogen production using near‑infrared sensitized nanocomposite of reduced nanographene oxide under visible light”, Environmental Science and Pollution Research, (SCI, SCOPUS), Volume 30, 18113–18122, 2023. (Impact Factor 5.8)
+J Leonard, Sivamani Sivalingam, Rejeti Venkata Srinadh, Susmita Mishra, \
+Anitha Jegadeeshwari Lakshmana Perumal Raj & Seelam Narasimha Reddy \
+Vijaya Lakshmi Bollakayala, Nagabhushan Etakula, Kiran Kumar Vuba, Appala Naidu Uttaravalli, Srikanta Dinda, Bhanu Radhika Gidla., Likitha Gadde., Gopi Katiki., Srinivas Teja Manda., Sanjana Mutyapu., Seelam Narasimha Reddy. \
+Sivamani Sivalingam, Vijayaraghavan Gopal, Vimalkumar Adichakkravarthy, \
+Sivamani Sivalingam, Vijayaraghavan Gopal, \
+2020 - 2021
+Ambigadevi J, Kumar PS, Vo D-VN, Haran SH, Raghavan TNS (2020) Recent Developments in Photocatalytic Remediation of Textile Effluent using Semiconductor based Nanostructured Catalyst: A Review. J Environ Chem Eng 104881.
+Impact Factor: 4.3
+N.T. Mary Rosana, K.L. Vincent Joseph, A. Aparna, J. Vijayalakshmi, “Non-metallic organic dyes as photosensitizers for dye-sensitized solar cells: a review”, Environmental Science and Pollution Research, Vol. 28, pp. 28911–28925, 2021.
+N.T. Mary Rosana, K.L.Vincent Joseph, “Synthesis and solar cell power conversion efficiency improvement of π-extended triphenylamine dyes for indoor light-based applications”, Applied Nano Science, 2022.
+K. Sathya, K. Nagarajan, “A comprehensive review on comparison among effluent treatment methods and modern methods of treatment of industrial wastewater effluent from different sources”, Applied Water Science, Vol 12, Issue 70, 2022.
+2019 - 2020
+Ayshasaniya, K. Sathya, K.Nagarajan, H. Jayalakshmi and S. Bharathi, “Optimization of synthesis of biochar for the removal of cationic dye from aqueous solution”, International Journal of Advanced Research, vol. 8(02), pp. 84-89. February 2020. ISSN: 2320-5407. [Publisher: Morse Florse, DOI: 10.21474/IJAR01/10438].
+K.Sathya, H Jayalakshmi, S Bharathi, K.Nagarajan, “Production and Quality Evaluation of Jam from Palmyra Fruit- Optimization by using Response Surface Methodology”, Zeichen Journal, vol. 6, pp. 105-118. June 2020. ISSN: 0932-4747. [Impact Factor: 0.1, Publisher: Signum Verlag, DOI: 5.10089.ZJ.2020.V6I3.285311.2061].
+G.Vijayaraghavan, V.Anush, B.Lokesh, R.Rishi, “Preparation of black lyophilic ink using the carbon soot emitted by vehicles” Environmental Science and Pollution Research [SCOPUS Indexed, SCI Indexed, Impact Factor: 3.25] (Annexure I)
+Available online from June, 2020.
+G.Vijayaraghavan & S.Shanthakumar, “Removal of Crystal violet dye in textile effluent by coagulation using Algal Alginate from brown algae Sargassum sp” Desalination and Water Treatment, Vol. 196, pp. 402–408, August 2020. [SCOPUS Indexed, SCI Indexed, Impact Factor: 1.23]
+Aysha Saniya, K. Sathya, K. Nagarajan, M.Yogesh, H. Jayalakshmi, S.Bharathi and P.Praveena. “Modelling on the removal of crystal violet dye from textile effluent using Murraya koenigii stem biochar”, Desalination and water Treatment, vol. 203, pp. 356–365 November 2020. ISSN: 1944-3994. [SCOPUS, SCI, Impact Factor: 1.320, Publisher: Desalination Publ., DOI: 10.5004/dwt.2020.26191].
+2018 - 2019
+J.Padmapriya, G.Vijayaraghavan. & Shanthakumar.S, “Adsorption potential of Water hyacinth on removal of Direct Blue 2 dye from aqueous solution: Isotherm kinetics and thermodynamics studies” Indian Journal of Environmental Protection Vol.39 (5), pp. 437-444, May 2019, Publisher: Kalpana Corporation, [SCOPUS Indexed, Impact Factor: 0.204]
+K. L. Vincent Joseph, N. T. Mary Rosana, R. Easwaramoorthi, J. Judith Vijaya, S. Karthikeyan and J. K. Kim, “Output current enhancement of hexylthiophene functionalized D–p-extended–A triphenylamine in dye sensitized solar cells” New Journal of Chemistry, Vol. 43, pp. 10834 – 10840, July 2019, Publisher: Royal Society of Chemistry, [SCOPUS Indexed, SCI Indexed, Impact Factor : 3.069]
+2017 - 2018
+G.Vijayaraghavan & S.Shanthakumar., “ Effective Removal of Acid Black 1 Dye in Textile Effluent Using Alginate from Brown Algae as a Coagulant” Iranian Journal of Chemistry and Chemical Engineering, Vol. 37(4), pp. 145-151, August 2018, Publisher: Iranian Journal of Chemistry and Chemical Engineering [SCOPUS Indexed, SCI Indexed, Impact Factor : 0.860]
+G.Vijayaraghavan, M. Mathuram,, R. Meera, Application of Locally Sourced Plants as Natural Coagulants For Dye Removal from Wastewater: A Review, Journal of Material and Environmental Science, 9(7) September. 2018, 2058-2070.
+G.Vijayaraghavan, S.Shantha Kumar, Effective removal of Reactive Magenta dye in textile effluent by coagulation using algal alginate, Desalination and Water Treatment, (SCI) (Annexure - I), 121 (2018) July, 22–27.
+G.Vijayaraghavan, R. Babu; G. Manikandan; Yung-Tse Hung, “Removal of copper ions from aqueous solution by Annona squamosa biomass using biosorption”, International Journal of Environment and Waste Management (Scopus Indexed), Vol. 22, Issue (1/2/3/4), August 2018, 201-214.
+G.Vijayaraghavan; M. Jayalakshmi; A. Suresh; Yung-Tse Hung, “Mathematical programming approach for optimal allocation in the wastewater management”, International Journal of Environment and Waste Management, (Scopus Indexed), Vol. 22, Issue (1/2/3/4), August 2018, 192-200.
+N.T.Mary Rosana, K.L.Vincent Joseph, S. Sowmiya. Health Care Waste Management in India - Towards a Healthier Environment. Research J. Pharm. and Tech 2018; 11(12): 5687-5690. doi: 10.5958/0974-360X.2018.01030.2
+2016 - 2017
+G.Vijayaraghavan, M.Jayalakshmi, “Fuzzy Logic and Neural Networks Based Expert Systems in Chemical Process Systems” International Journal of Chemical Sciences15(3), July, 2017, 156.
+G.Vijayaraghavan, P. Vignesh Kumar, K. Chandrakanthan, S. Selvakumar, “Acanthocereus tetragonus an effective natural coagulant for Decolorization of synthetic dye wastewater” Journal of Material and Environmental Science, 8(9) , August , 2017, 3028-3033.
+SPECIAL ACHIEVEMENTS
+International Achievements
+Our student Jeya Bharathi G was sponsored to present a poster on “Carbon Sequestration through gas hydrates” at the YNU India-Japan symposium conducted at YOKOHAMA NATIONAL UNIVERSITY at Japan in 2019.
+Our students Mujahid Ali and Varshini Ramesh underwent a 2-week internship at the Swinburn University, Melbourne, Australia and our student Adithya Jairam V underwent a 2-week internship at the Sarawak/ Swinburne University, Sarawak campus, Malaysia.
+Chemcon
+CHEMCON is the most premier chemical engineering event in India and offers the most attractive platform, ensuring four days of intensive interface among the National and International experts in Chemical Engineering and allied fields. These interactions will help the participants to constantly update and equip themselves so as to keep pace with the fast changing professional scenario. Students, condescending professors and industrial experts take part in the prestigious event.
+Our students achieved a feat in the 72nd edition of Chemcon Conducted at IIT Delhi for having the highest number of student teams from a single college. Projects of our students Ahijit R and Vaibavi J were selected to be presented orally in the event. And project of Anush Venkataraman, Lokesh Babu, and Rishi Rajan were selected to presented as a poster.
+Schemcon
+SCHEMCON, Students' Chemical Engineering Congress, is an annual event organized by the Students' Chapter of Indian Institute of Chemical Engineers (IIChE) under one of its Regional Centers. It provides a platform for the Chemical Engineering Students to interact, learn and gain exposure to the expanding arena of Chemical Engineering. The event brings together hundreds of students all over India and network them with key leaders both from industry and academia. Our students Anush Venkataraman, Lokesh Babu, and Rishi Rajan won the prestigious best oral presentation award amongst 200 participants across India in the event.
+Innova Pals
+Yuva Sriram B along with his team mates won the “Best Innovation award” for the design of sensor for the visually impaired in 2019 held at IIT Madras
+Makkal TV Interview
+The Project of our students Anush Venkataraman, Lokesh Babu, and Rishi Rajan on Ink from air was interviewed by the Makkal television Channel and telecasted on March 1, 2020.
+Faculty Achievements
+Mr.K.Sriram/Adjunct Faculty of Department of Chemical Engineering presented Working model on “ Pilot plant study on treatment of Grey water using Electrocoagulation process” Conference on Chennai Water Management – Organized by Confederation of Indian Industry (CII -2019)
+Professional Society
+IICHE Student Chapter
+Indian Institute of Chemical Engineers (IICHE) is the apex professional body of chemical engineering professionals in India. Student members pursuing under-graduate degrees in Chemical Engineering form Student Chapters, under the auspices of the respective Regional Centres. The Student Chapters arrange lectures, seminars, short courses, plant visits, etc., at regular intervals to better equip and empower the students when they come out of their academic precincts. Academic activities apart, Student Chapters organize cultural events and sports activities for their members.
+Department of Chemical Engineering, Rajalakshmi Engineering College has formed the IICHE Student Chapter. The inauguration of IICHE Student Chapter was held on 6th September 2019 at Rajalakshmi Engineering College. Dr.Ragunathan Rengaswamy, Institute Char Professor, IIT Madras, Chief Guest of the function inaugurated the student chapter. Dr.N.Balasubramanian, VC-IICHE, Chennai , Professor at A.C.Tech and Mr.D.Gokul, Honorary Secretary-IICHE Chennai, Scientist ISRO were the guests of Honour.
+On 21 February 2020, a session titled
+Sophisticated Instrumentation – An Overview
+was conducted for our students.
+The talk was delivered by Dr. M. Helen Kalavathy and Ms. T. Santhoshini Priya, Assistant Professors from the Department of Chemical Engineering, Alagappa College of Technology, Anna University.
+The program was coordinated by Dr. K. Vijayaragavan and Ms. L. Anitha Jegadeeswari from the Department of Chemical Engineering, Rajalakshmi Engineering College.
+A total of 50 participants attended the session.
+$21
+Chemical Engineering is supplemented by several state-of-the-art laboratories, which cover all areas of practical interest. Laboratories like Fluid Mechanics, Heat transfer, Mass transfer, Particle Science and Technology, Chemical Reaction Laboratory, Process Control, and Research Lab are available.
+The Chemical Engineering laboratory includes ,
+1. Fluid Mechanics Laboratory
+List of Equipment:
+Venturi meter, Orifice meter, Rotameter, Helical And Spiral coils, Centrifugal pump, Reciprocating pump, Gear Pump, Annular pipe , open drum orifice, Drag studies
+2. Particle Science and Technology Lab
+Gyratory Sieve Shaker, Leaf Filter, Plate and Frame Filter Press, Jaw Crusher, Roll Crusher, Cyclone Separator, Elutriator, Drop Weight Crusher, Ball mill
+3. Heat Transfer Lab
+Open Pan Evaporator, Boiler, parallel flow heat exchanger, Bare and finned tube heat exchanger, Condenser, Helical coil, Agitated vessel, shell and tube heat exchanger, Vertical condenser, Stefan Boltzmann's apparatus, Thermal conductivity apparatus, Natural convection and forced convection.
+4. Mass Transfer lab
+Simple Distillation Set-up, Steam Distillation Set-up, Packed bed distillation Column, Liquid-Liquid extractor,Vacuum tray Dryer, forced draft Tray Dryer, Rotary dryer, Ion-Exchange Column, Rotating Disc Contactor, Cooling tower, Absorption Column, Vapour liquid equilibrium setup
+5. Chemical Reaction Engineering Lab
+Batch Reactor, Plug Flow Reactor, CSTR, Photochemical Reactor, Packed bed Reactor, Sono chemical reactor, Batch reactive distillation.
+6. Process Instrumentation Dynamic and Control Lab
+Non-interacting and Interacting system, Pressure control trainer, Temperature control trainer, Cascade Control trainer (flow and level), Control Valve Characteristic, Flow control trainer, First-order system and second-order system
+7. Computational Programming Lab for Chemical Engineers
+Available Softwares:
+MATLAB, Excel , Scilab, polymath
+8. Research Lab
+UV-visible spectrophotometer, Hot air oven, Vacuum Oven, Magnetic stirrer, pH meter, Nephelometer, TDS Meter, Jar Test Apparatus, Orbital shaker, COD Apparatus - Vacuum Pump, Rota Mantle, COD Digester, Hydrothermal Autoclave, Colorimeter
+Supporting Staff
+A.Balbina
+, Department Coordinator
+Mr.V.Gunasekaran
+, Lab Assistant
+Mr.S.Saravanan
+

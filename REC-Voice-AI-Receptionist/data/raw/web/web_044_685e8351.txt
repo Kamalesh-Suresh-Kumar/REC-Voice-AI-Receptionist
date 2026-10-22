@@ -1,0 +1,24 @@
+TITLE: National Innovation and Startup Policy | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/nisp
+SOURCE_TYPE: website
+SECTIONS: ["Policy", "CLICK HERE TO VIEW/DOWNLOADNational Innovation and Startup Policy 2019", "CLICK HERE TO VIEW/DOWNLOADREC NISP Policy 2022", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Policy
+The National Innovation and Startup Policy for students and faculty of Higher Education Institutions (HEIs) will enable the institutes to actively engage students, faculties and staff in innovation and entrepreneurship related activities. This framework will also facilitate Ministry of Human Resource Development in bringing uniformity across HEIs in terms of Intellectual Property ownership management, technology licensing and institutional Startup policy, thus enabling creation of a robust innovation and Start up ecosystem across all HEIs.
+SECTION: CLICK HERE TO VIEW/DOWNLOADNational Innovation and Startup Policy 2019
+SECTION: CLICK HERE TO VIEW/DOWNLOADREC NISP Policy 2022
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+National Innovation and Start up Policy-2019 for faculty and Students of Higher Education Institutions is initiated by MHRD’s Innovation Cell and AICTE. REC adopted the NISP of AICTE AND MHRD to encourage students as well research oriented faculty towards Innovation and Entrepreneurship related activities.
+To promote innovation and start-up culture amongst the students and faculty of Higher Education Institutes, the following core team is formed.
+Chairperson
+Dr. (Mrs.) Thangam Meganathan
+Vice Chairman
+Mr. Abhay Meganathan S
+Principal
+Dr. S. N. Murugesan
+Advisory Committee
+Coordinator
+Dr. A. Selvaraj/EEE
+

@@ -1,0 +1,19 @@
+TITLE: Virtual Lab on Communication Systems | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/vlabs
+SOURCE_TYPE: website
+SECTIONS: ["Introduction"]
+
+SECTION: Introduction
+Developed by the Department of Electronics and Communication Engineering Faculty Coordinators: 1. Dr. J. Saranya, Associate Professor, ECE 2. Dr. S. Chitra, Professor, ECE 3. Ms. T. Helan Vidhya, Assistant Professor (SG), ECE Student Team: 1. Narayanan V 2. Sanjeev Kumar M 3. Niteesh Babu G S 4. Shivashankar U 5. Vishal Balaji Sivaraman 6. Kavin Kumar G 7. Sayad Pervez B 8. Kanish R 9. Sanjay Kumar A 10. Deepak chowdry M 11. Goutham S 12. Ganesan T V 13. Gautham V
+TABLE | SECTION: Introduction
+Sl.No. | Experiment Name | VLabs Link
+1 | Binary Frequency Shift Keying Modulation and Demodulation | Click here
+2 | Binary Phase Shift Keying Modulation and Demodulation | Click here
+3 | Delta Modulation and Demodulation | Click here
+4 | Frequency Modulation and Demodulation | Click here
+5 | Pulse Code Modulation and Demodulation | Click here
+6 | Quadrature Phase Shift Keying Modulation and Demodulation | Click here
+7 | Direct Sequence Spread Spectrum | Click here
+8 | Line Coding | Click here
+9 | Linear Block Codes | Click here
+10 | Amplitude Modulation and Demodulation | Click here

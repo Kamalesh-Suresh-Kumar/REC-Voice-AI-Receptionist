@@ -1,0 +1,86 @@
+TITLE: Food Technology | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/ft
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+Programmes Offered UG - B.Tech. Food Technology
+Department of Food Technology is introduced from the Academic Year 2018-19. The Indian food industry is poised for huge growth increasing its contribution to world food trade every year. It has emerged as the highest growth and profit section due to its immense potential in food processing industry. Global giants are investing billions of dollars in India in this sector. Indian government also aims to set up new processing units, with a strong focus on supply chain infrastructure. The curriculum of B.Tech Food Technology offered in REC provides appropriate importance to all the areas in food science and technology such as Food processing, Preservation, Food safety, Quality control, Equipment design, process Engineering, Innovative and instant food products. It also offers Baking and confectionery technology, fruit and vegetable processing technology, Dairy processing, food packaging, Functional foods and Neutraceuticals, Plantation technology, Refrigeration and cold chain management and Industry training. etc. B.Tech (Food Tech) being a Choice based credit system course offered by an autonomous institution, the ambience is best suited for active learning with industry training, online courses, open electives, facility to go abroad for internships etc and the state of the art labs provide ample opportunity to innovate & research. A team of dedicated, well qualified and experienced teachers teach, guide and motivate the students to excel and come out with flying colors. A student graduating after completion of this course has opportunities in industries, Multinational companies, Hospitality outlets and also as entrepreneurs. They also have the privilege to go abroad for higher studies, management and research. Of course REC is definitely the destination for aspiring engineers.
+Vision To develop food technologists with academic excellence focused on education, research and development with the technical knowledge on value addition, food nutrition, food quality and safety to cater the needs of industry as well as society. Mission To impart quality technical education in the different areas of Food technology To provide a platform for overall development of the students, to be more creative, innovative and globally competent ethical professionals To promote research and develop technologies for the sustenance and wellbeing of the society
+Updated on 18.08.2026
+
+FACULTY
+=======
+Dr.Ramalakshmi K, HoD & Professor
+Dr.Sudhakar Venkatakrishnan, Professor
+Dr.Bharathi P, Associate Professor
+Ms.Divyashree J.S., Assistant Professor
+Ms.Nithya Bala Sundari Sanjivirajan, Assistant Professor
+Mr.Anand Ravichandran, Assistant Professor
+Ms.Manonmani K, Assistant Professor
+Ms.Kulastic Jassy Antony, Assistant Professor
+Dr.Niveadhitha S, Assistant Professor
+Ms.Aruthra Devi G, Assistant Professor
+Ms.Midhuna L V, Assistant Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+Program Educational Objectives (PEOs)
+The Food Technology curriculum is designed to prepare graduates having knowledge with high ethical values and industrial preparedness
+To Understand and apply the concepts of basic sciences, Engineering and Technology towards their application in the area of Food Technology
+To Identify and analyse to solve problems for the development of products, processes, techniques to meet the demands of the society.
+To Apply the learnt theory and practical skills in Food Technology for industry, R&D and entrepreneurship
+To Learn professional and ethical attitude especially its impact on safety, health and environment
+To Build an environment that is conducive to higher academic pursuit and nurture creative and innovative thoughts
+Programme Outcomes (POs)
+Engineering knowledge:
+Apply the knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems.
+Problem analysis:
+Identify, formulate, review research literature, and analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences.
+Design / development of solutions:
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal and environmental considerations.
+Conduct investigations of complex problems:
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions.
+Modern tool usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The engineer and society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability:
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Ethics:
+Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practices.
+Individual and team work:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication:
+Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Project management and finance:
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Life-long learning:
+Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAMME SPECIFIC OUTCOMES (PSOs)
+By the completion of Food Technology B. Tech program, the student will
+Develop theoretical and practical knowledge; develop effective communication and cognitive skills.
+Develop focus in the Food Technology and apply critical thinking and problem-solving skills to address current challenges in the food industry.
+Understand the importance of responsibility, dependability, punctuality, courtesy, sensitivity, respect for others and effort in the work place.
+Commit to the highest standards of professional integrity and ethical values.
+Regulation 2023 (Batch 2023 onwards)
+Regulation R2023 (Batch 2024 onwards)
+Regulation R2019
+Food Technology is a dynamic and rapidly evolving field that combines science, technology, and engineering to develop and improve food products and processes. As a food technologist, you will play a crucial role in ensuring the safety, quality, and sustainability of food from production to consumption.
+Quality Assurance Manager
+Food safety officer
+FSSAI – Technical officer
+Food Analyst
+Food Scientist
+Product Development Specialist
+Production Manager
+Food Business Owner
+Start-ups / Food Industry Consultant
+Supporting Staff Members
+Mr. R. Balamurugan, Lab Assistant
+Ms. R. Saritha, Lab Assistant
+Ms. R. Deepa, Lab Assistant
+Ms. N. Devagi, Lab Attender
+Ms. R. Prathiba, Department Coordinator
+

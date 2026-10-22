@@ -1,0 +1,42 @@
+TITLE: Regulations | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/reg2019-18-22
+SOURCE_TYPE: website
+SECTIONS: ["Regulations 2019 (From 2021 Batch)", "Regulations 2019 (From 2021 Batch) - UG", "Regulations 2019 (From 2021 Batch) - PG (Engineering)", "Regulations 2019 - PG (M.B.A.)"]
+
+SECTION: Regulations 2019 (From 2021 Batch)
+SECTION: Regulations 2019 (From 2021 Batch) - UG
+Aeronautical Engineering
+Artificial Intelligence and Data Science
+Artificial Intelligence and Machine Learning
+Automobile Engineering
+Biomedical Engineering
+Biotechnology
+Chemical Engineering
+Civil Engineering
+Computer Science and Design
+Computer Science and Engineering
+Computer Science and Business Systems
+Electrical and Electronics Engineering
+Electronics and Communication Engineering
+Food Technology
+Information Technology
+Mechanical Engineering
+Mechatronics
+Robotics and Automation
+OPEN ELECTIVIES for All Departments
+Minor Degree Programmes for All Departments
+SECTION: Regulations 2019 (From 2021 Batch) - PG (Engineering)
+Avionics
+Biotechnology
+Communication Systems
+Computer Science and Engineering
+Data Science
+Engineering Design
+Embedded System Technologies
+Medical Electronics
+Embedded System Technologies
+OPEN ELECTIVIES
+SECTION: Regulations 2019 - PG (M.B.A.)
+M.B.A.
+PAGE LINKS
+LINK: Minor Degree Programmes for All Departments -> https://www.rajalakshmi.org/minordegree-R2019R.php

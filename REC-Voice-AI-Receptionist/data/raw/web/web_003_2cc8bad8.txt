@@ -1,0 +1,14 @@
+TITLE: Controller of Examinations | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/about-coe
+SOURCE_TYPE: website
+SECTIONS: ["About", "NEXTJS-SERIALIZED-CONTENT"]
+
+About
+The Office of the Controller of Examinations is equipped with the the state-of-the-art technology infrastructure for effective functioning. The Office of the CoE is located in the Workshop Block of the College. The office is spacious and air-conditioned, and has a large amount of storage capacity to store question papers, answer sheets and examination materials. The office has an attached store room.
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+Certificate for CGPA to Percentage Conversion -
+Click here to download
+Certificate for Medium of Instruction -
+

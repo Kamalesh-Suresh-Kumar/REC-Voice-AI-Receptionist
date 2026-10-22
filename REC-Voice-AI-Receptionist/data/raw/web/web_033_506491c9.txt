@@ -1,0 +1,253 @@
+TITLE: Mechatronics Engineering | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/mct
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+Programmes Offered UG - B.E. Mechatronics Engineering
+VISION To attain excellence in academics, research and technological advancement in Mechatronics Enginnering with a concern in society MISSION
+To impart high quality professional education and produce Mechatronics Engineers with all round knowledge of multi-disciplinary branches of engineering and technology.
+To foster skill sets required to be a global professional in the areas of intelligent systems, robotics, research and technology management and to fulfill the expectations of industry and needs of the society.
+To inculcate entrepreneurial qualities for creating, developing and managing global engineering ventures.
+B.E. MECHATRONICS ENGINEERING
+B.E. Mechatronics Engineering was introduced in the academic year 2015-2016 in direct response to the industrial demand for engineers with multi-disciplinary skills.
+Mechatronics is a synergistic blend of mechanical, electrical, electronics, computer science, information technology, and control systems to design, execute and maintain products with intelligence. Mechatronics has a wide range of applications from Industrial Automation to biomedical.
+Robotics can be viewed as a subdivision of mechatronics that focuses on sophisticated control of mechanisms with mobility.
+Mechatronics engineers create and improve automated processes and they are well-known for their strong logical and problem-solving abilities and find employment in a wide range of domains.
+The curriculum is framed to address the current industrial needs and future technological advancements with a special focus on Machine learning, Artificial intelligence, robotics and automation, etc.
+WHY MECHATRONICS ENGINEERING
+Opportunities after mechatronics engineering are limitless.
+Opportunities mainly in the electronics industry, industries like automobile, robotics.
+This degree will be flexible and will be able to give you job opportunities in all the fields like computer science, mechanical industries as well as electrical and electronics industries along with good communications, technical skills
+Mechatronics students play a vital role in the implementation IoT-enabled devices, Industry 4.,0 and,, robotics.
+Updated on 08.09.2026
+
+FACULTY
+=======
+Dr.Santhanam V, HoD & Professor
+Dr.Chandramohan Palaniappan, Professor
+Dr.Gopinath S ., Professor
+Dr.Ramesh Shunmugam, Associate Professor
+Dr.Balakarthikeyan Manickam, Associate Professor
+Dr.M Shantharaj, Assistant Professor(SG)
+Ms.Uma Maheswari, Assistant Professor(SG)
+Mr.Sridharan M, Assistant Professor (SS)
+Dr.Nambiraj M, Assistant Professor
+Mr.Vimalesh Annadurai, Assistant Professor
+Mr.Prakash E, Assistant Professor
+Mr.Nareshbabu G, Assistant Professor
+Ms.Nivethitha Sivasubramaniyan Baskaran, Assistant Professor
+Mr.S Sathishkumar, Associate Professor
+Ms.Roobini K, Assistant Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+PROGRAMME EDUCATIONAL OBJECTIVES
+Graduates will have comprehensive knowledge in the analytical, scientific and engineering fundamentals necessary to model, analyse and solve engineering problems and to prepare them for graduate studies and for successful careers in industry.
+Graduates will effectively design and develop products in the areas such as manufacturing, motion control, machine vision, system simulation, intelligent systems, automotive systems and robotics.
+Graduates will acquire Technical expertise, Leadership skills, Ethical practices and Team spirit with a concern towards greener society.
+PROGRAMME OUTCOMES
+Engineering Graduates will be able to:
+Engineering knowledge:
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Problem analysis:
+Identify, formulate, review research literature, and analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+Design/development of solutions:
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+Conduct investigations of complex problems:
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+Modern tool usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The engineer and society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability:
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Ethics:
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Individual and team work:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication:
+Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Project management and finance:
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Life-long learning:
+Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAM SPECIFIC OUTCOMES (PSOs)
+To innovate a Mechatronics system to meet the requirements and specifications.
+To analyse and improve the performance of a Mechatronics system and enhance the intellectual capabilities of the system.
+To lead professional career in industries or an entrepreneur by applying Engineering and Management principles and practices.
+Regulations 2023
+Regulations 2019 (From 2021-25 batch)
+Regulations 2019
+Regulations 2017 (From 2018-22 batch)
+Regulations 2017 (2017-21 batch)
+Regulations 2013
+GUEST LECTURES ARRANGED BY THE DEPARTMENT
+Mr. AJD Nandhakumar, Associate Professor from Rajalakshmi Engineering College has delivered a guest lecture on “Automotive Mechatronics on 26th December 2017
+Mr. P.R.Haribabu, Senior Manager from Daimler India commercial vehicle (Benz) has delivered guest lecture on shaping your future on 23rd December 2017.
+Mr. Senthil, Director from Design CAD Technologies has delivered a guest lecture on recent trends in CAD/CAM/CAE on 1st Oct 2017
+Mr.K.P.Ramanathan, chairman from Institute of Engineers (IE) has delivered a guest lecture on Industrial Engineering on 27th August 2017.
+Mr. Nagaraja rao, Dy. General Manager from Ashok Leyland has given a guest lecture on Recent trends in Manufacturing 11th August 2017.
+Ms. Sudha, Branch Manager from KKM Soft has given a guest lecture on Internet of Things on 9th August 2017
+Dr. JM Selvakumar, Former Scientist NIOT, Chennai has given a guest lecture on under water Robotics on 5th August 2017.
+Mr. V. Sudharsan, Metallurgical consultant from Consultant & Vice president (retd ) , Wheels India has delivered a guest lecture on modern metallurgy on 27th March 2017
+Mr S.Ramasundaram, Scientist from NIOT has delivered a guest lecture on Ocean Observation System on 24th January 2017
+Mr T.R.Selvaraj, Head of Product Design & Development from Page Industries Ltd, Bangalore has delivered a guest lecture on “Automation in textile industries” on 10th October 2016.
+Mr.Sriram Jayakumar, unior Partner from Kalaivani Electrical,GI Industries has delivered a motivational guest lecture on 6th September 2016.
+INDUSTRIAL VISITS ARRANGED BY THE DEPARTMENT
+III MCT students visited CIPET- Guindy on 6th Sep 2017 and gained a knowledge on plastics technology services in the fields of design, processing, testing , inspection and plastics wastes recycling services to the polymer & ailed industries
+II MCT students visited CIPET- Guindy on 5th Sep 2017 and gained a knowledge on plastics technology services in the fields of design, processing, testing , inspection and plastics wastes recycling services to the polymer & ailed industries
+II MCT students visited KKM Soft on August 17th 2017- a business process automation company, the students has been exposed with training on process automation solution for a product manufacturing and 3D Configurations technology.
+II MCT students KCP Heavy Engineering Plant at Thiruvottiyur on 3rd March 2017- Manufacturing sector, the students has been taken to the various integrated steel foundry, heavy fabrication, heavy machining & assembly shops.
+II MCT students Visited GMR Power Corporation Ltd- Power plant sector , owned by GMR Vasavi Diesel Power Plant on August 31st 2016 and has exposed to the operating characteristics of two-stroke diesel engine technology.
+WORKSHOP CONDUCTED BY THE DEPARTMENT
+Dr. V. Santhanam , Mr.S.Vinoth Kumar and Mr. S.Ram kumar have conducted a Five days Advanced Training on Design & Fabrication of Affordable CNC Machines during 12th December 2017 to 16th December 2017. At the end of the workshop the students gained comprehensive knowledge on wide range of topics such as Machine design, Design of Transmission Systems, Electrical drives, Stepper Motors and controls, Arduino programming, CNC Programming (G Code and M Code), GRBL software and Embedded Programming.
+Two days hands on workshop on robotics titled “Integrated Bluetooth controlled Pick and Place Buggy” was conducted for the students of REC on 12th and 13th of march 2018.
+Two days hands on workshop on robotics titled “Integrated Bluetooth controlled Pick and Place Buggy” was conducted on 16th and 17th of march 2018 a total of 26 students from various engineering colleges participated in the workshop.
+INTERNATIONAL CONFERENCE CONDUCTED BY THE DEPARTMENT
+The Department of Mechatronics Engineering in Association with the departments of Mechanical Engineering, Aeronautical Engineering, Automobile Engineering and Civil Engineering conducted an International conference titled “Green Manufaturing : Analytics, Automation, Processes, Products, Energy& Structures” (GM:AAPPES 2018) on 28th, 29th March 2018.
+INDUSTRY COLLABORATION
+Centre for Factory Automation and Robotics was established in association with CDCE automation, Chennai to give MSME certified training on Industrial Automation and Robotics for the students. The laboratory consists of state of art PLC systems, SCADA, HMI and industrial controllers and various sensors.
+INDUSTRIAL LIAISON
+Dr.V.Santhanam, Ms. Keerthana D, Ms. Gayathri K visited TI Metal Forming Pvt Ltd- leading manufacturers of car door frames on 10th December 2017 and gained knowledge on metal forming fundamentals and applications.
+Mr.A.Eswaran, has undergone a 1 day (10th sep 2017) training programme on PALS Training at L&T company.
+Dr.V.Santhanam, has done a industrial project for a duration of 25 days(4th September 2017 to 30th sep 2017 ) at Ashok Leyland- Ennore unit under the title “weight reduction on Engine Block of H-Engine”.
+Dr.V.Santhanam, Ms. R.Vivekanandhi has visited CDCE facility in Robotics and Industrial Automation on July 15th 2017 and gained knowledge on the programming skills of PLC and use of various control systems.
+IN-PLANT TRANING/INTERSHIP BY THE STUDENT
+Swaninathan R undergone a 1 week (12th Dec – 17th Dec 2017) Internship at Hyundai Motors Under Manufacturing Sector
+Gowtham Kumar taken a 1 month (12th Nov- 15th Dec 2017)Internship at Southern Railways Under the topic A/C Electric Loco Shed (Royapuram)
+Bharath S taken a 1 month (12th Nov- 14th Dec 2017)Internship at Karur Substation under Web Technology
+Pradeep Kumar. P, Balayogesh. Undergone a 3 Days training (2nd Dec- 4th Dec 2017) S.L -RANE steering system Ltd under the title PLC and servo drive.
+Leegin V I undergone 1 month(12th Nov – 16th Dec 2017) Internship at Ashok Leyland(Hosur Unit-2) Under Assembly & Manufacturing Sector
+Naveen Raja V undergone 3days (19th June- 21st June 2017) training at ARS Energy Private Limited under the title Specialization in Non Renewable Energy
+Karuna S, Kaviya P, Arunkumar P undergone 3days (12th May- 14th May 2017) training at GOE CODE,BANGALORE under the title IoT ,Ethical Hacking,Webpage Designing,App Designing,Networking.
+Vasanth Ram K, Dinesh Kumar.V, Praveen Kumaran.V undergone 4 days (21st June- 23rd June 2017) training t Wiztech Automation Solution Private Limited under the title Embedded System
+Ravi Adhithya. V.J Taken a 4Days (27th May – 30th May 2017) Internship at TVS Training and Services under the Topic Plc and Servo Drives
+Abdul Rahman S taken 1 Month(12th April – 12th August 2017) Internship at Cheyyar Sugar Mill Under Testing Sector
+Rivian. T undergone 3 Month (12th April – 12th August 2017) internship at Central Scientific And Industrial and Gained a Knowledge On Energy Monitering System,Energy Management System, Nano Technology,Pathogen Deection, Embeded System,Earthquake Simulation.
+Vinoth. S, Karthik. R, Krishnamoorthy. S, Sivagurunathan, S.Vimal Kumar, P.Veeramanikandan, K.Sivakirubakaran, D.Dhilip undergone 3month(12th April – 12th August 2017) Internship at Cheyyar-Suagr Mill
+Rajesh Kannan M, Raghav Sethuram V taken 3 month (12th Feb- 12th July 2017)Internship at the Acetech Machinery Components India Pvt Ltd under the Project Welding, Laser Cuting, JCB Front Crane Manufacturing
+WORKSHOPS ATTENDED BY THE STUDENTS
+Sivagurunathan K, Vasanth Ram K, Jagadeesh CR ,Arvind S ,Abdul Rahman S,Krishnamoorthy S participated in Automation using PLC conducted by Anna University, Chennai on 22nd & 23rd sep 2017.
+Kishore Kumar R , Bharath S, Karuna S attended 2 day (7th & 8th Sep 2017) workshop at Kumaraguru College of Technology under the title “IOT using Raspberry Pi”.
+Gowtham Kumar J, Veeramanikandan P, Dhilip.D, Sivagurunathan K, Rudhramoorthy R attended 1 day (19th August 2017) Worksop at Top Engineers under the topic “Hardley Davidson Bike and car”
+Bharath S, Kishore Kumar R, Karuna S, Gowtham Kumar J attended 1 day (16th August 2017) worksop at SRM University under the topic “IOT Based on ARDUINO”
+Karuna S, Sivagurunathan K, Sivakirubakaran K, Veeramanikandan P, Rudhramoorthy R attended 1 day (12th August 2017) worksop at Top Engineers under the topic “Embedded System Design”
+FACULTY CONTRIBUTION
+Mr.R.Giri, Mr.S.Ramkumar delivered a 3 days (14th Dec- 16th Dec 2017) guest lecture under the title “CNC machine using Arduino” at REC
+Mr.S.Ramkumar attended 3Days Workshop on 4th Dec & 5th Dec 2017 Stress Management (PALS Training) organised by JNN Institute of Engineering, ICT Academy
+Ms. D.Keerthana attended 3Days 1st Dec- 3rd Dec 2017 Workshop on Pedagogy on Teaching Learning Centre (PALS Training) organised by Indian Institute of Technology, Madras
+Mr.M.Sridharan, Mr.A.Eswaran attended 2 days (21st & 22nd Nov 2017) FDP on “Creative Thinking”Organised by KCS Nadar Arts and Science College.
+Ms. K.Gayathri, Ms. D.Keerthana attended 4 days (8th Nov – 11th Nov 2017)FDP on “Basic Electrical, Electronics, Measurement and Instrumentation Engineering” at Rajalakshmi Institute of Technology
+Dr.V.Santhanam attended a seminar 11th Oct 2017 under the title “Stimulate your innovation using ABAQUS” organised by EDS Technologies
+Mr.A.Eswaran attended a seminar on 10th Oct 2017 under the title “Industrial Visit to Rubber Equipment Processing” hosted by L& T Technology.
+Mr.S.Ramkumar attended Two Days 16th &17th sep 2017 Workshop on AVR (Atmega-16)for Robotic application organised by Madras Institute of Technology
+Mr.S.Ramkumar, Ms.D.Keerthana attended a seminar on 25th Aug 2017under the title IEEE Student Interaction organised by Indian Institute of Industrial Engineering
+Dr V. Santhanam delivered a guest lecture on 10th Aug 2017 under the title “composite materials” at St.Joseph's Institute of Technology.
+Dr.V.Santhanam attended a 1 day (28th March 2017) conference at kalasalingam universityunder the title “Advanced materials & processing jute fiber composite”.
+Dr.V.Santhanam attended a seminar on 23rd Feb 2017 under the title “Modeling of Simulation of Mechanical systems using MAT Lab” organised by Math work.
+SPORTS
+Karuna S won a 3rd place in Table tennis Tournament at Anna university zonal match hosted by SMIT conducted on 19th Sep 2017.
+Naveen, K Ajith Kevin Anand became runners at Anna university Football zonal match hosted by College of Engineering, Guindy on 10th Oct 2017.
+Bharath S has been selected to represent Tamil Nadu Floor ball (Men) team Floor ball - Senior National Championship at Meerut-Uttar Pradesh which was held on 11th July 2017.
+STUDENTS ACHIEVEMENTS
+Mothish Kumar R,Vignesh Kumar E has participated in Pulse 17 at SVCEon 27th Sep 2017.
+Bharath S,Kishore Kumar R,Jayadeeban J has participated in project expo under the title “sliding windows” on 22nd sep 2017 at Vellammal Engineering College, Madurai
+Gowtham Kumar has won a 2nd place in Venture 2k17 20th sep 2017- Business Hackathon under E-cell at REC
+Jayadeeban J, Jayadev Krishnan P M, Vasanth Ram K particip[ated in Quiz competitionon 7th sep 2017 hosted by Ethiraj vcollege under the title “Sweeden Embasy”
+Jagadeesh R has received a certificate of appreciation under the event Robo war organised by Chennai Institute of Technology on 16th Aug 2017.
+R. Shadhan,Jagdeesh R,Vigneshwaran R,Nidharshan V RA participated in Project Expo under the event Chennai International Youth Fest 2017 (16th &17th Aug 2017) organised by Chennai Institute of Technology and won a 2nd Prize and Medal from Central Govt.
+2022
+Book/Book Chapter Publications
+Santhanam, V., Sendhilkumar, S., Venkateshwaran, N. and Chandrasekaran, M.” The Effect of Drilling Parameters on the Hole Quality of Hybrid Fiber-Reinforced Epoxy Composite” Lecture Notes in Mechanical Engineering. Sustainable Machining Strategies for Better Performance ,(SCOUPS) Springer, pp 99–110, DOI:
+Journal Publications
+Srinivasan P, Somasundaram D, Subramanian R, Vajjiram S ” Experimental Investigation of Pterocarpus Marsupium Resin/LY 556 Epoxy Blended Hybrid Polymer Material.” (SCOPUS) Mater. Plast., 59 (1), 2022, 122-130 DOI:
+International/National Conferences:
+Aravind S, Ariharan K, Venkateshwaran T K, Ramkumar S.” Machine Vision Based Automated 3-Dof Articulated Robot for Fruit Defect Identification and Segregation”. International Conference on Energy, Smart Structure and Manufacturing - ICESSM-2022, April 22 & 23, 2022.pp 101
+Sathyanarayanan.R, NithinRajan.N, Sathyanarayanan.R, Sushyam.N, Sri Vickyath, Rhijaz.K.P,Ramkumar.S.” Autonomous Vehicle: Through Lane Changing Assistance, Reducing the Accidents and Enhancing the Autonomous Driving”. International Conference on Energy, Smart Structure and Manufacturing - ICESSM-2022, April 22 & 23, 2022.pp 102.
+Ramkumar S , Sanjay Satish Krishna, Venkatachalam Narayanan, Dharmesh D.” A Vision Based Smart Shopping Cart Billing System Using Autocart”. International Conference on Energy, Smart Structure and Manufacturing - ICESSM-2022, April 22 & 23, 2022.pp 103.
+Abilashini R, Annie R, Girivarshini R, Sarah T, Mr.Ramkumar S.” Smart Road”. ”. International Conference on Energy, Smart Structure and Manufacturing - ICESSM-2022, April 22 & 23, 2022.pp 104.
+Dr. M. Balakarthikeyan, Adhithya K, Rajesh D, SaiJagadeesh M, Santhosh Kumar .G.” Self-Driving Electric Vehicle for the Specially Challenged”. ”. International Conference on Energy, Smart Structure and Manufacturing - ICESSM-2022, April 22 & 23, 2022.pp 91.
+Nirmal Raj P,Chellappan CL, Eswaran A.” Pick and Drop Quadcopter”. International Conference on Energy, Smart Structure and Manufacturing - ICESSM-2022, April 22 & 23, 2022.pp 95.
+2021
+Shanmugam M, Aravind S, Yuvashree K, JaiVignesh M, Shrinivasan RJ, Santhanam V. Energy efficient intelligent light control with security system for materials handling warehouse. Materials Today: Proceedings. 2021 Jan 1; 37:1884-6. [Scopus Indexed]
+Dhanaraj R, Venkateshwaran N, Chenthil M, Natarajan MS, Santhanam V, Baskar S. Experimental investigation on the mechanical properties of glass fiber with perforated aluminum sheet reinforced epoxy composite. Materials Today: Proceedings. 2021 Jan 1; 37:1880-3. [Scopus Indexed]
+Santhanam V, Dhanaraj R, Chandrasekaran M, Venkateshwaran N, Baskar S. Experimental investigation on the mechanical properties of woven hybrid fiber reinforced epoxy composite. Materials Today: Proceedings. 2021 Jan 1; 37:1850-3. [Scopus Indexed]
+Chandrasekaran M, Santhanam V, Venkateshwaran N. Impeller design and CFD analysis of fluid flow in rotodynamic pumps. Materials Today: Proceedings. 2021 Jan 1; 37:2153-7. [Scopus Indexed]
+Vimalanathan P, Suresh G, Rajesh M, Manikandan R, Kanna SR, Santhanam V. A Study on Mechanical and Morphological Analysis of Banana/Sisal Fiber Reinforced IPN Composites. Fibers and Polymers. 2021 Apr 26:1-8. [SCI Indexed]
+K Yesuraj, K Pazhanivel, SP Srinivasan, V Santhanam, K Muruganantham, Static investigation of almond shell particulate reinforced aquilaria agallocha roxb blended epoxy hybrid matrix composite, Digest Journal of Nanomaterials and Biostructures, 16(2), pp359 - 365, 2021 Apr [SCI Indexed]
+2020
+Journal Publications - 2020
+Bhaskar KB, Santhanam V, Devaraju A. Dielectric Strength Analysis of Acacia Nilotica with Chemically Treated Sisal Fiber Reinforced Polyester Composite. Digest Journal of Nanomaterials and Biostructures. 2020 Jan 1; 15(1):107-3. [SCI Indexed]
+A. Sivanand, C. Devanathan, V.Santhanam, R. Dhanaraj, “Design and Optimization of Glass Fibre Reinforced Polymer Composite Leaf Spring”, International Journal of Mechanical and Production Engineering Research and Development. 10 (3) 5045-5052, 2020.
+S. Dhandapani, V. Santhanam, A. Eswaran, S. Vivek, P. Vidhushini, S. Vinoth Kumar, “Experimental Investigation of Aluminium Reinforced With Epoxy Resin”, International Journal of Mechanical and Production Engineering Research and Development. 10 (3) 6035–6042, 2020.
+V.V. Rajan, M. Shanmugam, V. Santhanam, S. Ramkumar, “Effect of CaCo3 Particulate Filler on the Mechanical Properties of Surface Modified Coir Fibre/Epoxy Composite” In IOP Conference Series: Materials Science and Engineering (Vol. 988, No. 1, p. 012046). IOP Publishing. 2020. [Scopus Indexed]
+C. Devanathan, A.S. Babu, R. Giri, & A. Azad, “Predicting the Tensile Strength of Metal Matrix Composites Joined by Friction Stir Welding and Optimization of Parameters using Firefly Algorithm” Journal of the Chinese Society of Mechanical Engineers, 41(4), 513-520, 2020.
+A. Eswaran, S. Ramkumar, D. Bharathi, S. Dhandapani, S. Vinothkumar, “Preparation and Experimental Investigation on Thermomechanical Properties of Nano Based Polymer Composites”, International Journal of Mechanical and Production Engineering Research and Development. 10 (3) 5123-5310, 2020.
+S. Ramkumar, A. Eswaran, D. Bharathi, S. Dhandapani, “Value Accumulation and Engraving of Flywheel by Mechatronics System”, International Journal of Mechanical and Production Engineering Research and Development. 10 (3). 4943-4952, 2020
+G. Nareshbabu and D. Keerthana and S.B. Nivethitha and I. Leando, “Autonomous Vehicle Reverse Parking System” International Journal of Advanced Research in Engineering and Technology, 11(6), 2020, pp. 731-739, 2020.
+S.B. Nivethitha, I.Leando, G. Nareshbabu and D. Keerthana, “Fertilizer Based Agri Drone”, International Journal of Mechanical and Production Engineering Research and Development. 10 (3). 5019-5026, 2020.
+C. Devanathan, R. Giri, C. Dinesh, B. Gajesh “Influence of process parameters on MRR and taper cut in micro drilling of SS304 using electrochemical machining processing” Materials Today: proceedings, 2020.
+C. Devanathan, S. Boopathi, R. Giri, E. Shankar, & A. Sivanand “Development of AA 5083 Based Hybrid Surface Composites Via friction Stir Processing” Materials Today: proceedings, 2020.
+C. Devanathan, R. Giri , A. Sivanand, P. Naresh,, R. Mohan “Joining Of AA 6063 To Pure Copper Using Green Welding Technique”, International Journal of Scientific & Technology Research Volume 9, Issue 06, June 2020.
+Dr.Radhika A, Dr.Thenmozhi G, Dr.Balakarthikeyan M, Dr.Stalin B “Enhancement of Welding Strength through Electric Current and Resistance on ERSW Process Using Chromium Steel”, Materials Today: Proceedings, Volume 33, Part 7, Pages 4781-4783, 2020.
+JOBS ARENA
+After the completion of the course, students save a wide range of opportunities to serve in different industries, a few of which are listed below.
+Aerospace applications.
+Assembly and Packaging industries.
+Automotive engineering, automotive equipment in the design of subsystems such as antilock braking systems.
+Computer aided and integrated manufacturing systems
+Computer Aided Engineering.
+Computer-machine controls, such as computer driven machines like CNC milling machines, CNC water jets, and CNC plasma cutters etc.
+Data Analytics.
+Engineering and manufacturing systems.
+Expert systems
+Home Appliances
+Industrial Automation and robotics.
+Internet of Things.
+Machine vision (Automatic inspection based on Imaging for industries such as tyre, rubber, FMCG and Automotive).
+Medical Instruments, Robotic Gait Training system for stroke patients.
+Medical mechatronics, medical imaging systems.
+Microcontrollers, PLCs integration with real-time applications.
+Sensing and control systems
+Servo-mechanics.
+Structural dynamic systems
+Textile Industries.
+Transportation and Automotive Engineering.
+Apart from serving in industries, mechatronics engineers can establish their own business/firm/ company for study, design, implementation and maintenance of automation for various industries
+MECHATRONICS ENGINEERING IN INDIA
+There are also good automotive and industries/ companies where students can find their job opportunities as mechatronics has a great share over changing the direction of automotive developments. For example engine management system, anti-lock braking and ignition. Now students must be aware of news India making ABS mandatory in upcoming years. Now such changes will hope for those who are willing to make a career in this field
+Reason,
+India has a big market for automotive.
+Automotive has big scope for mechatronics technology incorporation.
+There will be the great potential of getting Engineering services jobs for foreign companies as they are looking for Indians as smart/intelligent people.
+Even if you are looking for business this is a good choice because you can make value-added products and electro-mechanical components have a higher profit margin compared to plain mechanical/electrical products.
+MECHATRONICS ENGINEERING IN REC
+The Department is equipped with talented faculty members with a wide range of expertise and dedication.
+The department is equipped with state of art laboratories such as Industrial robotics/Automation lab, Robotics lab and Microcontroller/processor lab etc.
+The students from the department actively participate in various project competitions, workshops, industrial internships and extra-curricular activities and won several awards showing their talents and passion towards learning.
+Students from the department of mechatronics have participated in Smart India Hackathon conducted by the Ministry of HRD, Government of India and won first prize. Also our students won the best innovation award for the National Solar Vehicle Challenge (NSVC).
+The department has signed MOU with industries such as FESTO, CADD centre etc. and we have carried out consultancy projects with various industries.
+The Department has faculty members with wide research experience with a number of publications in peer reviewed, indexed journals.
+The department regularly conducts hands-on training for the students to impart additional practical knowledge.
+The students and faculty members in the department have done online courses in various platform.
+The Department imparts practical knowledge in the areas of mechanical, electronics, design, manufacturing with the state of the art facilities.
+We aim at inculcating entrepreneurial qualities for creating, developing and managing global engineering ventures.
+This program teaches the aspect of system modelling, sensors, controllers, and actuators with real-time computer interface.
+The students will be able to gain the knowledge of manufacturing processes and run factory production lines with computer, PLC, industrial sensors, controllers, hydraulic, pneumatic and electric drives, and design mechanism of mechanical structures.
+For the course delivery, the faculty members use NPTEL lectures and other video presentations using LCD Projectors.
+Real-time demo is also given wherever needed.
+There is also a library in the department with text and reference books needed by the faculty and students
+SCOPE FOR HIGHER EDUCATION
+There is also a wide scope for taking up post graduate courses in Mechanical, Electrical, Electronics and allied specializations and also research programmes in thrust areas.
+Mechatronics Students are given assistance in the preparation for taking up GATE examination, which now-a-days is insisted not only for admission to PG degree and also for entry into public sector undertakings.
+Students are also guided in choosing universities abroad, based on their interest in going in for certain specializations in upcoming areas.
+After the completion of B.E. programme, Mechatronics students enter into MBA also.
+Supporting Staff Members
+Mr. Kaviarasu V., Department Coordinator
+Mr. Devarajan C., Lab Assistant
+Ms. Rajeswari T., Lab Assistant
+Mr. Saravanan S., Lab Assistant
+Mr. Vignesh G., Lab Assistant
+

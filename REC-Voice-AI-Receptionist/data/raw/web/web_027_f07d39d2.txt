@@ -1,0 +1,127 @@
+TITLE: Electronics & Communication Engineering | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/ece
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+Programmes Offered UG - B.E. Electronics and Communication Engineering PG - M.E. Communication Systems Ph.D. - Electronics and Communication Engineering
+Vision To produce globally competent Electronics and Communication Engineers with a commitment to serve the society. Mission M1: To impart training with the best of teaching expertise supported by excellent laboratory infrastructure and exposure to recent trends in the industry. M2: To ensure that the students are molded into competent Electronics and Communication engineers with the knowledge of computer applications and worthy citizens of the country.
+Updated on 15.09.2026
+
+FACULTY
+=======
+Dr.L Bhagyalakshmi, HoD & Professor
+Dr.D Sivakumar, Professor
+Dr.Malathi K ., Professor
+Dr.Umapathy Kannan, Professor
+Dr.Sathiyavathi S, Professor
+Dr.Priya Balan, Professor
+Dr.Sathish Munirathinam, Professor
+Dr.Suganthi S, Professor
+Dr.Manikandan T, Professor
+Dr.Selvakumar V S, Professor
+Dr.Chitra S, Professor
+Dr.Palanivelan M, Professor
+Dr.Asha Aiyappan, Professor
+Dr.Thilakavathi B, Professor
+Dr.Malarkodi Suresh, Associate Professor
+Dr.S S Saravana Kumar, Associate Professor
+Dr.Pradeep Narayanan S ., Associate Professor
+Dr.Murugan C, Associate Professor
+Dr.Senthilraja B, Associate Professor
+Dr.Latha M, Associate Professor
+Dr.Saranya J, Associate Professor
+Mr.Prabhu A E, Assistant Professor
+Ms.Siva Priya, Assistant Professor
+Ms.Shaik Thasleem Bhanu, Assistant Professor
+Dr.Aaron Kevin Cameron Theoderaj, Assistant Professor
+Ms.Suganthi Priya M, Assistant Professor
+Dr.Srividhya R, Assistant Professor
+Ms.R Nirmala ., Assistant Professor
+Dr.Suma Nair, Assistant Professor
+Ms.Smitha P B, Assistant Professor
+Ms.Jayanthi K K, Assistant Professor
+Dr.Jeevani R, Assistant Professor
+Dr.Balaji S R, Assistant Professor
+Ms.Nirmala D, Assistant Professor
+Dr.Kumaran N, Assistant Professor
+Mr.Loganathan G, Assistant Professor
+Ms.Sowmiya G, Assistant Professor
+Mr.Ganesamoorthy Rajendran, Assistant Professor
+Ms.Priyanka Devi S, Assistant Professor
+Ms.G Indhumathi, Assistant Professor
+Mr.Sudharsan S, Assistant Professor
+Ms.G Saranya, Assistant Professor
+Ms.Yogalakshmi V, Assistant Professor
+Ms.Tamilarasi M, Assistant Professor
+Ms.Pavithra S, Assistant Professor
+Ms.Sushma S Jagtap, Assistant Professor
+Ms.Sasirekha D, Assistant Professor
+Ms.Shanmuga Priya P, Assistant Professor
+Ms.Helan Vidhya T, Assistant Professor
+Mr.Asokan V, Assistant Professor
+Ms.Benazir Begam R, Assistant Professor
+Mr.Karthi J, Assistant Professor
+Ms.Jhanani Shree U, Assistant Professor
+Ms.Anitha Mary M, Assistant Professor
+Mr.Gururaj D, Assistant Professor
+Ms.Radhamani V, Assistant Professor
+Dr.D Jayanthi, Professor
+Dr.Mariammal T, Professor
+Ms.Sudha Kuppuraj, Assistant Professor
+Mr.Surender S, Assistant Professor
+Ms.Jothi R, Assistant Professor
+Mr.Venkatnarayanan C, Assistant Professor
+Ms.Gowdhami D, Assistant Professor
+Mr.Annamalai Sathiyavelu, Assistant Professor
+Ms.Yuvadharshini Sundaramoorthy ., Assistant Professor
+Ms.Manne Divya, Assistant Professor
+Ms.Indhu Bala B, Assistant Professor
+Ms.Bharathy R, Assistant Professor
+Mr.Sekar S, Assistant Professor
+Mr.Dhanush Vinayagamoorthy, Assistant Professor
+Mr.Sai Prasad Ab, Assistant Professor
+Dr.Uppu Ramachandraiah ., Professor
+Dr.Sujatha L, Professor
+Dr.Thaiyalnayaki K, Associate Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+PROGRAMME EDUCATIONAL OBJECTIVES
+PEO I To provide students with sound foundation in the mathematical, scientific and engineering fundamentals necessary to formulate, analyze and solve engineering problems and to prepare them for postgraduate studies and for successful careers in industries.
+PEO II To develop the ability among students to define engineering problems in the fields of Electronics and Communication Engineering, and to employ necessary techniques, hardware, and communication tools for modern Engineering applications.
+PEO III To instill the values, skills, leadership and team spirit for comprehensive and wholesome personality, to promote entrepreneurial interest among students and to create a fervor for use of Engineering in addressing societal concerns.
+PROGRAMME OUTCOMES
+PSO1 An ability to formulate solutions for practical societal requirements using communication engineering.
+PSO2 To design and formulate solutions for industrial requirements using Electronics and Communication Engineering.
+PSO3 To understand and develop solutions required in multidisciplinary engineering fields.
+Regulations R2023 (2026-2030 Batch)
+Regulations R2023 (2024-2028 batch) & (2025-2029 batch)
+Regulations R2023 (Batch 2023-2027
+Regulations 2019 (From 2021-25 batch)
+Regulations 2019
+Regulations 2017 (From 2018-22 batch)
+Regulations 2017 (2017-21 batch)
+Regulations 2013
+Regulations 2023
+Graduates of Electronics and Communication Engineering (ECE) have vast opportunities in cutting-edge and rapidly evolving fields such as semiconductors, wireless communication systems including 5G and 6G networks, microsensors, and the Internet of Things (IoT). This dynamic and versatile branch of engineering plays a crucial role in a wide array of sectors, including automotive systems, consumer electronics like smartphones, high-speed computer processors, and biomedical instruments.
+The ECE department is supported by a team of highly qualified, experienced, and dedicated faculty members who bring strong academic and practical knowledge to the classroom. In addition, well-trained and committed technical staff efficiently manage and assist in the operation of the various laboratories.
+The curriculum encompasses a broad spectrum of subjects, including analog and digital electronics, Very Large Scale Integration (VLSI), Micro Electro Mechanical Systems (MEMS), and Radio Frequency (RF) and wireless communication technologies. Graduates are well-equipped to pursue rewarding careers in prominent electronics and communication companies both nationally and internationally.
+Moreover, the field offers extensive opportunities for research and lifelong learning. To enhance students’ practical exposure and skills, the department emphasizes industry interaction through initiatives like industrial visits, participation in technical hackathons, and encouragement for publishing research in journals and conferences.
+Supporting Staff Members
+Mr.S. Veeraragavan, Lab Assistant
+Ms.C. Angel Mary, Lab Assistant
+Mr.R. Sridhar, Lab Assistant
+Mr.G. Senthilkumar, Lab Assistant
+Ms S. Divya, Lab Assistant
+Mr.L. Srihari, Lab Assistant
+Mr.V. Sankar Sah, Lab Assistant
+Mr. N. Gopalakrishnan, Lab Assistant
+Mr.S. Ramarajan, Lab Assistant
+Mr.V. Mohan Prabhakar, Lab Assistant
+Ms.C. Kavitha, Lab Assistant
+Mr.S. Karthigeyan, Lab Assistant
+Ms. K. Ramya, DC
+Ms. M. Nishanthini, DC
+

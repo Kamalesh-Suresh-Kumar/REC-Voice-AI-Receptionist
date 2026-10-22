@@ -1,8 +1,759 @@
+# from __future__ import annotations
+
+# from pathlib import Path
+
+# import matplotlib.pyplot as plt
+# import numpy as np
+# import pandas as pd
+
+
+# # ============================================================
+# # PROJECT PATHS
+# # ============================================================
+
+# # backend/app/evaluation/visualize_results.py
+# #                         |
+# #                         v
+# #                    Project root
+
+# PROJECT_ROOT = Path(__file__).resolve().parents[3]
+# EVALUATION_DIR = PROJECT_ROOT / "evaluation_results"
+# OUTPUT_DIR = EVALUATION_DIR
+
+# OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+
+# # ============================================================
+# # CSV FILES
+# # ============================================================
+
+# RAG_CSV = EVALUATION_DIR / "evaluation_metrics.csv"
+
+# RAGAS_CSV = (
+#     EVALUATION_DIR
+#     / "ragas_evaluation_results.csv"
+# )
+
+# ARES_CSV = EVALUATION_DIR / "ares_evaluation_results.csv"
+
+# STT_CSV = EVALUATION_DIR / "stt_quality_summary.csv"
+
+
+# # ============================================================
+# # COMMON HELPERS
+# # ============================================================
+
+# def load_csv(path: Path, description: str) -> pd.DataFrame:
+#     """Load a CSV and validate that it exists and is not empty."""
+
+#     print(f"\n[LOAD] {description}")
+#     print(f"[CSV]  {path}")
+
+#     if not path.exists():
+#         raise FileNotFoundError(
+#             f"{description} CSV not found:\n{path}"
+#         )
+
+#     df = pd.read_csv(path)
+
+#     if df.empty:
+#         raise ValueError(
+#             f"{description} CSV is empty:\n{path}"
+#         )
+
+#     print(f"[OK] Rows loaded: {len(df)}")
+#     print(f"[OK] Columns: {df.columns.tolist()}")
+
+#     return df
+
+
+# def require_columns(
+#     df: pd.DataFrame,
+#     required: list[str],
+#     description: str,
+# ) -> None:
+#     """Raise a clear error if required columns are missing."""
+
+#     missing = [
+#         column for column in required
+#         if column not in df.columns
+#     ]
+
+#     if missing:
+#         raise ValueError(
+#             f"{description} CSV is missing columns: {missing}\n"
+#             f"Available columns: {df.columns.tolist()}"
+#         )
+
+
+# def numeric_series(
+#     df: pd.DataFrame,
+#     column: str,
+#     description: str,
+# ) -> pd.Series:
+#     """Convert a column to numeric values and reject empty data."""
+
+#     require_columns(df, [column], description)
+
+#     values = pd.to_numeric(
+#         df[column], errors="coerce"
+#     ).dropna()
+
+#     if values.empty:
+#         raise ValueError(
+#             f"No valid numeric values found in '{column}' "
+#             f"for {description}."
+#         )
+
+#     return values
+
+
+# def metric_mean_percent(
+#     df: pd.DataFrame,
+#     column: str,
+#     description: str,
+# ) -> float:
+#     """Calculate a mean score stored on a 0-to-1 scale."""
+
+#     values = numeric_series(df, column, description)
+
+#     if ((values < 0) | (values > 1)).any():
+#         raise ValueError(
+#             f"Expected '{column}' in {description} to contain "
+#             "scores between 0 and 1."
+#         )
+
+#     return float(values.mean() * 100)
+
+
+# def get_rag_value(
+#     df: pd.DataFrame,
+#     metric_name: str,
+# ) -> float:
+#     """Read a direct RAG metric from evaluation_metrics.csv."""
+
+#     require_columns(
+#         df,
+#         ["metric", "accuracy_percent"],
+#         "Direct RAG",
+#     )
+
+#     normalized = (
+#         df["metric"].astype(str).str.strip().str.casefold()
+#     )
+
+#     aliases = {
+#         "refusal accuracy": {
+#             "refusal accuracy",
+#             "negative refusal accuracy",
+#             "negative refusal",
+#         }
+#     }
+
+#     requested = metric_name.strip().casefold()
+#     accepted_names = aliases.get(requested, {requested})
+
+#     rows = df[normalized.isin(accepted_names)]
+
+#     if rows.empty:
+#         raise ValueError(
+#             f"Metric '{metric_name}' not found in {RAG_CSV.name}.\n"
+#             f"Available metrics: {df['metric'].tolist()}"
+#         )
+
+#     values = pd.to_numeric(
+#         rows["accuracy_percent"],
+#         errors="coerce",
+#     ).dropna()
+
+#     if values.empty:
+#         raise ValueError(
+#             f"Metric '{metric_name}' has no valid numeric score."
+#         )
+
+#     return float(values.iloc[0])
+
+
+# def style_axes(ax) -> None:
+#     """Apply consistent styling to charts."""
+
+#     ax.grid(axis="y", alpha=0.25, linestyle="--")
+#     ax.set_axisbelow(True)
+#     ax.spines["top"].set_visible(False)
+#     ax.spines["right"].set_visible(False)
+
+
+# def add_bar_labels(
+#     ax,
+#     bars,
+#     suffix: str = "%",
+#     decimals: int = 2,
+#     offset: float = 1.0,
+# ) -> None:
+#     """Add values above each bar."""
+
+#     for bar in bars:
+#         value = bar.get_height()
+
+#         if not np.isfinite(value):
+#             continue
+
+#         ax.annotate(
+#             f"{value:.{decimals}f}{suffix}",
+#             xy=(
+#                 bar.get_x() + bar.get_width() / 2,
+#                 value,
+#             ),
+#             xytext=(0, 4),
+#             textcoords="offset points",
+#             ha="center",
+#             va="bottom",
+#             fontsize=9,
+#         )
+
+
+# def save_figure(fig, filename: str) -> Path:
+#     """Save a figure at publication-quality resolution."""
+
+#     output = OUTPUT_DIR / filename
+
+#     fig.tight_layout()
+#     fig.savefig(
+#         output,
+#         dpi=300,
+#         bbox_inches="tight",
+#         facecolor="white",
+#     )
+#     plt.close(fig)
+
+#     print(f"[SAVED] {output}")
+
+#     return output
+
+
+# # ============================================================
+# # LOAD EVALUATION DATASETS
+# # ============================================================
+
+# def load_rag_results() -> pd.DataFrame:
+#     df = load_csv(RAG_CSV, "Direct RAG")
+
+#     require_columns(
+#         df,
+#         ["metric", "accuracy_percent", "sample_count"],
+#         "Direct RAG",
+#     )
+
+#     return df
+
+
+# def load_ragas_results() -> pd.DataFrame:
+#     df = load_csv(RAGAS_CSV, "RAGAS")
+
+#     require_columns(
+#         df,
+#         [
+#             "faithfulness",
+#             "answer_relevancy",
+#             "context_precision",
+#             "context_recall",
+#         ],
+#         "RAGAS",
+#     )
+
+#     return df
+
+
+# def load_ares_results() -> pd.DataFrame:
+#     df = load_csv(ARES_CSV, "ARES-inspired")
+
+#     require_columns(
+#         df,
+#         [
+#             "context_relevance",
+#             "answer_faithfulness",
+#             "answer_relevance",
+#         ],
+#         "ARES-inspired",
+#     )
+
+#     return df
+
+
+# def load_stt_results() -> pd.DataFrame:
+#     df = load_csv(STT_CSV, "Speech recognition")
+
+#     require_columns(
+#         df,
+#         [
+#             "condition",
+#             "test_count",
+#             "average_wer_percent",
+#             "average_cer_percent",
+#         ],
+#         "Speech recognition",
+#     )
+
+#     return df
+
+
+# # ============================================================
+# # 1. DIRECT RAG GRAPH
+# # ============================================================
+
+# def create_direct_rag_graph(
+#     rag_df: pd.DataFrame,
+# ) -> dict:
+#     """Create the direct RAG evaluation chart."""
+
+#     metrics = {
+#         "Retrieval Hit@5": get_rag_value(
+#             rag_df, "Retrieval Hit@5"
+#         ),
+#         "Answer Accuracy": get_rag_value(
+#             rag_df, "Answer Accuracy"
+#         ),
+#         "Negative Refusal Accuracy": get_rag_value(
+#             rag_df, "Refusal Accuracy"
+#         ),
+#     }
+
+#     print("\n[DIRECT RAG RESULTS]")
+
+#     for name, value in metrics.items():
+#         print(f"{name:<28}: {value:.2f}%")
+
+#     labels = [
+#         "Retrieval\nHit@5",
+#         "Answer\nAccuracy",
+#         "Negative Refusal\nAccuracy",
+#     ]
+
+#     fig, ax = plt.subplots(figsize=(9, 5.5))
+
+#     bars = ax.bar(
+#         labels,
+#         list(metrics.values()),
+#         color=["#4361EE", "#06A77D", "#D94F9D"],
+#         width=0.60,
+#     )
+
+#     ax.set_title(
+#         "Direct RAG Evaluation Performance",
+#         fontsize=15,
+#         fontweight="bold",
+#         pad=14,
+#     )
+#     ax.set_ylabel("Accuracy (%)")
+#     ax.set_ylim(0, 110)
+
+#     style_axes(ax)
+#     add_bar_labels(ax, bars)
+
+#     save_figure(fig, "rag_overall_accuracy.png")
+
+#     return metrics
+
+
+# # ============================================================
+# # 2. RAGAS GRAPH
+# # ============================================================
+
+# def create_ragas_graph(
+#     ragas_df: pd.DataFrame,
+# ) -> dict:
+#     """Create the RAGAS evaluation chart."""
+
+#     columns = {
+#         "Faithfulness": "faithfulness",
+#         "Answer Relevancy": "answer_relevancy",
+#         "Context Precision": "context_precision",
+#         "Context Recall": "context_recall",
+#     }
+
+#     metrics = {
+#         label: metric_mean_percent(
+#             ragas_df, column, "RAGAS"
+#         )
+#         for label, column in columns.items()
+#     }
+
+#     print("\n[RAGAS RESULTS]")
+
+#     for name, value in metrics.items():
+#         print(f"{name:<25}: {value:.2f}%")
+
+#     fig, ax = plt.subplots(figsize=(10, 5.5))
+
+#     bars = ax.bar(
+#         list(metrics.keys()),
+#         list(metrics.values()),
+#         color=["#9B5DE5", "#D65DB1", "#5773D8", "#0B8F69"],
+#         width=0.62,
+#     )
+
+#     ax.set_title(
+#         "RAGAS Evaluation Performance",
+#         fontsize=15,
+#         fontweight="bold",
+#         pad=14,
+#     )
+#     ax.set_ylabel("Score (%)")
+#     ax.set_ylim(0, 110)
+
+#     style_axes(ax)
+#     add_bar_labels(ax, bars)
+
+#     save_figure(fig, "ragas_overall_metrics.png")
+
+#     return metrics
+
+
+# # ============================================================
+# # 3. ARES-INSPIRED GRAPH
+# # ============================================================
+
+# def create_ares_graph(
+#     ares_df: pd.DataFrame,
+# ) -> dict:
+#     """Create the ARES-inspired evaluation chart."""
+
+#     columns = {
+#         "Context Relevance": "context_relevance",
+#         "Answer Faithfulness": "answer_faithfulness",
+#         "Answer Relevance": "answer_relevance",
+#     }
+
+#     metrics = {
+#         label: metric_mean_percent(
+#             ares_df, column, "ARES-inspired"
+#         )
+#         for label, column in columns.items()
+#     }
+
+#     print("\n[ARES-INSPIRED RESULTS]")
+
+#     for name, value in metrics.items():
+#         print(f"{name:<25}: {value:.2f}%")
+
+#     fig, ax = plt.subplots(figsize=(9, 5.5))
+
+#     bars = ax.bar(
+#         list(metrics.keys()),
+#         list(metrics.values()),
+#         color=["#3288A8", "#9C70D1", "#E66A32"],
+#         width=0.60,
+#     )
+
+#     ax.set_title(
+#         "ARES-Inspired Evaluation Performance",
+#         fontsize=15,
+#         fontweight="bold",
+#         pad=14,
+#     )
+#     ax.set_ylabel("Score (%)")
+#     ax.set_ylim(0, 110)
+
+#     style_axes(ax)
+#     add_bar_labels(ax, bars)
+
+#     save_figure(fig, "ares_overall_metrics.png")
+
+#     return metrics
+
+
+# # ============================================================
+# # 4. SPEECH RECOGNITION WER/CER GRAPH
+# # ============================================================
+
+# def create_speech_recognition_graph(
+#     stt_df: pd.DataFrame,
+# ) -> dict:
+#     """Create a WER/CER chart using stt_quality_summary.csv."""
+
+#     df = stt_df.copy()
+
+#     df["condition"] = (
+#         df["condition"].astype(str).str.strip().str.casefold()
+#     )
+
+#     df["average_wer_percent"] = pd.to_numeric(
+#         df["average_wer_percent"], errors="coerce"
+#     )
+
+#     df["average_cer_percent"] = pd.to_numeric(
+#         df["average_cer_percent"], errors="coerce"
+#     )
+
+#     df["test_count"] = pd.to_numeric(
+#         df["test_count"], errors="coerce"
+#     )
+
+#     df = df.dropna(
+#         subset=[
+#             "condition",
+#             "average_wer_percent",
+#             "average_cer_percent",
+#         ]
+#     )
+
+#     preferred_order = [
+#         "clean",
+#         "noise",
+#         "noisy",
+#         "telephone",
+#         "telephone-filtered",
+#         "accent",
+#     ]
+
+#     available = df["condition"].tolist()
+
+#     ordered_conditions = [
+#         condition
+#         for condition in preferred_order
+#         if condition in available
+#     ]
+
+#     ordered_conditions.extend(
+#         condition
+#         for condition in available
+#         if condition not in ordered_conditions
+#     )
+
+#     df = (
+#         df.drop_duplicates(
+#             subset=["condition"], keep="last"
+#         )
+#         .set_index("condition")
+#         .reindex(ordered_conditions)
+#         .dropna(
+#             subset=[
+#                 "average_wer_percent",
+#                 "average_cer_percent",
+#             ]
+#         )
+#         .reset_index()
+#     )
+
+#     if df.empty:
+#         raise ValueError(
+#             f"No valid speech-recognition rows found in "
+#             f"{STT_CSV.name}."
+#         )
+
+#     label_map = {
+#         "clean": "Clean",
+#         "noise": "Noisy",
+#         "noisy": "Noisy",
+#         "telephone": "Telephone-filtered",
+#         "telephone-filtered": "Telephone-filtered",
+#         "accent": "Accent",
+#     }
+
+#     labels = [
+#         label_map.get(condition, condition.title())
+#         for condition in df["condition"]
+#     ]
+
+#     wer = df["average_wer_percent"].astype(float).to_numpy()
+#     cer = df["average_cer_percent"].astype(float).to_numpy()
+
+#     print("\n[SPEECH RECOGNITION RESULTS]")
+
+#     for label, w, c in zip(labels, wer, cer):
+#         print(
+#             f"{label:<24}: WER {w:.2f}% | CER {c:.2f}%"
+#         )
+
+#     x = np.arange(len(labels))
+#     width = 0.34
+
+#     fig, ax = plt.subplots(figsize=(9, 5.5))
+
+#     wer_bars = ax.bar(
+#         x - width / 2,
+#         wer,
+#         width,
+#         label="WER",
+#         color="#4361EE",
+#     )
+
+#     cer_bars = ax.bar(
+#         x + width / 2,
+#         cer,
+#         width,
+#         label="CER",
+#         color="#06A77D",
+#     )
+
+#     ax.set_title(
+#         "Speech Recognition Performance",
+#         fontsize=15,
+#         fontweight="bold",
+#         pad=14,
+#     )
+#     ax.set_ylabel("Error Rate (%)")
+#     ax.set_xlabel("Audio Condition")
+#     ax.set_xticks(x)
+#     ax.set_xticklabels([str(label) if label is not None else "" for label in labels])
+#     ax.legend(frameon=False)
+
+#     max_value = float(max(np.max(wer), np.max(cer)))
+#     ax.set_ylim(0, max(1.0, max_value * 1.35))
+
+#     style_axes(ax)
+#     add_bar_labels(ax, wer_bars, decimals=2)
+#     add_bar_labels(ax, cer_bars, decimals=2)
+
+#     save_figure(fig, "speech_recognition_metrics.png")
+
+#     return {
+#         label: {
+#             "WER": float(w),
+#             "CER": float(c),
+#             "samples": (
+#                 int(sample_count)
+#                 if pd.notna(sample_count)
+#                 else 0
+#             ),
+#         }
+#         for label, w, c, sample_count in zip(
+#             labels,
+#             wer,
+#             cer,
+#             df["test_count"],
+#         )
+#     }
+
+
+# # ============================================================
+# # SAVE FINAL SUMMARY
+# # ============================================================
+
+# def save_summary(
+#     direct_metrics: dict,
+#     ragas_metrics: dict,
+#     ares_metrics: dict,
+#     stt_metrics: dict,
+#     rag_df: pd.DataFrame,
+#     ragas_df: pd.DataFrame,
+#     ares_df: pd.DataFrame,
+# ) -> Path:
+#     """Save a summary derived from the evaluation CSV files."""
+
+#     output = OUTPUT_DIR / "visualization_summary.txt"
+
+#     lines = [
+#         "REC VOICE AI RECEPTIONIST",
+#         "FINAL EVALUATION VISUALIZATION SUMMARY",
+#         "=" * 65,
+#         "",
+#         "DIRECT RAG EVALUATION",
+#         "-" * 65,
+#     ]
+
+#     for metric, score in direct_metrics.items():
+#         lines.append(f"{metric:<32}: {score:.2f}%")
+
+#     if "sample_count" in rag_df.columns:
+#         lines.extend(["", "Direct RAG metric sample counts:"])
+#         for _, row in rag_df.iterrows():
+#             lines.append(
+#                 f"{str(row['metric']):<32}: {row['sample_count']}"
+#             )
+
+#     lines.extend(["", "RAGAS EVALUATION", "-" * 65])
+#     for metric, score in ragas_metrics.items():
+#         lines.append(f"{metric:<32}: {score:.2f}%")
+#     lines.append(f"Evaluated rows: {len(ragas_df)}")
+
+#     lines.extend(["", "ARES-INSPIRED EVALUATION", "-" * 65])
+#     for metric, score in ares_metrics.items():
+#         lines.append(f"{metric:<32}: {score:.2f}%")
+#     lines.append(f"Evaluated rows: {len(ares_df)}")
+
+#     lines.extend(["", "SPEECH RECOGNITION EVALUATION", "-" * 65])
+#     for condition, scores in stt_metrics.items():
+#         lines.append(
+#             f"{condition:<24}: "
+#             f"WER {scores['WER']:.2f}%, "
+#             f"CER {scores['CER']:.2f}%, "
+#             f"samples {scores['samples']}"
+#         )
+
+#     lines.extend([
+#         "",
+#         "GENERATED GRAPHS",
+#         "-" * 65,
+#         "1. rag_overall_accuracy.png",
+#         "2. ragas_overall_metrics.png",
+#         "3. ares_overall_metrics.png",
+#         "4. speech_recognition_metrics.png",
+#     ])
+
+#     output.write_text("\n".join(lines), encoding="utf-8")
+#     print(f"\n[SAVED SUMMARY] {output}")
+#     return output
+
+
+
+# # ============================================================
+# # MAIN
+# # ============================================================
+
+# def main() -> None:
+#     """Load evaluation CSVs, generate the four retained charts, and save summary."""
+
+#     print("\n" + "=" * 70)
+#     print("REC VOICE AI RECEPTIONIST")
+#     print("FINAL EVALUATION VISUALIZATION")
+#     print("=" * 70)
+
+#     rag_df = load_rag_results()
+#     ragas_df = load_ragas_results()
+#     ares_df = load_ares_results()
+#     stt_df = load_stt_results()
+
+#     direct_metrics = create_direct_rag_graph(rag_df)
+#     ragas_metrics = create_ragas_graph(ragas_df)
+#     ares_metrics = create_ares_graph(ares_df)
+#     stt_metrics = create_speech_recognition_graph(stt_df)
+
+#     save_summary(
+#         direct_metrics=direct_metrics,
+#         ragas_metrics=ragas_metrics,
+#         ares_metrics=ares_metrics,
+#         stt_metrics=stt_metrics,
+#         rag_df=rag_df,
+#         ragas_df=ragas_df,
+#         ares_df=ares_df,
+#     )
+
+#     print("\n" + "=" * 70)
+#     print("VISUALIZATION COMPLETE")
+#     print("=" * 70)
+
+#     output_files = [
+#         "rag_overall_accuracy.png",
+#         "ragas_overall_metrics.png",
+#         "ares_overall_metrics.png",
+#         "speech_recognition_metrics.png",
+#         "visualization_summary.txt",
+#     ]
+
+#     for filename in output_files:
+#         print(f"[OUTPUT] {OUTPUT_DIR / filename}")
+
+
+# if __name__ == "__main__":
+#     main()
+
 from __future__ import annotations
 
 from pathlib import Path
 
 import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
 
 
@@ -10,258 +761,317 @@ import pandas as pd
 # PROJECT PATHS
 # ============================================================
 
-# visualize_results.py
-#       ↓
-# evaluation
-#       ↓
-# app
-#       ↓
-# backend
-#       ↓
-# project root
+# backend/app/evaluation/visualize_results.py
+#                         |
+#                         v
+#                    Project root
 
 PROJECT_ROOT = Path(__file__).resolve().parents[3]
+EVALUATION_DIR = PROJECT_ROOT / "evaluation_results"
+OUTPUT_DIR = EVALUATION_DIR
 
-EVALUATION_DIR = (
-    PROJECT_ROOT / "evaluation_results"
-)
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# ------------------------------------------------------------
+
+# ============================================================
 # CSV FILES
-# ------------------------------------------------------------
+# ============================================================
 
-RAG_CSV = (
-    EVALUATION_DIR
-    / "evaluation_metrics.csv"
-)
+RAG_CSV = EVALUATION_DIR / "evaluation_metrics.csv"
 
 RAGAS_CSV = (
     EVALUATION_DIR
     / "ragas_evaluation_results.csv"
 )
 
-ARES_CSV = (
-    EVALUATION_DIR
-    / "ares_evaluation_results.csv"
-)
+ARES_CSV = EVALUATION_DIR / "ares_evaluation_results.csv"
 
-# ------------------------------------------------------------
-# Output directory
-# ------------------------------------------------------------
-
-OUTPUT_DIR = EVALUATION_DIR
-
-OUTPUT_DIR.mkdir(
-    parents=True,
-    exist_ok=True,
-)
+STT_CSV = EVALUATION_DIR / "stt_quality_summary.csv"
 
 
 # ============================================================
-# LOAD DIRECT RAG RESULTS
+# COMMON HELPERS
 # ============================================================
 
-def load_rag_results() -> pd.DataFrame:
-    """Load direct RAG evaluation metrics."""
+def load_csv(path: Path, description: str) -> pd.DataFrame:
+    """Load a CSV and validate that it exists and is not empty."""
 
-    print()
-    print("=" * 70)
-    print("LOADING DIRECT RAG RESULTS")
-    print("=" * 70)
+    print(f"\n[LOAD] {description}")
+    print(f"[CSV]  {path}")
 
-    print()
-    print("[CSV]")
-    print(RAG_CSV)
-
-    if not RAG_CSV.exists():
-
+    if not path.exists():
         raise FileNotFoundError(
-            f"Direct RAG CSV not found:\n{RAG_CSV}"
+            f"{description} CSV not found:\n{path}"
         )
 
-    df = pd.read_csv(
-        RAG_CSV
-    )
+    df = pd.read_csv(path)
 
     if df.empty:
-
         raise ValueError(
-            "Direct RAG CSV is empty."
+            f"{description} CSV is empty:\n{path}"
         )
 
-    print()
-    print(
-        f"[OK] Records loaded: {len(df)}"
-    )
+    print(f"[OK] Rows loaded: {len(df)}")
+    print(f"[OK] Columns: {df.columns.tolist()}")
 
     return df
 
 
-# ============================================================
-# LOAD RAGAS RESULTS
-# ============================================================
+def require_columns(
+    df: pd.DataFrame,
+    required: list[str],
+    description: str,
+) -> None:
+    """Raise a clear error if required columns are missing."""
 
-def load_ragas_results() -> pd.DataFrame:
-    """Load RAGAS evaluation results."""
+    missing = [
+        column for column in required
+        if column not in df.columns
+    ]
 
-    print()
-    print("=" * 70)
-    print("LOADING RAGAS RESULTS")
-    print("=" * 70)
-
-    print()
-    print("[CSV]")
-    print(RAGAS_CSV)
-
-    if not RAGAS_CSV.exists():
-
-        raise FileNotFoundError(
-            f"RAGAS CSV not found:\n{RAGAS_CSV}"
-        )
-
-    df = pd.read_csv(
-        RAGAS_CSV
-    )
-
-    if df.empty:
-
+    if missing:
         raise ValueError(
-            "RAGAS CSV is empty."
+            f"{description} CSV is missing columns: {missing}\n"
+            f"Available columns: {df.columns.tolist()}"
         )
 
-    print()
-    print(
-        f"[OK] Records loaded: {len(df)}"
-    )
 
-    return df
+def numeric_series(
+    df: pd.DataFrame,
+    column: str,
+    description: str,
+) -> pd.Series:
+    """Convert a column to numeric values and reject empty data."""
 
+    require_columns(df, [column], description)
 
-# ============================================================
-# LOAD ARES RESULTS
-# ============================================================
+    values = pd.to_numeric(
+        df[column], errors="coerce"
+    ).dropna()
 
-def load_ares_results() -> pd.DataFrame:
-    """Load ARES-inspired evaluation results."""
-
-    print()
-    print("=" * 70)
-    print("LOADING ARES-INSPIRED RESULTS")
-    print("=" * 70)
-
-    print()
-    print("[CSV]")
-    print(ARES_CSV)
-
-    if not ARES_CSV.exists():
-
-        raise FileNotFoundError(
-            f"ARES CSV not found:\n{ARES_CSV}"
-        )
-
-    df = pd.read_csv(
-        ARES_CSV
-    )
-
-    if df.empty:
-
+    if values.empty:
         raise ValueError(
-            "ARES CSV is empty."
+            f"No valid numeric values found in '{column}' "
+            f"for {description}."
         )
 
-    print()
-    print(
-        f"[OK] Records loaded: {len(df)}"
-    )
-
-    return df
+    return values
 
 
-# ============================================================
-# GET VALUE FROM DIRECT RAG CSV
-# ============================================================
+def metric_mean_percent(
+    df: pd.DataFrame,
+    column: str,
+    description: str,
+) -> float:
+    """Calculate a mean score stored on a 0-to-1 scale."""
+
+    values = numeric_series(df, column, description)
+
+    if ((values < 0) | (values > 1)).any():
+        raise ValueError(
+            f"Expected '{column}' in {description} to contain "
+            "scores between 0 and 1."
+        )
+
+    return float(values.mean() * 100)
+
 
 def get_rag_value(
     df: pd.DataFrame,
     metric_name: str,
 ) -> float:
-    """Get one metric from evaluation_metrics.csv."""
+    """Read a precomputed Direct RAG metric from evaluation_metrics.csv."""
 
-    row = df[
-        df["metric"]
-        .astype(str)
-        .str.strip()
-        .str.lower()
-        == metric_name.lower()
-    ]
+    require_columns(
+        df,
+        ["metric", "accuracy_percent"],
+        "Direct RAG",
+    )
 
-    if row.empty:
+    normalized = (
+        df["metric"].astype(str).str.strip().str.casefold()
+    )
 
+    aliases = {
+        "refusal accuracy": {
+            "refusal accuracy",
+            "negative refusal accuracy",
+            "negative refusal",
+        }
+    }
+
+    requested = metric_name.strip().casefold()
+    accepted_names = aliases.get(requested, {requested})
+
+    rows = df[normalized.isin(accepted_names)]
+
+    if rows.empty:
         raise ValueError(
-            f"Metric not found in RAG CSV: "
-            f"{metric_name}"
+            f"Metric '{metric_name}' not found in {RAG_CSV.name}.\n"
+            f"Available metrics: {df['metric'].tolist()}"
         )
 
-    return float(
-        row.iloc[0]["accuracy_percent"]
+    values = pd.to_numeric(
+        rows["accuracy_percent"],
+        errors="coerce",
+    ).dropna()
+
+    if values.empty:
+        raise ValueError(
+            f"Metric '{metric_name}' has no valid numeric score."
+        )
+
+    return float(values.iloc[0])
+
+
+def style_axes(ax) -> None:
+    """Apply consistent styling to charts."""
+
+    ax.grid(axis="y", alpha=0.25, linestyle="--")
+    ax.set_axisbelow(True)
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+
+
+def add_bar_labels(
+    ax,
+    bars,
+    suffix: str = "%",
+    decimals: int = 2,
+    offset: float = 1.0,
+) -> None:
+    """Add values above each bar."""
+
+    for bar in bars:
+        value = bar.get_height()
+
+        if not np.isfinite(value):
+            continue
+
+        ax.annotate(
+            f"{value:.{decimals}f}{suffix}",
+            xy=(
+                bar.get_x() + bar.get_width() / 2,
+                value,
+            ),
+            xytext=(0, 4),
+            textcoords="offset points",
+            ha="center",
+            va="bottom",
+            fontsize=9,
+        )
+
+
+def save_figure(fig, filename: str) -> Path:
+    """Save a figure at publication-quality resolution."""
+
+    output = OUTPUT_DIR / filename
+
+    fig.tight_layout()
+    fig.savefig(
+        output,
+        dpi=300,
+        bbox_inches="tight",
+        facecolor="white",
     )
+    plt.close(fig)
+
+    print(f"[SAVED] {output}")
+
+    return output
 
 
 # ============================================================
-# CREATE DIRECT RAG GRAPH
+# LOAD EVALUATION DATASETS
+# ============================================================
+
+def load_rag_results() -> pd.DataFrame:
+    df = load_csv(RAG_CSV, "Direct RAG")
+
+    require_columns(
+        df,
+        ["metric", "accuracy_percent", "sample_count"],
+        "Direct RAG",
+    )
+
+    return df
+
+
+def load_ragas_results() -> pd.DataFrame:
+    df = load_csv(RAGAS_CSV, "RAGAS")
+
+    require_columns(
+        df,
+        [
+            "faithfulness",
+            "answer_relevancy",
+            "context_precision",
+            "context_recall",
+        ],
+        "RAGAS",
+    )
+
+    return df
+
+
+def load_ares_results() -> pd.DataFrame:
+    df = load_csv(ARES_CSV, "ARES-inspired")
+
+    require_columns(
+        df,
+        [
+            "context_relevance",
+            "answer_faithfulness",
+            "answer_relevance",
+        ],
+        "ARES-inspired",
+    )
+
+    return df
+
+
+def load_stt_results() -> pd.DataFrame:
+    df = load_csv(STT_CSV, "Speech recognition")
+
+    require_columns(
+        df,
+        [
+            "condition",
+            "test_count",
+            "average_wer_percent",
+            "average_cer_percent",
+        ],
+        "Speech recognition",
+    )
+
+    return df
+
+
+# ============================================================
+# 1. DIRECT RAG GRAPH
 # ============================================================
 
 def create_direct_rag_graph(
     rag_df: pd.DataFrame,
-) -> Path:
-    """Create the final direct RAG evaluation graph."""
+) -> dict:
+    """Plot precomputed Direct RAG metrics saved by evaluate_rag.py."""
 
-    # --------------------------------------------------------
-    # Read values directly from CSV
-    # --------------------------------------------------------
+    metrics = {
+        "Retrieval Hit@5": get_rag_value(
+            rag_df, "Retrieval Hit@5"
+        ),
+        "Answer Accuracy": get_rag_value(
+            rag_df, "Answer Accuracy"
+        ),
+        "Negative Refusal Accuracy": get_rag_value(
+            rag_df, "Refusal Accuracy"
+        ),
+    }
 
-    retrieval = get_rag_value(
-        rag_df,
-        "Retrieval Hit@5",
-    )
+    print("\n[DIRECT RAG RESULTS]")
 
-    answer = get_rag_value(
-        rag_df,
-        "Answer Accuracy",
-    )
-
-    refusal = get_rag_value(
-        rag_df,
-        "Refusal Accuracy",
-    )
-
-    # --------------------------------------------------------
-    # Display values
-    # --------------------------------------------------------
-
-    print()
-    print(
-        "[DIRECT RAG RESULTS]"
-    )
-
-    print(
-        f"Retrieval Hit@5       : "
-        f"{retrieval:.2f}%"
-    )
-
-    print(
-        f"Answer Accuracy       : "
-        f"{answer:.2f}%"
-    )
-
-    print(
-        f"Negative Refusal     : "
-        f"{refusal:.2f}%"
-    )
-
-    # --------------------------------------------------------
-    # Chart data
-    # --------------------------------------------------------
+    for name, value in metrics.items():
+        print(f"{name:<28}: {value:.2f}%")
 
     labels = [
         "Retrieval\nHit@5",
@@ -269,509 +1079,301 @@ def create_direct_rag_graph(
         "Negative Refusal\nAccuracy",
     ]
 
-    values = [
-        retrieval,
-        answer,
-        refusal,
-    ]
-
-    # --------------------------------------------------------
-    # Create figure
-    # --------------------------------------------------------
-
-    fig, ax = plt.subplots(
-        figsize=(10, 6)
-    )
+    fig, ax = plt.subplots(figsize=(9, 5.5))
 
     bars = ax.bar(
         labels,
-        values,
-        color=[
-            "#4361EE",
-            "#06D6A0",
-            "#F72585",
-        ],
+        list(metrics.values()),
+        color=["#4361EE", "#06A77D", "#D94F9D"],
         width=0.60,
     )
 
-    # --------------------------------------------------------
-    # Title
-    # --------------------------------------------------------
-
     ax.set_title(
         "Direct RAG Evaluation Performance",
-        fontsize=17,
+        fontsize=15,
         fontweight="bold",
-        pad=15,
+        pad=14,
     )
+    ax.set_ylabel("Accuracy (%)")
+    ax.set_ylim(0, 110)
 
-    # --------------------------------------------------------
-    # Axis
-    # --------------------------------------------------------
+    style_axes(ax)
+    add_bar_labels(ax, bars)
 
-    ax.set_ylabel(
-        "Accuracy (%)",
-        fontsize=12,
-    )
+    save_figure(fig, "rag_overall_accuracy.png")
 
-    ax.set_ylim(
-        0,
-        110,
-    )
-
-    # --------------------------------------------------------
-    # Grid
-    # --------------------------------------------------------
-
-    ax.grid(
-        axis="y",
-        alpha=0.25,
-        linestyle="--",
-    )
-
-    # --------------------------------------------------------
-    # Value labels
-    # --------------------------------------------------------
-
-    for bar, value in zip(
-        bars,
-        values,
-    ):
-
-        ax.text(
-            bar.get_x()
-            + bar.get_width() / 2,
-            value + 2,
-            f"{value:.1f}%",
-            ha="center",
-            va="bottom",
-            fontsize=12,
-            fontweight="bold",
-        )
-
-    # --------------------------------------------------------
-    # Remove unnecessary borders
-    # --------------------------------------------------------
-
-    ax.spines[
-        "top"
-    ].set_visible(False)
-
-    ax.spines[
-        "right"
-    ].set_visible(False)
-
-    # --------------------------------------------------------
-    # Save
-    # --------------------------------------------------------
-
-    output = (
-        OUTPUT_DIR
-        / "overall_accuracy.png"
-    )
-
-    fig.tight_layout()
-
-    fig.savefig(
-        output,
-        dpi=300,
-        bbox_inches="tight",
-    )
-
-    plt.close(fig)
-
-    print(
-        f"[SAVED] {output}"
-    )
-
-    return output
+    return metrics
 
 
 # ============================================================
-# CREATE RAGAS GRAPH
+# 2. RAGAS GRAPH
 # ============================================================
 
 def create_ragas_graph(
     ragas_df: pd.DataFrame,
-) -> Path:
-    """Create final RAGAS evaluation graph."""
+) -> dict:
+    """Create the RAGAS evaluation chart."""
 
-    # --------------------------------------------------------
-    # Calculate directly from CSV
-    # --------------------------------------------------------
+    columns = {
+        "Faithfulness": "faithfulness",
+        "Answer Relevancy": "answer_relevancy",
+        "Context Precision": "context_precision",
+        "Context Recall": "context_recall",
+    }
 
-    faithfulness = (
-        ragas_df[
-            "faithfulness"
-        ].mean()
-        * 100
-    )
+    metrics = {
+        label: metric_mean_percent(
+            ragas_df, column, "RAGAS"
+        )
+        for label, column in columns.items()
+    }
 
-    relevancy = (
-        ragas_df[
-            "answer_relevancy"
-        ].mean()
-        * 100
-    )
+    print("\n[RAGAS RESULTS]")
 
-    precision = (
-        ragas_df[
-            "context_precision"
-        ].mean()
-        * 100
-    )
+    for name, value in metrics.items():
+        print(f"{name:<25}: {value:.2f}%")
 
-    recall = (
-        ragas_df[
-            "context_recall"
-        ].mean()
-        * 100
-    )
-
-    # --------------------------------------------------------
-    # Display values
-    # --------------------------------------------------------
-
-    print()
-    print(
-        "[RAGAS RESULTS]"
-    )
-
-    print(
-        f"Faithfulness          : "
-        f"{faithfulness:.2f}%"
-    )
-
-    print(
-        f"Answer Relevancy      : "
-        f"{relevancy:.2f}%"
-    )
-
-    print(
-        f"Context Precision     : "
-        f"{precision:.2f}%"
-    )
-
-    print(
-        f"Context Recall        : "
-        f"{recall:.2f}%"
-    )
-
-    # --------------------------------------------------------
-    # Chart data
-    # --------------------------------------------------------
-
-    labels = [
-        "Faithfulness",
-        "Answer Relevancy",
-        "Context Precision",
-        "Context Recall",
-    ]
-
-    values = [
-        faithfulness,
-        relevancy,
-        precision,
-        recall,
-    ]
-
-    # --------------------------------------------------------
-    # Create figure
-    # --------------------------------------------------------
-
-    fig, ax = plt.subplots(
-        figsize=(11, 6)
-    )
+    fig, ax = plt.subplots(figsize=(10, 5.5))
 
     bars = ax.bar(
-        labels,
-        values,
-        color=[
-            "#7B2CBF",
-            "#F72585",
-            "#4361EE",
-            "#06D6A0",
-        ],
-        width=0.60,
+        list(metrics.keys()),
+        list(metrics.values()),
+        color=["#9B5DE5", "#D65DB1", "#5773D8", "#0B8F69"],
+        width=0.62,
     )
-
-    # --------------------------------------------------------
-    # Title
-    # --------------------------------------------------------
 
     ax.set_title(
         "RAGAS Evaluation Performance",
-        fontsize=17,
+        fontsize=15,
         fontweight="bold",
-        pad=15,
+        pad=14,
     )
+    ax.set_ylabel("Score (%)")
+    ax.set_ylim(0, 110)
 
-    # --------------------------------------------------------
-    # Axis
-    # --------------------------------------------------------
+    style_axes(ax)
+    add_bar_labels(ax, bars)
 
-    ax.set_ylabel(
-        "Score (%)",
-        fontsize=12,
-    )
+    save_figure(fig, "ragas_overall_metrics.png")
 
-    ax.set_ylim(
-        0,
-        110,
-    )
-
-    # --------------------------------------------------------
-    # Grid
-    # --------------------------------------------------------
-
-    ax.grid(
-        axis="y",
-        alpha=0.25,
-        linestyle="--",
-    )
-
-    # --------------------------------------------------------
-    # Value labels
-    # --------------------------------------------------------
-
-    for bar, value in zip(
-        bars,
-        values,
-    ):
-
-        ax.text(
-            bar.get_x()
-            + bar.get_width() / 2,
-            value + 2,
-            f"{value:.2f}%",
-            ha="center",
-            va="bottom",
-            fontsize=12,
-            fontweight="bold",
-        )
-
-    # --------------------------------------------------------
-    # Clean borders
-    # --------------------------------------------------------
-
-    ax.spines[
-        "top"
-    ].set_visible(False)
-
-    ax.spines[
-        "right"
-    ].set_visible(False)
-
-    # --------------------------------------------------------
-    # Save
-    # --------------------------------------------------------
-
-    output = (
-        OUTPUT_DIR
-        / "ragas_overall_metrics.png"
-    )
-
-    fig.tight_layout()
-
-    fig.savefig(
-        output,
-        dpi=300,
-        bbox_inches="tight",
-    )
-
-    plt.close(fig)
-
-    print(
-        f"[SAVED] {output}"
-    )
-
-    return output
+    return metrics
 
 
 # ============================================================
-# CREATE ARES GRAPH
+# 3. ARES-INSPIRED GRAPH
 # ============================================================
 
 def create_ares_graph(
     ares_df: pd.DataFrame,
-) -> Path:
-    """Create final ARES-inspired evaluation graph."""
+) -> dict:
+    """Create the ARES-inspired evaluation chart."""
 
-    # --------------------------------------------------------
-    # Calculate directly from CSV
-    # --------------------------------------------------------
+    columns = {
+        "Context Relevance": "context_relevance",
+        "Answer Faithfulness": "answer_faithfulness",
+        "Answer Relevance": "answer_relevance",
+    }
 
-    context_relevance = (
-        ares_df[
-            "context_relevance"
-        ].mean()
-        * 100
-    )
+    metrics = {
+        label: metric_mean_percent(
+            ares_df, column, "ARES-inspired"
+        )
+        for label, column in columns.items()
+    }
 
-    answer_faithfulness = (
-        ares_df[
-            "answer_faithfulness"
-        ].mean()
-        * 100
-    )
+    print("\n[ARES-INSPIRED RESULTS]")
 
-    answer_relevance = (
-        ares_df[
-            "answer_relevance"
-        ].mean()
-        * 100
-    )
+    for name, value in metrics.items():
+        print(f"{name:<25}: {value:.2f}%")
 
-    # --------------------------------------------------------
-    # Display values
-    # --------------------------------------------------------
-
-    print()
-    print(
-        "[ARES-INSPIRED RESULTS]"
-    )
-
-    print(
-        f"Context Relevance     : "
-        f"{context_relevance:.2f}%"
-    )
-
-    print(
-        f"Answer Faithfulness   : "
-        f"{answer_faithfulness:.2f}%"
-    )
-
-    print(
-        f"Answer Relevance      : "
-        f"{answer_relevance:.2f}%"
-    )
-
-    # --------------------------------------------------------
-    # Chart data
-    # --------------------------------------------------------
-
-    labels = [
-        "Context\nRelevance",
-        "Answer\nFaithfulness",
-        "Answer\nRelevance",
-    ]
-
-    values = [
-        context_relevance,
-        answer_faithfulness,
-        answer_relevance,
-    ]
-
-    # --------------------------------------------------------
-    # Create figure
-    # --------------------------------------------------------
-
-    fig, ax = plt.subplots(
-        figsize=(10, 6)
-    )
+    fig, ax = plt.subplots(figsize=(9, 5.5))
 
     bars = ax.bar(
-        labels,
-        values,
-        color=[
-            "#118AB2",
-            "#8338EC",
-            "#FB5607",
-        ],
+        list(metrics.keys()),
+        list(metrics.values()),
+        color=["#3288A8", "#9C70D1", "#E66A32"],
         width=0.60,
     )
 
-    # --------------------------------------------------------
-    # Title
-    # --------------------------------------------------------
-
     ax.set_title(
         "ARES-Inspired Evaluation Performance",
-        fontsize=17,
+        fontsize=15,
         fontweight="bold",
-        pad=15,
+        pad=14,
+    )
+    ax.set_ylabel("Score (%)")
+    ax.set_ylim(0, 110)
+
+    style_axes(ax)
+    add_bar_labels(ax, bars)
+
+    save_figure(fig, "ares_overall_metrics.png")
+
+    return metrics
+
+
+# ============================================================
+# 4. SPEECH RECOGNITION WER/CER GRAPH
+# ============================================================
+
+def create_speech_recognition_graph(
+    stt_df: pd.DataFrame,
+) -> dict:
+    """Create a WER/CER chart using stt_quality_summary.csv."""
+
+    df = stt_df.copy()
+
+    df["condition"] = (
+        df["condition"].astype(str).str.strip().str.casefold()
     )
 
-    # --------------------------------------------------------
-    # Axis
-    # --------------------------------------------------------
-
-    ax.set_ylabel(
-        "Score (%)",
-        fontsize=12,
+    df["average_wer_percent"] = pd.to_numeric(
+        df["average_wer_percent"], errors="coerce"
     )
 
-    ax.set_ylim(
-        0,
-        110,
+    df["average_cer_percent"] = pd.to_numeric(
+        df["average_cer_percent"], errors="coerce"
     )
 
-    # --------------------------------------------------------
-    # Grid
-    # --------------------------------------------------------
-
-    ax.grid(
-        axis="y",
-        alpha=0.25,
-        linestyle="--",
+    df["test_count"] = pd.to_numeric(
+        df["test_count"], errors="coerce"
     )
 
-    # --------------------------------------------------------
-    # Value labels
-    # --------------------------------------------------------
+    df = df.dropna(
+        subset=[
+            "condition",
+            "average_wer_percent",
+            "average_cer_percent",
+        ]
+    )
 
-    for bar, value in zip(
-        bars,
-        values,
-    ):
+    preferred_order = [
+        "clean",
+        "noise",
+        "noisy",
+        "telephone",
+        "telephone-filtered",
+        "accent",
+    ]
 
-        ax.text(
-            bar.get_x()
-            + bar.get_width() / 2,
-            value + 2,
-            f"{value:.2f}%",
-            ha="center",
-            va="bottom",
-            fontsize=12,
-            fontweight="bold",
+    available = df["condition"].tolist()
+
+    ordered_conditions = [
+        condition
+        for condition in preferred_order
+        if condition in available
+    ]
+
+    ordered_conditions.extend(
+        condition
+        for condition in available
+        if condition not in ordered_conditions
+    )
+
+    df = (
+        df.drop_duplicates(
+            subset=["condition"], keep="last"
+        )
+        .set_index("condition")
+        .reindex(ordered_conditions)
+        .dropna(
+            subset=[
+                "average_wer_percent",
+                "average_cer_percent",
+            ]
+        )
+        .reset_index()
+    )
+
+    if df.empty:
+        raise ValueError(
+            f"No valid speech-recognition rows found in "
+            f"{STT_CSV.name}."
         )
 
-    # --------------------------------------------------------
-    # Clean borders
-    # --------------------------------------------------------
+    label_map = {
+        "clean": "Clean",
+        "noise": "Noisy",
+        "noisy": "Noisy",
+        "telephone": "Telephone-filtered",
+        "telephone-filtered": "Telephone-filtered",
+        "accent": "Accent",
+    }
 
-    ax.spines[
-        "top"
-    ].set_visible(False)
+    labels = [
+        label_map.get(condition, condition.title())
+        for condition in df["condition"]
+    ]
 
-    ax.spines[
-        "right"
-    ].set_visible(False)
+    wer = df["average_wer_percent"].astype(float).to_numpy()
+    cer = df["average_cer_percent"].astype(float).to_numpy()
 
-    # --------------------------------------------------------
-    # Save
-    # --------------------------------------------------------
+    print("\n[SPEECH RECOGNITION RESULTS]")
 
-    output = (
-        OUTPUT_DIR
-        / "ares_overall_metrics.png"
+    for label, w, c in zip(labels, wer, cer):
+        print(
+            f"{label:<24}: WER {w:.2f}% | CER {c:.2f}%"
+        )
+
+    x = np.arange(len(labels))
+    width = 0.34
+
+    fig, ax = plt.subplots(figsize=(9, 5.5))
+
+    wer_bars = ax.bar(
+        x - width / 2,
+        wer,
+        width,
+        label="WER",
+        color="#4361EE",
     )
 
-    fig.tight_layout()
-
-    fig.savefig(
-        output,
-        dpi=300,
-        bbox_inches="tight",
+    cer_bars = ax.bar(
+        x + width / 2,
+        cer,
+        width,
+        label="CER",
+        color="#06A77D",
     )
 
-    plt.close(fig)
-
-    print(
-        f"[SAVED] {output}"
+    ax.set_title(
+        "Speech Recognition Performance",
+        fontsize=15,
+        fontweight="bold",
+        pad=14,
     )
+    ax.set_ylabel("Error Rate (%)")
+    ax.set_xlabel("Audio Condition")
+    ax.set_xticks(x)
+    ax.set_xticklabels([str(label) if label is not None else "" for label in labels])
+    ax.legend(frameon=False)
 
-    return output
+    max_value = float(max(np.max(wer), np.max(cer)))
+    ax.set_ylim(0, max(1.0, max_value * 1.35))
+
+    style_axes(ax)
+    add_bar_labels(ax, wer_bars, decimals=2)
+    add_bar_labels(ax, cer_bars, decimals=2)
+
+    save_figure(fig, "speech_recognition_metrics.png")
+
+    return {
+        label: {
+            "WER": float(w),
+            "CER": float(c),
+            "samples": (
+                int(sample_count)
+                if pd.notna(sample_count)
+                else 0
+            ),
+        }
+        for label, w, c, sample_count in zip(
+            labels,
+            wer,
+            cer,
+            df["test_count"],
+        )
+    }
 
 
 # ============================================================
@@ -779,239 +1381,119 @@ def create_ares_graph(
 # ============================================================
 
 def save_summary(
-    retrieval: float,
-    answer: float,
-    refusal: float,
-    faithfulness: float,
-    relevancy: float,
-    precision: float,
-    recall: float,
-    context_relevance: float,
-    answer_faithfulness: float,
-    answer_relevance: float,
-):
-    """Save final visualization summary."""
+    direct_metrics: dict,
+    ragas_metrics: dict,
+    ares_metrics: dict,
+    stt_metrics: dict,
+    rag_df: pd.DataFrame,
+    ragas_df: pd.DataFrame,
+    ares_df: pd.DataFrame,
+) -> Path:
+    """Save a summary derived from the evaluation CSV files."""
 
-    output = (
-        OUTPUT_DIR
-        / "visualization_summary.txt"
-    )
+    output = OUTPUT_DIR / "visualization_summary.txt"
 
     lines = [
         "REC VOICE AI RECEPTIONIST",
         "FINAL EVALUATION VISUALIZATION SUMMARY",
-        "=" * 60,
-        "",
-        "FINAL MODEL",
-        "-" * 60,
-        "Gemma 3:4B",
+        "=" * 65,
         "",
         "DIRECT RAG EVALUATION",
-        "-" * 60,
-        f"Retrieval Hit@5       : {retrieval:.2f}%",
-        f"Answer Accuracy       : {answer:.2f}%",
-        f"Negative Refusal      : {refusal:.2f}%",
-        "",
-        "RAGAS EVALUATION",
-        "-" * 60,
-        f"Faithfulness          : {faithfulness:.2f}%",
-        f"Answer Relevancy      : {relevancy:.2f}%",
-        f"Context Precision     : {precision:.2f}%",
-        f"Context Recall        : {recall:.2f}%",
-        "",
-        "ARES-INSPIRED EVALUATION",
-        "-" * 60,
-        f"Context Relevance     : {context_relevance:.2f}%",
-        f"Answer Faithfulness   : {answer_faithfulness:.2f}%",
-        f"Answer Relevance      : {answer_relevance:.2f}%",
-        "",
-        "GENERATED GRAPHS",
-        "-" * 60,
-        "1. overall_accuracy.png",
-        "2. ragas_overall_metrics.png",
-        "3. ares_overall_metrics.png",
+        "-" * 65,
     ]
 
-    output.write_text(
-        "\n".join(lines),
-        encoding="utf-8",
-    )
+    for metric, score in direct_metrics.items():
+        lines.append(f"{metric:<32}: {score:.2f}%")
 
-    print(
-        f"[SAVED] {output}"
-    )
+    if "sample_count" in rag_df.columns:
+        lines.extend(["", "Direct RAG metric sample counts:"])
+        for _, row in rag_df.iterrows():
+            lines.append(
+                f"{str(row['metric']):<32}: {row['sample_count']}"
+            )
+
+    lines.extend(["", "RAGAS EVALUATION", "-" * 65])
+    for metric, score in ragas_metrics.items():
+        lines.append(f"{metric:<32}: {score:.2f}%")
+    lines.append(f"Evaluated rows: {len(ragas_df)}")
+
+    lines.extend(["", "ARES-INSPIRED EVALUATION", "-" * 65])
+    for metric, score in ares_metrics.items():
+        lines.append(f"{metric:<32}: {score:.2f}%")
+    lines.append(f"Evaluated rows: {len(ares_df)}")
+
+    lines.extend(["", "SPEECH RECOGNITION EVALUATION", "-" * 65])
+    for condition, scores in stt_metrics.items():
+        lines.append(
+            f"{condition:<24}: "
+            f"WER {scores['WER']:.2f}%, "
+            f"CER {scores['CER']:.2f}%, "
+            f"samples {scores['samples']}"
+        )
+
+    lines.extend([
+        "",
+        "GENERATED GRAPHS",
+        "-" * 65,
+        "1. rag_overall_accuracy.png",
+        "2. ragas_overall_metrics.png",
+        "3. ares_overall_metrics.png",
+        "4. speech_recognition_metrics.png",
+    ])
+
+    output.write_text("\n".join(lines), encoding="utf-8")
+    print(f"\n[SAVED SUMMARY] {output}")
+    return output
+
 
 
 # ============================================================
 # MAIN
 # ============================================================
 
-def main():
-    """Generate final evaluation graphs."""
+def main() -> None:
+    """Load evaluation CSVs, generate the four retained charts, and save summary."""
 
-    print()
-    print("=" * 70)
+    print("\n" + "=" * 70)
     print("REC VOICE AI RECEPTIONIST")
     print("FINAL EVALUATION VISUALIZATION")
     print("=" * 70)
 
-    # --------------------------------------------------------
-    # Load CSV files
-    # --------------------------------------------------------
-
     rag_df = load_rag_results()
-
     ragas_df = load_ragas_results()
-
     ares_df = load_ares_results()
+    stt_df = load_stt_results()
 
-    # --------------------------------------------------------
-    # Calculate values
-    # --------------------------------------------------------
-
-    retrieval = get_rag_value(
-        rag_df,
-        "Retrieval Hit@5",
-    )
-
-    answer = get_rag_value(
-        rag_df,
-        "Answer Accuracy",
-    )
-
-    refusal = get_rag_value(
-        rag_df,
-        "Refusal Accuracy",
-    )
-
-    faithfulness = (
-        ragas_df[
-            "faithfulness"
-        ].mean()
-        * 100
-    )
-
-    relevancy = (
-        ragas_df[
-            "answer_relevancy"
-        ].mean()
-        * 100
-    )
-
-    precision = (
-        ragas_df[
-            "context_precision"
-        ].mean()
-        * 100
-    )
-
-    recall = (
-        ragas_df[
-            "context_recall"
-        ].mean()
-        * 100
-    )
-
-    context_relevance = (
-        ares_df[
-            "context_relevance"
-        ].mean()
-        * 100
-    )
-
-    answer_faithfulness = (
-        ares_df[
-            "answer_faithfulness"
-        ].mean()
-        * 100
-    )
-
-    answer_relevance = (
-        ares_df[
-            "answer_relevance"
-        ].mean()
-        * 100
-    )
-
-    # --------------------------------------------------------
-    # Create graphs
-    # --------------------------------------------------------
-
-    print()
-    print("=" * 70)
-    print("GENERATING FINAL GRAPHS")
-    print("=" * 70)
-
-    create_direct_rag_graph(
-        rag_df
-    )
-
-    create_ragas_graph(
-        ragas_df
-    )
-
-    create_ares_graph(
-        ares_df
-    )
-
-    # --------------------------------------------------------
-    # Save summary
-    # --------------------------------------------------------
+    direct_metrics = create_direct_rag_graph(rag_df)
+    ragas_metrics = create_ragas_graph(ragas_df)
+    ares_metrics = create_ares_graph(ares_df)
+    stt_metrics = create_speech_recognition_graph(stt_df)
 
     save_summary(
-        retrieval,
-        answer,
-        refusal,
-        faithfulness,
-        relevancy,
-        precision,
-        recall,
-        context_relevance,
-        answer_faithfulness,
-        answer_relevance,
+        direct_metrics=direct_metrics,
+        ragas_metrics=ragas_metrics,
+        ares_metrics=ares_metrics,
+        stt_metrics=stt_metrics,
+        rag_df=rag_df,
+        ragas_df=ragas_df,
+        ares_df=ares_df,
     )
 
-    # --------------------------------------------------------
-    # Final output
-    # --------------------------------------------------------
-
-    print()
-    print("=" * 70)
+    print("\n" + "=" * 70)
     print("VISUALIZATION COMPLETE")
     print("=" * 70)
 
-    print()
-    print(
-        "Final graphs:"
-    )
+    output_files = [
+        "rag_overall_accuracy.png",
+        "ragas_overall_metrics.png",
+        "ares_overall_metrics.png",
+        "speech_recognition_metrics.png",
+        "visualization_summary.txt",
+    ]
 
-    print(
-        "  ✓ overall_accuracy.png"
-    )
+    for filename in output_files:
+        print(f"[OUTPUT] {OUTPUT_DIR / filename}")
 
-    print(
-        "  ✓ ragas_overall_metrics.png"
-    )
-
-    print(
-        "  ✓ ares_overall_metrics.png"
-    )
-
-    print()
-    print(
-        "Saved to:"
-    )
-
-    print(
-        OUTPUT_DIR
-    )
-
-    print()
-
-
-# ============================================================
-# ENTRY POINT
-# ============================================================
 
 if __name__ == "__main__":
     main()

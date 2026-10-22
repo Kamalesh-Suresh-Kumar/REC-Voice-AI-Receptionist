@@ -1,0 +1,33 @@
+TITLE: Contact | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/contact
+SOURCE_TYPE: website
+SECTIONS: ["Contact", "No Content Available"]
+
+SECTION: Contact
+SECTION: No Content Available
+This page doesn't have any sections configured yet.
+
+
+IMAGE-BASED INFORMATION
+========================
+
+IMAGE 1
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2FQS.png&w=64&q=75
+ALT_TEXT: ARIIA Badge
+NEARBY_TEXT: Top Science & Technology Institution in India Contact
+
+IMAGE 2
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2FStar.svg&w=96&q=75
+ALT_TEXT: Decorative Star
+NEARBY_TEXT: Top Science & Technology Institution in India Contact | Top Science & Technology Institution in India Contact Top Science & Technology Institution in India Contact
+
+IMAGE 3
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2FStar.svg&w=64&q=75
+ALT_TEXT: Decorative Star
+NEARBY_TEXT: Top Science & Technology Institution in India Contact | Top Science & Technology Institution in India Contact Top Science & Technology Institution in India Contact
+
+IMAGE 4
+IMAGE_URL: https://www.rajalakshmi.org/_next/image?url=%2Fassets%2Ficons%2FQS.png&w=384&q=75
+ALT_TEXT: ARIIA & NAAC Badge
+NEARBY_TEXT: Top Science & Technology Institution in India Contact | Top Science & Technology Institution in India Contact Top Science & Technology Institution in India Contact
+OCR_TEXT: |-GAUGE DIAMOND

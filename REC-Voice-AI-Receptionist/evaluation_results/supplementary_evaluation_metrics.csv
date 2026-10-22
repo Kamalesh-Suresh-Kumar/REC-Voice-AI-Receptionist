@@ -1,8 +1,0 @@
-evaluation,metric,score_percent
-RAGAS,Faithfulness,86.84640522875817
-RAGAS,Answer Relevancy,87.6905087869377
-RAGAS,Context Precision,90.55555555241435
-RAGAS,Context Recall,100.0
-ARES-Inspired,Context Relevance,77.77777777777779
-ARES-Inspired,Answer Faithfulness,95.83333333333334
-ARES-Inspired,Answer Relevance,97.22222222222221

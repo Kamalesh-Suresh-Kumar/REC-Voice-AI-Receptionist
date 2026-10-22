@@ -1,0 +1,101 @@
+TITLE: International Relations Office (IRO) | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/iro
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+The International Relations Office (IRO) at Rajalakshmi Engineering College (Autonomous) facilitates admission of students, international academic exchange and collaboration between REC and Universities /Colleges abroad. REC has signed MoUs with some of the top educational Institutions abroad for student/faculty exchange and research cooperation. The International Relations office acts as a bridge between REC and the global community in coordinating and in strengthening international relations.
+Dr. Swarnalatha Y, Dean-International Relations
+Responsibilities
+Facilitate students from foreign countries in getting admission to Fulltime Undergraduate Degree Courses (B.E./B.Tech.).
+Assist students in visa application process.
+Identifying universities/colleges for collaboration, including student/faculty exchange and joint research programmes.
+Organize and facilitate Joint Seminars/ Workshops/ Symposium/ Conferences
+Interacting with partner institutions to strengthen relations
+Participation in Education Fairs abroad
+Categories of International Students who can apply for admission to Fulltime Undergraduate Programmes: Only NRI students holding valid Indian Passport
+Contact: International Relations Office at internationalrelations@rajalakshmi.edu.in or call: +91-44-67181015
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+Serves as the nodal point for information and assistance to all International students.
+Co-ordinates with various departments and schools relating to the needs of the students.
+Arrange for pick of foreign interns from the airport on their arrival and departure.
+Arrange for Welcome and Orientation Programme for interns and foreign students.
+Offer support on visa extension and alien registration.
+Update parents/ guardians of NRI on academic performance.
+Organize Buddy system for Foreign Students.
+Offer assistance and counselling to students who have problems related to personal, professional or cultural issues.
+Organize special bridge course in Communicative English for students from non English speaking countries.
+Logistic arrangements
+Accommodation
+Alien Registration
+Co-ordinate with schools to arrange lecture schedules
+Identify funding opportunities
+Get suitable partners
+Assist in preparing proposals
+Marketing
+Visiting Partner Universities
+Participate in Education fairs
+Attend Higher Education seminars
+Advertise through Information pamphlets
+NRI students recruitment drive
+Eligibility Criteria for B.E./B.Tech. Degree (Four years):
+Candidates must have passed the qualifying examination i.e (10+2) of Indian System or its equivalent (completed 12 years of school education).
+Candidates must have studied in English medium or should have proficiency in English language. The candidate should have passed in all subjects and scored a minimum average of 50 percentage in Mathematics, Physics and Chemistry put together in qualifying examinations.
+Non-Resident Indian (NRI) categories for B.E. / B.Tech. Photocopies of the following documents are to be enclosed along with the application:
+Recent NRI status certificate of the parent issued by the Indian Embassy of the respective country with their seal (Affidavit of NRI status is not accepted).
+Employment certificate of the NRI parent. In case of self employment, nature of business, annual income and required proof like Income - Tax paid (for the last 3 years).
+NRE / NRI bank account of the NRI parent, at least for the last six months.
+Valid Indian passport of the candidate or Birth Certificate.
+Valid Indian passport of the NRI parent
+School Transfer Certificate or Migration Certificate or both. If these certificates are not issued in your country, an equivalent transfer certificate from the Principal has to be specially obtained.
+For 10 + 2 type of Indian Boards OR Foreign Boards: a. Mark sheets of Secondary School Leaving Certificate (X Standard) or equivalent. b. Higher secondary Certificate (XII Standard) or equivalent*** OR c. For 8 + 4 type of Foreign Boards: Marks Sheets from 8th to 12th standards d. For 9 + 3 type of Foreign Boards: Marks Sheets from 9th to 12th standards
+20 year educational group whose name is synonymous with quality
+Approved by All India Council for Technical Education(AICTE)-Affiliated to Anna University
+Accredited by National Board of Accreditation (NBA) and National Assessment and Accreditation Council(NAAC) with “A” Grade and a score of 3.14/4
+Accredited by Leading Corporates –Tata Consultancy Services (TCS), Wipro, Cognizant Technology Solutions (CTS), etc...
+Permanent affiliation by Anna University for 8 Programmes
+ISO 9001-2008 certified by TUVNORD
+Ranked in 27th in the Data Quest Survey for Top 100 Institutions
+Recognized as college of the year for the year 2014 by the higher education review magazine
+Ranked in 21 in the top 100 engineering colleges in India provided by higher education review magazine in the year 2016
+Rank No 12 in India for placement by the higher education review magazine in the year 2016
+REC provides an ecosystem that nurtures high quality research and pushes the boundaries of knowledge through multi- disciplinary collaborations.
+Availability of research labs / Projects funded by Department of Science and Technology (DST), Defence Research and Development Organization (DRDO), Naval Research Board (NRB), Atomic Energy Research Board (AERB) , University Grants Commission etc
+Scientific and Industrial Research Organization (SIRO) recognition by Department of Scientific and Industrial Research (DSIR), Government of India
+12 (B) approval from University Grants Commission (UGC)
+9 Departments of The Institutions approved as Research Centers of Anna University
+Centers of Excellence in Machine Vision and Micro Electro Mechanical Systems (MEMS)
+MEMS Design Center of the Ministry of Information and Communication Technology under the NPMASS Programme
+Research funding to the tune of Rs. 12 Crores from various funding agencies
+Consultancy Services to Industry worth Rs. 1.2 Crores for various problems faced by the Industry. Industry clients who have leveraged our Faculty member’s expertise include: Mando, Iljin, TITAN, Nokia Siemens, Super Auto Forge, Hi temp furnaces etc
+Benefits for students:
+Our research Infrastructure provides our students with some of the best opportunities that they can aspire.
+Opportunities like:
+Working with the best of the Faculty members
+Getting hands on exposure to cutting edge technologies in state of the art laboratories
+Work on Projects that solve live problems faced by the Industry
+Edinboro University
+Universidade de Vigo
+University of A Coruna
+Universidade Federal De Juiz De Fora (Brazil)
+Moscow Aviation Institute (MAI)
+University Of Regina, Canada
+University Of Pardubice (Czech Republic)
+UC BERKLEY EXTENSION, USA
+MICHIGAN STATE UNIVERSITY, USA
+CALIFORNIA STATE UNIVERSITY, USA
+NORTHERN ARIZONA UNIVERSITY
+ALAMO COLLEGES, USA
+MILLERVILLE UNIVERSITY OF PENNSYLVANIA
+UNIVERSITY OF UTAH
+SAN FRANSICO STATE UNIVERSITY
+MOSCOW AVIATION INSTITUTE, RUSSIA
+UNIVERSITY OF WOLVERHAMPTON, UK
+BAHIR- DAR UNIVERSITY, ETHIOPIA
+ALTINBAS UNIVERSITY, TURKEY
+ISTANBUL GEDIK,TURKEY
+SWINBURNE UNIVERSITY
+UNIVERSITY OF PLYMOUTH -ENGLAND
+

@@ -1,0 +1,38 @@
+TITLE: Regulation | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/reg2019
+SOURCE_TYPE: website
+SECTIONS: ["Regulation 2019", "Regulations 2019 - UG", "Regulations 2019 - PG (Engineering)", "Regulations 2019 - PG (M.B.A.)"]
+
+SECTION: Regulation 2019
+SECTION: Regulations 2019 - UG
+Aeronautical Engineering
+Artificial Intelligence and Machine Learning
+Automobile Engineering
+Biomedical Engineering
+Biotechnology
+Chemical Engineering
+Civil Engineering
+Computer Science and Design
+Computer Science and Engineering
+Computer Science and Business Systems
+Electrical and Electronics Engineering
+Electronics and Communication Engineering
+Food Technology
+Information Technology
+Mechanical Engineering
+Mechatronics
+Robotics and Automation
+OPEN ELECTIVIES for All Departments
+SECTION: Regulations 2019 - PG (Engineering)
+Avionics
+Biotechnology
+Communication Systems
+Computer Science and Engineering
+Data Science
+Engineering Design
+Embedded System Technologies
+Medical Electronics
+Embedded System Technologies
+OPEN ELECTIVIES
+SECTION: Regulations 2019 - PG (M.B.A.)
+M.B.A.

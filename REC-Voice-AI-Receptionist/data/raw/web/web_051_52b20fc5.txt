@@ -1,0 +1,32 @@
+TITLE: Regulation | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/reg2017-18-22
+SOURCE_TYPE: website
+SECTIONS: ["Regulation 2017 (From 2018-22 batch)", "Regulations 2017 (From 2018-22 batch) - UG", "Regulations 2017 - PG (Engineering)", "Regulations 2017 - PG (M.B.A.)"]
+
+SECTION: Regulation 2017 (From 2018-22 batch)
+SECTION: Regulations 2017 (From 2018-22 batch) - UG
+Aeronautical Engineering
+Automobile Engineering
+Biomedical Engineering
+Biotechnology
+Chemical Engineering
+Civil Engineering
+Computer Science and Engineering
+Electrical and Electronics Engineering
+Electronics and Communication Engineering
+Food Technology
+Information Technology
+Mechanical Engineering
+Mechatronics
+List of OPEN ELECTIVES (All Departments)
+SECTION: Regulations 2017 - PG (Engineering)
+Avionics
+Biotechnology
+Communication Systems
+Computer Science and Engineering
+Engineering Design
+Embedded System Technologies
+Medical Electronics
+Software Engineering
+SECTION: Regulations 2017 - PG (M.B.A.)
+M.B.A.

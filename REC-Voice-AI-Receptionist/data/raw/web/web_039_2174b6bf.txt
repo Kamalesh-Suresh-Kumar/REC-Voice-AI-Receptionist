@@ -1,0 +1,120 @@
+TITLE: IIIC | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/iiic
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "NEXTJS-SERIALIZED-CONTENT"]
+
+Introduction
+Indian industry at present has reached the most crucial turning point where it has to face the dynamic demands of the competitive domestic and global markets through the provisions of high quality products and services. The Industry-Institute Interaction Cell (IIIC) has been constituted for bridging the gap between Industry & Institute and enhancing the employability of young students by exposing them to latest technologies and industrial practices. It provides a platform for the students and faculty members to be aware of skill sets expected by the industry. IIIC facilitates students and faculty to interact with industry in all possible ways such as internships, industrial visits, expert lectures, in-plant training, exchange of resource personnel, consultancy, collaborative R&D projects etc with the spirit of mutual benefit.
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+Engineering is the use of scientific principles to design and build machines, structures, and other items, including bridges, tunnels, roads, vehicles, and buildings. Innovative thinking is a process for creative problem solving. It has a brain-centered core. It encourages organizations to focus on the people they are creating for, which lead to better products, services, and internal Process. Here at Rajalakshmi Engineering college, we are focusing on the projects of real time case studies and industry problems which emphasis to versatile areas which includes products, services, IoT solutions and vision solutions, agriculture, food processing and healthcare sectors. It helps the students to work on upcoming problem areas and understand how the new technologies work from the view of the business, education and user options in the ongoing development of Industry 5.0.
+Dr. L. Priya
+Coordinator, IIIC
+Carrying out industry oriented R & D projects.
+Conduct of industrial visits.
+Involving Experts from Industry in curriculum development and review
+Developing industry-ready manpower resources.
+Undertaking consultancy services.
+Facilitating internship opportunities to students in industry.
+The Institute is looking for opportunities to collaborate with Industries in various domains. For the ease of identifying opportunities, the Institute has come up with Consultancy Brochure mentioning the Strengths of various departments. Industry experts are requested to go through the Brochure & connect with respective Departments.
+REC IIIC Brochure (Download)
+The Institute is actively involved not only with local Industry but with Industries having International presence. Consultancy Projects are undertaken with a combination of Faculty & Students of College.
+Consultancy Policy (Download)
+Yearly Newsletter
+(Download)
+MAJOR CONSULTANCY PROJECTS UNDERTAKEN BY FACULTY:
+1.1 IoT - Smart Boat
+IOT - Smart Boat product serves as a platform for all the boat owners to understand the features of the device upon registering through the website and obtain the related products based on their needs. The Main objective of the website is to provide the customers, functional features of our product and gather the customer interest on the product specification by allowing him to register/sign-up in our system. This product makes the smart monitoring for your boat with GPS-position, automatic GeoFence, Triplog, Movement, and your Start Battery. The boat data collected continuously and updated in the related applications both in web and mobile platform. This product serves the need of boat owner in a very small installation steps
+1.2 Private PACS – A tele radiology software
+A real time PACS – Tele radiology software has been designed and developed to store, exchange, and view medical records through DICOM protocol. The developed PACS is deployed in a cloud and it contains the following:
+Imaging Modalities Like CT, MRI, Nuclear Medicine, And Ultrasound
+Storage For Medical Images and Related Data
+Display Stations For Viewing And Analyzing The Images
+A Computer Network Connecting The System Components
+1.3 Inspection of Brake Piston Cylinder (BPC) for Automotive Braking System
+BPC is an important component in the brake system of four wheeler. The component is having 16 holes in its periphery. Any small burr left in the BPC can cause serious breakdown of the break system. This project identifies the presence of smallest burr in the hole by rotating the component. The system is a semi-automatic system designed especially based on Brake Piston cylinder inspection requirements.
+1.4 Inspection of Spline Gear
+This project is again under quality inspection. The designs are unique and it is a customized solution for a leading automobile company. The inspection requirements includes checking of double broach, Groove miss, Model Mix-up and presence and absence of chamfer
+1.5 Inspection of Flywheel
+Flywheel is an automotive component used in all vehicles. A hot geared wheel is placed on the flywheel and it is pressed by a 70 ton Fly wheel hydraulic press. The direction of the geared wheel is important for different model. Some require with chamfer on the outer side and some do not. Once the hydraulic system presses the ring, the action is irreversible. The wheel is smeared with oil and is also hot. Hence, it is difficult for the operator to judge correctly the side and the company experienced a large wastage of this product due to improper side selection of the component. In this a smart camera is used to detect the side of the ring.
+1.6 Inspection of Brake Shoe Holder for Heavy Vehicles
+Brake shoe holder of heavy vehicles is forged components that are to be inspected for very small inward and outward bend. The product developed will support in the quality inspection of the 18 models available.
+Inspection Parameters are: (Dimension verification for)
+Inward Bend
+Outward Bend
+Inner and outer bend of the product is to be measured and compared with the specified values. In case the values are outside limit, the same is to be intimated by alarm as well as by red light in the tower lamp. A trigger is to be passed to automation system to push the NOT OK component into the NOT OK bin.
+1.7 Inspection of Barcode on Contact Lens Packet
+Cataract lens packets are packaged in a plastic container and details are printed on sheet and pasted on the plastic container. The requirement is to read the details of the cataract lens barcode and print the same details through a printer and paste it on the top cover.
+Inspection Parameters Vision System
+To read the Barcode present in cataract lens packet and to print in the label
+1.8 Inspection of Cage Sleeve
+This project is used to measure the dimensional accuracy of a Cage sleeve for proper functioning. There exist six opening all rounds, whose dimensions are to be measured and the OK and NOT OK components has been segregated by the vision system.
+Window Width and Height.
+Pillar Width and Height
+Inside Diameter
+1.9 Auto Visual Inspection of 3G box
+This project is used to inspect the 3rd Generation Mobile Switching electronic equipment, manufactured for export purpose. The requirement is to inspect the object for its completeness before it is packaged and dispatched.
+Inspection parameters are:
+Front Side
+Presence and absence covers of connectors
+Presence and alignment of bar code
+Back side
+Presence / absence of fan
+Presence / absence of Warning Label
+Presence / absence of Barcodes
+Blister inspection system
+This system is capable of inspecting blister packages either packs of capsules or pack of tablets. These packages are being inspected for the following defects.
+Missing tablets,
+Broken tablets
+Colour / shape sequence correctness
+Label / embossed character verification.
+A reliable and total inspection for the above mentioned defects is important as these are subjected to rigorous regulations and are exported. This consultancy service was provided to a leading pharmaceutical company in Chennai.
+Click here to Download
+Faculties are engaged with different Industries for undertaking Technical Training. Training Programs/Up skilling are organized both In House & at Client site.
+MAJOR TRAINING PROGRAMS
+TRAINING PROGRAMS OFFERED TO INDUSTRY PEOPLE/ACADEMICIANS
+Computer Vision
+Digital Image Processing
+Quality Control
+Automation
+Testing
+SABBATICAL TRAINING PROGRAMS OFFERED
+Internet of Things
+Assembling
+Quality Assurance
+Analytics
+The Institute has signed MoU with many organisation with focus on Consultancy, Projects, Industry Visit, Faculty Training, Co Teaching etc.
+Jama Botanics Pvt Ltd
+Voice Snap Services Pvt Ltd
+Qmax System India Pvt Ltd
+Vaayusastra Aerospace Pvt Ltd
+Festro India Pvt Ltd
+Garuda Aerospace Pvt Ltd
+New Technology
+Imarticus Learning Pvt Ltd
+The Institute encourages dialogue between Industry & Institution. Number of initiatives are undertaken by various Department for engaging the Industry experts.
+Few of the Programmes organised are:
+National Technology Day
+Product Launch- Mobile Application for SFMS
+Faculty Up skilling
+Industrial Training
+Super Auto Forge
+Iljin
+Rane Industry
+Chase Technologies
+Voice Snap
+AnDnR
+Next Generation 3 D Printing
+QMAX
+WayCool
+Deejay Farms
+Jama Botanics
+Nippon Paints
+Sanmar
+Titan
+MTE Industries
+Wabco India Limited
+Haritha Feather
+ICDE Pvt Limited
+

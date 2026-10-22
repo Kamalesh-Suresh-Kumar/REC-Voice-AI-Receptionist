@@ -1,0 +1,1122 @@
+TITLE: Automobile Engineering | Rajalakshmi Engineering College
+SOURCE_URL: https://www.rajalakshmi.org/departments/auto
+SOURCE_TYPE: website
+SECTIONS: ["Introduction", "FACULTY", "NEXTJS-SERIALIZED-CONTENT"]
+
+SECTION: Introduction
+Programmes Offered UG - B.E. Automobile Engineering The Department of Automobile Engineering was started in the academic year 2006-07 with a sanctioned intake of 60 students. The department has dedicated and qualified faculty members. The department follows the syllabus of the Anna University and to supplement the syllabus, guest lectures and Industrial visits are organized. Laboratories are well equipped with latest equipments such as modern engines, chassis dynamometer, exhaust gas analyzer, pressure crank angle measurement systems, fuel testing equipments, etc.
+Anna University Rank Holders: The department is consistently getting Anna University Ranks and secured Gold Medals in five batches out of eleven batches so far. 2010 : First Batch secured Gold Medal and 8th Rank 2011 : Second Batch secured Gold Medal and 2nd and 3rd Ranks 2012 : Third Batch secured 7th and 8th Rank 2013 : Fourth Batch secured Gold Medal and 2, 4, 6, 8 and 9th Ranks 2014 : Fifth Batch secured 2, 7 & 10th Ranks 2015 : Sixth Batch secured Gold Medal and 10,14, 23, 24, 28, 31 and 32nd Ranks 2016 : Seventh Batch secured 3,4,19,31 and 32nd Ranks. 2017: Eight Batch secured 16, 27, 40, 41th ranks. 2018 : Ninth Batch secured 4, 5,16, 19,22, 29, 30, 32, 33, 35th Ranks. 2019 : Tenth Batch secured 3, 10, 22 and 23rd Ranks. 2020: Eleventh Batch secured Gold Medal and 2, 6th Ranks.
+History of the Department
+2023 : Secured SERB Funding of Rs 42.66 lakhs and Established Fuel Cell Lab
+2024 : Won Overall Championship in eBAJA event conducted in Goa.
+2024 : Won Overall Championship in SIEP E-Bike Challenge in Bhopal
+2025 : Won Best Maneuverability in SAEISS E-Bike Challenge
+Updated on 23.09.2026
+
+FACULTY
+=======
+Dr.Pavan P, HoD & Assistant Professor
+Dr.K Bhaskar, Professor
+Dr.Selvaraju Ponnusamy Nallusamy, Associate Professor
+Dr.Mullai Sudaroli Balakrishnan, Associate Professor
+Mr. Anbalagan R, Associate Professor
+Mr. Karthikeyan R, Assistant Professor(SS)
+Mr. K.Mohanraj, Assistant Professor(SG)
+Mr.Edwin Rathinamani, Assistant Professor
+Mr.Aravind K, Assistant Professor
+Mr.Zahir Hussain M, Assistant Professor
+
+
+NEXTJS-SERIALIZED-CONTENT
+==========================
+PROGRAMME EDUCATIONAL OBJECTIVES
+To provide students with sound foundation in the mathematical, scientific and engineering fundamentals necessary to formulate, analyze and solve engineering problems and to prepare them for higher studies and for successful careers in automobile industry.
+To impart students with knowledge, innovation and skills towards research, design and development of Automotive Systems and allied integrated systems of global standards for betterment of society. To impart knowledge in usage of alternate fuels and emission control in IC engines.
+To instill the values, skills, leadership, team spirit and professional ethics for comprehensive and wholesome personality and to promote entrepreneurial interest among students so that they can compete globally in the field and to create a fervor for use of Engineering in addressing societal concerns.
+PROGRAMME OUTCOMES
+Engineering knowledge:
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Problem analysis:
+Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+Design/development of solutions:
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+Conduct investigations of complex problems:
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+Modern tool usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The engineer and society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability:
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Ethics:
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Individual and team work:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication:
+Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Project management and finance:
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Life-long learning:
+Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAMME SPECIFIC OUTCOMES
+PSO1: Will be able to design and develop power plant and chassis systems in a view to meet the dynamic needs of the society by harnessing the potential of electronic systems and modern software tools.
+PSO2: Will be able to explore possibilities of viable alternate fuels and to develop emission control technologies and safety systems.
+PSO3: Will be able to work in an industry as a team member as well as an individual with professional qualities and evolve oneself for lifelong learning.
+Regulations 2023
+Regulations 2019 (From 2021-25 batch)
+Regulations 2019
+Regulations 2017 (From 2018-22 batch)
+Regulations 2017 (2017-21 batch)
+Regulations 2013
+TOP ACHIEVEMENTS OF THE DEPARTMENT
+The Department has produced 50 University Ranks including 5 GOLD MEDALS in the first ten batches. Mr. M. Lakshmi Narayanan of 2006-10 batch, Mr. R. AurnSakthees of 2007-11 batch, Mr. D. Praveen of 2009-13, Mr. R. Aswin 2011-15, Mr.P.M.PrahlathaVaradhan of 2016-2020 batch secured Gold Medals.
+INDUSTRY CONNECT
+Department is having Good interaction with leading automotive industries which is evident from donated components (engines, turbo chargers, steering gear boxes, etc.) Vehicle (Hyundai Santro CAR and Ford Ecosport) for enhancing teaching learning process. Eminent speakers from industries and academic institutions address students on current topics in automotive fields to enhance the knowledge of students.
+INDUSTRY CONNECT : CATERPILLAR CAT IT
+The team of four students from Automobile Engineering department won First Prize in the “CAT IT” a competition organized by CATERPILLAR INDIA at Thiruvallur plant on 12/10/2017.
+Akshay Jain.P ( 3rdautomobile Engg student)
+Sakthivel.S ( 3rdautomobile Engg student)
+Vishal K Srivatssa ( 3rdautomobile Engg student)
+Prahlatha Varadhan T P M ( 2ndautomobile Engg student)
+Guided by Mr. Venkatasubramanian, Assistant Professor, Automobile engineering department. The winning team were granted hands on training at SWE (Simulated Work Environment) Training Camp in the manufacturing unit and an Internship opportunities at CATERPILLAR INDIA PRIVATE LIMITED as a part of their winning.
+TRAINING
+Department has very good laboratory facilities which are used to train women employees of M/s. Mando India Ltd for a certification program approved by Government of India - Ministry of MSME, Chennai
+Contributions to Curriculum and syllabus
+Dr. S. Sampath, Dean served as a member of Board of Studies and Academic Council of University of Madras and Anna University since 2000 for framing the Automobile Engineering Course. Dr. K. Bhaskar, HOD served as a member of Syllabus Committee of Anna University of Technology, Chennai in the academic year 2011-12 and he is currently member of Syllabus Committee for PG Automobile Engineering in Anna University, Chennai. Dr. V. Muthu, Professor served as a Member of Syllabus Committee of Mechanical Engineering of Anna University during 2006-2009.
+Research Publications
+Our department has 150 quality research publications of which 25 research publications are in International Journals with impact factor more than 2. Some of our faculty members are reviewers for reputed international journals and reviewing papers periodically. Our department also published three book chapters in reputed publishers like Elsevier and Springer.
+Awards in Engineering
+Our Department received \
+Doctorates
+Department has Four doctorates and Four faculty members are pursuing doctoral program.
+Workshops & Conferences
+Department is organizing Workshops, Seminars, Conferences and Symposia regularly to facilitate learning platform for faculty and students to explore and share knowledge in the latest fields in Automobile Engineering. AICTE has sanctioned more than 5 lakhs so far for conducting Faculty Development Programs, Workshops and Seminars.
+SAE Collegiate Club
+Department is having active SAE Collegiate Club and almost all the faculty and students are members of SAEINIDA. Our students have participated in aSOP, Baja and student convention programmes and won prizes.
+eBaja:
+e-BAJA is a National Level intercollegiate design competition organized by SAE INIDA. Team of 25 students from final year and third year need to design and build electric powered ATV that has 48 V traction motor. Every year our students participate and secured following positions:
+e-BAJA 2019:
+21st place at the National Level
+2nd place at the State Level
+in the Virtual Round; achieved
+14th place
+in the Final Event at Pithampur, Madhya Pradesh.
+e-BAJA 2020:
+23rd place at the National Level
+3rd place at the State Level
+5th place at the All India Level
+1st place in Tamil Nadu
+in the Final Event.
+e-BAJA 2021:
+20th place at the National Level
+1st place at the State Level
+12th place in India
+in the Final (Virtual) Event.
+Champion of champions organized by ISIE & APSSDC Govt. of Andhra Pradesh at KL University Vijayawada from 27th February 2020 to 1st March 2020. Second runner up, Best Endurance, Best Business Plan Award. (Electric Category)
+Ebike
+Automobile engineering students participated in the electric two wheeler design competition held at Bannari amman institute of technology on September 27th to 29th September 2019. Two teams participted in the event and team etron secured overall 6th position in the national level and 1st rank in tamilnadu. The team also secured the 3rd prize for best design.
+FMAE BAJA 2021
+Team EFORZA participated in the FMAE BAJA event organised by Fraternity of Mechanical and Automotive Engineers, Hyderabad, Telangana from 01/10/2021 to 5/10/2021. The team secured First place in Design& Computer Aided Engineering and Cost evaluation events.
+SIEP - Hero Electric E-BIKE Competition
+Our college E-Bike team, TEAM DARK participated in the SIEP Hero E-Bike Challenge Event event organised by IMPERIAL SOCIETY OF INNOVATIVE ENGINEERS (ISIE) from 25/12/2021 to 28/12/2021 at Chandigarh Engineering College, Jhanjeri. The team secured Future Award with a CASH prize of ₹5000.
+Co-Curricular
+Our students actively participated in the competitions conducted by other institutions and brought several laurels to our department. It is worth to mention that more than 38 prizes are won in co-curricular activities and 35 research publications are published by students of our department in prestigious conferences and leading journals in the last four years.
+ALUMNI
+Department is having good alumni interactions. They contribute to welfare of department and students by giving guest lectures and donating books to the department library
+Funded Projects and Consultancy
+Dr. K. Bhaskar received a fund for Rs. 14 lakhs from AICTE to modernize the fuels and lubricants laboratory.
+Mr. N. Venkatasubramanian, Assistant Professor, has completed the consultancy work (AutoCAD Drawing of Electrical Panel Board Design) for G.K. Products, Chennai
+Mr. A.J.D. Nanthakumar, Asso. Professor was sanctioned a grant of ₹ 3,57,500 for the project proposal “Applications of Magneto Rheological fluid damper for use in automotive suspension” in the academic year 2014-15 by University Grants Commission, MHRD, Govt. of India.
+Other achievements
+Patent Application No. 2392/CHE/2015
+Published
+Inventor:
+Dr. K. Bhaskar
+Title:
+A Method of Continuously Varying the Opening and Closing Angles of the Valves of an Internal Combustion Engine
+Patent Application No. 201741036049A
+Mr. A. J. D. Nanthakumar
+A Real-Time Adaptable Damper
+Patent Application No. 2020102967
+Granted
+A Parallel-Series Electric Hybrid Vehicle Based on Geometry of Formulation
+Patent Application No. 2020102727
+A Novel Method to Design a Dynamo for Electric Vehicle
+Patent Application No. 2020103249
+Continuous Power Generation by Automatic Direction Change in the Sensor Level System in the Solar Panel
+Patent Application No. 202141005392A
+Inventors:
+Mr. M. Zahir Hussain & Mr. R. Anbalagan
+Smart Fuel Station Management System Using IoT
+Patent Application No. 202141051437A
+Mr. R. Karthikeyan & Mr. R. Edwin Joseph
+Concentrated Solar Thermal Power Plant with Independently Controllable Subset of Heliostats
+Patent Application No. 202241005492
+Mr. R. Karthikeyan
+Mechanical System with IR Sensor-Based Circuit to Generate Electricity
+1.Biography of Dr. K. Bhaskar is included in the Marquis Who's Who in the World, USA-In 2015 (32nd Edition) &2016 (33rd Edition) based on his contribution in research publications.
+2. Mr. N. Venkatasubramanian has completed the NPTEL text translation work from English to Tamil for the following course:
+Matlab programming for Numerical Computations - 45 lectures
+Introduction to fluid mechanics - 16 lectures
+Engineering drawing and computer graphics - 11 lectures
+Applied Thermodynamics for Engineers - 6 lectures
+Design Practices - 8 lectures
+3.Best Paper Awards and Titles:
+Dr. K. Bhaskar awarded Best Paper Award in smart Energy Systems for Sustainable Development during Mar 3-4 2017 for paper titled “ Combustion and Emission characteristics of Fish oil Methyl Ester (FOME)”.
+Mr. R. Edwin Joseph was invited to present his Research work titled “Hydro dipping Technology for small sized components” in Technology Tune-in 2018 conducted by Titan Company on Mar 17, 2018
+Mr. R. Anbalagan received a Best Paper Award for the paper titled “ Rejuvenation of wheel cylinder using vacuum technology in vehicle braking system” in International conference on contemporary design and analysis of manufacturing and industrial engineering systems on 18-20 Jan 2018 at NIT, Trichy
+Mr. A J D Nanthakumar received a Best Paper Award for the paper titled “Determination of effect of geometrical parameters of a magneto rheological damper for achieving optimum magnetic flux” in International conference on contemporary design and analysis of manufacturing and industrial engineering systems on 18-20 Jan 2018 at NIT, Trichy
+Mr. K. Mohanraj received a Best Paper Award for the paper titled ““Accident mitigating system” in the international conference conducted at Jeppiaar Engineering College on 15-07-2020
+Mr.R.Karthikeyan received a Overall third Best Paper Award for the paper titled, “Automatic Indication and Controlling of Vehicle Speed”, Paper Presented in International e Conference on Recent Advancement in Mechanical Engineering and Technology ICRAMET 2021 by AVIT Deemed to be university on 24thand 25th June 2021
+Achievements of faculty
+Assessment Year 2019–20
+Project Title:
+System Modification for 8 Holes System
+Funding Agency:
+Rajalakshmi Communications and Services Pvt. Ltd.
+Duration:
+1 year
+Amount:
+₹2,95,000
+Assessment Year 2018–19
+MV Systems Annual Maintenance Contract
+Nanchil Technologies Pvt. Ltd.
+6 months
+₹1,88,800
+Assessment Year 2017–18
+Vision System for BRG Assembly (Mechanical Development)
+₹2,00,000
+2024–2025
+REC invitation to IPG Automotive India inaugural function
+People:
+Dr. K. Bhaskar; Dr. P. Pavan; two final-year students; one alumnus (Team Dark); Mr. Srivatsav Murthy; four Automobile Engineering students
+Details:
+REC was invited to the IPG Automotive India inaugural function in Bengaluru. IPG recognized REC’s e-bike team for national-level success in AY 2023–24. REC was the only private Tamil Nadu institution invited alongside IIT Madras, IIT Delhi and IIT Kharagpur. Team Dark’s students were fully sponsored by IPG. REC delegates engaged with industry leaders (IPG, Mahindra, Bosch, others). IPG India expressed interest in academic collaboration and will visit REC campus.
+Date:
+26.07.2024
+One-day seminar on emerging automobile trends
+Person:
+Mr. R. Anbalagan (coordinator)
+Guest speaker Dr. M. Prajin Duraisamy discussed emerging trends poised to transform the future of the automobile and industrial practices for automotive quality.
+17.08.2024
+SIH 2024 — Internal Panel-4 coordination
+Mr. K. Mohanraj (coordinator)
+30.08.2024
+SIH 2024 — Internal Track-1 coordination
+Dr. P. Pavan (coordinator)
+24.08.2024
+Judge — SAE Collegiate Club Business Plan event
+Mr. R. Karthikeyan (judge)
+10.10.2024
+Judge — SAE Collegiate Club technical paper presentation
+Mr. M. Zahir Hussain (judge)
+11.10.2024
+SAEISS Dr. G. Padmanabham Memorial Electric Two-Wheeler Design Competition 2024 — coordination
+25–26.01.2025
+SAEISS International Conference “ADMMS-25” — coordination
+Dr. K. Bhaskar (coordinator)
+Advances in Design, Materials, Manufacturing and Surface Engineering for Mobility held at REC.
+07–08.02.2025
+NPTEL Certificate of Appreciation (SPOC) — Jan–Apr 2024
+Certificate for instrumental role as SPOC for 37th Rank (AA rating) among ~5000 SWAYAM-NPTEL local chapters.
+22.06.2024
+NPTEL Certificate of Appreciation (SPOC) — Jul–Oct 2024
+Certificate for instrumental role as SPOC for 7th Rank (AAA rating) among ~5000 local chapters.
+12.02.2025
+SAEINDIA Foundation Corporate Award (New Delhi)
+Dr. K. Bhaskar; Dr. P. Pavan (received award on behalf of REC)
+REC honoured with Corporate Award; REC was the only educational institution recognised among five corporates for contributions to SAEINDIA via the collegiate club.
+11.12.2024
+Participation — UmagineTN 2025
+Mr. R. Edwin Joseph; Mr. K. Mohanraj
+Participated in UmagineTN 2025 at Chennai Trade Centre (themes: Inform, Inspire, Innovate).
+09–10.01.2025
+BEACON Idea Validation Program — Cohort 3 completion
+Successfully completed four-week program (Tamil Nadu Technology Hub). Certificates presented by Hon’ble IT Minister at UmagineTN 2025.
+Duration / Date:
+11.11.2024 – 06.12.2024
+College-level interdepartmental contributions (2024–25)
+Best idea & innovation — Green Shrimp Shell Biopolymer
+Project awarded best idea & innovation in Centre for Design Thinking workshop.
+13–14.11.2024
+Project Expo coordination — REC Open House
+Mr. R. Edwin Joseph
+Coordinated Project Expo; displayed four Automobile Engineering projects: Electric Two-Wheeler, Wind Tunnel, Poultry Loader, E-Baja Vehicle.
+10.01.2024
+National-level project guidance (2024–25)
+SIH 2024 Internal Hackathon — Hardware category (1st place)
+Mr. R. Edwin Joseph (guide)
+Team:
+4 third-year Automobile Engineering students — “Fusion Makers”
+Placed 1st among 34 teams in hardware category.
+31.08.2024
+Consultancy (2024–25)
+Industrial consultancy — Conveyor System
+Dr. K. Bhaskar; Mr. K. Mohanraj; Mr. R. Edwin Joseph
+Client:
+Master Forge India Pvt. Ltd., Thiruvallur
+Date / Completion:
+25.02.2025
+NPTEL completions (2024–25)
+Product Design and Development — ELITE + SILVER
+30.09.2024
+Hydrogen Energy: Production, Storage, Transportation and Safety
+Jul–Oct 2024
+Computational Fluid Dynamics and Heat Transfer
+Innovation by Design — ELITE + SILVER
+Dr. P. Pavan
+Jul–Aug 2024
+Metal Additive Manufacturing — ELITE
+Dr. P. N. Selvaraju
+Patents (Process) — 2024–25
+Surface Roughness Optimization in High Speed Machining Processes
+Status:
+Date of Publication:
+04.10.2024
+Automatic Ventilation System for Temperature Control in Passenger Cars
+01.11.2024
+Patents (Design Registration) — 2024–25 (selected items with dates)
+Attachment of Cooling Plates to Proton Exchange Membrane Fuel Cell Stack
+Mr. Vasanthkumar V.; Dr. B. Mullai Sudaroli; Mr. R. Edwin Joseph
+Granted (Design)
+Date Granted:
+11.07.2024
+Portable bailing machine for crushing PET bottles and soda cans using hydraulic actuation
+Person / Affiliation:
+R. Edwin Joseph; Rajalakshmi Engineering College
+16.05.2024
+Manually operated portable table top string hopper machine
+16.08.2024
+Horizontally oriented soda can crusher for disposal
+19.09.2024
+Internal tray attachment in bottom chamber of moka pot (for increased heat transfer & brewing efficiency)
+Filed
+Internal tray attachment in bottom chamber of puttu maker (for increased heat transfer & cooking time)
+Compact air breathing fuel cell stack with common fuel cartridge
+B. Mullai Sudaroli; V. Vasanthkumar; Rajalakshmi Engineering College
+11.02.2025
+Fan Holder for Open Cathode PEM Fuel Cell
+Nithsh Kumar D; Mr. Hari Haran S T; Ms. Dayanasri P M; Mr. Rajeshwaran M V; Dr. B. Mullai Sudaroli; Mr. Vasanthkumar; Mr. R. Edwin Joseph; Rajalakshmi Engineering College
+Frame for Electric Motor Bike
+Mr. K. Mohanraj; Mr. S. Geshmukumar; Mr. Ahin Roy; Rajalakshmi Engineering College
+04.11.2024
+Torque-flow Frame Design for Electric All-Terrain Vehicle
+Dr. P. Pavan; Mr. S. Ganesh; Mr. Vipul Agarwal; Mr. S. Geshmukumar; Mr. D. Rohith; Rajalakshmi Engineering College
+Steering Knuckle for Electric All-Terrain Vehicle
+Dr. P. Pavan; Dr. K. Bhaskar; Mr. Vinubala U. V.; Mr. Mouliraj E.; Mr. Arunraja G. R.; Rajalakshmi Engineering College
+Smart Rain Tank
+Mr. R. Karthikeyan; Mr. M. Abdur Rahman Jalwathi; Mr. A. Mohanraj; Rajalakshmi Engineering College
+19.07.2024
+Grants applied / received (2024–25)
+Applied — ED II Hackathon: Frugal Stylus Pen
+Date Applied:
+May 2024
+Applied — ED II Hackathon: From Farm to Future (Poultry sustainability)
+Dr. B. Mullai Sudaroli
+Applied — ED II Hackathon: Automatic Side Stand Slider
+Mr. M. Zahir Hussain
+Presented proposal “Adventure Electric Bike” (AICTE Innovation Centre transfer technologies)
+Mr. K. Mohanraj
+Represented Automobile Engineering Department at college-level scrutiny.
+25.09.2024
+Presented proposal “Poultry Loader for the Disposal of Exertion” (AICTE Innovation Centre transfer technologies)
+R. Edwin Joseph
+Selected & funded (₹10,000) — Naan Mudhalvan Niral Thiruvizha (waste management)
+Mr. R. Edwin Joseph (Team ID-29284)
+Date Awarded:
+10.09.2024
+Selected — iTNT Beacon Cohort 3.0 (Adventure Electric Bike proposal)
+23.10.2024
+Selected — iTNT Beacon Cohort 3.0 (Multi-utility sanitary electric vehicle proposal)
+Applied for Udyamotsav 2025 — Portable Baling Machine (Design & Fabrication)
+Project recognized with Naan Mudhalvan award and ₹10,000 funding.
+Date Submitted / Noted:
+09.01.2025
+Applied for Udyamotsav 2025 — Multi-Utility Sanitary Electric Vehicle (iTNT Beacon selection)
+Faculty participation in industrial events (2024–25)
+Participation — CII TNTDPC Conference on Emerging Technologies (Hilton, Chennai)
+Dr. K. Bhaskar; Dr. P. Pavan; four final-year and two second-year students
+Student projects (e-bike, poultry e-vehicle) displayed.
+07.06.2024
+AVL simulation conference participation (Hilton, Chennai)
+08.07.2024
+Visits to Poultry Science Department (TANUVAS Namakkal) and poultry farms (Chellam, Cauvery, Gaythiri)
+Date(s):
+20, 23, 24.09.2024
+7th Hydrogen Workshop — CFCT_ARCI Chennai (IITM Research Park)
+Dr. B. Mullai Sudaroli; Mr. R. Edwin Joseph
+08.10.2024
+CII – TNTDPC Conference on Software on Wheels (ITC Grand Chola, Chennai)
+12.12.2024
+Two-day Workshop on Design Thinking and Innovation — Centre for Design Thinking
+National-level workshop on ANOVA and Regression Models — Centre for Data Analytics and Research, Chennai
+06–07.12.2024
+Faculty Development Program on Electrical Wire Harness — REC 3D Hub (TANCAM Spoke Center)
+19.11.2024 – 23.11.2024
+FDP — Naan Mudhalvan & TNSDC with Stellantis at SRM University
+Dr. K. Bhaskar; Dr. P. Pavan
+23–27.09.2024
+CII Automotive Electrical & Electronics Summit — Hotel Grand Chola, Chennai
+26.02.2025
+FDP — BV Raju Institute of Technology (Narsapur, Telangana)
+20–22.02.2025
+Visit — Mahindra & Mahindra Tractor Manufacturing Facility (Zaheerabad, Telangana)
+20.02.2025
+Visit — Gravton Motors (Hyderabad)
+21.02.2025
+Visit — TIDC India (Ambattur, Chennai)
+18.02.2025
+Visit & plant tour — PRIMAEAM Solutions Pvt. Ltd. (Ambattur)
+R. Edwin Joseph; Dr. B. Mullai Sudaroli
+Plant tour and discussion on collaboration for additive manufacturing and fuel cell tech; PRIMAEAM execs scheduled to visit REC Fuel Cell Lab as follow-up.
+17.03.2025
+Faculty-coordinated workshops / FDPs / guest lectures (2024–25)
+Workshop on Problem Solving Techniques and Tools used in Industry
+06.11.2024
+One-day hands-on workshop on On-Board Diagnostics
+05.09.2024
+National Level Technical Symposium TURBO 2K5 with AutoEXPO — coordination
+01.03.2025
+Turbochargers Workshop — TURBO 25
+Electric Vehicle Workshop — TURBO 25
+Mr. P. Pavan
+Fuel Cell Technologies Workshop — TURBO 25
+3D Printing Workshop — TURBO 25
+Workshop on 8012 Design Horizon Experience
+06.02.2025
+Alumni guest lectures / alumni conclave (2024–25)
+Alumni Guest Lecture (two alumni)
+Alumni Conclave (six alumni)
+01.02.2025
+2023–2024
+Establishment — REC-AICTE IDEA LAB
+Dr. K. Bhaskar (coordinator) with Dr. M. Palanivelan (co-coordinator)
+IDEA LAB established with facilities (3D printing, 3D scanning, laser cutting, CNC router, drone design, IoT, PCB design/production) worth ₹110 lakhs. Inaugurated by Dr. Senapathy “Kris” Gopalakrishnan.
+19.07.2023
+IDEA LAB — student ideation & skilling programs
+~24 student ideation and skilling programs; training for polytechnic and school students.
+From Sep 2023 – ongoing
+IDEA LAB TECH GURUs — areas
+Mr. M. Zahir Hussain; Mr. K. Mohanraj; Mr. R. Edwin Joseph; Mr. R. Karthikeyan
+Areas:
+3D printing; 3D scanning; laser cutting; CNC router machines.
+SAEISS Dr. G. Padmanabham Memorial Electric Two-Wheeler Design Competition 2023 — coordination
+22–23.07.2023
+Cash award — REC management appreciation (question paper generation using AI)
+16.10.2023
+Award — SAE India Southern Section (support for SAE activities)
+21.10.2023
+NPTEL Certificate of Appreciation (SPOC) — Jul–Oct 2023
+38th Rank (AA rating) among ~5000 local chapters.
+20.01.2024
+Two-week internship offering (second-year Automobile Engineering students)
+Jan–Feb 2024
+17–18.02.2024
+Sustainable Project Award — Centre for Design Thinking (project contest)
+24.04.2024
+Best Faculty Award — National Foundation for Innovative Scientific Research and Technology
+08.04.2024
+Young Achiever Award — Tech Forum Research Foundation (MSME registered)
+06.04.2024
+College-level interdepartmental contributions (2023–24)
+SIH2023 — Judge (internal hackathon)
+Dr. K. Bhaskar; Dr. P. N. Selvaraju
+21.09.2023
+DEVFEST’23 — Jury member
+26.10.2023
+Design-A-Than — Jury member
+16.03.2024
+Session chair — NCPCAE 2024 (Progress & Challenges in Aerospace Engineering)
+26.04.2024
+Jury — CAD design competition in SYNCHRONIX 24
+27.04.2024
+National-level project work guided (2023–24)
+eFroza e-BAJA team — mentoring & recognition
+Team eFroza won awards including Best Self-Balancing, Runner-up Off-Road Test, Runner-up Durability Test, First Place People’s Choice, Future Award; cash prize ₹70,000 (ISIE INDIA / Luminous SIEP e-bike challenge).
+24–28.01.2024
+Faculty advisor — SAEISS Electric Two-Wheeler Competition 2024
+Faculty advisor — BAJA team FORZA (SAEBAJA 2024 at B.V. Raju Institute of Technology)
+Team cleared technical events; e-buggy completed 4-hour off-road endurance (~50 km).
+06–09.03.2024
+Faculty advisor — BAJA MEGA ATV 2024 (Goa) — overall champion
+Mr. P. Pavan; Mr. R. Anbalagan
+Team won multiple prizes including Flat Dirt Race (winner), Drag Race (runner-up), Night Endurance (2nd runner-up), cash prize ₹50,000.
+09–12.05.2024
+Consultancy (2023–24)
+Industrial consultancy — Conveyor System (Master Forge India Pvt. Ltd.)
+27.12.2023
+Feasibility study — Reverse engineering of hydraulic fluid connectors (Master Forge India)
+03.04.2024
+Analysis of gross calorific value for M/s. Animal Nutrition and Health (bomb calorimeter)
+In discussion from July 2024
+NPTEL (2023–24)
+Manufacturing Processes — Casting and Joining (Elite)
+Sept 2023
+Inspection and Quality Control in Manufacturing (FDP + Elite)
+Mar 2024
+Research Methodology in Natural Sciences (Elite + Silver)
+Apr 2024
+Introduction to Ancient Indian Technology (Elite)
+Introduction to Machine Learning (Tamil) + FDP
+Patents (Process & Design) — 2023–24
+2392/CHE/2015 — A Method of Continuously Varying the Opening and Closing Angles of the Valves of an Internal Combustion Engine
+Date of Grant listed as 07.02.2024 (process patent entry)
+RobustCam Mechanism for high speed industrial applications
+Published on 08.03.2024
+Acceleratean ego vehicle using Visual perception and pre-build data
+Mr. R. Karthikeyan; Mr. G. Sanjay Kumar
+Published on 31.05.2024
+Design Registration — Sweet Corn Deseeding Machine (359755-001)
+Granted on 01.06.2023 (noted in 2023–24 list)
+Design Patent — Microcontroller for Electrostatic Precipitator
+Granted on 08.04.2024
+Design Patent — Rack and Pinion system for all terrain vehicle
+Granted on 10.04.2024
+Portable bench vice for fuel cell stack assembly
+Mr. R. Edwin Joseph; Dr. B. Mullai Sudaroli; Mr. V. Vasanthkumar
+Granted on 26.04.2024
+Fusion Frame for Adventure Electric Motorbike (design registration)
+Granted on 22.05.2024
+Portable Bailing Machine for crushing PET bottles and soda cans using hydraulic actuation
+Granted on 16.05.2024
+Concentric Semi-Rectangular Flow Channel
+Granted on 02.05.2024
+Suction Ejector
+Granted on 10.05.2024
+Grants applied / received (2023–24)
+Two proposals submitted — “Startup-Idea Submission in REC” (waste management)
+09.01.2024
+Team NMNT408 project selected — Naan Mudhalvan Niral Thiruvizha (Smart Town/City)
+14.03.2024
+Team ID-29284/NMNT054 project selected — Naan Mudhalvan (waste management)
+Applied — ED II Hackathon (Frugal Stylus Pen)
+Applied — ED II Hackathon (Poultry ammonia gas management)
+Applied — ED II Hackathon (Automatic Side Stand Slider)
+Internal talks (REC) — 2023–24
+Faculty Development Program — Python Programming (lab sessions)
+21–22.12.2023
+Guest Lecture — Pollution Control Technology (Robotics & Automation Dept., III year)
+19.03.2024
+Guest Lecture — Challenges & Opportunities in Fuel Cell Technology (Mechanical Dept.)
+01.04.2024
+Guest Lecture — Fuel Cells in Aerospace (III year Aeronautical)
+IDEA LAB internal sessions — 2023–24
+Reverse Engineering session — FDP on 3D Printing & Reverse Engineering (faculty)
+20.12.2023
+3D Printing hands-on session — TURBO2K4 (internal/external participants)
+24.02.2024
+3D Printing theory & hands-on for R&A and MCT students — IDEA Lab (NBA inspection)
+24.05.2024
+3D Scanning & Reverse Engineering theory & hands-on — IDEA Lab (NBA inspection)
+25.05.2024
+External invited talks (2023–24)
+Defence and Technology Show (Chennai) — IIIC activities of REC
+04.09.2023
+World EV Day participation & support (GARC, Oragadam)
+Dr. K. Bhaskar; Mr. P. Pavan
+09.09.2023
+External Quality Auditor — Sri Venkateswara College of Engineering (Automobile & Mechanical)
+15.02.2024
+External Quality Auditor — Sri Sairam Engineering College (Mechanical)
+Guest Lecture — Advanced Engine Technologies (FDP: The Road Ahead)
+28.05.2024 (10:00–12:00)
+Guest Lecture — Clean Energy Technology: The Fuel Cells (RIT Chennai)
+23.04.2024
+Faculty participation in industrial events (selected 2023–24 entries)
+One-day National Conference on Productivity and Sustainability (Dr. MGR University)
+28.12.2023
+CII study tour — L&T Construction Equipment, Wipro 3D Additive, SKF India (Bangalore)
+18–19.01.2024
+CII TNTDPC Conference: Automotive R&D Trends (Hilton, Chennai)
+11.03.2024
+CII Tamil Nadu Annual Meeting 2023–24 & Conference (ITC Chola, Chennai)
+1st National Conclave on Design Thinking for Academic Leaders (Intellect Design Arena)
+27.03.2024
+L&T Safety Innovation School visit (Kanchipuram)
+05.03.2024
+Faculty-coordinated workshops / FDPs / guest lectures — 2023–24 (selected)
+One-day workshop on ISO 9001 and Lean Management Tools
+27.01.2024
+Value-added course — Mathematical modelling of Fuel Cell (SCILAB)
+TURBO 2K4 — National Level Technical Symposium with AutoEXPO
+Turbochargers Workshop — TURBO 24
+Electric Vehicle Workshop — TURBO 24
+Fuel Cell Workshop — TURBO 24
+3D Printing Workshop — TURBO 24
+Mr. K. Mohanraj; R. Edwin Joseph
+SAEISS Electric Two-Wheeler Design Competition coordination (college-level)
+NPTEL awareness session for first-year students (>2000 students)
+20–22.12.2023
+Enthirathan 2024 — coordinated with Mechanical Engineering Dept.
+12–13.04.2024
+Multidisciplinary 2nd project contest on Design Thinking — coordination (Mechanical sciences stream)
+Induction program for 2nd year Talent Enhancement Cell students
+03.05.2024
+REC School Summer Camp (one week) for 9th–12th standard students
+07–11.05.2024
+Alumni guest lecture coordination (2023–24)
+Alumni guest lecture — “Innovative Pathways for Job Readiness”
+13.04.2024
+Guest Lecture arranged — Harith Mugunthan
+29.02.2024
+2022–2023
+SAEINDIA certificate — E-Baja mentoring (eFroza)
+Recognised for supporting & mentoring eFroza team (20 students) that won awards at SAE eBAJA 2022 (Pithampur, MP). Cash prize ₹30,000/-.
+June 2022
+NPTEL SPOC Certificate of Appreciation — Jul–Oct 2022 (42nd Rank, AA)
+Dec 2022
+Reviewer — Journal of Applied Fluid Mechanics (JAFM)
+Jan 2023
+Best Paper Award — NCRAMPS 23
+12.04.2023
+ISIE INDIA certificate — mentoring e-bike team (final rounds of SIEP e-bike challenge 2023)
+18.04.2023
+NPTEL SPOC Certificate of Appreciation — Jan–Apr 2023 (62nd Rank, A)
+May 2023
+Valedictory guest — NCRAMPS'23 (National Conference on Robotics, Automation, Manufacturing and Power Systems)
+Consultancy (2022–23)
+Work holding devices for brake piston checking — consultancy
+Client / Value:
+M/s. Super Auto Forge; ₹40,000/-
+Machine vision-based quality checking (agricultural products) — consultancy
+M/s. Waycool Food Products Pvt. Ltd.; ₹20,000/-
+Solar panel design & erection on electric two-wheeler
+NPTEL (2022–23)
+Nature and Properties of Materials — Elite
+Feb–Apr 2022
+Advanced Machining Processes — Elite
+Aug–Oct 2022
+Hydrogen Energy — Elite
+Jul–Oct 2022
+Fluid Mechanics — Completed
+Electric Vehicles: Part I — Completed
+Feb 2023
+Intellectual Property — Completed
+Smart Materials and Intelligent System Design — FDP
+Feb–Mar 2023
+Patents (2022–23)
+Concentrated Solar Thermal Powerplant with independently controllable subsets of heliostats
+Published on 26.11.2021 (listed in 2021–22 but referenced here)
+Mechanical system with IR sensor based circuit to generate electricity
+Published on 11.02.2022
+Registration of Design — Sweet Corn Deseeding Machine
+Granted on 03.03.2022
+Design & development of car electrical energy management system
+Published on 08.04.2022
+Grants Received (2022–23)
+AICTE IDEA LAB Project (₹110 lakhs) — REC
+SERB grant (₹42.66 lakhs) — “Design and Development of 1 kW Fuel Cell Stack for Low Power Applications”
+Internal talks (REC) — 2022–23
+One-day workshop — Automotive Sensors and Actuators (IV Year Mechatronics)
+17.11.2023
+“Building Biodata” talk — II Year TEC students (all departments)
+04.03.2023
+Workshop on Fuel Cell — Dr. B. Mullai Sudaroli
+28.01.2023
+2021–2022
+Best Paper Award — ICRAMET 2021
+Paper:
+“Automatic Indication and Controlling of Vehicle Speed”
+26.06.2021
+NPTEL lecture transcript translations (English → Tamil)
+Venkatasubramanian N
+Courses & Durations:
+Design Practice (IIT Kanpur) — 3.5 hours. — 23.08.2021
+Applied Thermodynamics for Engineers (IIT Chennai) — 6 hours. — 23.08.2021
+Managing Services (IIT Kanpur) — 5.75 hours. — 23.08.2021
+3rd National Conference on Recent Advances in Mechanical Sciences — coordination
+17–18.12.2021
+Session chair — 3rd National Conference on Recent Advances in Mechanical Sciences
+18.12.2021
+Research paper publication award & financial grant (₹87,750)
+Event:
+Research Consultancy Publication and Patent Day
+04.04.2022
+Session chair — International Conference on Energy, Smart Structure and Manufacturing (ICESSM)
+Dr. K. Bhaskar; Dr. P. N. Selvaraju; Dr. B. Mullai Sudaroli; Mr. R. Anbalagan
+22–23.04.2022
+NPTEL SPOC Certificate of Appreciation — Jan–Apr 2022 (55th Rank, A rating)
+May 2022
+Automobile Engineering Department — Best Department Award (AY 2020–21)
+12.05.2022
+Session co-chair — ICESSM'22
+P. Pavan
+23.04.2022
+Ph.D. awarded — Dr. P. N. Selvaraju (Mechanical Engineering, MIT Campus, Anna University)
+03.09.2021
+NPTEL (2021–22)
+Introduction to Machining and Machining Fluids — Elite
+Jan–Mar 2022
+Hydrogen Energy: Production, Storage, Transportation & Safety — Elite
+Patents (2021–22)
+Published (26.11.2021)
+Published (11.02.2022)
+Design registration — Sweet Corn Deseeding Machine
+Granted (03.03.2022)
+Internal talks (2021–22)
+Invited talk — “Interesting Engineering” (3rd National Conference on Recent Advances in Mechanical Sciences)
+One-day Workshop on Fuel Cell Technology
+19.03.2022
+Book Chapter
+Dr.K Bhaskar has authored a book on “Engineering Mechanics”.
+Dr.K Bhaskar has authored a book on “Engineering Graphics”.
+Dr.K.Bhaskar, has authored book chapter on “Studies on pongamia oil methyl ester fuelled direct injection diesel engine to increase efficiency and to reduce harmful emissions” Chapter-9 Engine performance, emissions and combustion, pp. 218-244, Publisher : Wood head Publishing, ISBN No: 978-0-08-102791-2[Scopus indexed]
+Dr.KBhaskar has authored book chapter on “Performance and Combustion Analysis of a PPCCI Engine with Diesel as a Premixed Fuel to Reduce Soot Emission” published by Springer Nature Singapore Pvt Ltd. Chapter-10, Advances in Interdisciplinary Engineering, Select proceeding of Flame-2018, Lecture Notes in Mechanical Engineering, pp. 703-713, ISBN No: 978-981-13-6576-8. [Scopus indexed]
+Dr.K.Bhaskar has authored book chapter on :An Evaluation of Usage of Methyl Esters of Jatropha and Fish Oil for Environmental Protection”, published by springer International Publishing, Handbook of Environmental Materials Management pp. 1-25, ISBN No:978-3-319-73654-7
+Vagana 2022
+Vagana 2021
+Vagana 2020
+Vagana 2019
+2024-2025
+Jul – Dec 2024
+1.
+; S. Madhu; R. George Sahaya Nixon; S. Krishnamoorthi, Properties of jute fibers - A review, AIP Conference Proceedings, July 2024
+(Scopus)
+Sivanand Ramajeyam; Lakshmana Phaneendra Maguluri; Muthuswamy Prabhahar;
+Bhaskar Kathirvelu
+; Sendilvelan Subramanian; Durgaprasad Gangodkar Review of advanced driver assistance systems, AIP Conference Proceedings, 2937, 020032 (2024), AUG 2024
+3. Raffik Rasheed; Navaneetha Krishnan Rajagopal; Muthuswamy Prabhahar;
+; Sendilvelan Subramanian; Prabhdeep Singh, Automated vehicles and motion planning techniques, AIP Conference Proceedings, 2937, 020033 (2024), AUG 2024
+4. Dilip Raju; Navaneetha Krishnan Rajagopal; Supriya Prashant Diwan;
+; Julio Holgado Tisoc; Amir Shaikh, Theory, application for shared control of automated vehicles, AIP Conference Proceedings, 2937, 020034 (2024), AUG 2024
+5. Tamal Mondal; Oluwadare Joshua Oyebode; Kalpana Sengar;
+K. Bhaskar
+; S. Sendilvelan; Jose Luis Arias-Gonzales, Hydroponics research trends for greenhouse monitoring - A critical review, AIP Conference Proceedings, 2937, 020040 (2024), AUG 2024
+6. Raffik Rasheed; Julio Cesar Tisnado Puma; Kishore Kulothungan;
+; Sendilvelan Subramanian; Vikas Tripathi, Identification and Counting of Vehicles in real time for expressway, AIP Conference Proceedings, 2937, 020035 (2024), AUG 2024 (
+SCIE
+7. Harishkumar Muddisetty; T. Banu; R. Raffik; Oluwadare Joshua Oyebode; R.
+; S. Sendilvelan, Shape-morphing automobile structures - A review, AIP conferance proceeding,
+Volume 2937, Issue 1
+, 2 August 2024
+8. D. Jayabalakrishnan, Senthil Kumar S., Dr S Madhu,
+, Flame retardant, load bearing and thermal studies on satin weaved sun hemp fibre and cashew nut shell de-oiled cake biosilica epoxy composites, Biomass Conversion and Biorefinery, Vol.14, pp. 21085–21093 Sep 2024.
+9. K. Saravanan, D. Jayabalakrishnan,
+, S. Madhu, Thermally reduced sugarcane bagasse carbon quantum dots and in-plane flax fiber unsaturated polyester composites: surface conductivity and mechanical properties, Biomass Conversion and Biorefinery, Vol. 14, pp. 20949–20958, Sep 2024 (
+10.
+Dilip Raju, Navaneetha Krishnan Rajagopal, Supriya Prashant Diwan,
+, Julio Holgado Tisoc, Amir Shaikh, Theory, application for shared control of automated vehicles, Proceedings of the Fourth International Conference on Advances in Manufacturing Technology, AIP Conf. Proc. 2937, 020034-1–020034-6,
+Aug 2024
+11.
+Sivanand Ramajeyam, Lakshmana Phaneendra Maguluri, Muthuswamy Prabhahar,
+, Sendilvelan Subramanian, Durgaprasad Gangodkar, Review of advanced driver assistance systems, Proceedings of the Fourth International Conference on Advances in Manufacturing Technology, AIP Conf. Proc. 2937, 020033-1–020033-5,
+12.
+Raffik Rasheed, Julio Cesar Tisnado Puma, Kishore Kulothungan,
+, Sendilvelan Subramanian, Vikas Tripathi, Identification and counting of vehicles in real time for expressway, Proceedings of the Fourth International Conference on Advances in Manufacturing Technology, AIP Conf. Proc. 2937, 020040-1–020040-7,
+13.
+Tamal Mondal, Oluwadare Joshua Oyebode, Kalpana Sengar,
+, S. Sendilvelan, Jose Luis Arias-Gonzales, Hydroponics research trends for greenhouse monitoring – A critical review, Proceedings of the Fourth International Conference on Advances in Manufacturing Technology, AIP Conf. Proc. 2937, 020040-1–020040-7,
+14.
+Raffik Rasheed, Navaneetha Krishnan Rajagopal, Muthuswamy Prabhahar,
+, Sendilvelan Subramanian, Prabhdeep Singh, Automated vehicles and motion planning techniques, Proceedings of the Fourth International Conference on Advances in Manufacturing Technology, AIP Conf. Proc. 2937, 020033-1–020033-5,
+15. Suresh Kumar K,
+Mohanraj K
+, Muhammadu Sathik Raja, Arul M, Beporam Iftekhar Hussain, Nanthakumar S and Devarajan R, Development and characterization of Fe-30-Cu-10Si- 6W-10Mo superalloy with enhanced γ′ phase stability and oxidation resistance using CALPHAD method, Journal of Physics: Conference Series 2925 (2024) 012011
+16. R. Gilimurugan, P. Rajasekaran , Ganesh Babu Loganathan, A.G. Mohan Das GandhiHanishchander Anandaram
+, Influence of E Glass Fiber Addition on Mechanical Properties of Jute Fiber Reinforced Hybrid Composites, Int. J. Vehicle Structures & Systems, 16 (5), 723-727 (2024)
+17.
+R Karthikeyan
+, S Madhu, Edwin Geo Varuvel and M Pethuthraj, Influence of brown algae filler and process parameters on the surface roughness and MRR of jute fiber polymeric composite machined by abrasive water jet, J Process Mechanical Engineering, 1–11 (2024)
+18. R. Girimurugan, C. Shilaja, A. Ranjithkumar,
+, S. Mayakannan, Numerical analysis of exhaust gases characteristics in three-way catalytic convertor using CFD, International Conference (ICETMCCT 2021), AIP Conf. Proc. 2587, 140014-1–140014-10 (2023)
+19. Kannakumar K, Murthi M K, Ravivarman G, Magesh Babu D, Ganesh Babu Loganathan,
+and Girimurugan R, Enhancing Wind Energy Potential Assessment with Three-Parameter Weibull Distribution: A Comparative Analysis using MATLAB, E3S Web of Conferences 529, 02009 (2024)
+20. Raja Pandi R, Bagesh Bihari, Chokkalingam P,
+, Anand R, Kalaiarasan S and Sivalingam A, Enhancing Industrial Safety Helmets: Development and Evaluation of Epoxy-Based Glass and Basalt Fiber Composites, Journal of Physics: Conference Series 2925 (2024) 012005
+Zahir Hussain. M
+, D. Jayabalakrishnan and N. Vijayasharathi, An Overview on Basalt based Polymeric Composites and Varied Filler Particulates published in book named
+Advances in Additive Manufacturing Technologies
+Nov 2024 (Scopus)
+, S. Sendilvelan, K. Rajan and
+K. Bhaskar,
+Impact of DMC and Compression Ratio on a CRDI Engine Using Methyl Esters of Waste Cooking Oil, published in book named
+Nov 2024
+Pavan. P, K. Bhaskar
+and S. Sekar, Combined Effect of Lipophilic and Ether Additives on the Performance and Exhaust Emissions of a CRDI Engine Powered by Elaeisguineensis Biodiesel and its Blend, Advances in Additive Manufacturing Technologies,
+Jan – Jun 2023
+Krishnamoorthi, Sangeetha, Prabhahar, M. Prakash, S. Prabhu, L.
+Bhaskar, K
+. Suku, Akhil V.; Shijindas, K. P.; Sooraj, S. L.; Haiter Lenin, A. Investigation of Magnesium and Chromium Fillers FSW Dissimilar Joint of AA6063 and AA 5154,
+Advances in Materials Science and Engineering
+, January 2023, 6489920, pp. 1-13
+M. Prabhahar , SulaimanAli Alharbi , HeshamS. Almoallim , S. Prakash , M. Saravan Kumar , K. Surendrababu , S. Sendilvelan ,
+, Josef Maroušek , A. Anderson, Trade-off characteristic between soot and oxides of nitrogen emission with pre-injected diesel and biodiesel in a SICI-CIDI engine,
+l, January 2023, 331, 125624
+(Scopus) (SCIE) IF:6.7
+K. Sujatha , G. Nalinashini , A. Ganesan , A. Kalaivani , K. Sethil , Rajeswary Hari , F. Antony Xavier Bronson,
+, Internet of medical things for abnormality detection in infants using mobile phone app with cry signal analysis,
+Implementation of Smart Healthcare Systems using AI, IoT, and Blockchain
+Jan
+2023, Pages 169-191
+Tamilselvan, P.
+Sassykova, L.
+Prabhahar, M.
+Prakash, S.
+, Effect of Saturated Fatty Acid Composition of Biodiesel on Oxides of Nitrogen and Smoke Emissions,
+Journal of Chemical Technology and Metallurgy
+, Feb 2023, 58(1), pp. 167–177
+Mahadev Madgule , N Vinayaka , Yeshwant M. Sonkhaskar , Dhiren Ramanbhai Patel,
+, P. Selvakumar Mechanical properties and microstructure of activated TIG welded similar joints of Inconel alloys by desirability approaches, Materials Today: Proceedings, Volume 77, Part 2, pp. 528-533, Mar 2023
+Prasanna, R.S.
+Kumar, V.R.
+Shanthi, R.
+Sudaroli, B.M
+, Performance Study on Fuel Cell Electric Vehicle (FCEV) with Parametric Optimization,
+Lecture Notes in Mechanical Engineering
+, May 2023, pp. 479–493
+Jan – Jun 2022
+1. T. Sankaramoorthy,
+, G.M. Pradeep, D. Athikesavan, R. Girimurugan, “Improved performance of confinement of RC beam with glass fibre reinforced polymer laminates” , Materials Today: Proceedings Vol. 56, pp.3190–3195, April 2022
+Karthikeyan, R
+Pradeep, V.P
+, “Investigation of mechanical behaviour on natural hybrid fiber (sisal/banana) reinforced with epoxy resin” Materials Today: Proceedings,
+Volume 62, Part 4
+, Pages 2310-2314, June 2022,
+Jul – Dec 2022
+P.N. Selvaraju,
+D. Satish Kumar, “Effect of external devices on aerodynamic performance of SUV car model”, Materials Today: Proceedings Vol. 68, pp.1273-279, November 2022
+2. B. Navin Kumar, K.M. Parammasivam,
+P.N. Selvaraju, R. Anbalagan,
+“Feasibility analysis of novel aerodynamic braking system for horizontal axis wind turbines”, Materials Today: Proceedings Vol. 68, pp.1396-1402, November 2022
+R. Edwin Joseph,
+V. Paranthaman, K. Shanmuganandam, L. Natrayan, “Design and flow analysis of a vertical axis wind turbine by using ceiling fan as generator”, Materials Today: Proceedings Vol. 68, pp.1724-1732, November 2022
+4.
+R. Karthikeyan,
+R. Girimurugan, Gyanaranjan Sahoo, Pon Maheskumar, A. Ramesh, “Experimental investigations on tensile and flexural properties of epoxy resin matrix waste marble dust and tamarind shell particles reinforced bio-composites”, Materials Today: Proceedings Vol. 68, pp.2215-2219, November 2022
+5.
+C. Shilaja, A. Sivalingam, P. Gopinath, “Experimental investigations on mechanical and water absorption properties of epoxy resin-banana fiber-tamarind seed particles hybrid biocomposites, Materials Today: Proceedings Vol. 68, pp.2215-2219, November 2022
+6. K. Tamil Mannan, V. Sivaprakash, S. Raja,
+Mohanraj Kulandasamy
+, Pravin P Patil, S. Kaliappan, “Significance of Si3N4/Lime powder addition on the mechanical properties of natural calotropis gigantea composites, Materials Today: Proceedings Vol. 69, pp.1355-1360, November 2022
+7. S Kumar, R Sheeja, Perumal Pitchandi,
+B Mullai Sudaroli
+, Chandrasekar Pichandi and G S Sai Krishnan, “Numerical analysis of PCM integrated year-round thermal energy savings building for composite climatic conditions”, IOP Conf. Series: Earth and Environmental Science Vol. 1100 Paper Number : 012004, December 2022
+(Scopus).
+8.
+B. Mullai Sudaroli,
+S.Sunil Babu and S.Kumar, “A Study on Cathode Potential of DMFC” IOP Conf. Series: Earth and Environmental Science Vol. 1100 Paper Number : 012022, December 2022
+Ann Roseela Jayaprakash, T. Nalini, L.R. Sassykova, N. Kanimozhi, S. Geetha,
+K. Gomathi, S. Sendilvelan, “Multilayer Perceptron Mode and IoT to Assess the Economic Impact and Human Health in Rural Areas – Alcoholism”, Internet of Things and Data Mining for Modern Engineering and Healthcare Applications, August 2022, pp. 107–127
+PUBLICATION DETAILS FOR CALENDAR YEAR 2021
+International Journal:
+T. Sankaramoorthy, R.Karthikeyan, G.M.Pradeep, D.Athikesavan, R.Girimurugan, “Improved Perfomance of Confinement of RC Beam with Glass Fibre Reinforced Polymer Laminates, Material Today: Proceedings, Vol 56 Part 6, 2022, Pg 3190-3195 Publisher: Elsevier [SCOPUS Indexed, Impact Factor: 0.576]
+Prabhu.P, D. Jayabalakrishnan, V.Balaji, K. Bhaskar, T. Maridurai, V.R.Arun Prakash, “Mechanical, tribology, dielectric, thermal conductivity, and water absorption behaviour of Caryota urnes woven fibre reinforced coconut husk biochar toughened wood plastic composite”, Biomass conversion and Biorefinery Published available Online , Publisher: Springer
+Karthikeyan R, Shilaja C, Sivalingam A, Girimurugan R, Mayakannan S, “Experimental Investigations on Mechanical and Water Absorption Properties of Epoxy Resin-Banana Fiber-Tamarind Seed Particles Hybrid Biocomposites” Material Today: Proceedings, Publisher: ELSEVIER [SCOPUS Indexed, Impact Factor: 0.576]
+Karthikeyan R, Girimurugan R, Gyanaranjan Sahoo, Pon.Maheskumar, Mayakannan S, “Experimental Investigations on Tensile and Flexural Properties of Epoxy Resin Matrix Waste Marble Dust and Tamarind Shell Particles Reinforced Bio-Composites” Material Today: Proceedings, Publisher: ELSEVIER [SCOPUS Indexed, Impact Factor: 0.576]
+K Bhaskar, L.R. Sassykova, M. Prabhahar, E.SheebaPercis, A. Nalini, T.Jenish, J. ayarajan, D. Jayabalakrishnan, S.Sendilvelan, Sangeetha Krishnamoorthi. “Resistance Heated Catalytic Converter (RHCC) with copper oxide catalystfor reducing HC/CO emission from automobile” Material Today: Proceedings, Elsevier Publication, Vol:45 (Part-1), pp.5868-5872, March 2021, Publisher: Elsevier [SCOPUS Indexed, Cite Score: 1.8].
+K.Bhaskar, L.R. Sassykova, M. Prabhahar, M. KianiDehKiani, K. Gomathi, S. Sendilvelan, “Oxides of nitrogen and soot trade-off characteristics of methyl esters in a hybrid mode compression ignition engine” Material Today:Proceedings, Elsevier Publication. Vol:45(Part-1), pp. 5847-5852, March 2021, Publisher:Elsevier, [SCOPUS Indexed, Cite Score: 1.8].
+K.Bhaskar, D. Jayabalakrishnan, M. Vinoth Kumar, S.Sendilvelan, M. Prabhahar “Analysis on mechanical properties of wood plastic composite” Material Today: Proceedings, Elsevier Publication, Vol: 45 (Part-1), pp. 5886-5891, March 2021, Publisher:Elsevier [SCOPUS Indexed, Cite Score: 1.8].
+K.R. Vijayakumar, J. Jayaseelan, N. Ethiraj, M. Prabhahar, K. Bhaskar, D. Jayabalakrishnan, S.Sendilvelan, Sangeetha Krishnamoorthi, “Investigation on aluminium/mild steel plates bonded polyurethane sheets to control vibration” Material Today: Proceedings, Vol: 45 (Part-1), pp. 5860-5867, March 2021, Publisher: Elsevier [SCOPUS Indexed, Cite Score: 1.8].
+V. Muthu, K. Bhaskar, P. Pavan, D. Jayabalakrishnan, M. Prabhahar. “Experimental investigation on a two stroke SI engine to optimize fuel consumption through electronic ignition” Material Today: Proceedings, Vol: 45 (part-1), pp. 5965-5969, March 2021, Publisher:Elsevier [SCOPUS Indexed, Cite Score: 1.8].
+K. Bhaskar, L.R. Sassykova, M. Prabhahar, E. ShebhaPercis, A. Nalini, T. Jenish, J. Jayarajan,S. Sendilvelan, “Analysis of Cymbopogon Citratus, Pinussylvestris and Syzygiumcumini biodiesel feedstocks for its fatty acid composition” Material Today: Proceedings, Vol 45 (part-1), pp. 5970-5977, March 2021, Publisher: Elsevier [SCOPUS Indexed, Cite Score: 1.8].
+M. Zahir Hussain, R. Anbalagan, D. Jayabalakrishnan, D.B. NagaMuruga, M. Prabhahar, K. Bhaskar, S.Sendilvelan. “Charging of car battery in electric vehicle by using wind energy” Material Today: Proceedings, Vol:45(part-1), pp. 5873-5877, March 2021, Publisher:Elsevier [SCOPUS Indexed, Cite Score: 1.8].
+R. Anbalagan, M. ZahirHussain, D. Jayabalakrishnan, B. NagaMuruga, M. Prabhahar “Vehicle to vehicle data transfer and communication using LI-FI technology” Material Today: Proceedings, Vol:45(part-1), pp. 5925-5933, March 2021, Publisher: Elsevier [SCOPUS Indexed, Cite Score: 1.8].
+Sankaramoorthy. T, Balaji Krishna bharathi, K.G. Thirugnanasambantham, R. Karthikeyan, “Study of Graphine Epoxy Composites and its recent developments in nano science”, Material Today Proceedings, Vol: 45(part-2), pp.2228-2231, March 2021, Publisher: Elsevier [SCOPUS Indexed, Cite Score: 1.8].
+K.G. Thirugnanasambantham, T. Sankaramoorthy, R. Karthikeyan, K. Santhosh Kumar “A comprehensive review: Influence of the concentration of carbon nanotubes (CNT) on mechanical characteristics of Aluminium Metalmatrix composites: Part 1” Material Today: Proceedings, Vol: 45(Part-2), pp.2561-2566, March 202,. Publisher: Elsevier [SCOPUS Indexed, Cite Score: 1.8].
+R. Edwin Joseph, N. Kanya, K.Bhaskar, J. Francis Xavier, S. Sendilvelan, M. Prabhahar, N. Kanimozhi, S. Geetha, “Analysis on productivity improvement, using lean manufacturing”, Material Today: Proceedings, Elsevier Publication Vol: 45, pp.77176- 7182,March 2021, Publisher:Elsevier [SCOPUS Indexed, Cite Score: 1.8].
+D. Jayabalakrishnan, D.B. NagaMuruga, K. Bhaskar, P. Pavan, K .Balaji, P.S. Rajakumar, C. Priya, R.A.B. Deepa, S.S endilvelan, M. Prabhahar “Self-Healing materials – A Review”, Material Today: Proceedings, Vol:45 (part-1), pp. 7195-7199, March 2021, Publisher: Elsevier [SCOPUS Indexed, Cite Score: 1.8].
+R. Karthikeyan, T. Sankaramoorthy, “Performance analysis of Composite leaf spring”, International Research Journal of Engineering and Technology (IRJET), Vol: 8(4), pp.14- 17, April 2021, Publishers: Fast Track publications.
+Shivsharan. M, Sibi Raj. P, Shyam Sundar B.T, Bhaskar K “Lithium-ion battery in Electric vehicles and its distinctiveness”, International Research Journal of Engineering and Technology (IRJET), Vol: 8(4), pp. 33-39, April 2021, Publishers: Fast Track publications.
+P. Pavan, K. Bhaskar. S. Sekar “Effect of split injection and injection pressure on CRDI engine fuelled with POME-diesel blend” Fuel, Vol: 292, Article Id: 120242, May 2021, Publisher: Elsevier [SCIE, Impact factor: 5.578, SCOPUS Indexed, Cite Score: 9.8].
+T.V. Shakiyeva, L.R. Sassykova, U.N. Dzhatkambayeva, A.A. Khamlenko, N.K. Zhakirova, A.A. Batyrbayeva, R.N. Azhigulova, N. kubekova,zh. M. Zhaxibayeva, M.A. Kozhaisakova, L.A. Zhusupova, S. Sendilvelan, K.Bhaskar “Optimization of theoxidative cracking of fueloil on catalysts obtained from kazakhstan raw materials” Rasayan Journal of Chemistry, Vol: 14(2), pp. 1065-1071, April 2021, Publisher : Rasayan [SCOPUS Indexed, Cite Score: 2.1]
+R. Karthikeyan, P. Pavan, T. Sankaramoorthy, S. Nagendharan, “Engine Performance and Emissions Characteristics with Ethanol Gasoline Blends”, International Journal of Engineering Applied Sciences and Technology, Vol. 6 (5), pp.379-382, Sep 2021, Researcher Index Society for Engineers.
+International Conference
+P N Selvaraju, R Karthikeyan, N Venkatasubramanian, T. Sankaranmoorthy “Diagnosis of Aerodynamic Flow Over a Car Body using Flow Visualization Technique and CFD: Online international conference on materials”, Manufacturing, robotics, automation, artificial intelligence and networking for industry 5.0, Excel Engineering College, Namakkal, January 28-29,2021.
+R. Karthikeyan, P. Pavan, T. Sankaranmoorthy, S.Nagendharan, “Performance and Emission Characteristics of an Engine using Ethanol Gasoline Blends”, Virtual International Conference on Recent Advancements in Mechanical Engineering (ICRAME- 2021), Francis Xavier Engineering College, Tirunelveli, March -31 ,2021.
+R. Karthikeyan, T. Sankaranmoorthy, “Performance Analysis of Composite Leaf Spring”, International Conference on Innovative & Emerging Trends in Engineering and Technology (ICIETET’21), Panimalar Institute of Technology, Chennai, April-12, 2021.
+M. Shivsharan, P. SibiRaj, B.T. Shyam Sundar, K. Bhaskar, “Lithium-ion battery in Electric vehicles and its distinctiveness”, Sixth International Conference on Innovative and Emerging Trends in Engineering and Technology (ICIETET ’21), Panimalar Institute of Technology, Poonamallee, Tamilnadu, April-12, 2021
+R. Karthikeyan, “Performance Investigation on Two Wheeler Four Stroke Gasoline Engine”, International virtual conference on Emerging trends in Mechanical and Automobile Engineering, J.K.K.Munirajah College of Technology, Erode, April-19, 2021.
+R. Karthikeyan, P. Pavan, N. Venkatasubramanian, T. Sankaramoorthy, “Investigation on Emission Characteristics of Ethanol Gasoline Blends in Yamaha R15”, InternationalConference on Artificial Intelligence for IoT and Sustainable Electrical Networks, SRM Engineering College, Trichirapalli, April -29, 2021.
+R. Karthikeyan, T. Sankaranmoorthy, P. Pavan, “Experimental Analysis of Jute and Glass Fiber Reinforced Epoxy Hybrid Composites”, International Conference on Research & Developments in Engineering & Management, International Institute of Research in Multidisciplinary, SDT, May-23, 2021.
+T. Sankaramoorthy, R. Karthikeyan, S. Jothilakshmi, S. Absara Fdo “Analysis of Braking System using Composites”, International Conference on Technological Advancement in Mechanical Engineering ICTAME2021, Academy of Maritime Education and Training AMET Deemed to be university, June 15-16, 2021, pp.55.
+T. Sankaramoorthy, R. Karthikeyan, “Automatic Indication and Controlling of Vehicle Speed”, International e-Conference on Recent Advancement in Mechanical Engineering and Technology ICRAMET 2021, AVIT Deemed to be University, June 24-25, 2021 [Best Paper Award-Third Prize]
+Girimurugan R, Shilaja C, Ranjithkumar A, Karthikeyan R, Mayakannan S “Numerical Analysis of Exhaust Gases Characteristics in Three way Catalytic Convertor using CFD”, International Conference on Emerging Trends in Materials, Computing and Communication Technology ICETMCCT, Annai Vailankanni College of Engineering, Dec 9-10 2021.
+R.Karthikeyan, Girimurugan R, Gyanaranjan Sahoo, Pon.Maheskumar, Mayakannan S, “Experimental Investigations on Tensile and Flexural Properties of Epoxy Resin Matrix Waste Marble Dust and Tamarind Shell Particles Reinforced Bio-Composites” Paper Presented in 4th International Conference on Advances in Mechanical Engineering (ICAME2022) SRM Institute of Science and Technology, Chennai on 24-26th March 2022
+Mahadev Madgule, N. Vinayaka, Yeshwant M Sonkhaskar, Dhiren Ramanbhai Patel, R. Karthikeyan, P.Selvakumar “Mechanical Properties and Microstructure of activated TIG welded similar joints of Inconel alloys by desirability approaches” Paper Presented in International Conference
+N.Santhosh, R.Karthikeyan, T.Sankaramoorthy, R.Edwin Joseph, A.Paramasivam “Influence of Tyre Stiffness on a ride comport of a passenger car using quarter car vibration model” Paper presented in International conference on Energy, Smart Structure and Manufacturing ICESSM 2022, Rajalakshmi Engineering College 22-23rd April 2022.
+R. Edwin Joseph, R. Aswin Gerald, M. Rajesh, R.Karthikeyan “Calibration of electronic fuel injector using Arduino board” Paper Presented in International conference on Energy, Smart Structure and Manufacturing ICESSM 2022, Rajalakshmi Engineering College 22-23rd April 2022.
+A.Paramasivam, P.Vidhushini, N.Arunprakash, R.Karthikeyan, M Balakumar “Selection Of Optimal Facility Layout Design Using Craft For An Automobile Ancillary Manufacturer” Paper Presented in International conference on Energy, Smart Structure and Manufacturing ICESSM 2022, Rajalakshmi Engineering College 22-23rd April 2022.
+Karthikeyan. R, Madhu.S, George Sahaya Nixon.R, Krishnamoorthi.S “Properties of Jute Fibers - A review ”Paper Presented in Third International conference on Materials, Computing and Communication Technologies” ICMCCT 2022 by Annai Vailankanni College of Engineering on 20th June 2022.
+National Conference
+R. Karthikeyan, P. Sivamurugan , V. Giribabu, A. Lokesh, M. Ribukesh, “Studies on Electric Vehicle Battery Temperature Performance” National virtual Conference on Evolution and future scope of mechanical science, Bannari Amman Institute of Technology, Sathyamangalam, April-16, 2021.
+R. Karthikeyan, T. Sankaramoorthy, “Analysis of Electromechanical Transducer to Generate Electricity”, National Conference on Recent Advancements in Mechanical Engineering, NCRAME2020 , Chennai Institute of Technology, Chennai, July 17-18, 2020.
+R. Karthikeyan, S. Krishnamoorthi, P. Sivamurugan, V. Giribabu, “Experimentation on Mechanical behaviour of Hybrid Composites” Virtual National Conference on Emerging Trends in Mechanical Engineering, K. S. Rangasamy College of Technology, Namakkal, May-7, 2021.
+Jaison Joseph, Krithik.S, Pavan.P, “Motorcycle Handlebar Heart Rate Sensor”, 3rd National Conference on Recent Advances in Mechanical Sciences (NCRAMS 2021), pp.40, Dec 17-18 2021.
+G. J. Vishal Singh, N, Venkatasubramanian, K. Mohanraj, “Sensor Assisted reverse braking system”, 3rd National Conference on Recent Advances in Mechanical Sciences (NCRAMS 2021), pp.105, Dec 17-18 2021.
+P. N. Selvaraju, Ahanush Baskar, “Enhancement of Aerodynamic Performance using Rear Diffuser on Sedan Car Model”, 3rd National Conference on “Recent Advances in Mechanical Sciences” (NCRAMS 2021), pp.120, Dec 17-18 2021.
+R. Dwarakesh, D. Jaswanth, M. Zahir Hussain, “Design and Analysis of Rear Under-run protection device” 3rd National Conference on “Recent Advances in Mechanical Sciences” (NCRAMS 2021), pp.126, Dec 17-18 2021.
+P. N. Selvaraju, R. Sanjai, S. Vimal Adithayan, A.K. Reshman, “Performance of Ethanol in diesel engine as alternative fuel with optimization of inlet parameters for performance and reduced emissions”, 3rd National Conference on Recekartnt Advances in Mechanical Sciences (NCRAMS 2021), pp.127, Dec 17-18 2021.
+Amala Justus Selvam M, Arunraj R, Selvaraju P N, Mariappa S, “Biodiesel Blends used in Engine Performance and Emissions are Single Cylinder Diesel Engine Predict from Multi Zone Model”, 3rd National Conference on Recent Advances in Mechanical Sciences (NCRAMS 2021), pp.133, Dec 17-18 2021.
+N. Vigneshwar, S. Rohith, K. Mohanraj, N. Venkatasubramanian, “Multi movable screw jack”, 3rd National Conference on “Recent Advances in Mechanical Sciences” (NCRAMS 2021), pp.134, Dec 17-18 2021.
+N. U. Dhanush Kumar, P. Pavan, “Optimization of Design and material for Brake discs in an All-terrain vehicle”, 3rd National Conference on “Recent Advances in Mechanical Sciences” (NCRAMS 2021), pp.135, Dec 17-18 2021.
+B. Dhinakar, K. Bhaskar, S. Sendilvelan, D. Jayabalakrishnan, “Cold Start HC/CO Emission Reduction from SI engine using Resistance Heated Catalytic Converter (RHCC) with Copper Oxide Catalyst”, 3rd National Conference on Recent Advances in Mechanical Sciences (NCRAMS 2021), pp.137, Dec 17-18 2021.
+R. Gokul, N. Santhosh, R. Karthikeyan, “Design and Fabrication of Fire Fighting Machine”, third international Conference on Recent Advances in Mechanical Sciences (NCRAMS 2021), pp.142, Dec 17-18 2021.
+G. Dinesh Kumar, R. Anbalagan, “Automatic Rain Sensing Wiper Mechanism”, 3rd National Conference on Recent Advances in Mechanical Sciences (NCRAMS 2021), pp.143, Dec 17-18 2021.
+PUBLICATION DETAILS FOR CALENDAR YEAR 2020
+Palsami Tamilselvan, Larissa Sassykova. M. Prabhahar, Kathirvelu Bhaskar, Gomathi Kannayiram, Sendilvelan Subramanian S. Prakash.“Influence of saturated fatty acid material composition in biodiesel on its performance in internal combustion engines” Material Today: Proceedings, Vol.33 pp.1181-1186, September 2020, Publisher: Elsevier [SCOPUS Indexed, Cite Score 1.3].
+R.Gowtham, A.Hakeem Meeran Bathusha, R Sankara Ganapathy, K. Mohanraj, N Venkatasubramanian “Performance and Emission Characterization of Adjustable cylinder Head type variable Compression ratio in Two stroke SI engine”, IOP Conf. Series: Materials Science and Engineering, Vol. 95, pp. 012005, December 2020, Publisher:IOP Publishing [SCOPUS Indexed, Cite Score 0.6].
+R Karthikeyan, P N Selvaraju, T Sankaramoorthy, B R Ramesh Bapu“Investigation of the Mechanical Behavior and Impact Analysis of Hybrid Composites”,IOP Conf. Series: Materials Science and Engineering, Vol.988, pp. 012007, December 2020, Publisher:IOP Publishing [SCOPUS Indexed, Cite Score 0.6].
+R Karthikeyan, “To analysis mechanical properties in a different composition of a cylindrical block” International Journal of Advance Research, Ideas and Innovations in Technology, Vol. 6(3), pp.759-763 March 2020.
+Vimalsurya.R,Venkatasubramanian.N,Gowtham.R,Mohanraj.K“Ride dynamics model of a passenger car with 8 degrees of freedom in SimMechanics”International Virtual Conference on Future Trends in Automobile Engineering”,July 3, 2020,Pg no 86.
+R.Gowtham, A.Hakeem Meeran Bathusha, R Sankara Ganapathy,K.Mohanraj, N Venkatasubramanian“Performance and Emission Characterization of Adjustable cylinder Head type variable Compression ratio in Two stroke SI engine”International conference on mechatronics in energy and environment protection”,October 16 & 17, 2020,Pg no 38.
+Prahlatha varadhan.T.P.M, S.Ganesh Kumar,Mohanraj.K“Accident mitigating system”6thInternational Conference on Science, Technology, Engineering and Management (ICONSTEM)”,July 15 , 2020,Pg no 42.
+R Karthikeyan, P N Selvaraju, T Sankaramoorthy, B R Ramesh Bapu“Investigation of the Mechanical Behavior and Impact Analysis of Hybrid Composites”,International Conference on Recent Developments in Material Science and Applications (ICRDMSA 2020)” September 25-26 2020,Pg no 56.
+National conference
+R.Karthikeyan, T.Sankaramoorthy, “Analysis of Electromechanical Transducer to Generate Electricity” National Conference on Recent Advancement in Mechanical Engineering NCRAME2020on 17-18 July 2020.Pg no 71.
+PUBLICATION DETAILS FOR CALENDAR YEAR 2019
+M. Saravana Kumar, M. Prabhaharan,S. Sendilvelan ,Sanjay Singh, R Venkatesh, K Bhaskar.“Combustion, performance and emission analysis of a diesel engine fuelled with methyl esters of Jatropha and fish oil with exhaust gas recirculation” Energy Procedia, Elsevier, issue Vol 160,pp 404-411, January 2019,Publisher: Elsevier[SCOPUS, SNIP:0.582, Cite Score:1.3]
+S Prakash Prabhakar, S Sendhilvelan, R venkatesh, Sanjay Singh ,K Bhaskar “Experimental studies on the performance and emission characteristics of an automobile engine fuelled with fish oil methyl ester to reduce environmental pollution”. Energy Procedia, Elsevier, Vol 160,pp 412-419, January 2019, Publisher: Elsevier[ SCOPUS Indexed, SNIP:0.582, Cite Score:1.3]
+S Senthilvelan, K Bhaskar.“Experimental Analysis of Partially Premixed Charge in a Diesel Engine with Jatropha Oil Methyl Ester and Diesel Blends ”Distributed generation and alternative energy journal, Vol: 34,(1),pp47-60,January 2019.Publisher: Taylor and Francis [SCOPUS Indexed, Cite Score : 0.55]
+LSassykova, S.Sendilvelan, M.Telbayeva, K.Dossumov, K.Bhaskar, “Preparation and test of catalysts deposited on metal blocks used in synthesis of dimethyl and diisopropyl ethers”. Journal of Chemical Technology and Metallurgy, Vol 54,(3), pp 539-546,April 2019.Publisher: University of Chemical Technology and Metallurgy, Bulgaria [SCOPUS Indexed, Cite Score : 0.6]
+Y.Aubakirov, L.Sassykova, S.Sendilvelan, K.Bhaskar, U.Otzhan, M.Amangeldi, T.Abildin1, A.Zhumakanova, A. Zhussupova,, M.Zharkyn “Hydrogenation of aromatic nitro- compounds of а different structure in a liquid phase” Journal of Chemical Technology and Metallurgy, Vol 54,(3),, pp522-530,April 2019.Publisher: University of Chemical Technology and Metallurgy, Bulgaria [SCOPUS Indexed, Cite Score : 0.6]
+L. R. Sassykova, S. Sendilvelan, K. Bhaskar, A. S. Zhumakanova, Y. A. Aubakirov,T.S. Abildin, Sh. N. Kubekova,, Z. T. Mataeva,A. A. Zhakupova “Norms of emissions of harmful substances generated from vehiclesin the different countries of the world ”News of the National Academy of Sciences of the Republic of Kazakhstan, Series of Geology and Technical Sciences, Vol.2 (434), pp 181-190, March 2019. Publisher: National Academy of Sciences of the Republic of Kazakhstan, [SCOPUS Indexed, Cite Score : 0.6]
+P.N Selvaraju, and K. M. Parammasivam, “Empirical and Numerical Analysis of Aerodynamic Drag on a Typical SUV Car Model at Different Locations of Vortex Generator ”Journal of Applied Fluid Mechanics, Vol. 12(5), pp. 1487-1496, 2019.Publisher: Regional Information Center for Science and Technology, Iran [SCIE, Impact Factor: 0.918, SCOPUS, SNIP:0.708, Cite Score:1.22]
+L. R. Sassykova, Y. A. Aubakirov, s. Sendilvelan, Zh. Kh. Tashmukhambetova, m. f. Faizullaeva, K.Bhaskar, A. A. Batyrbayeva1, R.G.Ryskaliyeva1,B.B. Tyussyupova, A.A. Zhakupova and M.A.Sarybayev.“The Main Components of Vehicle Exhaust Gases and Their Effective Catalytic Neutralization.”Oriental journal of chemistry, Vol 32(1),pp 110- 127,2019.Publisher:Scientific Publishers.
+M. Prabhahar, Mostafa Kiani Deh Kiani,K. Bhaskar,S. Sendilvelan,S. Prakash, L.R. Sassykova, “Studies on pongamia oil methyl ester fuelled direct injection diesel engine to increase efficiency and to reduce harmful emissions” published by Wood head Publishing Chapter-9 Engine performance, emissions and combustion, pp. 218-244, ISBN No: 978-0-08-102791-2
+S. Sendilvelan, K. Bhaskar, M. Kiani Deh Kiani, Satish Kumar Subendran,M. Thrinadh,P. Santheep Pandian and L. R. Sassykova“ Performance and Combustion Analysis of a PPCCI Engine with Dieselas a Premixed Fuel to Reduce SootEmission”published bySpringer Nature Singapore Pte Ltd.Chapter-10, Advances in Interdisciplinary Engineering, Select proceeding of Flame-2018, Lecture Notes in Mechanical Engineering,pp. 703-713,ISBN No: 978-981-13-6576-8.
+National Conference:
+R. Gowtham,R Shakthivel,K Srinivasan,SE IniyaPrasaanth“Performance characterisation of adjustable cylinder head type variable compression ratio in SI engine”NationalConferenceon“RecentAdvancesinMechanicalSciences”[NCRAMS],March 15 & 16, 2019,Pg no 8
+Mohamed Asique Salman,Sivanesh.S. Mohanraj.K,, “Touch Sensitive Steering” National Conference on“ RecentAdvance sin Mechanical Sciences”[NCRAMS],March 15 & 16, 2019,Pg no 38
+Prahlathavaradhan.T.P.M, IndraAsokan, Jeevith P, K. Bhaskar,“Preventive to predictive analysis in metro train”National conference on“current researchoutcomes inmechanicalengineering, nc-crome’19”March 15 & 16, 2019,Pg no 52
+Jeevith, Indra Asokan, Prahlatha Varadhan.T.P.M, Zahir Hussain.M“Fabrication of electric three wheeler”Nationalconference on“current research out comes inmechanicalengineering, nc-crome’19”March 15 & 16, 2019, Pg no 52
+IndraAsokan, Prahlathavaradhan, Jeevith, Arunkumar.R“Electromagnetic gear shifting mechanism for two wheelers”National conferenceon“currentresearchoutcomes inmechanical engineering, nc-crome’19”March 15 & 16, 2019, Pg no 5
+PUBLICATION DETAILS FOR CALENDAR YEAR 2018
+Journals – International
+K. Bhaskar, L. R. Sassykova, M. Prabhakar and S. Sendilvelan, “Effect of Dimethoxy- Methane (C3H8O2) Additive on Emission Characteristics of a Diesel Engine Fueled with Biodiesel”, International Journal of Mechanical and Production Engineering Research and Development (IJMPERD), Vol. 8(1), pp. 399-406, Feb 2018. [SCOPUS Indexed] Publisher: Trans Stellar
+K. Bhaskar and S. Sendilvelan, “Experimental studies on the performance and emission characteristics of a compression ignition engine fuelled with jatropha oil methyl ester, Journal of Mechanical Engineering and Sciences, Vol. 12(1), pp. 3431-3450, March 2018. [SCOPUS Indexed] Publisher: UMP Publisher, Innovative Engineering
+K. Bhaskar, S. Sendilvelan and L. R. Sassykova, “Effect of premix and exhaust gas recirculation on the emission characteristics of biodiesel fueled engine”, News of the National academy of sciences of the republic of Kazakhstan, Vol. 2(428), pp.6-17, April 2018. [SCOPUS Indexed] Publisher: National Academy of Sciences of the Republic of Kazakhstan
+K. Bhaskar and S. Sendilvelan, “Performance and emission characteristics of a diesel engine with Diesel Premixed Compression Ignition and exhaust gas recirculation”, Heat Transfer—Asian Research, Vol. 47(3), pp. 507-519, May 2018. [SCOPUS Indexed] Publisher: Wiley Online Library
+K. Bhaskar and S. Sendilvelan, “Experimental Evaluation of Jatropha Oil Methyl Ester (JOME) and Fish Oil Methyl Ester (FOME) in a Compression Ignition Engine with Exhaust Gas Recirculation”, Pertanika J. Sci. & Technol., Vol. 26(3), pp. 1067-1080, May 2018. [SCOPUS Indexed] Publisher: Pertanika J. Sci. & Technology
+P. M. Subramanian, V.Muthu, “An Analysis on Sport Utility Vehicles Development in India and Its Safety”, International Journal of Engineering Research and Management, Vol. 05(06), pp. 26-30, June 2018. Publisher: International Journal of Engineering Research and Management
+R. Rajesh, P. Senthil Kumar and K. Mohanraj, “Design of heat exchanger for exhaust heat recovery of a single cylinder compression ignition engine”. Journal of engineering science and technology, Vol. 13(7), pp. 2153 – 2165, July 2018. [SCOPUS Indexed] Publisher: Journal of engineering science and technology
+S. Sendilvelan and K. Bhaskar, “Experimental analysis of PCCI in a diesel engine with different fuel blends”, World Journal of Engineering, Vol. 15(5), pp.567-574, Sep 2018. [SCOPUS Indexed] Publisher: Emerald Publishing Limited
+Conference – International:
+A J D Nandha kumar,Jancirani. J,Sarathkumar. K, Determination of effect of Geometrical Parameters of a Magnetorheological Damper for achieving optimum Magnetic Flux, International conference on contemporary design and Analysis of Manufacturing and Industrial Engineering system, NIT Trichy,18-Jan 18 to 20-Jan 2018.
+R Anbalagan, Jancirani. J,Santhosh Kumar M,Rejunuvation of Wheel cylinder using Vacuum Technology in vehicle braking system, International conference on contemporary design and Analysis of Manufacturing and Industrial Engineering system, NIT Trichy,18-Jan 18 to 20-Jan 2018.
+Edwin Joseph, M. Santhosh Kumar, A Review on Evaluation of various natural fibers on friction and wear behavior in the application of brake pad, 2nd International conference on recent trends in Science, Engineering and management, Kings Engineering College, Sriperumputhur.23 Feb 2018
+Prahalath Vardhan T P M, Pavan P, Industry 4.0 – An Automotive Perspective, International Conference on Green Manufacturing: Analysis: Automation: Processes: Products: Energy and Structures, (GM: AAPPES 2018), REC, Thandalam, Chennai, 28-Mar-1 to 29-Mar-18,
+Ganesh kumar.S, Prahalath Vardhan T P M, Madhan Chakravarthy M and A J D Nandha kumar, Sensor Assisted Reverse Braking System and adaptive cruise control, International Conference on Green Manufacturing: Analysis: Automation: Processes: Products: Energy and Structures, REC, Thandalam, Chennai, 28-Mar-18 to 29-Mar-18.
+Madhan Chakravarthy M, Ganesh kumar S, Prahalath Vardhan T P M and K. Bhaskar, Waste Heat Recovery in Automobile, in International Conference on Green Manufacturing: Analysis: Automation: Processes: Products: Energy and Structures, REC, Thandalam, Chennai, 28-Mar-18 to 29-Mar-18.
+S. Sendilvelan, K. Bhaskar, M. Kiani Deh Kiani, Satishkumar Subendran, M. Thrinadh, P. Santheep Pandian and L.R. Sassykova, Performance and combustion analysis of PPCCI engine with Diesel as a premixed fuel to reduce soot emission,1st International Conference on Future learning aspects of mechanical engineering ( FLAME -2018), Amity University, UP,India,03-oct-2018.
+M. Saravana Kumar, M. Prabhahar, S. Sendilvelan, Sanjay Singh, R. Venkatesh, K. Bhaskar, Combustion, performance and emission analysis of a diesel engine fueled with methyl esters of Jatropha and fish oil with exhaust gas recirculation, International Conference on Energy and Power 2018 CQ University, Australia sydney, Australia.13-Dec- to 15 Dec 2018.
+S. Prakash, M. Prabhahar, S. Sendilvelan, R. Venkatesh C, Sanjay Singh, R., K. Bhaskar, Experimental studies on the performance and emission characteristics of an automobile engine fueled with fish oil methyl ester to reduce environmental pollution, International Conference on Energy and Power 2018 CQ University, Australia sydney, Australia.13-Dec- to 15 Dec 2018.
+Conference – National:
+AJD Nandha kumar, J Jancirani, S C Rajasekaran,K Sarath Kumar, Multiphysics analysis of a Magnetorheological damper, National seminar on future technologies for combat vehicle electronics, CVRDE Avadi,23 Feb 2018
+Book Chapter:
+S. Sendilvelan and K. Bhaskar “An Evaluation of usage of methyl esters jatropha and fish oil for environmental protection” Publication of chapter in Handbook of Environmental protection and management, pp.1-13, Springer, 2018
+PUBLICATION DETAILS FOR CALENDAR YEAR 2017
+Journal International:
+S. Sendilvelan, K. Bhaskar and S. Nallusamy, “Experimental investigation on cerium oxide nanoparticles with alumina catalytic converter to increase emission conversion efficiency in automobiles” Rasayan Journal of Chemical,Volume 10 ,issue no 2,pg no 454-460,June 2017,Publisher : Rasayan [SCOPUS Indexed]
+T.G.Balachandran, S. Sendilvelan,K. Bhaskar, A comparative evaluation of usage of methyl esters of jatropha and fish oil for environmental protection, Vol. 10 issue no. 3,pg no 1043 – 1049,July 2017,Publisher: Journal of Materials and Environmental Sciences [SCOPUS Indexed]
+S. Sendilvelan, K. Bhaskar, “performance studies on diesel engine using blends of coconut de-oiled cake and methyl esters of jatropha”, Heat Transfer—Asian Res.,1-13, August 2017, Publisher: Wiley Periodicals, Inc. [SCOPUS Indexed
+K.Bhaskar,S.Senthilvelan, Comparative performance studies on DI diesel engine with neem de-oiled cake and Jatropha methyl ester diesel blends, World Journal of Engineering Vol 14 ,issue-19,pg no 348-352, June 2017, Publisher:Emerald publishers. [SCOPUS Indexed
+S. Sendilvelan,K. Bhaskar, “Experimental analysis of PCCI in a diesel engine with different fuel blends” World Journal of Engineering Vol 15 ,issue-5,pg no 567-574, June 2017, Publisher:Emerald publishers. [SCOPUS Indexed]
+S.Senthil velan, K.Bhaskar, “Aluminium Phosphate Supported Copper Phosphate Catalytic Converter to Reduce Nitrous Oxides and Particulate Matter from Engine Emission”, Oriental journal of chemistry, Vol. 33, issue 4: Pg no 2111-2117 ,July-2017,Publisher: Vision Oriental Scientific Publishing Company. [SCOPUS Indexed]
+Bhaskar Kathirvelu , Sendilvelan Subramanian , Nagarajan Govindan ,Sampath Santhanam, “Emission characteristics of biodiesel obtained from jatropha seeds and fish wastes in a diesel engine”, Sustainable Environment Research, issue 27 ,pg no 283-290, July 2017 , Publisher: Chinese Institute of Environmental Engineering. [SCOPUS Indexed
+S. Sendilvelan,K. Bhaskar, “Studies on the enhancement of diesel engine combustion and reduction of emissions through the use of polymer based additives” Journal of Heat and Mass Transfer , Volume 14, Number 3, Pg no 277-287, August 2017, Publisher : Pushpa Publishing House. [SCOPUS Indexed]
+S. Sendilvelan, K. Bhaskar, “Performance and emission characteristics of a diesel engine with Diesel Premixed Compression Ignition and exhaust gas recirculation”, Heat Transfer—Asian Res.,1-13, August 2017, Publisher: Wiley Periodicals, Inc. [SCOPUS Indexed]
+S. Nallusamy, S. Sendilvelan, K. Bhaskar and N. Manikanda Prabu, “analysis of performance, combustion and emission characteristics on biofuel of novel pine oil”, Rasayan Journal of Chemical,Volume 10 ,issue no 3,pg no 873-880,september 2017,Publisher : Rasayan [SCOPUS Indexed]
+S. Sendilvelan,K. Bhaskar, “Reduction of nox and opacity from diesel engine with dimethyl carbonate and isopropyl alcohol”, Rasayan Journal of Chemical,Volume 10 ,issue no 3,pg no 844-851,september 2017,Publisher : Rasayan [SCOPUS Indexed]
+International Conference:
+K. Bhaskar, Reduction of cold-start emission from multi-cylinder automotive SI using electrically heated catalyst, International conference on Innovations and future trends in electric and hybrid vehicles, 6th& 7th Jan 2017
+K. Bhaskar, Performance and emission characteristics of PPCCI Engine, 4th international conference on contemporary challenges in engineering and management – 2017, ARM College of engineering & technology, Mariamalar nagar, 8th April 2017
+Mr. Mohanraj. K, A comparative study of non-standard and standardized helmets by penetration and impact tests, 4th international conference on contemporary challenges in engineering and management – 2017, ARM College of engineering & technology, Mariamalar nagar, 8th April 2017
+Mr. Venkatasubramanian. N, Sensor assisted reverse braking system, International conference on innovations and challenges in engineering and technology, ICICET`17, Kings Engineering College, 8th April 2017
+Mr. R. Gowtham, Performance, emission and fabrication of a variable compression ratio in SI engine, International conference on innovations and challenges in engineering and technology, ICICET`17, Kings Engineering College, 8th April 2017
+K. Bhaskar, Combustion And Emission Characteristics Of Jatropha-Oil Methyl Ester, National Conference On Smart Energy Systems For Sustainable Development, 03-Mar-17
+K. Bhaskar, Combustion And Emission Characteristics Of Fish-Oil Methyl Ester, National Conference On Smart Energy Systems For Sustainable Development, 03-Mar-17
+A.J. D Nanthakumar, CFD Analysis Of Magnetorheological Fluid Flow In An Automotive Damper, National Conference On Modernisation, Dynamisation Mechanisation &Structuralisation In Mechanical &Civil Engineering (NCMDMS,L7), 20-JAN-17
+A. J. D Nanthakumar, Fluid Flow Analysis Of A Magnetorheological Damper Under Varying Flux Conditions, Advances In Materials And Manufacturing Techniques-(Ncammt'17), 24-Mar-17
+M. Zahir Hussain, Vehicle And Fuel Anti-Theft System, Developments In Automobile And Mechanical Engineering -2017, 24-Mar-17
+Gokul R
+University of Applied Sciences of Zwickau, Germany
+M.S (Road Traffic Engineering)
+Santhosh N
+SRH Berlin University of Applied Sciences, Germany
+M.E (Engineering and Sustainable Technology and Management)
+Yuvanesh S
+Suprith S
+Rajalakshmi Engineering College, India
+MBA
+Dwarkesh R
+SRM Institute of Science and Technology, India
+M.Tech (Automotive Technology)
+Ahanush Baskar
+RMIT University, Australia
+M.E (International Automotive Engineering)
+Adhithyan
+M.Tech (Data Science)
+Pranav Balaji B
+Polytechico Di Orino, Italy
+M.S (Mechanical Engineering)
+Krithik S
+Coventry University London, United Kingdom
+MSc (Automotive Engineering)
+Purushothaman S
+Northumbria University London, United Kingdom
+MSc (Business with International Management)
+Jaison Joseph
+University of Hertfordshire, United Kingdom
+Dinesh Kumar G
+Vellore Institute of Technology, India
+M.Tech (Automotive Engineering)
+Students Pursuing Higher Studies Abroad (Recent Years)
+Kiran Putra J
+Northeastern University, USA
+Adish Krishna
+Indiana University, USA
+Sayee Krishna S
+University of South Florida, USA
+Kishore S
+Fanshawe College, London, Canada
+Ganesh C
+University of Windsor, Canada
+Lalit Kishore
+University of Wollongong, Australia
+Prasanth S
+University of Duisburg–Essen, Germany
+2023:
+Project Title: Design and Development of 1 kw Fuel Cell Stack for low Power Applications
+Principal Investigator: Dr. B. Mullai Sudaroli
+Scantioned amount: Rs.42,66,900
+Sponsoring Agency: SERB
+Project Status: On-going
+Objectives of the Project:
+Design and fabrication of single cell and 20W DMFC stack
+Experiments on single and 20W DMFC stack
+Fabrication of fuel cell stack for 1 kW with auxiliary power units
+Experimental and numerical analysis of Fuel cell stack
+Project Title: Experimental Investigation to Improve the Oxidation Stability of Biodiesel and Its Blends
+Principal Investigator: Dr. K. Bhaskar
+Scheme: MODROBS
+Sponsoring Agency: AICTE
+Scantioned Amount: Rs. 14 Lakhs
+Project Status : Completed
+Project Objectives:
+To enable the students to learn about the oxidation stability of biodiesel and its blends using advanced testing techniques.
+To develop methods to improve the oxidation stability of biodiesel by adding additives.
+To develop the state of art testing facility for developing sustainable alternative liquid fuels for automotive engines.
+To make students, faculty and research scholars to learn the effect of the fatty acid composition in the biodiesel and its effect on the fuel quality.
+To produce quality technical publications based on the investigations carried on the oxidative stability of biodiesel and its blends.
+Automobile Engineers have job opportunities in various fields like automobile maintenance and service, production, research & development and transport departments. In addition they have the flexibility of being employed in computer industries too. They have opportunities for higher studies in India and abroad in specialized areas. The students who complete the course successfully can join modern automobile industries like Volvo, Ashok Leyland, Telco, Ford, Hyundai, Maruti, etc. They can also become entrepreneurs by operating service centres for automobiles.
+SCOPE FOR HIGHER EDUCATION
+Students have opportunities for higher studies in India and abroad in specialized areas. In addition to the regular curriculum, content beyond syllabus is being delivered on by the faculty in each course. The department also encourages various curricular and co-curricular activities. This enables the student to recognize advanced research topics and gear up for taking up higher studies in automotive and allied domains in various top universities in Germany, United States, England, Netherlands, France, Singapore and many reputed national institutions in our country.
+The Automobile Department is well equipped with the following laboratory facilities.
+1. Automotive Fuels and Lubricants Lab
+2. Automotive Engine and Chassis Components lab
+3. Two and Three Wheeler Lab
+4. Automotive Electrical Laboratory
+5. Automotive Engine Performance and Emission Testing lab
+6. CAD Lab
+7. Vehicle Maintenance and Reconditioning Lab
+8. REC BOSCH Joint Certification Centre
+Fuel Cell Research Facility Lab
+Batteries play a crucial role in powering low-power and portable applications such as mobile phones, power tools, and laptops. However, they are not ideal for long-duration operations or applications requiring high energy density. To overcome these limitations, fuel cells, particularly Proton Exchange Membrane Fuel Cells (PEMFCs) using hydrogen as fuel are a promising alternative for efficient electricity generation. In this project, a 1 kW PEMFC stack will be designed and fabricated. The performance characteristics of the stack will be analyzed under various operating conditions. Key challenges such as fuel and oxidant distribution, thermal management, and water crossover, which significantly affect fuel cell performance.
+Fuel Cell Research Facility Lab is established through SERB funden project. Fuel Cell station is used to test fuel cell power ranging from few watts to 2 kW. FuelTo gain deeper insights and hands-on experience, a smaller 20 W PEMFC stack will first be developed. The data and observations from this prototype will guide the design and optimization of the full- scale 1 kW stack. In addition, Auxiliary Power Units (APUs) such as fuel supply pumps, temperature controllers, and fuel and oxidant supply system will be designed and integrated with the stack. The complete system, including the APUs, will be fabricated and assembled. The final setup will serve as a standby power unit for household applications.
+Automotive Fuels and Lubricants Laboratory
+The lab is equipped with all facilities to test fuel and lubricants as specified in the curriculum of Anna University. The following equipments are available:
+Saybolt Viscometer
+Redwood Viscometer
+Cleave land flash and fire point Apparatus
+Junkers gas calorimeter
+Bomb calorimeter
+Reid vapour pressure Apparatus
+ASTM Distillation Apparatus
+Penetrometer
+Drop point Apparatus
+Aniline Point Apparatus
+Carbon residue test Apparatus
+Copper strip corrosion test Apparatus
+Ash content determination Apparatus
+Cloud and pour point Apparatus
+Automotive Engine and Chassis Components Lab
+In the automotive engine components lab, students study the various engine components. The automotive chassis lab is equipped with heavy duty and light duty vehicles .The following components and systems are available for study:
+Heavy duty vehicle chassis frame
+Light duty vehicle chassis frame
+Multi cylinder petrol and diesel engines
+MPFI engine
+Petrol and Diesel fuel systems
+Different types of front axle and rear axle
+Differential unit
+Steering systems with different types of steering gear box
+Disc type and drum type hydraulic braking system
+Compressed air power braking systems
+Different types of clutch assemblies
+Different Gear Boxes
+Transfer case
+Suspension systems
+Two and Three Wheeler Lab
+The laboratory has various two wheelers and three wheelers to conduct all the tests specified in the curriculum of Anna University. The equipments available are:
+Two wheeler chassis dynamometer
+Two wheeler engines with transmission system
+Three wheeler with engine, chassis, and transmission system
+Shock absorber test Apparatus
+Coil spring test Apparatus
+Two wheeler with electronic fuel injection and Open ECU
+Auto Electrical Laboratory
+The department has well equipped Automotive Electrical Laboratory to facilitate the students to test the various components of Automobiles.
+Equipments available:
+Starter and generator test bench
+Automotive electrical wiring setup
+Battery charger and battery testing equipment
+Ignition system test bench
+Spark plug testing and cleaning device
+General electrical test equipments
+Automotive Engine Testing Lab
+The Department has well established engine testing laboratory to carry out various performance and emission tests on Automotive Engines. The equipments available are:
+Multi-cylinder CI and SI engine cut-section models
+Single-cylinder CI and SI engine cut-section models
+Two wheeler engine test rig
+Multi cylinder SI test rig with hydraulic dynamometer
+Multi cylinder CI test rig with eddy current dynamometer
+Piezoelectric pick up & crank angle encoder
+5 Gas analyzer for exhaust gas analysis
+Diesel Smoke Meter
+Vehicle Maintenance and Reconditioning Lab
+The lab is equipped with the following equipments needed to study engine reconditioning and vehicle maintenance:
+Hyundai Santro Car, Ford Ecosport, Tata Indica Car and Maruti 800 Car
+FIP calibration apparatus
+Engine Analyzer
+Computerized Wheel Aligner
+Tyre remover
+Head light alignment gauge
+Cylinder re-boring machine
+Valve grinding and lapping machines
+Spark plug cleaner and tester
+Cylinder compression pressure gauge
+Vacuum gauge
+Cam angle and rpm tester
+Gas welding equipment
+BOSCH LAB
+A training lab for automotive testing is jointly set up in association with Bosch. Apart from the regular theory and practical sessions, our students gain exposure and hands-on with the recent technologies The BOSCH lab is facilitated with the following list of equipments
+FSA 740 Engine and Vehicle Analyzer
+Fuel Injection Pump Calibration
+ACS 650 – Air-Conditioning system
+Automotive Electrical test bench
+CRDi and MPFi Engine test rig
+Research and Computing facilities
+The department has a high end computing facility with 32 GB RAM for carrying out simulation related research projects by students and faculty members.
+Fuel oxidation stability tester fully capable of testing automotive fuels according to international standards is available for R&D development in the area of alternative and biofuels
+REC-BOSCH Joint Certification Centre
+A training lab for automotive testing is jointly set up in association with Bosch. Apart from the regular theory and practical sessions, our students gain exposure and hands-on with the recent technologies like:
+Fuel Injection Pumps
+Auto Electrical
+Engine Diagnostic system
+Vehicle Diagnostic system
+The BOSCH lab is facilitated with the following list of equipment
+KTS 560 Scanner
+Nozzle tester
+Battery tester
+Required accessories like fuel injection pump, starter motor, alternator, etc.
+FORD INDIA Company donated the FORD Eco Sports GDI Car to disseminate the knowledge on advanced automotive systems to AUTO, MECH and MCT students
+GDI Engine
+Modern Automotive Electronics
+Fault diagnosis
+Supporting Staff
+Mr. K.Govindarajan, Lab Assistant
+Mr. T.K.Anantharaman, Lab Assistant
+Mrs. R. Varalakshmi, Department Coordinator
+Mr. K.Dhakshnamoorthy, Lab Assistant
+Mr. R. Dinesh Kumar, Lab Assistant
+Mr. A V. Kamalesh, Lab Assistant
+
